@@ -1,0 +1,18 @@
+########################################################################
+#        Sample cookbook Configuration File                            #
+########################################################################
+
+# mgiconfig product, and the global config file within
+MGICONFIG_PATH   /usr/local/mgi/live/mgiconfig/
+GLOBAL_CONFIG    ${MGICONFIG_PATH}web/GlobalConfig
+
+# Path(s) to external library files.
+LIBDIRS          /usr/local/mgi/live/lib/python/
+
+# Path to compiled python configuration file.
+CONFIGPATH       /usr/local/mgi/live/lib/python/Configuration.pyc
+
+# Path to the python executable
+PYTHONPATH       /usr/local/bin/python
+
+NCBI_ABSRACT_URL http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=

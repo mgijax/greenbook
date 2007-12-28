@@ -1,0 +1,49 @@
+#!./python
+
+# config setup
+import ignoreDeprecation
+import Configuration
+config = Configuration.get_Configuration ('Configuration', 1)
+
+############################################################################
+# FUNCTIONS
+############################################################################
+
+def listToFile (str_list, filename):
+    print "writing %s" % filename
+    fp = open (filename, 'w')
+    for item in str_list:
+        fp.write ('%s\n' % item)
+    fp.close()
+    return
+
+def stringToFile (s, filename):
+    listToFile ( [s], filename)
+    return
+
+############################################################################
+# MAIN LOGIC
+############################################################################
+
+def main ():
+
+    # Includes for MGI web interfaces
+    stringToFile (config['WI_URL'],         './include/wi_url.html')
+    stringToFile (config['MGIHOME_URL'],    './include/mgihome_url.html')
+    stringToFile (config['JAVAWI_URL'],     './include/javawi_url.html')
+    stringToFile (config['FAQ_URL'],        './include/faq_url.html')
+
+    # Includes to the other online books
+    stringToFile (config['COOKBOOK_URL'],   './include/cookbook_url.html')
+    stringToFile (config['MORSEBOOK_URL'],  './include/morsebook_url.html')
+    stringToFile (config['SILVER_URL'],     './include/silverbook_url.html')
+    stringToFile (config['WKSILVERS_URL'],  './include/wksilversbook_url.html')
+
+    # External URLs
+    stringToFile (config['NCBI_ABSRACT_URL'],  './include/ncbi_abstract_url.html')
+
+    return
+
+if __name__ == '__main__':
+    main()
+
