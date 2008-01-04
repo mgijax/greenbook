@@ -48,7 +48,7 @@ fi
 ln -s $PYTHONPATH python
 
 ###--- Untar the book files --------------------------------------###
-#tar xvfp green.tar
+tar xvfp book.tar
 
 ###--- Generate the include directory ----------------------------###
 mkdir include
