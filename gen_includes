@@ -13,7 +13,7 @@ def listToFile (str_list, filename):
     print "writing %s" % filename
     fp = open (filename, 'w')
     for item in str_list:
-        fp.write ('%s\n' % item)
+        fp.write ('%s' % item)
     fp.close()
     return
 
