@@ -71,6 +71,25 @@ do
     fi
 done
 
+## Go into the top level sub directories of www, and add an include directory there.
+
+cd ./www/
+for name in `ls`
+do
+    if [ -d $name ]; then
+        if [ $name != include ]; then
+            if [ $name != CVS ]; then
+                cd $name
+                ln -s ../../include/ include
+                chmod 750 *
+                chgrp www *
+                cd ..
+            fi
+        fi
+    fi
+done
+cd $TOP
+
 chmod -f 750 *
 chgrp -f www *
 
