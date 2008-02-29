@@ -1,7 +1,7 @@
-TAG: greenbook-4-0-0-x (6 -> 7)
+TAG: greenbook-4-0-0-x (5 -> 7)
 DATE: 2/29/08 (last)
 STAFF: mhall
-RELEASE: Bugfix to add include directories to subs in www.
+RELEASE: Bugfix to add include directories to subs in www. As well as some link fixes due to the main jax site changing.
 
 TAG: greenbook-4-0-0-x (5 -> 6)
 DATE: 2/22/08 (last)
