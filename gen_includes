@@ -32,6 +32,7 @@ def main ():
     stringToFile (config['MGIHOME_URL'],    './include/mgihome_url.html')
     stringToFile (config['JAVAWI_URL'],     './include/javawi_url.html')
     stringToFile (config['FAQ_URL'],        './include/faq_url.html')
+    stringToFile (config['MGI_SUPPORT'],    './include/mgi_support.html')
 
     # Includes to the other online books
     stringToFile (config['COOKBOOK_URL'],   './include/cookbook_url.html')
