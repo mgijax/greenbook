@@ -15,6 +15,9 @@ CONFIGPATH       /usr/local/mgi/live/lib/python/Configuration.pyc
 # Path to the python executable
 PYTHONPATH       /usr/local/bin/python
 
+# link to the WI's accession report - just append accIDs
+MGI_ACCESSION   ${MGI}accession/
+
 # URl to user support form.
 MGI_SUPPORT     ${MGIHOME_URL}support/mgi_inbox.shtml
 
