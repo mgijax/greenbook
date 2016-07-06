@@ -30,7 +30,6 @@ def main ():
     # Includes for MGI web interfaces
     stringToFile (config['FEWI_URL'],         './include/fewi_url.html')
     stringToFile (config['MGIHOME_URL'],    './include/mgihome_url.html')
-    stringToFile (config['JAVAWI_URL'],     './include/javawi_url.html')
     stringToFile (config['FAQ_URL'],        './include/faq_url.html')
     stringToFile (config['MGI_SUPPORT'],    './include/mgi_support.html')
 
