@@ -21,4 +21,4 @@ MGI_ACCESSION   ${MGI}accession/
 # URl to user support form.
 MGI_SUPPORT     ${MGIHOME_URL}support/mgi_inbox.shtml
 
-NCBI_ABSRACT_URL http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
+NCBI_ABSRACT_URL https://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
