@@ -13,7 +13,7 @@ LIBDIRS          /usr/local/mgi/live/lib/python/
 CONFIGPATH       /usr/local/mgi/live/lib/python/Configuration.pyc
 
 # Path to the python executable
-PYTHONPATH  /opt/python3.7/bin/python3
+PYTHONPATH  /opt/python/bin/python
 
 # link to the WI's accession report - just append accIDs
 MGI_ACCESSION   ${MGI}accession/
