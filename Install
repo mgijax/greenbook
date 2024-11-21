@@ -3,7 +3,6 @@
 # Program: Install
 # Purpose: Install script for the Green Book
 # Assumptions: that this script is run from the directory which contains it
-#   (the greenbook installation directory)
 
 ###--- Global Variables ---###
 
@@ -51,45 +50,10 @@ ln -s $python_path python
 tar xvfp book.tar
 
 ###--- Generate the include directory ----------------------------###
-mkdir include
+mkdir -p include
 gen_includes
-
-###--- Create include links and update permissions ---------------###
-
-for name in `ls`
-do
-    if [ -d $name ]; then
-        if [ $name != include ]; then
-            if [ $name != CVS ]; then
-                cd $name
-                ln -s ../include/ include
-                chmod 750 *
-                chgrp www *
-                cd $TOP
-            fi
-        fi
-    fi
-done
-
-## Go into the top level sub directories of www, and add an include directory there.
-
-cd ./www/
-for name in `ls`
-do
-    if [ -d $name ]; then
-        if [ $name != include ]; then
-            if [ $name != CVS ]; then
-                cd $name
-                ln -s ../../include/ include
-                chmod 750 *
-                chgrp www *
-                cd ..
-            fi
-        fi
-    fi
-done
-cd $TOP
-
+cd www
+ln -s ../include/ include
+cd ..
 chmod -f 750 *
 chgrp -f www *
-
