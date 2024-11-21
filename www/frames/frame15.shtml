@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>MGI - Biology of the Laboratory Mouse</TITLE>
+</HEAD>
+<FRAMESET COLS="20%,80%">
+   <FRAME SRC="../navigation.shtml" NAME=navigation>
+   <FRAME SRC="../chapters/chapter15.shtml" NAME=documents>
+</FRAMESET>
+</HTML>

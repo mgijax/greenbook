@@ -1,0 +1,841 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 15 - Genes and Development</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, genes, development, developmental, zygote, cell, hormones, morphological, pleiotropic, pleiotropism">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter14.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter16.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>15</H1>
+<H2><I>Genes and Development</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Margaret C. Green</H3>
+
+<P>The mouse has been the subject of numerous studies of the effects of genes on development. All of the work prior to 1951 has been thoroughly reviewed by Gr&#252;neberg (
+<A HREF="#ref15-17">1952</A>), and his later book (
+<A HREF="#ref15-20">Gr&#252;neberg, 1963</A>) is a review of developmental studies on genes affecting the skeleton. Other chapters in this book deal with the effects of 
+genes on the development of pigment (
+<A HREF="chapter21.shtml">Chapter 21</A>), blood (
+<A HREF="chapter17.shtml">Chapter 17</A>), metabolic and endocrine disorders (Chapters 
+<A HREF="chapter19.shtml">19</A>, 
+<A HREF="chapter20.shtml">20</A>, and behavior (Chapters 
+<A HREF="chapter32.shtml">32</A>, 
+<A HREF="chapter33.shtml">33</A>). In this chapter I shall not try to describe in any detail the results of studies on the effects of individual genes on development 
+of the mouse. I shall rather try to summarize the kinds of contributions to understanding of development that have been made by these studies. It will be clear immediately 
+that these investigations have raised more questions than they have answered.
+
+<P>There are two main reasons for studying the developmental effects of mutant genes in an animal like the mouse. One is to discover the causes of pathological development 
+of conditions similar to inherited human diseases in the hope of devising cures and preventative measures. The other is to discover how genes control development by investigating 
+how mutant genes change normal development. Studies on the mouse may be expected to contribute to both of these purposes since the mouse is subject to a number of known 
+hereditary diseases similar to those of man, with many others probably yet to be discovered, and since the genetic constitution of the mouse is better known and more easily 
+manipulated than that of any other mammal.
+
+<P><B>BIOCHEMICAL MUTANTS</B>
+
+<P>In seeking answers to the general question of how genes control development, the first step is to frame more specific questions. In multicellular organisms many kinds of 
+cells are formed and it is clear that although each kind contains the whole array of genes present in the zygote, only certain genes are active in each different kind of cell. 
+In some way genes are called into action at particular times and promote changes which may then call certain other genes into action or repress the activity of others already 
+active. Probably the important basic questions for the field of developmental questions are: What determines when a particular gene will act, and what does it do when it does act?
+
+<P>The ultimate answers to these questions will have to be in biochemical terms. A start has been made toward answering them in work with inducible enzymes in bacteria, 
+organisms without cellular differentiation but with various gene-controlled functions inducible by environmental changes. The important principles discovered in this work have 
+been set forth by Jacob and Monod (
+<A HREF="#ref15-22">1961</A>). In bacteria there are "structural" genes which carry the information determining the structure of certain enzymes made by the cell and transmit the 
+information to the cell by way of messenger ribonucleic acid. In addition, there are specific regulatory loci controlling the production of repressor substances which, by 
+interaction with environmental factors, determine whether or not a particular structural gene will become active. The interaction between environmental factors and the products 
+of regulatory loci are relatively simple in bacteria. In higher organisms the controlling mechanisms are undoubtedly enormously more complicated and may involve chains of 
+interactions between many genes. For some suggested schemes see Monod and Jacob (
+<A HREF="#ref15-34">1961</A>). Evidence is accumulating that many hormones produce their effects by "turning on" the process by which genes make proteins (
+<A HREF="#ref15-48">Williams-Ashman, 1964</A>) but it is not yet known why only certain genes in certain cells respond. There is evidence that the histones, proteins which are usually 
+bound in some degree with the DNA of chromosomes, may act as repressors of gene action and play a role in the response of genes to hormonal stimulation as well as to other 
+kinds of activation (
+<A HREF="#ref15-3">Bonner and Ts'o, 1964</A>). Elucidation of the details of these processes would constitute a large part of the answer to the question of how genes control development.
+
+<P>In the mouse a number of loci are known to determine variations in amount or kind of protein. By definition those controlling changes in amino acid composition of the 
+protein chain are regarded as structural loci. Such differences have been demonstrated directly only for the hemoglobin loci (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96014" target="_blank">Hba</A></I> and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96020" target="_blank">Hbb</A></I>, 
+<A HREF="chapter17.shtml">Chapter 17</A>) but are inferred for other loci on the basis of electrophoretic or physical differences. Some other such loci are the albino (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>, 
+<A HREF="chapter21.shtml">Chapter 21</A>) and &#946;-glucuronidase (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank">g</A></I>, 
+<A HREF="chapter19.shtml">Chapter 19</A>) loci, and probably also the transferrin (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98821" target="_blank">Trf</A></I>), serum esterase-1 (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95420" target="_blank">Es-1</A></I>), 
+salivary amylase (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:88019" target="_blank">Amy-1</A></I>), pancreatic amylase (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:88020" target="_blank">Amy-2</A></I>), erythrocytic esterase-1 (<I>
+Ee-a</I>), isocitrate dehydrogenase (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96413" target="_blank">Id-1</A></I>), and immunoglobin (<I>Ig-1</I>, <I>Ig-2</I>) loci (
+<A HREF="chapter8.shtml">Chapter 8</A>). Other loci may be either structural or regulatory: serum esterase-2 (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95431" target="_blank">Es-2</A></I>), kidney esterases (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95442" target="_blank">Es-3</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95420" target="_blank">Es-4</A></I>), erythrocytic esterase-2 (<I>
+Ee-2</I>), and prealbumin component (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98376" target="_blank">Pre</A></I>) (
+<A HREF="chapter8.shtml">Chapter 8</A>), which determines presence or absence of electrophoretically demonstrated proteins; hemolytic complement (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96031" target="_blank">Hc</A></I>, 
+<A HREF="chapter8.shtml">Chapter 8</A>) which determines the presence or absence of complement activity; and levulinate dehydratase (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank">Lv</A></I>, 
+<A HREF="chapter19.shtml">Chapter 19</A>), and liver catalase (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:107361" target="_blank">Ce</A></I>, 
+<A HREF="chapter8.shtml">Chapter 8</A>), which determine high and low levels of an enzyme. Pyrimidine degrading (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank">Pd</A></I>, 
+<A HREF="chapter19.shtml">Chapter 19</A>) may be a regulatory locus of some kind, since it appears to govern the activity of three enzymes simultaneously.
+
+<P>Since these genes are concerned with proteins, the primary product (after messenger RNA) of the genes, the activity by which these loci are recognized is probably fairly close 
+to the primary gene action. For the albino locus, for example, it is probable that the primary product of the locus is tyrosinase. It is also reasonably certain that tyrosinase 
+is formed in the melanosomes of the melanocyte and produces melanin there (
+<A HREF="#ref15-35">Moyer, 1963</A>). At least part of the question, "What does the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> 
+locus do?" is thus answered, but nothing at all is known about what causes the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> 
+locus to go into action at this particular place. Most and probably all of the genes mentioned in the preceding paragraph are active in only one or, at most, a few kinds of cells 
+and have no detectable activity in other cells. There is at present no clue as to the nature of this difference between cells or how such a difference is brought about.
+
+<P><B>MORPHOLOGICAL MUTANTS</B>
+
+<P>Leaving the still largely unexplored area of gene action at the primary biochemical level in the mouse, we now consider what can be learned from a study of the more remote 
+effects of genes, principally at the physiological or morphological level. The morphological mutants can be classified in many different ways, but for convenience they will be 
+considered here under two headings which are not necessarily mutually exclusive: mutants providing natural experiments and pleiotropic mutants.
+
+<P><B>Natural experiments</B>
+
+<P>To study the mechanisms of differentiation and morphogenesis and the interrelationships of various developmental processes, embryologists perform experiments which change 
+the conditions at a particular stage and observe the consequences in later stages. Mammalian embryos are not easily accessible to the embryologist, and, although many ingenious 
+experimental procedures have been devised for dealing with them, it is still difficult to interfere mechanically with a mouse embryo in its normal uterine environment without 
+destroying that environment. Mutant genes can often serve the same purpose as the embryologist's experiment by interfering with a developmental process and allowing the later 
+consequences to be observed under natural conditions. Some restraint is usually necessary, however, in interpreting the causative relationship in a sequence of gene effects, 
+since it is not always certain whether a late effect of a mutant gene is the result of a particular earlier effect or an effect of the mutant acting through some other pathway. 
+A few cases of natural experiments are described below.
+
+<P>The effect of alleles at the <I>W</I> locus (
+<A HREF="chapter17.shtml">Chapter 17</A>) has been used to settle an old dispute on the origin of the primary germ cells (
+<A HREF="#ref15-33">Mintz and Russell, 1957</A>). The gonads of <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank">W</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank">W</A></I> mice at birth are very deficient in germ cells. By an alkaline phosphatase staining technique which 
+selectively stains primordial germ cells, Mintz and Russell showed that stained cells were present in the yolk sac of normal embryos at 8 days of gestation. Between 8 and 12 
+days they increased in number and moved along the wall of the hindgut to the germinal ridges. In <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank">W</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank">W</A></I> embryos the stained cells were present in normal numbers at 
+8 days, but this number increased very little between then and 12 days. The deficiency of migrating cells in embryos known to be defective in capacity to produce germ cells is 
+very strong evidence for the extragonadal origin of the germ cells.
+
+<P>The apical ectodermal ridge of the limb buds has been shown to play an important role in the outgrowth of the limb buds (
+<A HREF="#ref15-42">Saunders, 1948</A>; 
+<A HREF="#ref15-49">Zwilling, 1956</A>). The sequence of events in the development of the limbs of mice with syndactylism (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857046" target="_blank">sm</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857046" target="_blank">sm</A></I>, 
+<A HREF="chapter8.shtml">Chapter 8</A>) offers further evidence for the importance of the apical ectodermal ridge. The third and fourth digits of affected mice are fused. Gr&#252;neberg (
+<A HREF="#ref15-19">1960</A>) has shown that the first detectable effect of <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857046" target="_blank">sm</A></I> in homozygotes is a patchy, localized hyperplasia of the epidermis of the limb buds and tail 
+accompanied by hyperplasia of the apical ectodermal ridge of the limbs. The footplates subsequently become enlarged and concave ventrally, presumably as a result of overgrowth 
+caused by excess stimulation by the enlarged apical ectodermal ridge. The abnormal shape of the footplates pushes the developing digits together with resulting syndactyly.
+
+<P>Bateman (
+<A HREF="#ref15-1">1954</A>) used the mutant grey-lethal (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856885" target="_blank">gl</A></I>, 
+<A HREF="chapter8.shtml">Chapter 8</A>) to study the normal pattern of bone growth. The gene causes retardation of accretion and lack of erosion of bone. By comparing the size and shape of 
+bones or normal mice with those of their mutant sibs at 3 weeks of age, Bateman was able to show the exact sites of both accretion and erosion in the growth of normal bone.
+
+<P>It is known from the results of experiments with amphibians and birds that differentiation of the otic vesicle into a normal ear is dependent on the inductive influence of 
+the neural tube. Two mutants of the mouse, kreisler (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856419" target="_blank">kr</A></I>) and dreher (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856494" target="_blank">dr</A></I>), provide evidence supporting this relationship for mammals (Deol, 
+<A HREF="#ref15-7">1964<I>a</I></A>, 
+<A HREF="#ref15-8">1964<I>b</I></A>). In kreisler, segmentation of the rhombencephalon and its associated neural crest is abnormal, so that the otic 
+vesicle is prevented by intervening ganglion cells from coming into contact with the neural tube. Subsequent development of the labyrinth is abnormal and similar to that 
+obtained in experiments with amphibia in which the relationship between neural tube and otic capsule is moderately disturbed (
+<A HREF="#ref15-7">Deol, 1964<I>a</I></A>). Dreher mice also have an abnormally formed labyrinth, but the abnormality is not so severe as in kreisler. Deol (
+<A HREF="#ref15-8">1964<I>b</I></A>) suspected that the neural tube might be abnormal in these mice also. His investigation confirmed this suspicion and showed that the abnormality 
+of the neural tube precedes that of the otic vesicle by at least one day.
+
+<P>Mice bearing the mutant dominant hemimelia (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857878" target="_blank">Dh</A></I>) lack a spleen, have a small stomach, short intestine, an abnormal urogenital system, preaxial 
+polydactyly or oligodactyly of the hind feet, and tibial hemimelia (
+<A HREF="#ref15-44">Searle, 1964</A>). At 9 days of gestation, before any of these structures are present, the splanchnic mesoderm of the anterior and posterior parts of the coelom 
+is abnormal in mutant embryos, more so in <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857878" target="_blank">Dh</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857878" target="_blank">Dh</A></I> than in <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857878" target="_blank">Dh</A></I>/+. At this stage normal splanchnic mesoderm has an epithelial-like structure which is less 
+evident or absent in the mutants (M.C. Green, unpublished data). The occurrence of defective mesoderm at this early stage suggests that normal organization of the 
+splanchnic mesoderm is necessary for normal development of the spleen, stomach, intestine, urogenital system, and hind limbs. By analogy with the known inductive effects 
+of the epithelium of the apical ectodermal ridge of the limb bud, it can be postulated that the effect of the splanchnic mesoderm may be dependent on its epithelial-like 
+structure and may be inductive in nature.
+
+<P><B>Pleiotropic mutants</B>
+
+<P>Many mutants of the mouse are pleiotropic; that is, they have two or more apparently unrelated effects. Mutants of this kind provide evidence for developmental 
+relationships that might not be revealed in any other way. The evidence is especially convincing if there is more than one locus with the same array of effects. Multiple 
+effects of a mutant at a single locus may conceivably be due to the "mutant" being in fact a small deficiency affecting several loci. The occurrence of two or more independent 
+loci with the same array of effects virtually rules out this explanation. Some examples of such cases are discussed at length in other chapters; here I will only mention them 
+and draw attention to a few other cases.
+
+<P>An outstanding example of pleiotropism in the mouse is the multiple effect of mutants at the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank">W</A></I> and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank">Sl</A></I> loci (
+<A HREF="chapter17.shtml">Chapter 17</A>). Both loci affect development of erythrocytes, pigment cells, and germ cells. It has not been possible, in spite of a large amount of work by many 
+investigators, to discover a common basis for the three defects, but the existence of these two loci, as recognized by their mutant alleles, makes it almost certain that the 
+three types of affected cells, or their precursors, have some common gene-controlled property. This property must be specific to these cells and not shared by other kinds of cells.
+
+<P>Recessive mutants at two different loci (piebald, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank">s</A></I>, and lethal spotting, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank">ls</A></I>) both cause irregular white spotting, and both also cause megacolon in some 
+or all of the animals homozygous for each mutant. The megacolon is associated with a deficiency of intrinsic ganglion cells in the rectum and lower part of the colon (
+<A HREF="#ref15-2">Bielschowsky and Schofield, 1962</A>; 
+<A HREF="#ref15-23">Lane, 1966</A>).
+
+<P>It has long been a question among students of pigmentation whether white spotting is due to a defect in pigment cells themselves or to an inhospitable environment in 
+the skin which prevents pigment cells from becoming established there (
+<A HREF="#ref15-27">Markert and Silvers, 1956</A>; 
+<A HREF="chapter21.shtml">Chapter 21</A>). Ganglion cells and pigment cells are both known to be derived from neural crest. The simultaneous deficiency of pigment cells and ganglion 
+cells in mutants at two loci makes it very likely that the defect in both cases is in the neural crest and that the spotting in these cases is indeed due to defective 
+pigment cells. Experiments by Mayer and Maltby (
+<A HREF="#ref15-29">1964</A>) and Mayer (
+<A HREF="#ref15-28">1965</A>) on the development of pigment cells in <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank">ls</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank">ls</A></I> and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank">s</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank">s</A></I> mice have added evidence in support of this hypothesis (Chapters 
+<A HREF="chapter8.shtml">8</A>, 
+<A HREF="chapter21.shtml">21</A>).
+
+<P>The circling mutants, of which there are nearly 20, are characterized by a tendency to run in circles, head-tossing, hyperactivity, and in many cases deafness (Chapters 
+<A HREF="chapter8.shtml">8</A>, 
+<A HREF="chapter21.shtml">32</A>). All have defective labyrinths, the vestibular part only being defective in those not deaf, the cochlea also in those deaf. Most of these mice cannot 
+orient themselves properly when submerged in water and may have difficulty finding their way to the surface. The deafness is easily explained by the abnormalities of the 
+cochlea; the inability to orient themselves is explained by abnormalities of the semicircular canals, sacculus, and utriculus. The circling, head-tossing, and hyperactivity, 
+however, are not obvious consequences of the observed pathological conditions. Their nearly universal association with abnormalities of the vestibular labyrinth suggests a 
+close causative connection. A further interesting point in this case is the very large number of independent mutations with similar effects on behavior. At first glance the 
+number seems inordinately large. However, the labyrinth is a complicated structure and many genes must contribute to its development. The striking symptoms and the fact that 
+the abnormalities are quite compatible with life allow mutations at any of these loci to be easily detected. In contrast, mutations affecting the eye, for example, may be 
+quite numerous but are not so easily detected.
+
+<P>A number of mutant genes causing pre- or postaxial abnormalities of the limbs are known. Most of them are listed in 
+<a href="javascript:windowt1501 = window.open('../tables/table15-1.shtml', 'windowt1501', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1501.focus()">Table 15-1</A> 
+which gives their effects on the limbs as well as on variation in number of presacral vertebrae and ribs (see 
+<A HREF="chapter8.shtml">Chapter 8</A> for more complete descriptions). Five of the 11 mutant genes affect the number of the ribs or presacral vertebrae or both. Of the remaining six, 
+two are known not to affect the number of presacral vertebrae, and four have apparently not been observed for thus character. It should also be mentioned here that differences 
+in number of ribs and presacral vertebrae are commonly observed between inbred strains (Green, 
+<A HREF="#ref15-14">1951</A>, 
+<A HREF="#ref15-15">1954</A>, 
+<A HREF="#ref15-16">1962</A>; 
+<A HREF="#ref15-43">Searle, 1954</A>; McLaren and Michie, 
+<A HREF="#ref15-31">1954</A>, 
+<A HREF="#ref15-32">1955</A>), and are also a further effect of several mutant genes which cause short or kinked tails (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861228" target="_blank">Ts</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856844" target="_blank">dm</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857073" target="_blank">tk</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857028" target="_blank">sc</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857083" target="_blank">ur</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857088" target="_blank">vt</A></I>, and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856184" target="_blank">T</A></I>; 
+<A HREF="chapter8.shtml">Chapter 8</A>). Carter (
+<A HREF="#ref15-5">1954</A>) has proposed a theory to explain the relationship of hind limb abnormalities and vertebral shifts in the case of <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856944" target="_blank">lx</A></I>. The theory supposes that 
+the limb is formed by the interaction of an inductor, presumably resident in the ectoderm, with an underlying competent tissue, presumably the mesoderm. A forward shift 
+of the inductor would place it out of line with the competent tissue and result in a limb that is deformed and displaced forward. The forward displacement would result in 
+a forward shift of the pelvic girdle and therefore fewer presacral vertebrae. Under this scheme a backward shift of the competent tissue could be invoked to explain the 
+abnormalities produced by <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856943" target="_blank">lu</A></I> (
+<A HREF="#ref15-10">Forsthoefel, 1959</A>). This scheme is almost certainly wrong in detail (see 
+<A HREF="#ref15-50">Zwilling and Ames, 1958</A>; 
+<A HREF="#ref15-10">Forsthoefel, 1959</A>; and 
+<A HREF="#ref15-20">Gr&#252;neberg, 1963</A>, p. 235-237 for more detailed discussion), but it can surely be no coincidence that abnormal hind limbs are so frequently associated 
+with a change in the anteroposterior position of the pelvic girdle. 
+
+<P>During the ninth day of embryonic life in the mouse the hind limb begins to form. It forms at the level of the posterior end of the coelom. Prior to this time the 
+coelom and tail gut extend nearly to the end of the tail bud. During the ninth day the tail bud and the tail gut grow rapidly and soon leave the coelom far behind. 
+At about the same time segmentation, which has been proceeding along the midgut region, arrives at the hind limb level and the end of the coelom. Closure of the nerve 
+cord takes place at the hind limb level at about this time also. It seems possible that variation in the timing of these various events might well produce variation 
+in the position of the limb bud and hence of the pelvic girdle. Some variations might be compatible with normal limb formation and others not. These relationships 
+have not been investigated. To do so by means of experimental procedures may be very difficult in mammals. Mutants which cause changes in limb level with and without 
+limb abnormalities, as well as inbred strains with differences in limb level, provide the natural experiments by which these relationships may be investigated.
+
+<P>A further generalization can be made from the facts in 
+<a href="javascript:windowt1501 = window.open('../tables/table15-1.shtml', 'windowt1501', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1501.focus()">Table 15-1</A>. 
+Preaxial limb defects tend to be confined to, or more severe in, the hind limbs; postaxial limb defects are more severe in the forelimbs. It seems worthwhile to draw 
+attention to this correlation, even though no explanation is apparent. There seems to be no relationship between the direction of the vertebral shift and the pre- or 
+postaxial nature of the limb defect.
+
+<P>Not included in 
+<a href="javascript:windowt1501 = window.open('../tables/table15-1.shtml', 'windowt1501', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1501.focus()">Table 15-1</A> 
+are other limb mutants which cause syndactyly (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857646" target="_blank">Os</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857046" target="_blank">sm</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856182" target="_blank">sy</A></I>), fusion of bones of the forearm and shank (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856289" target="_blank">ld</A></I>) or shortening of the limbs (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855972" target="_blank">bp</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857039" target="_blank">sho</A></I>). These mutants tend to affect both fore and hind limbs, though not always equally, and no effect on number of ribs or presacral vertebrae has 
+been reported for any of them.
+
+<P><B>SEX-LINKED MUTANTS</B>
+
+<P>This chapter would not be complete without the mention of the special features associated with the action of sex-linked genes in development. Several lines of evidence led Lyon (
+<A HREF="#ref15-24">1961</A>) to propose the hypothesis that in female mice, and perhaps in other female mammals as well, one of the two X chromosomes is inactivated early in embryonic 
+development. Either the maternal or the paternal X can be the one inactivated, but once the decision has been made, all cells descended from a particular cell have the same 
+inactivated X. Evidence in favor of this hypothesis is as follows.
+
+<P>In many kinds of cells of female mice and other mammals, one chromosome of the proper size to be considered an X chromosome is heteropycnotic (
+<A HREF="#ref15-37">Ohno and Hauschka, 1960</A>; 
+<A HREF="#ref15-46">Tjio and &#214;stergren, 1958</A>; 
+<A HREF="chapter7.shtml">Chapter 7</A>). The heteropycnotic chromosome is probably the one inactivated. The Barr body seen in the interphase nuclei of females of many species of mammals is 
+probably the heteropycnotic X. (See 
+<A HREF="#ref15-30">McKusick, 1962</A>, for summary of the evidence and for references.)
+
+<P>The Lyon hypothesis predicts that for sex-linked genes with localized gene action (as, for example, genes determining the color of pigment cells) heterozygous females will 
+be mosaics. This is in fact the case in the mouse. All known sex-linked coat color mutants in the mouse cause a mosaic or mottled phenotype with patches of normal and mutant color 
+in heterozygous females. This is true of <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856096" target="_blank">Mo</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856098" target="_blank">Mo<SUP>br</SUP></A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856101" target="_blank">To</A></I>, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856096" target="_blank">Mo<SUP>dp</SUP></A></I>, and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856097" target="_blank">Blo</A></I> (Chapters 
+<A HREF="chapter8.shtml">8</A>, 
+<A HREF="chapter21.shtml">21</A>). The sex-linked mutants, tabby (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank">Ta</A></I>) and striated (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857780" target="_blank">Str</A></I>), which affect hair structure, also have mosaic coats with transverse stripes of normal hair 
+interspersed with stripes of hair of abnormal structure (
+<A HREF="#ref15-25">Lyon, 1963</A>). In addition, females heterozygous of translocations between the X chromosome and an autosome 
+bearing a color mutant, with the wild-type allele on the translocated chromosome and the mutant allele on the normal chromosome, have a variegated phenotype with patches of normal 
+and mutant fur (
+<A HREF="#ref15-40">Russell and Bangham, 1961</A>; 
+<A HREF="#ref15-6">Cattanach, 1961</A>).
+
+<P>When the phenotype produced by sex-linked genes is not due to localized gene action, the genes may appear either semidominant or recessive, depending on the mode of gene action 
+and the number of normal cells necessary to insure a normal phenotype. Thus, jimpy (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856065" target="_blank">jp</A></I>), 
+a lethal mutant which causes abnormal behavior and severe defects of myelination of the central nervous system (
+<A HREF="#ref15-45">Sidman <I>et al.</I>, 1964</A>), is usually completely recessive in its effects on behavior, but Phillips (
+<A HREF="#ref15-38">1954</A>) has reported one presumably heterozygous female showing the abnormal behavior. Lyon (
+<A HREF="#ref15-24">1961</A>) suggests that this individual may represent and example of the rare instance when by chance all the cells responsible for the jimpy trait had the 
+normal gene inactivated. The mutant bent-tail (<I>Bn</I>), on the other hand, has an intermediate effect in heterozygotes and fails to manifest itself in a proportion of them, 
+suggesting that the effect may be proportional to the number of determining cells in which the mutant allele is active.
+
+<P>Mice with an X/O chromosome constitution are known to exist and to be normal viable fertile females (
+<A HREF="#ref15-47">Welshons and Russell, 1959</A>). This shows that only one X chromosome is necessary for normal development. The two X chromosomes in normal females appear to do no more 
+than the single X of normal males, judging by the similarity of effect of sex-linked mutants in homozygous females and hemizygous males. A <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank">Ta</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank">Ta</A></I> 
+female is no more severely affected than a <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank">Ta</A></I>/Y male. 
+Nothing is known about the specific proteins controlled by any sex-linked loci in mice, but in man 
+there is no difference between males (X/Y) and females (X/X) in the level of several substances controlled by specific normal sex-linked alleles, for example, glucose 6-phosphate 
+dehydrogenase and antihemophiliac globulin (
+<A HREF="#ref15-30">McKusick, 1962</A>). The Lyon hypothesis offers a ready explanation for this phenomenon of "dosage compensation."
+
+<P>Translocations between the X and the autosomes involving linkage groups I and VIII produce variegated phenotypes in mice heterozygous for the translocation and bearing a color 
+mutant on the intact chromosome (
+<A HREF="#ref15-40">Russell and Bangham, 1961</A>; 
+<A HREF="#ref15-6">Cattanach, 1961</A>; 
+<A HREF="#ref15-39">Russell, 1963</A>). Russell (
+<A HREF="#ref15-39">1963</A>) has mapped the autosomal break point for a number of these translocations and has shown that the amount of variegation of the autosomal coat color mutants is 
+different in the different translocations and not necessarily related to the closeness of the locus to the break. The results are consistent with the hypothesis that the capacity 
+to inactivate translocated autosomes is not evenly distributed along the X. Mapping of the X-chromosome break points of these translocations should reveal the distribution of the 
+inactivating capacity on the X.
+
+<P>If the Lyon hypothesis is indeed true, the tissue in which a sex-linked gene is active should be a mosaic or normal and abnormal cells in females heterozygous for the mutant 
+allele of that gene. If the abnormality is recognizable in individual cells by some means, one may thus be able to identify the tissue in which the gene has its effect. Thus 
+females heterozygous for jimpy (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856065" target="_blank">jp</A></I>/+) 
+might be expected to show patchy defects of myelination in the central nervous system if the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856065" target="_blank">jp</A></I> locus is active in 
+myelin-producing cells. If myelin is found to be completely normal in heterozygous females, the site of gene action is probably elsewhere. The site of action of autosomal loci 
+may be studied in the same way if suitable translocations can be obtained between the X chromosome and the autosome bearing the locus. For example, one such translocation (
+<A HREF="#ref15-6">Cattanach, 1961</A>) has a piece of the chromosome bearing the wild-type allele of albino (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>) in linkage group I transposed to the X chromosome. A mutant at 
+the closely linked locus shaker-1 (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856716" target="_blank">sh-1</A></I>) 
+causes degeneration of parts of the membranous labyrinth. It is not known whether the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856716" target="_blank">sh-1</A></I> locus is included in the 
+translocated piece, but if it is, in females of the appropriate genotype carrying the translocation, the degeneration should be patchy if the site of gene action is in the 
+degenerating cells themselves. This method of investigating gene action has not been explored in the mouse.
+
+<P>Russell <I>et al.</I> (
+<A HREF="#ref15-41">1964</A>) have used X-autosome translocations to investigate certain other properties of genes. If the autosomal loci translocated to the X chromosome are inactivated in 
+approximately half of the cells, mice can be obtained that are mosaic for patches of cells hemizygous and homozygous for a mutant allele. For recessive color mutants, comparison of 
+the two types of tissue may show whether the mutant is completely inactive or not. By this method, pink-eyed dilution (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank">p</A></I>) 
+was shown to have some activity, since <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank">p</A></I>/<I>0</I> cells appear as light mottling on a <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank">p</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank">p</A></I> background. Brown (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank">b</A></I>) has no activity, since <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank">b</A></I>/<I>0</I> is indistinguishable from <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank">b</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank">b</A></I>. The same system was used to determine whether lethal mutants at these loci were cell-lethal. Most were found not to be cell-lethal.
+
+<P><B>SUMMARY</B>
+
+<P>Studies of the effects of genes on development in the mouse may be expected to contribute to knowledge of how genes control differentiation. Although the explanations will 
+ultimately have to be in biochemical terms, very little is known about the primary biochemical action of most mutants in the mouse.
+
+<P>Some examples are given of mutants which produce altered proteins. It is not yet known how the action of these loci is controlled.
+
+<P>Mutants may sometimes serve the same purpose as embryologists' experiments by interfering with a developmental process and allowing the later consequences to be observed. 
+Mutants with two or more apparently unrelated effects (pleiotropic mutants) may provide evidence for developmental relationships not otherwise easily detectable. Examples of 
+both of these kinds of mutants are briefly described with a more extended discussion of pleiotropic mutants affecting the limbs and axial skeleton. 
+
+<P>The inactive X-chromosome hypothesis provides an explanation for the frequent mosaicism of females heterozygous for sex-linked mutants, and for "dosage compensation" in 
+the action of sex-linked genes in males and females. It also provides a new approach to the analysis of developmental effects of sex-linked genes and of genes made effectively 
+sex-linked by X-autosome translocations.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by research grants G15826 and G18485 from the National Science Foundation.
+<HR>
+
+<P><B>LITERATURE CITED</B>
+
+<A NAME="ref15-1"></A>
+<P>Bateman, N. 1954. 
+Bone growth: a study of the grey-lethal and microphthalmic mutants of the mouse. 
+J. Anat. <B>88:</B> 212-262.
+<!-- MGI:61203 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61203" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-2"></A>
+<P>Bielschowsky, M., and G.C. Schofield. 1962. 
+Studies on megacolon in piebald mice. 
+Austral. J. Exp. Biol. Med. Sci. <B>40:</B> 395-404.
+<!-- MGI:60560 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60560" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-3"></A>
+<P>Bonner, J., and P.O.P. Ts'o [ed.] 1964. 
+<I>The Nucleohistones</I>. Holden-Day, San Francisco.
+
+<A NAME="ref15-4"></A>
+<P>Carter, T.C. 1951. 
+The genetics of luxate mice. I. Morphological abnormalities of heterozygotes and homozygotes. 
+J. Genet. <B>50:</B> 277-299.
+<!-- MGI:61248 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61248" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-5"></A>
+<P>Carter, T.C. 1954. 
+The genetics of luxate mice. IV. Embryology. 
+J. Genet. <B>52:</B> 1-35.
+<!-- MGI:63128 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63128" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-6"></A>
+<P>Cattanach, B.M. 1961. 
+A chemically-induced variegated-type position effect in the mouse. 
+Z. Vereb. <B>92:</B> 165-182.
+<!-- 13877379 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13877379" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-7"></A>
+<P>Deol, M.S. 1964<I>a</I>. 
+The abnormalities of the inner ear in <I>kreiseler</I> mice. 
+J. Embryol. Exp. Morphol. <B>12:</B> 475-490.
+<!-- MGI:61214 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61214" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-8"></A>
+<P>Deol, M.S. 1964<I>b</I>. 
+The origin of the abnormalities of the inner ear in dreher mice. 
+J. Embryol. Exp. Morph. <B>12:</B>727-733.
+<!-- MGI:61213 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61213" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-9"></A>
+<P>Forsthoefel, P.F. 1958. 
+The skeletal effects of the luxoid gene in the mouse, including its interactions with the luxate gene. 
+J. Morphol. <B>102:</B> 247-287.
+<!-- MGI:61302 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61302" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-10"></A>
+<P>Forsthoefel, P.F. 1959. 
+The embryological development of the skeletal effects of the luxoid gene in the mouse, including its interactions with the luxate gene. 
+J. Morphol. <B>104:</B> 89-141.
+<!-- MGI:61304 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61304" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-11"></A>
+<P>Forsthoefel, P.F. 1962. 
+Genetics and manifold effects of Strong's luxoid gene in the mouse, including its interactions with Green's luxoid and Carter's luxate genes. 
+J. Morphol. <B>110:</B> 391-420.
+<!-- MGI:61306 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61306" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-12"></A>
+<P>Freye, H. 1954. 
+Anatomische und entwicklungsgeschlichtliche Untersuchungen am Skelett normaler und oligodactyler M&#228;use. 
+Wiss. Z. Martin-Luther-Univ. <B>3:</B> 801-824.
+<!-- MGI:78294 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78294" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-13"></A>
+<P>Gluecksohn-Waelsch, S., D. Hagedorn, and B.F. Sisken. 1956. 
+Genetics and morphology of a recessive mutation in the house mouse affecting head and limb skeleton. 
+J. Morphol. <B>99:</B> 465-479.
+<!-- MGI:48796 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48796" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-14"></A>
+<P>Green, E.L. 1951. 
+The genetics of a difference in skeletal type between two inbred strains of mice (BalbC and C57blk). 
+Genetics <B>36:</B> 391-409.
+<!-- 17247355 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247355" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-15"></A>
+<P>Green, E.L. 1954. 
+Quantitative genetics of skeletal variations in the mouse. I. Crosses between three short-ear strains (P, NB, SEC/2). 
+J. Nat. Cancer Inst. <B>15:</B> 609-624.
+<!-- 13233912 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13233912" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-16"></A>
+<P>Green, E.L. 1962. 
+Quantitative genetics of skeletal variations in the mouse. II. Crosses between four inbred strains (C3H, DBA, C57BL, BALB/c). 
+Genetics <B>47:</B> 1058-1096.
+<!-- MGI:50949 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50949" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-17"></A>
+<P>Gr&#252;neberg, H. 1952. 
+<I>The Genetics of the Mouse, 2nd. ed</I>. Nijhoff, The Hague. 650 p.
+<!-- MGI:78359 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78359" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-18"></A>
+<P>Gr&#252;neberg, H. 1955. 
+Genetical studies on the skeleton of the mouse. XV. Relations between major and minor variants. 
+J. Genet. <B>53:</B> 515-535.
+
+<A NAME="ref15-19"></A>
+<P>Gr&#252;neberg, H. 1960. 
+Genetical studies on the skeleton of the mouse. XXV. The development of syndactylism. 
+Genet. Res. <B>1:</B> 196-213.
+<!-- MGI:61154 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61154" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-20"></A>
+<P>Gr&#252;neberg, H. 1963. 
+<I>The Pathology of Development</I>. 
+Wiley, New York. 309 p.
+
+<A NAME="ref15-21"></A>
+<P>Holt, S.B. 1945. 
+A polydactyl gene in mice capable of nearly regular manifestation. 
+Ann. Eugen. <B>12:</B> 220-249.
+<!-- MGI:60421 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60421" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-22"></A>
+<P>Jacob, F., and J. Monod. 1961. 
+Genetic regulatory mechanisms in the synthesis of proteins. 
+J. Mol. Biol. <B>3:</B> 318-356.
+<!-- 13718526 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13718526" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-23"></A>
+<P>Lane, P.W. 1966. 
+Association of megacolon with two recessive spotting genes in the mouse. 
+J. Hered. <B>57:</B> 29-31.
+<!-- MGI:53487 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:53487" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-24"></A>
+<P>Lyon, M.F. 1961. 
+Gene action in the X-chromosome of the mouse. 
+Nature <B>190:</B> 372-373.
+<!-- MGI:71836 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71836" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-25"></A>
+<P>Lyon, M.F. 1963. 
+Attempts to test the inactive-X theory of dosage compensation in mammals. 
+Genet. Res. <B>4:</B> 93-103.
+<!-- MGI:48810 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48810" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-26"></A>
+<P>Lyon, M.F., R.J.S. Phillips, and A.G. Searle. 1964. 
+The overall rates of dominant and recessive lethal and visible mutation induced by spermatogonial X-irradiation of mice. 
+Genet. Res. <B>5:</B> 448-467.
+<!-- MGI:61161 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61161" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-27"></A>
+<P>Markert, C.L., and W.K. Silvers. 1956. 
+The effects of genotype and cell environment on melanoblast differentiation in the house mouse. 
+Genetics <B>41:</B> 429-450.
+<!-- MGI:61184 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61184" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-28"></A>
+<P>Mayer, T.C. 1965. 
+The development of piebald spotting in mice. 
+Develop. Biol. <B>11:</B> 319-334.
+<!-- MGI:60946 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60946" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-29"></A>
+<P>Mayer, T.C., and E. Maltby. 1964. 
+An experimental investigation of pattern development in lethal spotting and belted mouse embryos. 
+Develop. Biol. <B>9:</B> 269-286.
+<!-- MGI:60945 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60945" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-30"></A>
+<P>McKusick, V.A. 1962. 
+On the X chromosome of man. 
+Quart Rev. Biol. <B>37:</B> 70-175.
+<!-- 13932119 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13932119" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-31"></A>
+<P>McLaren, A., and D. Michie. 1954. 
+Factors affecting vertebral variation in mice. 1. Variation within an inbred strain. 
+J. Embryol. Exp. Morphol. <B>2:</B> 149-160.
+<!-- MGI:50980 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50980" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-32"></A>
+<P>McLaren, A., and D. Michie. 1955. 
+Factors affecting vertebral variation in mice. 2. Further evidence on intrastrain variation. 
+J. Embryol. Exp. Morphol. <B>3:</B> 366-375.
+
+<A NAME="ref15-33"></A>
+<P>Mintz, B., and E.S. Russell. 1957. 
+Gene-induced embryological modifications of primordial germ cells in the mouse. 
+J. Exp. Zool. <B>134:</B> 207-237.
+<!-- MGI:61228 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61228" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-34"></A>
+<P>Monod, J., and F. Jacob. 1961. 
+Teleonomic mechanism in cellular metabolism, growth, and differentiation. 
+Cold Spring Harbor Symp. Quant. Biol. <B>26:</B> 389-401.
+<!-- 14475415 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14475415" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-35"></A>
+<P>Moyer, F.H. 1963. 
+Genetic effects on melanosome fine structure and ontology in normal and malignant cells. 
+Ann. N.Y. Acad. Sci. <B>100:</B> 584-606.
+
+<A NAME="ref15-36"></A>
+<P>Nakamura, A., H. Sakamoto, and K. Moriwaki. 1963. 
+Genetical studies of post-axial polydactyly in the house mouse. 
+Annu. Rep. Nat. Inst. Genet. Jap. (1962) <B>13:</B> 31.
+
+<A NAME="ref15-37"></A>
+<P>Ohno, S. and T.S. Hauschka. 1960. 
+Allocycly of the X-chromosome in tumors and normal tissues. 
+Cancer Res. <B>20:</B> 541-545.
+<!-- 14428472 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14428472" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-38"></A>
+<P>Phillips, R.J.S. 1954. 
+<I>Jimpy</I>, a new totally sex-linked gene in the house mouse. 
+Z. Indukt. Abstamm. Vereb. <B>86:</B> 322-326.
+<!-- MGI:48826 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48826" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-39"></A>
+<P>Russell, L.B. 1963. 
+Mammalian X-chromosome action: inactivation limited in spread and in region of origin. 
+Science <B>140:</B> 976-978.
+<!-- 13975649 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13975649" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-40"></A>
+<P>Russell, L.B., and J.W. Bangham. 1961. 
+Variegated-type position effects in the mouse. 
+Genetics <B>46:</B> 509-525.
+<!-- 13744850 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13744850" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-41"></A>
+<P>Russell, L.B., J.W. Bangham, and C.S. Montgomery. 1964. 
+The use of X-autosome translocations in the mouse for the study of properties of autosomal genes. 
+Genetics <B>50:</B> 281-282. (Abstr.)
+
+<A NAME="ref15-42"></A>
+<P>Saunders, J.W. Jr. 1948. 
+The proximo-distal sequence of origin of the parts of the chick wing and the role of the ectoderm. 
+J. Exp. Zool. <B>108:</B> 363-404.
+
+<A NAME="ref15-43"></A>
+<P>Searle, A.G. 1954. 
+Genetical studies on the skeleton of the mouse. X. Rare variants in the A and C57BL pure lines. 
+J. Genet. <B>52:</B> 103-110.
+
+<A NAME="ref15-44"></A>
+<P>Searle, A.G. 1964. 
+The genetics and morphology of two "luxoid" mutants in the house mouse. 
+Genet. Res. <B>5:</B> 171-197.
+<!-- MGI:48652 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48652" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-45"></A>
+<P>Sidman, R.L., M.M. Dickie, and S.H. Appel. 1964. 
+Mutant mice (<I>quaking</I> and <I>jimpy</I>) with deficient myelination in the central nervous system. 
+Science <B>144:</B> 309-311.
+<!-- MGI:61349 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61349" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-46"></A>
+<P>Tjio, J.H., and G. &#214;stergren. 1958. 
+The chromosomes of primary mammary carcinomas in milk virus strains of the mouse. 
+Hereditas <B>44:</B> 451-465.
+
+<A NAME="ref15-47"></A>
+<P>Welshons, W.J., and L.B. Russell. 1959. 
+The Y-chromosome as the bearer of male determining factors in the mouse. 
+Proc. Nat. Acad. Sci. <B>45:</B> 560-566.
+<!-- MGI:48848 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48848" target="_blank">MGI</A></I>.
+
+<A NAME="ref15-48"></A>
+<P>Williams-Ashman, H.G. 1964. 
+Some experimental approaches to the molecular basis of sex hormone action, p. 103-123. 
+<I>In</I> P. Emmelot and O. M&#252;hlbock [ed.] <I>Cellular Control Mechanisms and Cancer</I>. Elsevier, Amsterdam.
+
+<A NAME="ref15-49"></A>
+<P>Zwilling, E. 1956. 
+Reciprocal dependence of ectoderm and mesoderm during chick embryo limb development. 
+Amer. Natur. <B>90:</B> 257-265.
+<!-- 13433603 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13433603" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref15-50"></A>
+<P>Zwilling, E., and J.F. Ames. 1958. 
+Polydactyly, related defects and axial shifts &#151; a critique. 
+Amer. Natur. <B>92:</B> 257-266.
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter14.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter16.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

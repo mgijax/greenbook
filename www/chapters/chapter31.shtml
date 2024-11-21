@@ -1,0 +1,662 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 31 - Immune Functions</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, immune, antibodies, globulin, immunoglobulin, antigenic determinants, erythrocyte, polysaccharide">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter30.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter32.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>31</H1>
+<H2><I>Immune Functions</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Henry J. Winn</H3>
+
+<P>Immunology in a broad sense encompasses a wide range of investigations bearing on the complex problems of resistance and susceptibility of higher 
+forms of life to infectious diseases, and it draws heavily on a variety of medical, biological, and chemical disciplines. Experimental immunology 
+has, however, focused largely on the antibody response, which in mammals tends to play a pivotal role in acquired immunity. This preoccupation with 
+antibody, originally inspired by the dramatic demonstrations of its association with specifically increased resistance to some diseases and 
+subsequently attributable to an increasing awareness of the practical and conceptual implications of specific immune reactions for many areas of 
+biology, has nurtured the development of a conception of immunology that is much narrower in scope than originally proposed. It is immunology in 
+this restricted sense that is to be considered here. The basic principles of the field are presented in detail in a number of texts (
+<A HREF="#ref31-6">Boyd, 1956</A>; 
+<A HREF="#ref31-37">Raffel, 1961</A>; 
+<A HREF="#ref31-27">Humphrey and White, 1963</A>). The present discussion will be by no means exhaustive, but is intended to direct interested readers to 
+published studies which provide basic information on immune functions in mice or in which some unique biological trait of these animals has been 
+exploited in immunological investigations.
+
+<P><B>ANTIBODIES</B>
+
+<P>Antibodies are serum globulins that are capable of combining specifically with substances (antigens) which provoke their formation by cells of 
+the lymphoid tissues. They belong to a class of plasma proteins, designated &#947;-globulins or immunoglobulins, which shows a high degree of physical 
+and chemical heterogeneity. Indeed the term <I>&#947;-globulin</I> may be somewhat misleading since antibody activity may be found in the &#946;-globulins 
+or &#945;<SUB>2</SUB>-globulins. However, despite this lack of true homogeneity, there is much justification for treating antibodies and similar proteins 
+elaborated by plasmacytes and lymphoid cells as a family of closely related proteins under a single inclusive designation. In addition to their common 
+tissue origin they may have many overlapping physical and chemical properties and they have strikingly similar immunochemical characteristics (review by 
+<A HREF="#ref31-13">Fahey, 1962</A>). The term <I>immunoglobulins</I> will be used here but it must not be interpreted to mean that all of the protein molecules 
+so designated have known antibody activity, and the use of a collective designation should not obscure the fact that relatively small differences in 
+molecular structure of antibodies can be responsible for marked differences in the biological activities of the molecules.
+
+<P>It has been possible to establish defined subfractions of the immunoglobulins and with respect to the mouse Fahey <I>et al.</I> (
+<A HREF="#ref31-18">1964<I>a</I></A>) have described four major subdivisions. Two classes of 7 S &#947;-globulins differing in electrophoretic mobility and in 
+antigenic structure were designated 7 S &#947;<SUB>1</SUB>-globulins and 7 S &#947;<SUB>2</SUB>-globulins. A third fraction designated 
+&#947;<SUB>1A</SUB>-globulin is found chiefly in the &#946;-globulin fraction. It is heterogeneous with respect to molecular size and antigenically 
+distinct from the other immunoglobulins. The fourth class, &#947;<SUB>1</SUB>-globulin, is a high molecular weight fraction which migrates on 
+electrophoresis with the mid &#947;-globulins, and contains characteristic antigenic determinants. An additional component, designated X<SUB>&#947;</SUB>, 
+was also demonstrated in the &#947;-globulins of mice but was considered to be devoid of immunological function and, accordingly, was not classified 
+as an immunoglobulin. Each of the four major classes was shown to contain antibody activity. In a subsequent study Fahey <I>et al.</I> (
+<A HREF="#ref31-19">1964<I>b</I></A>) described two subclasses of mouse 7 S &#947;<SUB>2</SUB>-globulins which were designated &#947;<SUB>2A</SUB>-globulins 
+and &#947;<SUB>2B</SUB>-globulins. Enzymatically produced subunits of mouse immunoglobulins have been studied by Fahey and Askonis (
+<A HREF="#ref31-14">1962<I>a</I></A>, 
+<A HREF="#ref31-15">1962<I>b</I></A>). Classification of immunoglobulins on the basis of genetically determined isoantigens ("alloantigens," 
+<A HREF="chapter24.shtml">Chapter 24</A>) is discussed in 
+<A HREF="chapter8.shtml">Chapter 8</A>.
+
+<P>Purified antibodies obtained from the serum of mice immunized with protein conjugates were fractionated and some biological properties of the 
+fractions were studied by Nussenzweig <I>et al.</I> (
+<A HREF="#ref31-35">1964</A>). Two types of precipitating antibody were found and designated &#947;<SUB>1</SUB> and &#947;<SUB>2</SUB>. Both types were found 
+in the &#947;-region on electrophoresis in agar gels, the &#947;<SUB>1</SUB> migrating slightly more rapidly than the &#947;<SUB>2</SUB>. Mouse 
+&#947;<SUB>1</SUB> antibodies were capable of sensitizing mice but not guinea pigs for passive cutaneous anaphylaxis, but they did not cause detectable 
+lysis, in the presence of mouse complement, of sheep erythrocytes coated with the protein conjugates used as antigens. The &#947;<SUB>2</SUB>-antibodies, 
+in conjunction with mouse complement, lysed the coated red blood cells and were capable of transferring passive cutaneous anaphylaxis to guinea pigs but 
+not to mice. These interesting differences may be related to the differences between mouse and guinea pig complement systems which are described in the next section.
+
+<P>The kinds and amounts of immunoglobulins elaborated in response to antigenic stimuli may be influenced by: (1) the chemical and physical properties 
+of the antigen and the vehicle in which it is dissolved or suspended, (2) the route of injection, (3) the intensity and duration of immunization, (4) the 
+age of the recipient animal, and (5) genetic factors. All of these factors interact and the roles they play in directing the course of immune 
+responses are poorly understood.
+
+<P>Fahey and Humphrey (
+<A HREF="#ref31-16">1962</A>) studied the antibody responses of C3H/He mice to single intravenous injections of pneumococcal polysaccharide, hemocyanin, or 
+sheep erythrocytes. Antisera were examined 6 days after the administration of antigen. Antibodies to both of the soluble antigens had the properties 
+of low molecular weight (6.5 S) &#947;-globulins, whereas the bulk of the anti-erythrocyte antibodies were &#947;-macroglobulins (19S) with a small 
+proportion found among the lower molecular weight globulins. Subsequently, Fahey and Lawrence (
+<A HREF="#ref31-17">1962</A>) compared the physicochemical and immunological properties of antibodies that had been produced against hemocyanin in eight inbred 
+strains of mice. Most of the antibodies from all of the mice were 6.6 S &#947;-globulins but there were marked differences in the electrophoretic properties 
+of the antibodies from different strains. Winn (
+<A HREF="#ref31-46">1965<I>a</I></A>) found that the response of a large number of inbred strains of mice to a single injection of sheep erythrocytes was confined 
+almost exclusively to the elaboration of higher molecular weight antibodies. However, after hyperimmunization there were marked differences in the responses 
+of various strains. C57BL/10J mice continued to produce large amounts of antibodies of the macroglobulin type with barely detectable amounts of low molecular 
+weight antibodies. In A/J mice the production of high molecular weight antibodies was no longer detected, though their sera contained high titers of low 
+molecular weight antibodies. Mice of other strains produced mixtures of the two types of antibodies in various proportions. The importance of genetic factors 
+is also indicated in a study showing quantitative differences in the immune response to tetanus toxoid between four inbred lines of mice (
+<A HREF="#ref31-28">Ipsen, 1959</A>).
+
+<P>The immune responses of very young animals have been found to differ appreciably from those of mature animals. This aspect of immunization has not been 
+investigated intensively in mice, but Boraker and Hildemann (
+<A HREF="#ref31-4">1965</A>) have examined the sera of young A/Jax and C57BL/6J mice that had received reciprocal grafts of skin and lymphoid tissues. They found 
+that antibodies detected prior to 20 and 27 days of age in C57BL/6J and A/Jax mice, respectively, were of the macroglobulin type. Older animals of either 
+strain produced 7S antibodies as well as macroglobulins.
+
+<P>The interactions of mouse antibodies with specific antigens become manifest in a variety of ways that are characteristic of similar interactions of 
+antibodies from other species. Most of these manifestations are alluded to in various parts of this discussion and require no further comment. It is appropriate, 
+however, to mention the study of Anacker and Munoz (
+<A HREF="#ref31-2">1961</A>) on the precipitin reaction involving ovalbumin and the corresponding antibody contained in mouse peritoneal fluid. Mice repeatedly injected 
+by the intraperitoneal route with antigen in Freund's adjuvent developed large volumes of ascites fluid containing high concentrations of antibody, The antibody 
+was qualitatively indistinguishable from that found in serum and behaved very similarly to rabbit antibody in quantitative precipitin tests. Insoluble precipitates 
+were found throughout the region of antibody excess and soluble complexes were found in the region of antigen excess. The amounts of antibody precipitated at 
+equivalence reached, in some cases, the unusually high level of 2 mg of protein nitrogen per milliliter.
+
+<P><B>COMPLEMENT</B>
+
+<P>Although it is widely recognized that complement may play an important role in many diverse immunological reactions, the detection and assay of this 
+complex group of plasma proteins are generally based on its ability to lyse sheep erythrocytes sensitized with rabbit anti-sheep cell antibodies. 
+Measurements based on this assay system have invariably revealed low or undetectable levels of activity in mouse sera. This has been attributed to 
+deficiencies in various individual components of complement (
+<A HREF="#ref31-5">Borsos and Cooper, 1961</A>; 
+<A HREF="#ref31-26">Herzenberg <I>et al.</I>, 1963</A>). Borsos and Cooper showed that pools of serum from CFW mice contain all of the recognized factors of the 
+complement system, that the C'2 and C'3 activities are quite low, and that mouse serum contains a potent inhibitor of lytic activity. These findings 
+provide a suitable explanation for the failures of a number of workers to detect complement activity in mice. However, Herzenberg <I>et al.</I> reported 
+that a deficiency of hemolytic complement in a highly inbred strain of mice was genetically determined. This deficiency was shown to be controlled by a 
+single genetic locus (<I>Hc</I>) and subsequent studies have revealed a similar or identical deficiency in a number of inbred lines.
+
+<P>Erickson <I>et al.</I> (
+<A HREF="#ref31-12">1963</A>) showed that genes at this locus controlled the production of a serum protein identified by immunochemical techniques. Their evidence 
+suggests that the allele carried by mice of deficient strains has no recognizable product. Subsequent studies by Terry <I>et al.</I> (
+<A HREF="#ref31-43">1964</A>) have suggested that deficient strains lack one of the components designated collectively as C'3. There is no indication that the health or 
+immune functions of the deficient mice are impaired.
+
+<P>The hemolytic activity of mouse complement has been shown to be more effectively activated by 7S hemolysins than by high molecular weight antibodies (
+<A HREF="#ref31-46">Winn, 1965<I>a</I></A>). This is in striking contrast to the activation of guinea pig complement which has served as a prototype in this area of 
+research. Winn showed that this difference between complement from mice and guinea pigs could be attributed to differences in the C'1 macromolecules of the 
+two species. Additional data presented in this report show that in hemolytic systems involving 19 S hemolysins, mouse serum markedly inhibits the activity of 
+guinea pig complement but supplements that of rabbit serum. The inhibitory properties of mouse serum lead to some difficulties when mouse antisera are employed 
+in complement-fixation tests. Problems of this nature are discussed by Winn (
+<A HREF="#ref31-47">1965<I>b</I></A>), who has suggested ways of eliminating or compensating for this type of interference.
+
+<P><B>HYPERSENSITIVITY</B>
+
+<P>The development of the immune state is often accompanied by a dramatic increase in reactivity to further contact with the same antigen. This increased 
+sensitivity, referred to as allergy or hypersensitivity, has divers manifestations which lead to tissue destruction varying in degree of severity from 
+evanescent wheal and flare reactions to chronic inflammation which may proceed to intense suppuration and necrosis. In some case severe generalized illness 
+or death of a sensitive animal may occur within a few minutes after contact with antigen. The substances responsible for the development and expression of 
+hypersensitivity are of widely varying chemical constitution, and they may or may not have intrinsic toxic properties. Microorganisms (dead as well as living), 
+microbial metabolites, foreign proteins, pollen extracts, and some low molecular weight organic compounds provide only a sample of the known allergens.
+
+<P>Hypersensitive reactions are conveniently divided into immediate and delayed types on the basis of the temporal sequence of reactions following contact 
+with antigen. Immediate-type reactions can be detected within seconds after contact and are often, though not necessarily, relatively short-lived. Delayed-type 
+reactions are detectable by ordinary means only several hours after application of the incitant, and they continue to develop in intensity for periods of 18 to 72 
+hours. These differences in the tempo of response reflect basic differences in the mechanisms responsible for the development of the reactions. Reactions of the 
+immediate type are invariably associated with serum antibodies, whereas delayed-type reactions involve cell-bound or cell-associated antibodies. A clear distinction 
+between the two types is provided by demonstrations that a single antigen may induce either type of reactivity alone. Subdivision of the allergic reactions, 
+particularly those of the immediate type, is useful and will be indicated below in discussing these reactions in mice.
+
+<P>The occurrence of delayed-type responses in mice has been reported (review by 
+<A HREF="#ref31-10">Crowle, 1959<I>a</I></A>), but they are not elicited so regularly as in other species and typical cutaneous reactions are rarely observed. Apparently, 
+mice have the capacity to elaborate the immune substances that mediate delayed hypersensitive responses, but they seem to be constitutionally incapable of displaying 
+reactions of the type observed in other animals. By employing a variety of special techniques, Crowle (
+<A HREF="#ref31-11">1959<I>b</I></A>) has been able to demonstrate specifically inducing inflammatory responses that are evidently manifestations of delayed reactivity.
+
+<P>Additional information on this point comes from studies on experimental allergic encephalomyelitis. There is a good deal of evidence that the production of this 
+condition depends on the establishment of delayed-type reactivity to brain tissue. The ability to produce the disease regularly in mice supports the conclusion that 
+these animals can develop reactivity of the delayed type (
+<A HREF="#ref31-32">Lee and Olitsky, 1955</A>).
+
+<P>Immediate-type allergy may be divided into two classes. Anaphylactic reactions result from the rapid release of short-lived pharmacologically active agents 
+immediately following interaction of antigen and antibody <I>in vivo</I>. The symptoms and severity of these reactions vary considerably in the different species 
+principally because of differences in the amounts and kinds of active substances released and in the sensitivities of various animals to the action of these compounds. 
+Arthus reactions are local responses initiated directly by the formation of antigen-antibody precipitates. Apparently, these precipitates have an irritant effect on 
+the walls of small blood vessels, leading to the development of intense inflammatory responses. The reaction begins very shortly after application of a test antigen 
+and continues to develop in intensity for several hours.
+
+<P>With respect to systematic anaphylaxis, older views that mice are highly resistant to the induction of allergic reactivity have been completely reversed. Burdon (
+<A HREF="#ref31-8">1937</A>) and Weiser <I>et al.</I> (
+<A HREF="#ref31-44">1941</A>) showed conclusively that mice can be sensitized and shocked, though the course of the reaction is not nearly so violent as that observed in other 
+species. Quite commonly death does not occur until several hours after the challenge. During this interval the mice usually remain quiet and move only if disturbed. 
+The fur is ruffled, there may be scratching of the eyes and muzzle, and there may be some evidence of respiratory difficulty. As death approaches, breathing becomes 
+more difficult, cyanosis may be marked, and the animals display evidence of paralysis or convulsive kicking. Occasionally, death occurs as soon as 15 minutes 
+after injection of antigen.
+
+<P>Cameron (
+<A HREF="#ref31-9">1956</A>) established arbitrary classes of nonfatal shock on the basis of the severity and duration of symptoms in W-series mice. His report includes a 
+study of the relative sensitizing abilities of various proteins, the efficacy of various routes for sensitizing and challenging, the effect of varying the number of 
+sensitizing doses, and the duration of sensitization. Quantitative estimation of anaphylactic sensitivity in mice has been based on observations that shock is accompanied 
+by a fall in body temperature (
+<A HREF="#ref31-30">Kind, 1955</A>) and a rise in hematocrit (
+<A HREF="#ref31-25">Harris and Fulton, 1958</A>). McMaster and Kruse (
+<A HREF="#ref31-33">1949</A>) have devised an extremely sensitive technique based on the detection of vasospasm in the ears of intravenously injected mice that had been previously 
+sensitized with minute quantities of antigen.
+
+<P>Sobey and Adams (
+<A HREF="#ref31-41">1959</A>) have demonstrated in mice a high heritability of anaphylactic sensitivity to bovine plasma albumin, and Fink and Rothlauf (
+<A HREF="#ref31-20">1954</A>) reported variations in sensitivity to shock in five inbred strains of mice injected with ovalbumin. It is not clear whether these variations are 
+attributable primarily to differences in the kinds and amounts of antibody formed in response to these antigens or to differences in sensitivity to the pharmacologically 
+active compounds released as a result of the combination of antigen and antibody.
+
+<P>Pharmacological aspects of anaphylaxis in mice have been discussed by Austen and Humphrey (
+<A HREF="#ref31-3">1963</A>). The subject is too complex and controversial to treat here in any detail, but much experimental data suggest that histamine does not play an 
+important role, and there is some evidence implicating serotonin as a mediator of shock.
+
+<P>A peculiar feature of systematic anaphylaxis in mice is brought to light by studies carried out in animals that have received injections of <I>Hemophilus pertussis</I> 
+vaccine (review by 
+<A HREF="#ref31-31">Kind, 1958</A>). This treatment often leads to hyperreactivity to histamine. When vaccine is administered simultaneously with a sensitizing antigen, the 
+subsequent challenge with antigen results in a much higher mortality than in mice sensitized with antigen alone. The mechanism of this potentiating effect is not understood, 
+but there seems to be no clear-cut relationship between the increased sensitivity to shock and the enhanced reactivity to histamine. Marked differences in the reactions of 
+various inbred strains of mice are apparent but no comprehensive studies have been reported.
+
+<P>The combination of small amounts of antigen and antibody in cutaneous sites leads to an increased permeability of small vessels permitting local concentration of 
+intravenously injected dyes. The reaction has been used principally for the detection of minute quantities of specific antigens or antibodies, though some characterization 
+of the biological activities of different classes of antibodies may also be achieved. This cutaneous form of anaphylaxis has been described in the mouse by Ovary (
+<A HREF="#ref31-36">1958</A>) and immunochemical aspects of such reactions were reported by Nussenzweig <I>et al.</I> (
+<A HREF="#ref31-35">1964</A>).
+
+<P>A great deal of our information on the mechanism of anaphylaxis has come from studies carried out <I>in vitro</I> with isolated tissues from actively or passively 
+sensitized animals. Experiments have been carried out with a variety of tissues from different animals (review by 
+<A HREF="#ref31-3">Austen and Humphrey, 1963</A>), but the use of mice has been restricted to the study of isolated strips of uterine muscle (
+<A HREF="#ref31-21">Fink and Rothlauf, 1955</A>). Tissue placed in an organ bath with nutrient solution showed characteristic contractions after addition of the antigen to 
+which the mice had been sensitized. The procedure is often referred to as the Schultz-Dale technique in recognition of the workers who first demonstrated the phenomenon 
+with guinea pig tissue. These experiments with mouse tissue support the suggestion that serotonin rather than histamine plays an important role in anaphylaxis in mice.
+
+<P>Typical Arthus reactions are difficult to produce in mice and the inflammatory responses accompanying these reactions are not so intense as those observed in rabbits. 
+Reactions have been elicited in the foot pads of immunized mice but the lip is a more convenient site of injection. Moreover, Arthus reactions are more regularly obtained 
+by intralabial injection and in this area they are more readily distinguished from nonspecific inflammatory responses (
+<A HREF="#ref31-22">Freund and Stone, 1956</A>).
+
+<P><B>TRANSPLANTATION IMMUNOLOGY</B>
+
+<P>The biology of tissue transplantation has been reviewed comprehensively by Russell and Monaco (
+<A HREF="#ref31-38">1964</A>) and many aspects of the problems of transplantation as they relate to mice are discussed in 
+<A HREF="chapter24.shtml">Chapter 24</A>. The conception of homograft rejection as a manifestation of the immunization of the host against isoantigens of the graft is 
+universally accepted, though the nature of the immune substances responsible for destruction of grafted tissues is not known precisely. There are striking 
+differences in the sensitivity of mouse cells derived from various tissues to the destructive effects of isoimmune sera and complement (reviews by 
+<A HREF="#ref31-45">Winn, 1962</A>; 
+<A HREF="#ref31-42">Stetson, 1963</A>; 
+<A HREF="#ref31-34">M&#246;ller, 1963</A>), and in some cases it has been shown that the presence of serum antibodies in the host may lead to prolonged survival of homografts (
+<A HREF="#ref31-29">Kaliss, 1962</A>; 
+<A HREF="#ref31-40">Snell <I>et al.</I>, 1960</A>). A substantial body of data indicates the participation of cellular or cell-bound 
+antibodies in graft destruction (reviewed by 
+<A HREF="#ref31-39">Snell, 1963</A>). Comprehensive reviews of the relative importance of humoral and cellular factors in graft rejection have been published by Gorer (
+<A HREF="#ref31-24">1961</A>), Brent (
+<A HREF="#ref31-7">1958</A>), and Amos (
+<A HREF="#ref31-1">1962</A>).
+
+<P><B>SUMMARY</B>
+
+<P>This discussion has dealt briefly with a description of the kinds of immune substances that have been found in mice and with some aspects of their 
+biological activities. The points which serve to distinguish immunological reactivities of mice from those of other species have been emphasized, and 
+differences in reactivity between inbred strains of mice have been described. Important areas of immunology have been omitted because little definitive 
+information with respect to mice is available or because the subject is such that no special treatment is required beyond that found in 
+textbooks on general immunology.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grant CA 01329 from the National Cancer Institute.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref31-1"></A>
+<P>Amos, D.B. 1962. 
+The use of simplified systems as an aid to the interpretation of mechanisms of graft rejection. 
+Progr. Allergy <B>6:</B> 468-538.
+<!-- 13861026 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13861026" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-2"></A>
+<P>Anacker, R.L., and J. Munoz. 1961. 
+Mouse antibody. I. Characterization of antibody in mouse peritoneal fluid. 
+J. Immunol. <B>87:</B> 426-433.
+<!-- 13861073 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13861073" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-3"></A>
+<P>Austen, K.F., and J.H. Humphrey. 1963. 
+<I>In vitro</I> studies of the mechanism of anaphylaxis. 
+Adv. Immunol. <B>3:</B> 1-96.
+
+
+<A NAME="ref31-4"></A>
+<P>Boraker, D.K., and W.H. Hildemann. 1965. 
+Maturation of alloimmune responsiveness in mice. 
+Transplantation <B>3:</B> 202-223.
+<!-- 14265495 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14265495" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-5"></A>
+<P>Borsos, T., and M. Cooper. 1961. 
+On the hemolytic activity of mouse complement. 
+Proc. Soc. Exp. Biol. Med. <B>107:</B> 227-232.
+
+
+<A NAME="ref31-6"></A>
+<P>Boyd, W.C. 1956. 
+<I>Fundamentals of Immunology, 3rd ed</I>. 
+Interscience, New York. 776 p.
+
+
+<A NAME="ref31-7"></A>
+<P>Brent, L. 1958. 
+Tissue transplantation immunity. 
+Progr. Allergy <B>5:</B> 271-348.
+<!-- 13579000 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13579000" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-8"></A>
+<P>Burdon, K.L. 1937. 
+Active sensitization of white mice. 
+Proc. Soc. Exp. Biol. Med. <B>36:</B> 340-342.
+
+<A NAME="ref31-9"></A>
+<P>Cameron, J. 1956. 
+Anaphylactic shock in mice. 
+Brit. J. Exp. Path. <B>37:</B> 470-476.
+<!-- 13374204 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13374204" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-10"></A>
+<P>Crowle, A.J. 1959<I>a</I>. 
+Delayed hypersensitivity in mice. 
+J. Allergy <B>30:</B> 151-164.
+<!-- 13630646 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13630646" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-11"></A>
+<P>Crowle, A.J. 1959<I>b</I>. 
+Delayed hypersensitivity in several strains of mice studied with six different tests. 
+J. Allergy <B>30:</B> 442-459.
+<!-- 13813045 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13813045" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-12"></A>
+<P>Erickson, R.P., D.K. Tachibana, L.A. Herzenberg, and L.T. Rosenberg. 1963. 
+A single gene controlling hemolytic complement and a &#946;-mobility serum antigen in the mouse. 
+Fed. Proc. <B>22:</B> 612. (Abstr.)
+<!-- 14139033 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14139033" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-13"></A>
+<P>Fahey, J.L. 1962. 
+Heterogeneity of gamma globulins. 
+Adv. Immunol. <B>2:</B> 41-109.
+
+
+<A NAME="ref31-14"></A>
+<P>Fahey, J.L., and B.A. Askonas. 1962<I>a</I>. 
+Enzymatically produced subunits of proteins formed by plasma cells in mice. I. &#947;-globulin and &#947;-myeloma proteins. 
+J. Exp. Med. <B>115:</B> 623-639.
+<!-- 13891303 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13891303" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-15"></A>
+<P>Fahey, J.L., and B.B. Askonis. 1962<I>b</I>. 
+Enzymatically produced subunits of proteins formed by plasma cells in mice. II. &#946;-2A-myeloma proteins and Bence Jones proteins. 
+J. Exp. Med. <B>115:</B> 641-653.
+<!-- 13862910 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13862910" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-16"></A>
+<P>Fahey, J.L., and J.H. Humphrey. 1962. 
+Antibodies with differing molecular size in mice. 
+Immunology <B>5:</B> 104-109.
+<!-- 13891304 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13891304" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-17"></A>
+<P>Fahey, J.L., and M.E. Lawrence. 1962. 
+Antibody differences in several strains of mice. 
+Fed. Proc. <B>21:</B> 19. (Abstr.)
+
+
+<A NAME="ref31-18"></A>
+<P>Fahey, J.L., J. Wunderlich, and R. Mishell. 1964<I>a</I>. 
+The immunoglobulins of mice. I. Four major classes of immunoglobulins: 
+7 S <SUB>&#947;<SUB>2</SUB></SUB>-, 7 S <SUB>&#947;<SUB>1</SUB></SUB>-, <SUB>&#947;<SUB>A</SUB></SUB>-, and 18 S <SUB>&#947;<SUB>1M</SUB></SUB>-globulins. 
+J. Exp. Med. <B>120:</B> 223-242.
+<!-- 14208249 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14208249" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-19"></A>
+<P>Fahey, J.L., J. Wunderlich, and R. Mishell. 1964<I>b</I>. 
+The immunoglobulins of mice. II. Two subclasses of mouse 
+7 S <SUB>&#947;<SUB>2</SUB></SUB>-globulins: <SUB>&#947;<SUB>2a</SUB></SUB>- and <SUB>&#947;<SUB>2b</SUB></SUB>-globulins. 
+J. Exp. Med. <B>120:</B> 243-251.
+<!-- 14206439 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14206439" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-20"></A>
+<P>Fink, M.A., and M.V. Rothlauf. 1954. 
+Variations in sensitivity to anaphylaxis and to histamine in inbred strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>85:</B> 336-338.
+<!-- 13155590 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13155590" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-21"></A>
+<P>Fink, M.A., and M.V. Rothlauf. 1955. 
+<I>In vitro</I> anaphylaxis in the sensitized mouse uterus. 
+Proc. Soc. Exp. Biol. Med. <B>90:</B> 477-480.
+<!-- 13273486 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13273486" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-22"></A>
+<P>Freund, J., and S.H. Stone. 1956. 
+Arthus reaction in the mouse and the rat after intralabial injections of antigens. 
+J. Immunol. <B>76:</B> 138-145.
+<!-- 13295601 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13295601" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-23"></A>
+<P>Fulton, J.D., W.E. Harris, and C.E. Craft. 1957. 
+Hematocrit change as indication of anaphylactic shock in the mouse. 
+Proc. Soc. Exp. Biol. Med. <B>95:</B> 625-627.
+<!-- 13465749 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13465749" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-24"></A>
+<P>Gorer, P.A. 1961. 
+The antigenic structure of tumors. 
+Adv. Immunol. <B>1:</B> 345-393.
+
+<A NAME="ref31-25"></A>
+<P>Harris, W.E., and J.D. Fulton. 1958. 
+Quantification of anaphylaxis in mice. 
+Proc. Soc. Exp. Biol. Med. <B>97:</B> 14-17.
+<!-- 13518167 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13518167" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-26"></A>
+<P>Herzenberg, L.A., D.K. Tachibana, L.A. Herzenberg, and L.T. Rosenberg. 1963. 
+A gene locus concerned with hemolytic complement in <I>Mus musculus</I>. 
+Genetics <B>48:</B> 711-715.
+<!-- MGI:61173 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61173" target="_blank">MGI</A></I>.
+
+<A NAME="ref31-27"></A>
+<P>Humphrey, J.H., and R.G. White. 1963. 
+<I>Immunology for Students of Medicine</I>. 
+Davis, Philadelphia. 450 p.
+
+<A NAME="ref31-28"></A>
+<P>Ipsen, J. 1959. 
+Differences in primary and secondary immunizability of inbred mice strains. 
+J. Immunol. <B>83:</B> 448-457.
+<!-- 13852973 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13852973" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-29"></A>
+<P>Kaliss, N. 1962. 
+Elements of immunological enhancement: consideration of mechanisms. 
+Ann. N.Y. Acad. Sci. <B>101:</B> 67-79.
+
+<A NAME="ref31-30"></A>
+<P>Kind, L.S. 1955. 
+Fall in rectal temperature as an indication of anaphylactic shock in the mouse. 
+J. Immunol. <B>74:</B> 387-390.
+<!-- 14367826 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14367826" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-31"></A>
+<P>Kind, L.S. 1958. 
+The altered reactivity of mice after inoculation with <I>Bordetella pertussis</I> vaccine. 
+Bact. Rev. <B>22:</B> 173-182.
+<!-- 13572280 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13572280" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-32"></A>
+<P>Lee, J.M., and P.K. Olitsky. 1955. 
+Simple method for enhancing development of acute disseminated encephalomyelitis in mice. 
+Proc. Soc. Exp. Biol. Med. <B>89:</B> 263-266.
+<!-- 14395286 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14395286" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-33"></A>
+<P>McMaster, P.D., and H. Kruse. 1949. 
+Peripheral vascular reactions in anaphylaxis of the mouse. 
+J. Exp. Med. <B>89:</B> 583-596.
+
+<A NAME="ref31-34"></A>
+<P>M&#246;ller, G. 1963. 
+<I>On the Role of Isoimmune Reactions in Tissue Transplantation</I>. 
+Balder, Stockholm. 56 p.
+
+<A NAME="ref31-35"></A>
+<P>Nussenzweig, R.S., C. Merryman, and B. Benecerraf. 1964. 
+Electrophoretic separation and properties of mouse antihapten antibodies involved in passive cutaneous anaphylaxis and passive hemolysis. 
+J. Exp. Med. <B>120:</B> 315-328.
+<!-- 14206442 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14206442" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-36"></A>
+<P>Ovary, Z. 1958. 
+Passive cutaneous anaphylaxis in the mouse. 
+J. Immunol. <B>81:</B> 355-357.
+<!-- 13620325 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13620325" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-37"></A>
+<P>Raffel, S. 1961. 
+<I>Immunity, 2nd ed</I>. 
+Appleton-Century-Crofts, New York, 646 p.
+
+<A NAME="ref31-38"></A>
+<P>Russell, P.S., and A.P. Monaco. 1964. 
+The biology of tissue transplantation. 
+New Eng. J. Med. <B>271:</B> 502-783 (six separate articles in No. 10 to 15).
+<!-- 14186202 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14186202" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-39"></A>
+<P>Snell, G.D. 1963. 
+The immunology of tissue transplantation, p. 323-352. 
+<I>In</I>: <I>Conceptual Advances in Immunology and Oncology: A Collection of Papers</I>. Harper & Row, New York.
+
+<A NAME="ref31-40"></A>
+<P>Snell, G.D., H.J. Winn, J.H. Stimpfling, and S.J. Parker. 1960. 
+Depression of antibody of the immune response to homografts and its role in immunological enhancement. 
+J. Exp. Med. <B>112:</B> 293-314.
+
+<A NAME="ref31-41"></A>
+<P>Sobey, W.R., and K.M. Adams. 1959. 
+The inheritance of anaphylactic sensitivity in mice using bovine plasma albumin as an antigen. 
+Immunology <B>2:</B> 93-95.
+<!-- 13640684 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13640684" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-42"></A>
+<P>Stetson, C.A. 1963. Role of humoral antibody in homograft reactions. 
+Adv. Immunol. <B>3:</B> 97-130.
+
+<A NAME="ref31-43"></A>
+<P>Terry, W.D., T. Boros, and H.J. Rapp. 1964. 
+Differences in serum complement activity among inbred strains of mice. 
+J. Immunol. <B>92:</B> 576-578.
+<!-- 14139029 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14139029" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref31-44"></A>
+<P>Weiser, R.S., J. O. Golub, and D.M. Hamre. 1941. 
+Studies on anaphylaxis in the mouse. 
+J. Infect. Dis. <B>68:</B> 97-112.
+
+<A NAME="ref31-45"></A>
+<P>Winn, H.J. 1962. 
+The participation of complement in isoimmune reactions. 
+Ann. N.Y. Acad. Sci. <B>101:</B> 23-45.
+
+<A NAME="ref31-46"></A>
+<P>Winn, H.J. 1965<I>a</I>. 
+Effects of complement on sensitized nucleated cells, p. 1. 
+<I>In</I> G.E.W. Wolstenholme [ed.] <I>Ciba Foundation Symposium on Complement</I>. Little, Brown, Boston.
+
+<A NAME="ref31-47"></A>
+<P>Winn, H.J. 1965<I>b</I>. 
+Complement fixation in typing histocompatibility systems, p. 61-70. 
+<I>In</I> P.S. Russell, H.J. Winn, and D.B. Amos [ed.] Proceedings of conference and workshop on tissue compatibility testing. Nat. Acad. Sci.-Nat. Res. Counc. Publ. 1229, Washington, D.C.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter30.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter32.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

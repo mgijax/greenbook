@@ -1,0 +1,2172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 33 - Patterns of Behavior</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, behavior, eating, hoarding, drinking, fighting, aggression">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter32.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter34.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>33</H1>
+<H2><I>Patterns of Behavior</I></H2>
+<H3>Richard E. Wimer and John L. Fuller</H3>
+
+<P>This chapter is divided into three major sections. The first surveys a wide range of studies on mouse behavior. It is also concerned with apparatus and testing procedure 
+and with behavioral differences which have been established between genetic stocks. The second section deals with studies of environmental factors and their contribution to 
+behavioral phenotypes. The final section deals with techniques for the genetic analysis of behavior.
+
+<P><B>SURVEY</B>
+
+<P><B>Maintenance behavior</B>
+
+<P><B><I>Eating and hoarding</I>.</B> That eating is cyclic is well known to all mouse breeders, for the sound of gnawing on pellets becomes audible in the mouse quarters late 
+in the day. More precise records of daily variations in feeding activity can be obtained by the cumulative recorders used in operant conditioning studies (
+<A HREF="#ref33-1">Anliker and Mayer, 1956</A>). Normal mice show a strong 24-hour periodicity, the maximum rate occurring during the night. Genetically obese (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>) mice 
+and mice made obese by hypothalamic lesion or gold thioglucose injection eat at a uniform rate with only short irregular respites.
+
+<P>Hoarding of food is not seen in the laboratory unless conditions are arranged to favor it. Smith and Ross (
+<A HREF="#ref33-151">1953<I>a</I></A>, 
+<A HREF="#ref33-152">1953<I>b</I></A>) found that C3H mice would carry food pellets to their cage from a supply connected temporarily by an alley. The effects of food deprivation were 
+complex, and satiated animals sometimes hoarded more than deprived ones. The relevance of hoarding to eating behavior was questioned, since they found that wet and dry cotton 
+packs were retrieved more readily than food pellets. A comparison of three strains on the hoarding test ranked BALB/c, C3H, and C57BL/10 in order from highest to lowest (
+<A HREF="#ref33-150">Smith and Powell, 1955</A>).
+
+<P><B><I>Drinking</I>.</B> Drinking, like eating, is cyclic and occurs mostly during the night. Mice given water <I>ad libitum</I> typically consume 4 to 6 ml each 24 hours. 
+A number of strains manifest polydipsia. Parous MA/J and Ma/MyJ females usually consume 10 to 50 ml per day; virgin females and males show a less extreme increase in water intake (
+<A HREF="#ref33-78">Hummel, 1960</A>). The polydipsia is probably caused by a reduction in antidiuretic hormone brought on by cystic degeneration in the posterior pituitary. An 
+apparently similar condition, not inherited in a simple Mendelian fashion, has been reported in STR/N mice (
+<A HREF="#ref33-146">Silverstein, 1961</A>).
+
+<P>The intake of water by mice is considerably above minimum requirements. The effects of restricting time of access to water were studied by Hudson (1964, personal communication). 
+Access was permitted for either one or two periods per day, with a total duration of 2, 4, 6, 8, or 1 minutes. The results, shown in 
+<a href="javascript:windowf3301 = window.open('../figures/figure33-1.shtml', 'windowf3301', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf3301.focus()">Figure 33-1</A>, 
+indicate a rather rapid loss of weight ( 10 to 17 per cent of body weight) which leveled off at about 5 days. Partial recovery of the loss occurred in all except the 1 x 2-minute 
+and 2 x 1-minute groups. Weight recovery in general paralleled ingestion curves. More water was drunk when access times were scheduled 12 hours rather than 24 hours apart. It is 
+apparent that water was being physiologically conserved, since weight increased while intake was far below the normal level with 24-hour access. The results suggest that 3 days of 
+adaptation to scheduled drinking should precede experiments using water deprivation as a means of controlling drive.
+
+<P><B><I>Preference</I>.</B> A well-stocked grocery store is an excellent cafeteria for the determination of food preferences in mice. Chitty and Southern (
+<A HREF="#ref33-30">1954</A>) reported that the first supplies to be attacked were the cereal foods such as rolled oats, oatmeal, whole and ground rice, macaroni, and vermicelli. In a less 
+preferred class were substances containing fats and proteins such as meats, butter, wax. etc. Finally in the lowest class were sugar, chocolate, and a variety of dried fruits and 
+preserves. Mice were said to avoid legumes even when other food was scarce. The earliest systematic experiment on food preferences was reported in the same source. Southern and his 
+associates found rolled oats mixed with 20 per cent olive oil to be particularly attractive to mice.
+
+<P>Hoshishima <I>et al.</I> (
+<A HREF="#ref33-75">1962</A>) studied differences in preference for NaCl, saccharin, acetic acid, and phenylthiocarbamide (PTC) in strains NA-II, aa, SM, 0-61, C57, and C3H, Mice had access 
+to distilled water and a test solution. Concentration of test solution was increased until threshold, defined as the lowest concentration of test solution necessary to produce 
+significant differences between average 24-hour intake of the test solution and distilled water, was reached. Inspection of their data suggests comparatively little strain variation 
+in threshold for NaCl and acetic acid, but large variation for saccharin and PTC. Other preference studies have employed sodium sucaryl (
+<A HREF="#ref33-148">Smith and Ross, 1960</A>), sucrose octaacetate (
+<A HREF="#ref33-173">Warren, 1963</A>), propylthiouracil (
+<A HREF="#ref33-79">Jacobs, 1962</A>, and sucrose (
+<A HREF="#ref33-134">Rodgers and McClearn, 1962 <I>a</I></A>).
+
+<P>The largest body of experimental research on preference concerns alcohol (
+<A HREF="#ref33-135">Rodgers and McClearn, 1962<I>b</I></A>). McClearn and Rodgers (
+<A HREF="#ref33-119">1959</A>) measured intake of 10 per cent alcohol and water using strains C57BL/Crgl, A/2Crgl, DBA/2NCrgl, BALB/cCrgl, C3H/2Crgl, and AKR/Crgl. Strain C57BL/Crgl consumed 
+significantly greater proportions of alcohol than the other strains, which did not differ. In a later study, Rodgers and McClearn (
+<A HREF="#ref33-134">1962<I>a</I></A>) reported preference among water and six concentration of alcohol. Strain C57BL showed highest preference for a 12.5 per cent solution, and C3H preferred 10 per 
+cent. Strains BALB/c and A avoided all concentrations of alcohol. Mirone (
+<A HREF="#ref33-127">1958</A>) investigated the effects of parental or earlier direct contact with alcohol on voluntary consumption of alcohol.
+
+<P>Biochemical differences related to alcohol metabolism have been found between C57BL/Crgl and DBA/2Crgl mice. The high-preference strain (C57BL) metabolizes ethanol more rapidly 
+than the low-preference strain (
+<A HREF="#ref33-139">Schlesinger, 1964</A>). The results are consistent with the hypothesis that high-preference animals drink more alcohol because less 
+acetaldehyde, a toxic intermediary in alcohol metabolism, accumulates in their blood. The content of alcohol dehydrogenase in the liver of C57BL/6 mice increased significantly after 
+forced consumption of 10 per cent ethanol, but other liver enzymes remained unchanged. It is possible that the behavioral phenotype can be explained by a combination of biochemistry 
+and reinforcement theory.
+
+<P><B>Social behavior</B>
+
+<P>Laboratory mice live in groups sharing small cages, except when isolated for experimental purposes. Wild mice may also attain high population densities in grain ricks or other 
+unusually favorable conditions (
+<A HREF="#ref33-49">Elton, 1942</A>). Though they commonly live in close proximity to one another, mice are not regarded as highly social mammals because group organization is minimal. 
+Nonetheless, social behavior as shown in fighting, mating, and care of young has been investigated for many purposes, ranging from theoretically oriented investigations of the 
+causes of fighting (
+<A HREF="#ref33-144">Scott and Fredericson, 1951</A>) to a search for drugs to control aggressiveness (
+<A HREF="#ref33-145">Scriabine and Blake, 1962</A>). Although some strain comparisons have been made, the genetics of social behavior has not been widely studied.
+
+<P><B><I>Fighting</I>.</B> Mouse breeders are well aware of the propensity for fighting shown by many strains, particularly by males. Severe wounds are inflicted in combat, and 
+battles to the death are not uncommon. Several investigators have described the fighting of mice (reviewed in 
+<A HREF="#ref33-144">Scott and Fredericson, 1951</A>). According to van Abeelen (
+<A HREF="#ref33-164">1963<I>a</I></A>), the elements of male-male interaction include fixing (staring at rival), dancing, boxing, kicking, nosing, wrestling, biting, chasing or fleeing, and 
+submissive posture. Tail rattling and fur fluffing are often seen when mice are paired and may represent emotional responses (
+<A HREF="#ref33-143">Scott, 1947</A>).
+
+<P>Laboratory mice housed in cages typically develop a social organization based upon exclusive dominance of one male (
+<A HREF="#ref33-163">Uhrich, 1938</A>). The despot ordinarily retains his position for some months. Linear dominance is occasionally observed in which an &#945;-male dominates a &#946;-male, 
+who in turn dominates others below him in the social order. Equal or unsettled dominance relationships are seen in newly assembled groups. Only when mature animals were matched 
+against juveniles was dominance not correlated with weight in Ulrich's colony of heterogeneous albino mice. A strong "home-cage" effect was seen in the usual advantage of residents 
+over an introduced stranger, regardless of his previous high social status in another situation. Success in fighting was not the basis of success in mating.
+
+<P>Methods of studying fighting quantitatively can be divided according to whether subjects fight to a decision or are separated when fighting commences. The tests may also be 
+separated into noncompetitive ones in which animals fight in bare cages and competitive ones in which the animals have restricted access to food or to shelter from electric shock (
+<A HREF="#ref33-144">Scott and Fredericson, 1951</A>).
+
+<P>Fighting tests are usually conducted un special pens with a removable center partition, thus minimizing handling. Male mice will fight readily in a bare arena, but somewhat 
+more consistent results are reported when hungry mice compete for a loose pellet of food (
+<A HREF="#ref33-53">Fredericson, 1950</A>; 
+<A HREF="#ref33-56">Fredericson <I>et al.</I>, 1955</A>), Females (C57BL/10) which seldom fight spontaneously will fight regularly in a competitive situation (
+<A HREF="#ref33-54">Fredericson, 1952</A>). Success in competition to escape noxious stimuli has been used to evaluate aggressiveness of different strains (
+<A HREF="#ref33-47">Doner <I>et al.</I>, 1952</A>) and effects of hormone treatments (
+<A HREF="#ref33-18">Bevan <I>et al.</I>, 1960</A>). A somewhat different means of inducing fighting is to give foot shocks to mice confined within a narrow space. 
+Most pairs attack each other promptly (
+<A HREF="#ref33-156">Tedeschi <I>et al.</I>, 1959</A>).
+
+<P>Fighting until decision results in training for dominance or submission. Some investigators purposely pretrain for one or the other. Fighters are readily trained by 
+the "dangler" method in which other mice, held by forceps so they cannot defend themselves, are presented to the potential fighter (
+<A HREF="#ref33-142">Scott, 1946</A>; 
+<A HREF="#ref33-13">Bauer, 1956</A>). Mice may be trained for submission by exposure to such a trained fighter (
+<A HREF="#ref33-82">Kahn, 1951</A>). The round-robin method of matching members of a set of subjects in all possible pairings involves training of a less directed type (
+<A HREF="#ref33-14">Beeman, 1947</A>), but most subjects become habitually dominant or submissive during the course of testing. 
+
+<P>Nondecision procedures usually involve isolation after weaning (
+<A HREF="#ref33-87">King, 1957<I>a</I></A>; 
+<A HREF="#ref33-162">Tollman and King, 1956</A>), though shorter isolation periods have been employed in some drug assays (
+<A HREF="#ref33-145">Scriabine and Blake, 1962</A>). In such methods a <I>pair</I> of mice is taken as the unit, and aggressiveness is measured by the latent period until 
+the beginning of a fight or the accumulated attacking time over a fixed period (
+<A HREF="#ref33-29">Catlett, 1961</A>). The advantage of the latency measure is that subjects can be separated before fighting is inhibited by injury or reinforced by 
+victory. A great variety of other measures have been used ranging from simple occurrence or nonoccurrence of fighting in a pair to rating scales (
+<A HREF="#ref33-95">Lagerspetz, 1964</A>) and elaborate counts of specific acts (
+<A HREF="#ref33-3">Banks, 1962</A>).
+
+<P>Some methods of measuring social dominance do not involve actual fighting. In the tube-dominance test, mice deprived of food are trained to go down a narrow 
+tube to a chamber where food is provided (
+<A HREF="#ref33-107">Lindzey <I>et al.</I>, 1961</A>). On the dominance trial, two animals are started simultaneously at opposite ends, and the animal 
+which retreats is scored as submissive (
+<a href="javascript:windowf3302 = window.open('../figures/figure33-2.shtml', 'windowf3302', 'width=700,height=200,resizable=yes,scrollbars=yes'); windowf3302.focus()">Figure 33-2</A>).
+
+<P>The amount of fighting between males varies according to previous experience (
+<A HREF="#ref33-141">Scott, 1944</A>). New males (C57BL/10) were accepted peacefully by mated males living in a large multiple-escape pen. After a period of isolation, during 
+which residents were trained to fight, the pairs fought vigorously when they were again brought together.
+
+<P>Castration reduces male aggressive behavior as it does in many species. Beeman (
+<A HREF="#ref33-14">1947</A>) found that aggressive behavior in male C57BL/10 and BALB/c mice was eliminated if 25 or more days elapsed between extirpation of the testes and 
+the initial encounter. She reported that implants of testosterone propionate promptly restored aggressive behavior to the level characteristic of the strain.
+
+<P>Bevan and his collaborators reported somewhat different findings. Replacement androgen therapy only partially restored aggressive behavior of castrated SWR mice, 
+and doses of 600 &#956;g per day of testosterone propionate even depressed it (
+<A HREF="#ref33-17">Bevan <I>et al.</I>, 1958</A>). When pretraining, castration, and testosterone therapy were varied independently, the effects of the hormone on fighting 
+success appeared to be mediated chiefly through an effect on body weight. Effects of pretraining were more striking than those of androgen (
+<A HREF="#ref33-18">Bevan <I>et al.</I>, 1960</A>). An additional complication in the androgen-aggression relationship is that testosterone induces spontaneous aggression 
+in prepuberally castrated males but not in females (
+<A HREF="#ref33-162">Tollman and King, 1956</A>). Some of the discrepancies between these studies are certainly byproducts 
+of differences in techniques of measurement and in the handling of the subjects. It appears likely, however, that some genetic variation exists in the association 
+between androgen and fighting and that more is involved than the sensitization of an "aggression center" by hormones.
+
+<P>Reduction of aggression is the purpose of much drug treatment of behavioral disorders in man. A comparison of various tranquilizers showed that meprobamate was 
+very effective in reducing fighting in mice, though it had no effect on spontaneous motor activity (
+<A HREF="#ref33-156">Tedeschi <I>et al.</I>, 1959</A>). Janssen <I>et al.</I> (
+<A HREF="#ref33-80">1960</A>), who used spontaneous fighting rather than foot shock-induced fighting as an index found striking differences in the antifighting potency of 
+drugs relative to their motor effects. It appears that tests of fighting behavior in mice have merit for evaluation of potential tranquilizing agents (
+<A HREF="#ref33-145">Scriabine and Blake, 1962</A>). One may conjecture that an ideal drug would reduce spontaneous fighting but would leave competitive fighting intact, 
+since success in obtaining food must have survival value.
+
+<P>Studies on the genetics of fighting in mice have been restricted, with one exception, to strain comparisons. Ginsburg and Allee (
+<A HREF="#ref33-63">1942</A>) found the descending order of fighting ability in three strains to be C57BL, C3H, and BALB/c. Several researchers have used BALB/c as a 
+relatively nonaggressive strain, but little effort seems to have been made to survey the large number of available strains. Early experience in victory or defeat 
+can produce great variation in fighting within a fixed genotype (
+<A HREF="#ref33-142">Scott, 1946</A>; 
+<A HREF="#ref33-82">Kahn, 1951</A>). Furthermore, the type of test used is important. Pairs of BALB/c males usually share food pellets, but BALB/c males paired with 
+C57BL/10 males become aggressive (
+<A HREF="#ref33-55">Fredericson and Birnbaum, 1954</A>). Lindzey <I>et al.</I> (
+<A HREF="#ref33-107">1961</A>) compared social dominance in pairings between three inbred strains using the tube-dominance apparatus. The outcomes in terms of percentage 
+of animals winning a majority of contests for each pairing were A/alb (100) and DBA/8 (0); A/alb (86) and C3H (14); C3H (86) and DBA/8 (14).
+
+<P>Lagerspetz (
+<A HREF="#ref33-95">1964</A>) obtained good separation of aggressive and nonaggressive lines within two generations of selection from a heterogeneous population of albinos. 
+Increased divergence was obtained in later generations, though the lines appeared to be fairly stable by the fourth generation. Only males could be tested because 
+fighting was infrequent among females. The results suggested that a few genes make major contributions to the variation in fighting behavior observed in the original 
+stock. Losing of fights reduced the aggressiveness score of both lines; winning enhanced fighting of initially aggressive animals but not of nonaggressive ones. 
+Animals aroused by an immediately preceding fight would cross an electrified grid to attack an opponent or would chose an opportunity to fight rather than remain peaceful.
+
+<P><B><I>Mating</I>.</B> Courtship follows a pattern similar to that of other laboratory rodents but has species-specific characteristics. The basic sequence 
+consists of elements described as sniffing, following, mounting, mounting-with-intromission, and post-copulatory grooming (
+<A HREF="#ref33-164">van Abeelen, 1963<I>a</I></A>; 
+<A HREF="#ref33-64">Grant and Mackintosh, 1963</A>; 
+<A HREF="#ref33-108">Lipkow, 1960</A>; 
+<A HREF="#ref33-121">McGill 1962</A>). The sexually aroused male often crawls in front of the female or even under her ("rooting," 
+<A HREF="#ref33-121">McGill, 1962</A>). There may be one to more than 100 intromissions before ejaculation, which is often marked by the male rolling over on his side, often 
+carrying the female with him. At ejaculation the male accessory glands produce a secretion which hardens to form the vaginal plug. Only one ejaculation usually occurs per day.
+
+<P>Inbred strains differ quantitatively in many aspects of mating behavior. Males of C57BL/6 typically gain intromission rapidly and ejaculate in 20 minutes. 
+DBA/2 males are slow to achieve intromission, but ejaculate quickly thereafter. Slowest to achieve ejaculation are BALB/c males (average latency of 1 hour), largely 
+because of a long period of courtship (
+<A HREF="#ref33-121">McGill, 1962</A>). Even more striking genetic effects are found in recovery time, the interval between successful copulations (
+<A HREF="#ref33-122">McGill and Blight, 1963<I>a</I></A>). Recovery time in C57BL/6 males averages 4 days but only 1 hour in DBA/2 males. The F<SUB>1</SUB> hybrids resemble DBA/2 
+parents, and backcrosses to C57BL/6 yield intermediate latencies. The physiological and psychological bases of various components of mating behavior are complex (
+<A HREF="#ref33-123">McGill and Blight, 1963<I>b</I></A>). Levine (
+<A HREF="#ref33-100">1958</A>) found that albino males (strain ST) sired 76 out of 88 litters from ST females when competing against pigmented males (CBA). Success in mating 
+was not correlated with social dominance in a test of aggression. Although ST males had a slight advantage in initial encounters, all CBA males 
+achieved dominance in continued competition (
+<A HREF="#ref33-101">Levine, 1963</A>). Solution of this apparent contradiction must be based upon direct observation of mating behavior in a competitive situation.
+
+<P><B><I>Caretaking</I>.</B> The parturient female generally constructs a hollow nest of an available material. She spends much time in the nest huddled over the young. 
+The young are licked at frequent intervals, most often in the perineal region. Retrieving of young removed from the nest, amount of huddling, and nest building have been 
+used as the basis of a quantitative rating scale for maternal behavior (
+<A HREF="#ref33-98">Leblond and Nelson, 1937</A>; 
+<A HREF="#ref33-97">Leblond, 1940</A>).
+
+<P>Young mice elicit retrieving much more effectively than older ones. The percentage of successful retrievals with 1-day-old young was 83; 5-day-old, 78; 10-day-old, 54; 
+and 15-day-old, 11. Leblond (
+<A HREF="#ref33-97">1940</A>) found that the expression of maternal behavior in mice was little influenced by hormones of parturition and lactation. Maternal behavior could be 
+evoked in intact and hypophysectomized males and virgin females by leaving young in the cage, a process called "sensitization." Males were found which retrieved dislocated 
+young mice as readily as did females.
+
+<P>The extensive investigations of Beniest-Noirot (
+<A HREF="#ref33-16">1958</A>) have confirmed the independence of so-called maternal behavior from hormonal control. Postparturient and virgin females and males performed equally 
+well on her maternal behavior tests, which included retrieving, nest building, nursing care, and assumption of a nursing position. Similarly, adult mice of both sexes with 
+and without breeding histories ate placentas, gnawed umbilical cords, and cleaned young when confronted with newborn mice. These activities are not maternal in a strict 
+sense but are responses made to appropriate stimuli. The only probable hormonal effect noted by Beniest-Noirot was increased defense of the nest by postparturient females. 
+Caretaking responses, though not dependent upon prior experience with infant mice, were more frequent in mice which had spent 3 days with their dam's second litter.
+
+<P>Whisker-eating, mutilation, and cannibalism of young are disturbances of caretaking behavior which vary in incidence among inbred strains. Their genetics 
+has been reported only in a preliminary fashion (Hauschka, 
+<A HREF="#ref33-72">1952<I>a</I></A>, 
+<A HREF="#ref33-73">1952<I>b</I></A>). Cannibalism is often a serious problem to the animal breeder and experimentalist, but no thoroughly satisfactory explanation has 
+been advanced for its occurrence in certain lines and individuals. Disturbing the mother may be an inciting factor. Beniest-Noirot (
+<A HREF="#ref33-16">1958</A>) found more cannibalism in mothers selected for strong defense of their nests against intruders. Some experimenters working with neonatal 
+mice routinely remove the mother and anesthetize her lightly with ether, while the young are being handled, to reduce the incidence of cannibalism.
+
+<P><B>Emotionality</B>
+
+<P>Willingham (
+<A HREF="#ref33-175">1956</A>) measured defecation, urination, activity, freezing, emergence into open and enclosed areas, and squeaking in several different situations. 
+The matrix of intercorrelations was factor-analyzed, and six factors were extracted. The first, called "elimination," had significant loadings on all the defecation 
+and urination measures. The second factor was named "freezing." Willingham concluded that there are a variety of nearly independent types of emotional behavior and 
+that the concept of general emotionality is an oversimplification.
+
+<P>Thompson (
+<A HREF="#ref33-160">1953</A>) scored 15 mouse strains on incidence of defecation in the open field (
+<a href="javascript:windowt3301 = window.open('../tables/table33-1.shtml', 'windowt3301', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt3301.focus()">Table 33-1</A>). 
+Several other investigators have used elimination as a measure of timidity (
+<A HREF="#ref33-104">Lindzey, 1951</A>; 
+<A HREF="#ref33-59">Fuller <I>et al.</I>, 1956</A>).
+
+<P>An important challenge to the validity of elimination as an index of emotionality has recently come from Bruell (
+<A HREF="#ref33-23">1963</A>), who observed defecation in 25 different genotypes. Males defecated more than females, and hybrid males defecated more than their inbred sires. 
+However, hybrid females defecated less than their inbred dams. Bruell's interpretation was that the defecation of male mice in a strange environment is a territory-marking 
+response. Thus, increased defecation in hybrids was interpreted as restoration of adaptive responses depressed by inbreeding.
+
+<P>Antalfi (
+<A HREF="#ref33-2">1963</A>) has shown that freezing (William's second factor) in the presence of stress may be less strong in laboratory mice than in wild house mice. 
+Freezing also has possible adaptive significance.
+
+<P><B>Learning</B>
+
+<P><B><I>Conditioned responses</I>.</B> The earliest attempt to establish conditioned responses in mice came, most appropriately, from Pavlov (
+<A HREF="#ref33-131">1923</A>):
+
+<BLOCKQUOTE>
+
+<P>The latest experiments (which are not yet finished) show that the conditioned reflexes, <I>i.e.</I>, the highest nervous activity, are inherited. At present some 
+experiments on white mice have been completed. Conditioned reflexes to electric bells are formed, so that animals are trained to run to their feeding place on the ringing 
+of the bell. The following results have been obtained:
+
+<P>The first generation of white mice required 300 lessons. Three hundred times it was necessary to combine the feeding of the mice with the ringing of the bell in order 
+to accustom them to run to the feeding place on hearing the bell ring. The second generation required for the same result, only 100 lessons. The third generation learned 
+to do it after 30 lessons. The fourth generation required only 10 lessons. The last generation which I saw before leaving Petrograd learned the lesson after 5 repetitions. 
+The sixth generation will be tested after my return. I think it very probable that after some time a new generation of mice will run to the feeding place on hearing the bell 
+with no previous lesson.
+
+</BLOCKQUOTE>
+
+<P>We do not know what Pavlov found on his return to Petrograd.
+
+<P>Denenberg (
+<A HREF="#ref33-38">1958</A>; 
+<A HREF="#ref33-39">1959<I>a</I></A>, 
+<A HREF="#ref33-40">1959<I>b</I></A>; 
+<A HREF="#ref33-41">1960</A>) studied the formation of conditioned emotional responses in C57BL/10J and C57BL/10Sc mice. In one version of his procedure, the buzzer was 
+sounded for 3 seconds and then followed by a short pause, after which the shock was presented for 1 second (
+<A HREF="#ref33-38">Denenberg, 1958</A>). Typical responses to shock were described as yelping, walking, running, climbing, and rearing. The occurrences of any of these 
+responses to the buzzer was considered evidence of conditioning.
+
+<P><B><I>Operant conditioning</I>.</B> Studies on operant conditioning in the mouse have used sensory reinforcers &#151; lights, primarily &#151; and lever contact rather 
+than pressing. Indeed, one of the earliest reports of a successful utilization of light as a reinforcer used mice (
+<A HREF="#ref33-93">Kish, 1955</A>). Various studies have used males of strains C57BL/10J (
+<A HREF="#ref33-93">Kish, 1955</A>), C57BL/6J (
+<A HREF="#ref33-4">Barnes and Baron, 1961</A>; 
+<A HREF="#ref33-94">Kish and Baron, 1962</A>; 
+<A HREF="#ref33-12">Baron and Kish, 1962</A>), and DBA/1J (
+<A HREF="#ref33-7">Barnes <I>et al.</I>, 1959</A>), with age range of 8 to 17 weeks. Pretraining in darkness is important (
+<A HREF="#ref33-94">Kish and Baron, 1962</A>) and the light source should be weak (
+<A HREF="#ref33-7">Barnes <I>et al.</I>, 1959</A>). Barnes and Baron (
+<A HREF="#ref33-4">1961</A>) studied the effects of luminous line drawings as reinforcers, concluding that their effectiveness increased as they became more complex.
+
+<P>Barnes and Kish (
+<A HREF="#ref33-5">1957</A>) reported that termination of high intensity sound acts as a negative reinforcer, <I>i.e.</I>, termination can be used to strengthen a response. 
+Use of sound as a positive reinforcer for lever contact has also been studied. The definitive study is that of Barnes and Kish (
+<A HREF="#ref33-6">1961</A>) who reported the effects of 10 frequencies at five different intensity levels. Reinforcing effects were quite weak. In a later study comparing 
+directly the effectiveness of light and sound, Baron and Kish (
+<A HREF="#ref33-12">1962</A>) reported that low intensity sound may have aversive properties. Clearly, light and luminous drawing are better choices as reinforcers.
+
+<P><B><I>Escape and avoidance</I>.</B> Essman and Jarvik (
+<A HREF="#ref33-51">1961<I>a</I></A>) devised an apparatus consisting of a large container of water with an escape ramp fastened on one corner. The animal was placed in the water 
+on the side opposite the escape ramp and time to reach and climb the escape ladder were recorded. Learning is extremely rapid (
+<a href="javascript:windowf3303 = window.open('../figures/figure33-3.shtml', 'windowf3303', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf3303.focus()">Figure 33-3</A>). 
+The technique has been used for strain comparisons by Winston (
+<A HREF="#ref33-179">1963</A>) and for comparison of mutants by Denenberg <I>et al.</I> (
+<A HREF="#ref33-46">1963</A>).
+
+<P>The essence of avoidance conditioning is that the organism is trained to make a response which postpones the impending occurrence of noxious stimulation. A number of 
+methods have been devised for the study of avoidance learning in mice. One technique employs a box with a grid floor partitioned in the middle by a hurdle. A warning 
+stimulus &#151 light or buzzer &#151; begins a few seconds before shock is delivered to the floor grids on the side on which the animal is located. The animal is able to 
+avoid shock by jumping the hurdle. The warning stimulus goes on again a few seconds or minutes later, and the animal must quickly jump back if it is again to avoid the shock. 
+Excellent descriptions of the use of such procedures with mice are given by Caldwell (
+<A HREF="#ref33-27">1962</A>) and by Royce and Covington (
+<A HREF="#ref33-137">1960</A>). Caldwell's technique worked moderately well with the female CF#1 mice he used.
+
+<P>Royce and Covington (
+<A HREF="#ref33-137">1960</A>) compared nine inbred strains maintained at The Jackson Laboratory. Nearly one-third of the animals could not be conditioned in 700 trials &#151; 
+half or more of strains C57BR/cd, AKR, C57BL/6, and A. 
+<a href="javascript:windowt3302 = window.open('../tables/table33-2.shtml', 'windowt3302', 'width=650,height=400,resizable=yes,scrollbars=yes'); windowt3302.focus()">Table 33-2</A> 
+presents mean number of trials to a criterion of five successive avoidances for the strains in which conditioning was easiest. Subsequent work (
+<A HREF="#ref33-28">Carran <I>et al.</I>, 1964</A>) showed that strain differences in conditioning rate are dependent in part upon the shock voltage used. Whether the basis of the 
+voltage dependence is associated with strain differences in shock sensitivity was not made clear. Two strains differing in conditionability were shown to diverge in 
+measured skin resistance during training. King and Mavromatis (
+<A HREF="#ref33-91">1956</A>) and Stanley and Monkman (
+<A HREF="#ref33-155">1956</A>) also studied avoidance conditioning of mice.
+
+<P>A different kind of device has also been widely used. As described by Denenberg <I>et al.</I> (
+<A HREF="#ref33-45">1958</A>), it consists of a narrow rectangular box with partitions. The floor is an electrifiable grid. Near one end is the starting chamber in which the animal 
+is restrained by a guillotine door. A safe chamber, its grid floor covered with wood, is located at the other end. The door of the starting chamber is opened and a 
+100-watt bulb is turned on. Five seconds later, the floor is electrified. The animal may escape or avoid the electric shock by opening the door of the safe chamber and 
+entering. Use of the device was reported in several articles (
+<A HREF="#ref33-42">Denenberg and Bell, 1959</A>; 
+<A HREF="#ref33-46">Denenberg <I>et al.</I>, 1963</A>; 
+<A HREF="#ref33-15">Bell and Denenberg, 1963</A>).
+
+<P>Ekstr&#246;m and Sandberg (
+<A HREF="#ref33-48">1962</A>) and Jarvik and Essman (
+<A HREF="#ref33-81">1960</A>) have also reported avoidance conditioning techniques. Ekstr&#246;m and Sandberg trained mice to avoid shock by jumping to a wire net hung on the wall. 
+A rather large number of training trials was required for only moderate success.
+
+<P>The Jarvik and Essman device produced extremely rapid learning (
+<a href="javascript:windowf3304 = window.open('../figures/figure33-4.shtml', 'windowf3304', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf3304.focus()">Figure 33-4</A>). 
+Subjects were placed on platform A and the shelf B was then pulled out. A step down from the platform to the shelf resulted in shock to the 
+animal. Learning was measured by placing the animal back on the platform and measuring the amount of time it delayed before stepping down again. Comparison of shocked and 
+nonshocked animals 24 hours after a single training trial resulted in 10 per cent of the previously shocked and 90 per cent of the unshocked animals leaving the platform 
+in 10 seconds or less. This and similar devices have been used in three other studies (
+<A HREF="#ref33-50">Essman and Alpern, 1964</A>; 
+<A HREF="#ref33-51">Essman and Jarvik, 1961</A>).
+
+<P><B><I>Maze learning</I>.</B> Early work on maze learning in mice was done by Yerkes (
+<A HREF="#ref33-182">1907</A>) and Vicari (
+<A HREF="#ref33-169">1923</A>, 
+<A HREF="#ref33-170">1924</A>, 
+<A HREF="#ref33-171">1929</A>). More recently, Lindzey and Winston (
+<A HREF="#ref33-106">1962</A>) compared the leaning performance of several strains in a six-unit T maze. Twenty animals each of strains A/alb, C3H/Bi, DBA/8, and C57BL/1 were given 
+one trial per day for 14 days in a study in which all animals received prior handling. Strain C3H/Bi was poorer than the other three strains. A second experiment indicated 
+differential strain responsiveness to handling. Winston (
+<A HREF="#ref33-179">1963</A>) used a similar maze and procedures with strains A/alb, C3H/Bi, and DBA/8, and also showed strain C3H/Bi to be poorer. 
+Enclosed mazes have also been used by Hall (
+<A HREF="#ref33-70">1959</A>) and Smith and Bevan (
+<A HREF="#ref33-149">1957</A>).
+
+<P>Morgan (
+<A HREF="#ref33-130">1963</A>) compared the effectiveness of food and a dark hiding place as reinforcers for mice of strains SW and C57BL. Animals were given 20 trials on the first 
+day and 10 trials per day thereafter. All groups attained a level of 9 out of 10 correct by the end of 60 trials. Groups running to a dark hiding place learned faster. No 
+strain differences or interaction with reinforcer were found. A diagram of the apparatus is presented in 
+<a href="javascript:windowf3305 = window.open('../figures/figure33-5.shtml', 'windowf3305', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf3305.focus()">Figure 33-5</A>.
+
+<P>McClearn (
+<A HREF="#ref33-114">1958</A>, 
+<A HREF="#ref33-118">1965</A>) compared the performance of strains C3H/NT, C57BL, and BALB/c on an elevated maze. In decreasing order of performance, the strains were BALB/c, C57BL, 
+and C3H/NT. Lindzey and Winston (
+<A HREF="#ref33-106">1962</A>) and Winston (
+<A HREF="#ref33-179">1963</A>) also found C3H mice to be poor learners, possibly because they are blind or nearly so (
+<A HREF="chapter32.shtml">Chapter 32</A>).
+
+<P>Meier and Foshee (
+<A HREF="#ref33-125">1963</A>) compared performances of strains AKR, BALB/c, C3H/He, C57BL/6, DBA/2, and noninbred CF#1 in a three-choice-point water maze in which escape from water 
+was used as a reinforcer. The strains divided into two groups on the basis of time to reach an escape ramp; slower strains were BALB/c, AKR, and C3H/He. No error score 
+analyses were included. This and a second experiment (
+<A HREF="#ref33-124">Meier, 1964</A>) demonstrate that level of performance for some strains depends in part upon the age at which the tests are given.
+
+<P><B><I>Discrimination learning</I>.</B> Much of the literature on discrimination learning is reviewed in 
+<A HREF="chapter32.shtml">Chapter 32</A>, where information on sensory capacity of mice is given. However, two techniques of special interest are better described here.
+
+<P>What appears to be an extremely promising apparatus for the study of discrimination learning was devised by Keeler (
+<A HREF="#ref33-83">1927</A>) and used but once (
+<a href="javascript:windowf3306 = window.open('../figures/figure33-6.shtml', 'windowf3306', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf3306.focus()">Figure 33-6</A>). 
+The device was made of two cylinders of sheet metal. The floors of the central cylinder and those of the external chambers were independently 
+wired for shock. There were six doorways from the central cylinder. A light was turned on in one of the external chambers and the floor of that compartment was isolated from 
+the circuit, all others being electrified. The mouse was placed in the center cylinder, the center floor was electrified, and the mouse had to escape to the lighted compartment. 
+Learning curves of normal and rodless (
+<A HREF="chapter32.shtml">Chapter 32</A>) mice tested in the device are presented in 
+<a href="javascript:windowf3307 = window.open('../figures/figure33-7.shtml', 'windowf3307', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3307.focus()">Figure 33-7</A>. 
+It is evident that learning was extremely rapid.
+
+<P>A discrimination device with which we have had personal experience is the water maze devised by Waller <I>et al.</I> (
+<A HREF="#ref33-172">1960</A>; 
+<a href="javascript:windowf3308 = window.open('../figures/figure33-8.shtml', 'windowf3308', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf3308.focus()">Figure 33-8</A>). 
+Animals were trained to swim either the white or black side. The entire bottomless maze could be inverted in the water to reverse the 
+orientation of the correct alternative. C57BL/6J males were given five trials per day for 12 consecutive days at one of three water temperatures. Waller <I>et al.</I> 
+found that animals swam faster at lower temperatures, but that there was no difference in error performance among the three water temperatures used.
+
+<P>We have successfully used the device for black-white discrimination learning with six strains (
+<A HREF="#ref33-178">Wimer and Weller, 1965</A>). All but one strain performed significantly above chance by the fourth day. A total time investment of about 40 minutes per 
+animal was required to achieve nearly errorless performance in some strains. In decreasing order of performance, the strains were C57BL/6J, DBA/2J, RF/J, AKR/J, and A/HeJ. 
+Except for strains AKR/J and A/HeJ, the difference in performance between adjacent strains was not significant. However, differences between all strains separated by one 
+other were significant. Our experience suggests that water temperature may affect accuracy of performance in some strains. DBA/2J and C57BL/6J discriminate horizontal from 
+vertical striations with approximately equal success and at a level of performance only very slightly inferior to that for black-white discrimination (Wimer, unpublished data).
+
+<P><B>Exploratory activity</B>
+
+<P>Exploratory activity &#151; activity in an unfamiliar environment &#151; is a comparatively well-studied mouse behavior. Thompson (
+<A HREF="#ref33-160">1953</A>) measured activity levels of 15 inbred strains in an enclosed arena (
+<a href="javascript:windowt3303 = window.open('../tables/table33-3.shtml', 'windowt3303', 'width=700,height=700,resizable=yes,scrollbars=yes'); windowt3303.focus()">Table 33-3</A>). 
+In a later study he measured arena and Y-maze activity in large samples of five strains (
+<A HREF="#ref33-161">Thompson, 1956</A>). Thompson's two studies showed that there is considerable variability between strains and that the ordering of the strains is invariant 
+in the two testing devices, with the exceptions of strains C57BL/6J and AKR/J. McClearn (
+<A HREF="#ref33-115">1959</A>) attempted to establish the generality of Thompson's results with strains C57BR/cd, C57BL/10, LP, AKR, BALB/c and A/J by observing their behavior 
+in other situations in which one might reasonably expect the same ordering to be maintained. McClearn's findings indicated that Thompson's characterizations of strains 
+has wide generality. The basis for these strain differences is not known. Thiessen (
+<A HREF="#ref33-157">1961</A>) attempted to relate body weight to activity, but his results were inconclusive.
+
+<P>McClearn's (
+<A HREF="#ref33-116">1960</A>) study of the effects of varying level of illumination suggests that there are limits to the conditions under which ordering of strains on activity 
+is maintained. He measured activity levels of strains C57BL/Crgl and A/Crgl in an open field with barriers, in bright white light and in dim red light. Note in 
+<a href="javascript:windowf3309 = window.open('../figures/figure33-9.shtml', 'windowf3309', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3309.focus()">Figure 33-9</A> 
+that strain A showed higher activity when tested under dim red light, whereas strain C57BL showed less. Although variation in level of illumination did not reverse the 
+ordering of the strains, there was a significant interaction of strain and illumination. Difference in eye pigmentation between the strains might be partially responsible 
+for the observed phenomenon. However, McClearn (
+<A HREF="#ref33-115">1959</A>) found that hybrids of strain C57BL/10 and A/J were intermediate in activity. Thus, more than eye pigmentation was involved, for the hybrids are 
+dark-eyed like the C57BL/10 parents.
+
+<P>There are two other studies of exploratory activity using mice (
+<A HREF="#ref33-177">Wimer and Sterns, 1964</A>; 
+<A HREF="#ref33-176">Wimer and Fuller, 1965</A>).
+
+<P><B>ENVIRONMENT AND PHENOTYPE</B>
+
+<P>The purpose of this section is to present information on the effects of maintenance conditions and early environment on behavioral phenotypes.
+
+<P><B>Maintenance conditions</B>
+
+<P><B><I>Light cycle</I>.</B> Cycles of approximately 24 hours (circadian rhythyms) in laboratory mice have been so well demonstrated that artificially controlled 
+light-dark cycles in the animal room must be regarded as essential for quantitative behavioral and physiological studies.
+
+<P>Strain I mice were much more susceptible to audiogenic seizures during the night (
+<A HREF="#ref33-66">Halberg <I>et al.</I>, 1955</A>), and the peak hours of susceptibility could be shifted by artificially reversing the lighting cycle in the animal quarters (
+<A HREF="#ref33-67">Halberg <I>et al.</I>, 1958</A>). Halberg <I>et al.</I> (
+<A HREF="#ref33-68">1959</A>) have shown also that variation in seizure susceptibility is merely one of many biological processes changing rapidly during the day (<I>e.g.</I>, 
+such diverse phenomena as blood cortisone, number of mitoses in adrenal cortex, and total body activity). The importance of controlling time-of-day effects in psychological 
+studies is clearly indicated. Higher paroxysmal activity in electrocorticograms (ECoG) has been found during the evening hours and may relate to increased susceptibility 
+to audiogenic seizure (
+<A HREF="#ref33-71">Harner, 1961</A>). Since ECoG's were recorded under pentobarbital anesthesia, it is equally possible that differences were related primarily to a cycle in drug 
+susceptibility. The relationship of the diurnal cycle to drug sensitivity is complex. Under constant illumination, variation in pentobarbital sleeping time with time of 
+day was absent; under cyclic lighting, grouped subjects slept longer when tested in the light period but not in the dark (
+<A HREF="#ref33-36">Davis, 1962</A>) (
+<a href="javascript:windowt3304 = window.open('../tables/table33-4.shtml', 'windowt3304', 'width=650,height=450,resizable=yes,scrollbars=yes'); windowt3304.focus()">Table 33-4</A>). 
+Periodicity in activity in waltzing mice was maintained in constant darkness, and even occurred in mice born and reared in the dark, though here the cycles were not 
+correlated with the natural day-night cycle (
+<A HREF="#ref33-181">Wolf, 1930</A>).
+
+<P><B><I>Temperature</I>.</B> Temperature control is also widely regarded as essential in the animal room. Mice, however, have adapted quite successfully to ambient 
+temperatures as low as -3&#176;C, provided that ample nesting material was supplied (Barnett, 
+<A HREF="#ref33-8">1956</A>, 
+<A HREF="#ref33-9">1959</A>). Improved nest building was a major means of adaptation in both A and C57BL mice. Increased heat production of mice reared in the cold enabled 
+them to withstand low-temperature stress much better than animals reared in heated laboratories, showing that physiological as well as behavioral adaptation had occurred. 
+Improved body insulation played a minor role in adaptation, which must therefore have been based on increased heat production.
+
+<P><B><I>Population density</I>.</B> The relation between crowding and the endocrine system has been widely studied. Increased adrenal size and decreased size of male 
+sex structures in crowded animals led Christian (
+<A HREF="#ref33-31">1955</A>) to postulate such endocrine effects as a mechanism for regulation of population density. Some 
+studies have failed to confirm all of Christian's findings and have thus cast doubt on this hypothesis of density control. Southwick and Bland (
+<A HREF="#ref33-154">1959</A>) found no difference in the adrenal weights of CFW male mice reared in isolation or in groups of 2, 4, 8, and 16 per cage. However, they did not 
+find adrenal enlargement in wounded mice (presumably socially subordinate animals subjected to chronic stress). The males in groups of four or eight actually sired more 
+young than isolates when females were introduced to their cages, a result contrary to Christian's hypothesis.
+
+<P>The effects of population density upon adrenal activity seem to be largely dependent upon the type of social organization in the group. A number of investigators 
+have used eosinopenia and other measures as indicators of the stressfulness of various types of social grooming imposed by the experimenter (
+<A HREF="#ref33-153">Southwick, 1959</A>; 
+<A HREF="#ref33-167">Vandenbergh, 1960</A>; 
+<A HREF="#ref33-159">Thiessen <I>et al.</I>, 1962</A>; 
+<A HREF="#ref33-158">Thiessen and Nealy, 1962</A>; 
+<A HREF="#ref33-21">Bronson and Eleftheriou, 1963</A>; 
+<A HREF="#ref33-20">Bronson, 1963</A>). Enhanced adrenal function parallels social tension (grouping of strange males, subjection to defeat by fighters, as examples) rather 
+than physical crowding alone. These findings are pertinent to research in ecological pathology, which is concerned with the effects of housing conditions upon cancer and other diseases.
+
+<P>C3H mice kept in isolation in a long-term experiment on nutrition showed a high incidence of convulsion (12 in 20) contrasted with subjects housed in one large 
+cage (3 in 20). The mean lifespan of the isolates was 434 days; of the group-reared, 500 days (
+<A HREF="#ref33-92">J.T. King <I>et al.</I>, 1955</A>). Group rearing also favored survival of C57Bl/10 mice weaned early, apparently as a result of better heat conservation (
+<A HREF="#ref33-89">J.A. King and Cannon, 1955</A>). Prior social experience raises the lethal threshold for amphetamine and counteracts the enhanced susceptibility found when 
+mice reared in isolation are aggregated just prior to toxicity testing (
+<A HREF="#ref33-112">Mast and Heimstra, 1962</A>).
+
+<P>It must appear from these latter studies that the relationship between the behavioral and physiological levels of integration are complex. The laboratory mouse is one 
+of the best subjects for investigation of these interactions and has the further advantage of permitting an evaluation of genetic effects.
+
+<P><B>Early environment</B> Environment during both prenatal and postnatal developmental periods has a marked effect on behavioral phenotypes.
+
+<P><B><I>Prenatal</I>.</B> Lieberman (
+<A HREF="#ref33-103">1963</A>) provided an excellent demonstration of the effects of the prenatal environment. Pregnant females of strain C57Bl/6 were given (1) saline injection, (2) 
+epinephrine injection, (3) norepinephrine injection, (4) hydrocortisone injection, or (5) were crowded in a cage with 10 aggressive males. All treatments were given during 
+the second trimester of pregnancy. Offspring were tested at 35 days of age in an open field test. In comparison with the saline controls, offspring of crowded and 
+epinephrine-injected dams showed increased activity and decreased defecation. Offspring of hydrocortisone- and norepinephrine-injected dams showed decreased activity 
+and increased defecation. Some, but not all, differences attained acceptable standards of statistical significance.
+
+<P>Weir and De Fries (
+<A HREF="#ref33-174">1964</A>) subjected pregnant females of strains BALB/cJ and C57BL/6J to a daily regimen of swimming in a water tank, exposure to intermittent loud tones in a 
+tilt box, and placement in a brightly illuminated open field. Later test of the activity of offspring in an open field showed complex interactions of the treatment effect 
+with genotype.
+
+<P><B><I>Postnatal</I>.</B> It is generally believed that certain kinds of experience may have the most profound and long-lasting effects if encountered early in postnatal 
+life. That such experience may affect phenotype was dramatically demonstrated by Denenberg <I>et al.</I> (
+<A HREF="#ref33-44">1964</A>), who reared C57BL/10 young mice under a variety of conditions. For example, some mice (controls) were reared with other mice both before and after weaning, 
+while other animals were transferred to a lactating female rat and reared with two male and two female offspring of her litter. Mice reared with rats from a very early age 
+tended to be less active in an open field and less aggressive than mice reared with other mice. Preference for own species was very strongly affected by the treatment: Mice 
+reared with rats preferred them to other mice.
+
+<P>A recent study by Ressler (
+<A HREF="#ref33-132">1962</A>) provides an excellent example in which strain of both parent and offspring of C57BL/10 and BALB/c mice contributed to an environmental effect. All offspring 
+were foster-reared by parents of the same or different strain. Ressler found that BALB/c parents handled young of both strains more than C57BL/10 parents did. In addition, 
+young BALB/c mice received more handling from both strains of parents than did C57BL/10 young.
+
+<P>Since variations of handling in infancy by humans have been shown to influence a variety of behavioral characteristics in adulthood, the superficially slight difference in 
+the early environment of the young mice might be important. Ressler (
+<A HREF="#ref33-134">1963</A>) reported on differences in operant conditioning. Pressure on a wire mesh door was used as the response. For the first 15 minutes of testing, each press 
+merely actuated a counter, while in the second half it briefly illuminated the dark box in which the animal was kept. The strain of the young mice had a significant effect on 
+the number of presses during the dark phase, while the strain of foster parents had a significant effect on the visual exploration score (number of presses during the phase 
+in which the light was operative minus presses during the dark phase). Young of both strains engaged in more visual exploration if reared by BALB/c parents. Results are 
+presented in 
+<a href="javascript:windowt3305 = window.open('../tables/table33-5.shtml', 'windowt3305', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt3305.focus()">Table 33-5</A>.
+
+<P>King and his associates have produced differences in aggressiveness within strains by varying size of social group. King and Gurney (
+<A HREF="#ref33-90">1954</A>) treated C57BL/10 males in one of three ways. Some were housed individually from 20 to 100 days of age. Others were reared with sires and male sibs 
+until 45 days and then isolated until over 100 days. A third group was reared with female sibs until 45 days and then isolated. Latency of fighting was measured after 
+bringing together individuals reared similarly. Animals isolated at 20 days were found to be much less aggressive. King (
+<A HREF="#ref33-88">1957<I>b</I></A>) used strains C57BL/10J and BALB/cJ and a variety of treatments incompletely replicated in both strains. King stated that his results showed 
+C57BL/10J males isolated at 20 days to be slower to fight, whereas BALB/cJ males were unaffected by this treatment. Similar early treatment produced no major effects on 
+sexual behavior (
+<A HREF="#ref33-86">King, 1956</A>).
+
+<P>The effect of early human handling on emotionality and fighting behavior in C57BL/10 mice has been studied by Levine (
+<A HREF="#ref33-102">1959</A>). Handling reduced the freezing component of emotionality and made animals more aggressive. Hall and Whiteman (
+<A HREF="#ref33-69">1951</A>) and Lindzey <I>et al.</I> (
+<A HREF="#ref33-105">1960</A>) also studied the effects of early experience on adult emotionality. Effects on other behavior have been reported by Baron <I>et al.</I> (
+<A HREF="#ref33-11">1962</A>), Bell and Denenberg (
+<A HREF="#ref33-15">1963</A>), Denenberg (
+<A HREF="#ref33-38">1958</A>, 
+<A HREF="#ref33-39">1959</A>, 
+<A HREF="#ref33-41">1960</A>), Denenberg and Bell (
+<A HREF="#ref33-43">1960</A>), and Stanley and Monkman (
+<A HREF="#ref33-155">1956</A>).
+
+<P><B>GENETIC ANALYSIS OF BEHAVIOR</B>
+
+<P>The diversity of mouse stocks affords a corresponding diversity of possible analytic techniques for exploiting the genetic material, which varies from lines segregating 
+at a single locus to those differing at many loci. The purpose of this section is to present examples of various techniques which have been applied to the genetic 
+analysis of mouse behavior.
+
+<P><B>Stocks segregating at a single locus</B>
+
+<P>The establishment of a behavioral difference between genotypes of a strain segregating at only a single locus is highly informative, for all possible pathways between 
+gene and phenotype must converge on one biochemical process or on one regulator controlling a few related processes. A small number of studies on behavioral 
+differences have been reported.
+
+<P>Studies of obesity (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>) illustrate the possibilities for physiological and biochemical analyses after establishment of a genetic effect. Reared under typical 
+laboratory conditions, <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I> mice attain a weight twice that of littermate non-obese sibs.
+
+<P>They characteristically eat heartily and are inactive and infertile. Both excessive weight and infertility may be eliminated by restriction of food intake (
+<A HREF="#ref33-138">Runner and Gates, 1954</A>; 
+<A HREF="#ref33-96">Lane and Dickie, 1954</A>). Increased food consumption could be due either (1) to a defect in central mechanism regulating 
+caloric intake or (2) to differences in the hedonic attributes of food ingestion <I>per se</I>. A series of experiments were performed to identify the underlying mechanisms.
+
+<P>Fuller and Jacoby (
+<A HREF="#ref33-61">1955</A>) decreased the caloric value of the regular laboratory food by diluting it with cellulose  or increased it by adding fat. Normal mice responded rapidly to 
+decreased caloric value by increasing consumption, but obese mice increased intake by a smaller amount. Both groups ate less of the fat-enriched diet, but the adjustment was 
+again much greater in the nonobese mice. When bitter substances &#151; quinine or caramelized sugar &#151; were added to food, both obese mice and controls sharply reduced their 
+consumption. However, controls slowly increased their ingestion over a few days, whereas obese mice continued to eat reduced amounts. Results, then, favored a defect in central 
+mechanisms producing adaptive regulation of food intake.
+
+<P>The behavior of obese mice appears very similar to that produced in rats by surgical intervention in the hypothalamus. However, the hypothalamus of obese mice appears to 
+be normal histologically (
+<A HREF="#ref33-109">Maren, 1952</A>). This does not, of course, eliminate the possibility either of subtle structural differences or of a biochemical disorder (
+<A HREF="chapter19.shtml">Chapter 19</A>). Injection of gold thioglucose may result in obesity, and because of this similarity of effect to hypothalamic lesions it has been assumed that 
+the hypothalamus is the site of action. Hollifield <I>et al.</I> (
+<A HREF="#ref33-74">1955</A>) compared <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I> mice with those made obese by injection of gold thioglucose. Gold thioglucose produced obese mice which did not increase 
+activity during food deprivation nor show decreased activity following refeeding. Hereditarily obese mice, however, responded in a manner similar to controls. We may 
+conclude (1) that the mechanism of hereditary obesity differs from that produced by gold thioglucose and (2) that hereditarily obese mice do show some of the behavioral 
+effects of food deprivation normally associated with drive.
+
+<P>Known genes may share control of a phenotype with other genes which are not separately identifiable. An example is the dilute gene (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>), which has attracted 
+attention since Coleman (
+<A HREF="#ref33-32">1960</A>) demonstrated that homozygous <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I> mice have a phenylketonuria-like condition. Since phenylketonurics often have convulsions, it was 
+considered possible that the high incidence of audiogenic seizures in DBA/2 mice (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>) might be caused in part by their 
+deficiency in phenylalanine hydroxylase activity.
+
+<P>Direct evidence on this point is conflicting. No correlation between dilute phenotype and seizure susceptibility was found in (DBA/2J x C57BL/6J)F<SUB>1</SUB> hybrids (
+<A HREF="#ref33-60">Fuller <I>et al.</I>, 1950</A>), but Huff and Huff (
+<A HREF="#ref33-77">1962</A>) found an excess of seizures in dilute animals from another source. Huff and Fuller (
+<A HREF="#ref33-76">1962</A>) failed to find an effect on susceptibility of <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>-locus substitution in a stock of DBA/1J mice segregating for + and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>. They suspected 
+that a mutation might have abolished the enzyme-inhibiting effects of the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I> genotype and thus interfered with its facilitation of seizures. Comparison 
+between this and earlier studies was rendered difficult by an intervening change in diet of the mice. An interaction between the dilute locus and diet was found by 
+Coleman and Schleisinger (
+<A HREF="#ref33-33">1965</A>). Mice from homozygous dilute strains (DBA/2J, BDP/J, and P/J) showed progressive increase in seizure susceptibility during 7 weeks on a 
+low-pyridoxine (vitamin B<SUB>6</SUB>) diet; nondilute C57BL/6J mice showed no such increase. Heterozygotes (D2B6F<SUB>1</SUB>) showed a small increase.
+
+<P>The experiments using gene substitutions at the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I> and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I> loci have concentrated on the analysis of the behavioral effects in physiological terms. 
+Other studies of mutants have been directed toward finding an association between a gene and behavior.
+
+<P>Ashman (1957, personal communication) used strains SEC/1Gn-<I>se</I> and SEC/2Gn-<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I> to study the effects of the alleles 
+normal-ear (+) and short-ear (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>), 
+and dense coat color (+) and dilute coat color (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>). Constitution of the stocks made it possible to compare +/+ <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>/+ with +/+ <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>, and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>/+ <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I> with <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I> <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>. Ashman found no differences in activity in a tilt cage and open field, in conditionability, 
+or in susceptibility to audiogenic seizure.
+
+<P>Les (
+<A HREF="#ref33-99">1958</A>) compared mutant and wild-type mice in stocks congenic at other loci. The mutants were furless (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856878" target="_blank">fs</A></I>), short-ear (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank">se</A></I>), dilute (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank">d</A></I>), yellow (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank">A<SUP>y</SUP></A></I>), albino (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>), black-and-tan (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank">a<SUP>t</SUP></A></I>), misty (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856946" target="_blank">m</A></I>), and hairless (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856057" target="_blank">hr</A></I>). He obtained measures of 
+locomotor activity, transporting shavings, nibbling through a cardboard partition, defecation and urination in an open field, and adult body weight. More fortunate 
+than Ashman, he established several behavioral differences. For example, animals homozygous for furless (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856878" target="_blank">fs</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856878" target="_blank">fs</A></I>) and hairless (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856057" target="_blank">hr</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856057" target="_blank">hr</A></I>) were 
+less active than their normal sibs (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856878" target="_blank">fs</A></I>/+ and <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856057" target="_blank">hr</A></I>/+), and yellow mice (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank">A<SUP>y</SUP></A></I>) were less active than their normal sibs (+/+). Differences in 
+nibbling and adult body weight were also found.
+
+<P>Though not based upon stocks segregating at a single locus, results obtained by Winston and Lindzey (
+<A HREF="#ref33-180">1964</A>) suggested a behavioral effect associated with the albino locus. Time to swim to an escape ramp was measured for pigmented (+/+) strains C3H/Bi, 
+DBA/8, and JK and albino (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>) strains A and BALB/c. The albino strains had longer time-scores. Of greater interest here were the performances of 
+segregating stocks: An intercross of F<SUB>1</SUB> hybrids (A x DBA/8) x (A x DBA/8) resulted in F<SUB>2</SUB> offspring with coat color phenotypes albino (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>) and pigmented (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>/+ and +/+). Albinos had higher swimming scores. Backcross (A x DBA/8) x A also resulted in both albino (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>) and pigmented offspring (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I>/+), and again albino mice were slower (had higher scores). The authors suggested that the recessive gene for albinism is also a 
+recessive gene for slow water-escape behavior. Since the mating systems used did not minimize the likelihood of contribution of other genes in the A stock linked with the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank">c</A></I> allele and other genes in the DBA/8 stock linked with the + allele, no definite conclusions can be reached (
+<A HREF="#ref33-126">Meier <I>et al.</I>, 1965</A>).
+
+<P><B>Stocks differing at many loci</B>
+
+<P>Since most behavioral variation appears to be determined by many pairs of genes with small individual effect acting together (
+<A HREF="#ref33-19">Broadhurst and Jinks, 1963</A>), it may often not be possible to detect effects of a single-gene substitution. Several investigators using genetically 
+more complex materials with discernable behavioral variation have applied the techniques of quantitative genetics to behavior. (For details of methods and assumptions see 
+<A HREF="chapter9.shtml">Chapter 9</A>.)
+
+<P><B><I>Scaling</I>.</B> For a simple biometric analysis, the phenotypes of quantitative behavior genetics should have certain measurement characteristics. First, 
+the effects of heredity and environment should act independently of each other, for interactions always make conceptualizations more difficult, and they frequently 
+strain the statistical assumptions made in performing analyses. Specifically, variances in P<SUB>1</SUB>, P<SUB>2</SUB>, and F<SUB>1</SUB>, all presumably environmental 
+in origin, should be homogeneous for stocks reared under similar controlled conditions. Second, and for the same reasons, the genetic effects should be additive. Once 
+the phenotypic values for P<SUB>1</SUB>, P<SUB>2</SUB>, and F<SUB>1</SUB> have been measured, the observed values for the F<SUB>2</SUB> and the two backcrosses should 
+equal their expected values on some additive genetic model. Change of scale may eliminate interactions of genetic and environmental factors and produce genetic additivity. 
+Such transformations should be considered whenever needed, for momentary awkwardness of working on an unfamiliar scale may be repaid by the long-term reduction in analytic 
+complexity.
+
+<P>Bruell (
+<A HREF="#ref33-22">1962</A>) analyzed patterns of behavior according to Mather's (
+<A HREF="#ref33-113">1949</A>) two scaling criteria paraphrased above. Bruell's description of rationale and procedures for testing appropriateness of scale merit careful study. 
+He measured the exploratory activity of strains A, C57BL/10, F<SUB>1</SUB>'s, F<SUB>2</SUB>'s, and backcrosses. The raw score was found adequate for the additivity 
+criterion, and the variances of P<SUB>1</SUB>, P<SUB>2</SUB>, and F<SUB>1</SUB> were homogeneous. 
+<a href="javascript:windowf3310 = window.open('../figures/figure33-10.shtml', 'windowf3310', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3310.focus()">Figure 33-10</A> 
+shows the discrepancies between observed and predicted values for the F<SUB>2</SUB> and the two backcrosses. The apparent overdominance of the F<SUB>1</SUB> was not 
+significant. In an analysis of activity-wheel data, Bruell (
+<A HREF="#ref33-22">1962</A>) compared raw scores, square root scores, and logarithmic scores for additivity, finding only the log scale to be adequate. He was unable to achieve 
+homogeneity of variance among P<SUB>1</SUB>, P<SUB>2</SUB>, and F<SUB>1</SUB>. Bruell also analyzed time to climb down a pole in a similar manner.
+
+<P>Physiological studies have sometimes indicated than inbred strains may be more variable than their F<SUB>1</SUB> hybrids. Mordkoff and Fuller (
+<A HREF="#ref33-129">1959</A>) studied variability in activity in stocks C57BL/6J, DBA/2J, B6D2F<SUB>1</SUB>, and DX (a 4-way cross of strains C57BL/6J, DBA/2J, BALB/cJ, and C3HeB/FeJ; 
+<A HREF="#ref33-65">Green, 1964</A>). A reduced variability in hybrids was or was not shown, depending upon the measure used. Ranked from highest to lowest in variability between 
+animals within a group, the order was C57BL/6J, DX, B6D2F<SUB>1</SUB>, and DBA/2J. However, the coefficient of variation (<I>s</I>/<I>x</I>) being used, they ranked 
+C57BL/6J, DBA/2J, B6D2F<SUB>1</SUB>, and DX. Reduced variability in hybrids has been hypothesized to be due to better developmental homeostasis &#151; higher stability 
+resulting from more biochemical and physiological versatility in the developing young heterozygous animal. Morkoff and Fuller raised the question of whether developmental 
+homeostasis would have the same meaning for behavior, suggesting that behavioral variability might produce better homeostasis. There is clearly need for careful distinction 
+between homeostatic mechanisms and their consequences. A later study by Schlesinger and Mordkoff (
+<A HREF="#ref33-140">1963</A>) measured both locomotor activity and oxygen consumption in strains C57BL/6J, DBA/2J, and the F<SUB>1</SUB>. They interpreted their results as 
+showing less variability among F<SUB>1</SUB> animals on both measures.
+
+<P>Observations on the inheritance of seizure susceptibility in mice illustrate how polygenic systems, environmental effects, and choice of scale may combine to affect 
+the results of an analysis. Fuller <I>et al.</I> (
+<A HREF="#ref33-60">1950</A>) selected strain DBA/2J (extremely susceptible to convulsions) and strain C57BL/6J (highly resistant) as parental stocks. Also tested were the 
+F<SUB>1</SUB>, F<SUB>2</SUB>, and backcrosses. The measure was risk of convulsion during a 2-minute period of bell ringing. Particularly striking was the difference 
+in seizure incidence between the original (32 per cent) and replicated (74 per cent) F<SUB>1</SUB> groups.
+
+<P>Fuller <I>et al.</I> (
+<A HREF="#ref33-60">1950</A>) assumed that a threshold model would account for their results. Two things are important in understanding the model: (1) the general nature of 
+audiogenic seizures and (2) the measure sued. Seizures result in some manner from massive discharges of central nervous system neurons produced by the cumulative effects 
+of impulses entering auditory nerves. Differences in seizure susceptibility presumably reflect a continuum of differences in the rate of accumulation and dissipation of 
+the effects of stimulation. Some mice convulse quickly during a test, others slowly; some severely, others lightly; some show great excitement without convulsing, others 
+are overtly unresponsive. Because of problems of reliability and scaling, the phenotypic measure generally used is dichotomous. That is, animals either do or do not convulse.
+
+<P>Fuller <I>et al.</I> (
+<A HREF="#ref33-60">1950</A>) proposed that the genotype of DBA/2 led to a phenotype almost always seizure susceptible and that of C57BL/6 to one almost always resistant. The 
+F<SUB>1</SUB> genotype produced an intermediate phenotype leading to a seizure only with an environmental push. 
+<a href="javascript:windowf3311 = window.open('../figures/figure33-11.shtml', 'windowf3311', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3311.focus()">Figure 33-11</A> 
+illustrates what might have happened if the two F<SUB>1</SUB> groups were reared or tested under somewhat different environmental conditions. It is important to remember 
+that a phenotype characterized as being in one of two classes may be polygenically determined and that results of a genetic analysis are determined in part by the scale used.
+
+<P><B><I>Crosses, intercrosses, and backcrosses</I>.</B> As we have seen, the simplest quantitative model for any behavioral phenotype is that it is an additive 
+function of heredity and environment. By use of this model and some basic statistical concepts of multiple-gene action, it is possible (1) to estimate the relative 
+determinations of phenotype by genotype and (2) to make generalizations concerning the average contributions of genes from one parental stock as contrasted with those 
+issuing from others.
+
+<P>McClearn (
+<A HREF="#ref33-117">1961</A>) crossed strains C57BL and A, intercrossed the resulting F<SUB>1</SUB> to produce an F<SUB>2</SUB>, and backcrossed the F<SUB>1</SUB> to 
+both parental stocks. The phenotype measured was number of squares traversed in an open field in a 3-minute period. Means of square root transforms, required 
+to obtain homogeneity of variance among parental and hybrid stocks, are presented in 
+<a href="javascript:windowt3306 = window.open('../tables/table33-6.shtml', 'windowt3306', 'width=650,height=450,resizable=yes,scrollbars=yes'); windowt3306.focus()">Table 33-6</A>. 
+Deviation of the F<SUB>1</SUB> mean from the midpoint value of 7.45 indicated dominance of C57BL genes over those from strain A for this phenotype. Note that 
+the ranking of groups corresponded generally to the percentage of C57BL genes present. The relative contribution of the genetic factor &#151; heritability in 
+the broad sense &#151; was estimated by measuring the variability in the parental and F<SUB>1</SUB> groups (in all of which variability between animals within 
+stocks was presumably environmental in origin) and subtracting that value from the observed variability of the F<SUB>2</SUB>'s (in which both genetic and 
+environmental sources of difference between individuals were operating). The ratio of residual genetic variability of the F<SUB>2</SUB>'s to their total 
+observed variability was 0.69, indicating a rather high degree of genetic determination. A variety of related analyses were performed by McClearn and Rodgers (
+<A HREF="#ref33-120">1961</A>) in their studies of alcohol preference, by McClearn (
+<A HREF="#ref33-115">1959</A>) in his study of exploratory behavior, and by Fuller and Thompson (
+<A HREF="#ref33-62">1960</A>, p. 268) for activity. Heritabilities computed from crosses between inbred lines should not be used to estimate heritabilities in natural 
+populations of unknown genetic diversity. Their greatest value is to guide experimenters to model systems which are promising for the analysis of genetic processes by a variety 
+of methods.
+
+<P>Another quantitative technique is the diallel cross (Chapters 
+<A HREF="chapter2.shtml">2</A>, 
+<A HREF="chapter9.shtml">9</A>). In this technique, <I>k</I> strains are crossed in all possible combinations to produce <I>k</I> (<I>k</I> - 1) hybrids, and 
+phenotypic measures are taken on members of all groups. From the resulting <I>k</I> x <I>k</I> matrix of all phenotypic values classified by genotype, it is 
+possible to assess (1) the general contribution (general combining ability) of genes from a specific parental strain when combined in hybrids with genes from 
+all other strains, and (2) detect deviations (specific combining ability) from this general contribution occurring in specific crosses. Fuller (
+<A HREF="#ref33-58">1964</A>) applied this technique to the study of genetic factors in alcohol preference. The phenotypic values of parental stocks and hybrids are shown in 
+<a href="javascript:windowf3312 = window.open('../figures/figure33-12.shtml', 'windowf3312', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3312.focus()">Figure 33-12</A>. 
+The parental strains differed significantly among themselves, and the analysis to evaluate the differences in general and specific combining ability as measured 
+in the hybrids showed both factors to be significant. Genes from the two extreme strains, C57Bl/6J and DBA/2J, had consistent effects of raising or lowering 
+alcohol preference scores, whereas genes from strains A/J and C3HeB/FeJ had negligible general combining ability. For example, hybrids of A/J resulting from 
+a cross with low-preference DBA/2J mice were like DBA/2J, hybrids from a cross with high-preference C57BL/6J mice were like C57BL/6J, and those from a cross 
+with C3HeB/FeJ were almost identical with A/J. The dangers in generalizing from one specific cross are evident.
+
+<P>Bruell has related degree of heterosis or dominance observed in the F<SUB>1</SUB> to closeness of relation of parental strains. His stocks consisted of 
+31 F<SUB>1</SUB> hybrid groups produced from 13 parent strains, some of which were unrelated, moderately related, or related as sublines of a single strain. Bruell (
+<A HREF="#ref33-24">1964<I>a</I></A>, 
+<A HREF="#ref33-25">1964<I>b</I></A>) measured exploration of a strange environment and running in activity wheels. Hybrids typically explored more 
+and were more active in activity wheels. Furthermore, the degree of superiority of the hybrids over the parental strains <I>increased</I> as relatedness of the 
+parental strains <I>decreased</I> (
+<a href="javascript:windowf3313 = window.open('../figures/figure33-13.shtml', 'windowf3313', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf3313.focus()">Figure 33-13</A>). 
+Bruell (
+<A HREF="#ref33-26">1965</A>) also measured latency of descent from a pole and emergence from a dark tunnel into an open field. Mode of inheritance for these activities 
+tended to be intermediate. Barnett and Scott (
+<A HREF="#ref33-10">1964</A>) suggested that mode of inheritance in the F<SUB>1</SUB> hybrid depends upon the adaptive significance of the behavior, heterotic inheritance 
+being observed most often in behavior having homeostatic function. Bruell's (
+<A HREF="#ref33-24">1964<I>a</I></A>) position is similar.
+
+<P><B>Selection</B>
+
+<P>Selection is an important but neglected technique for behavior geneticists. Parent-offspring correlations obtained during very early phases of selection 
+provide an estimate of heritability, and speed of response to selection provides a clue to the number of loci involved (
+<A HREF="chapter9.shtml">Chapter 9</A>). Examination of correlated responses to selection &#151; changes in brain size or cell density, size of adrenals, etc. &#151; 
+could provide important insights into the mechanisms underlying a behavior pattern. Once phenotypically extreme stocks have been produced, they may be of value for a variety of purposes.
+
+<P>The power of selection as a tool for understanding the mechanisms underlying a behavior pattern is amply demonstrated in a study concerned with audiogenic 
+seizures &#151; a response to intense auditory stimulation characterized by running, convulsion, and death in highly susceptible mice. Frings and Frings (
+<A HREF="#ref33-57">1953</A>) selected separate lines for (1) high incidence of clonic-tonic seizures but low death rate, (2) high clonic seizure incidence, (3) low seizure 
+susceptibility, and (4) susceptibility over a restricted age range. Results of selection indicated separate genetic control for age of susceptibility, severity of 
+seizure, and resistance to death during seizure.
+
+<P>Two other behavioral studies have used the mouse: Dawson (
+<A HREF="#ref33-37">1932</A>) selected for running speed in a runway, and Lagerspetz (
+<A HREF="#ref33-95">1964</A>) developed strains differing in aggressiveness.
+
+<P><B>Multivariate phenotype</B>
+
+<P>It is likely that genetically diverse stocks such as different inbred strains of mice will be behaviorally diverse for a variety of activities. Vanderpool and Davis (
+<A HREF="#ref33-168">1962</A>) employed a time-sampling technique to study the frequencies and durations of seven classes of orienting behavior in strains 
+C57BL/6J, BALB/cJ, and DBA/2J. A variety of strain differences and similarities emerged.
+
+<P>Survey procedures have also been applied to identify behavioral differences associated with specific genetic loci. Thus, van Abeelen (
+<A HREF="#ref33-164">1963<I>a</I></A>, 
+<A HREF="#ref33-165">1963<I>b</I></A>, 
+<A HREF="#ref33-166">1963<I>c</I></A>) applied ethological techniques, using an inventory of behavioral elements, including staring at the observer, hair fluffing, tail rattling, 
+sniffing, reconnoitering, eating, digging, grooming, shaking the fur, wrestling, submissive posture, mounting, and many others. He reported, for example, that stocks carrying 
+pink-eyed dilution (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank">p</A></I>, I) stared at the observer less and groomed their fur more. Stocks carrying jerker (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856573" target="_blank">je</A></I>, XII) displayed clearly disturbed exploratory and 
+aggressive behavior. Frequency of eating was not affected, but the eating posture was different.
+
+<P>Survey techniques have considerable potential value. First, they provide a profile of differences on a variety of activities. Second, they may identify specific activities 
+and patterns of activities with higher heritabilities than those typically studied. A variety of multivariate statistical techniques useful in analysis are now available and practical (
+<A HREF="#ref33-34">Cooley and Lohnes, 1962</A>; 
+<A HREF="#ref33-85">Kendall, 1961</A>).
+
+<P><B>SUMMARY</B>
+
+<P>Decades of labor by geneticists have made available an extremely wide variety of genetically controlled mouse stocks. No such diversity exists in any other animal species except 
+the fruit flies. There is a large body of detailed and behaviorally relevant genetic, anatomical, physiological, and biochemical knowledge concerning these mouse stocks. Further, 
+as shown in early sections of this chapter, experience with apparatus and techniques for behavioral studies is substantial.
+
+<P>Though the presentation was expressly intended for behavior geneticists, the house mouse should be of interest to many different kinds of behaviorists. General experimental 
+psychologists who seek behavioral laws applying across organisms should find value in both the genetic uniformity within inbred strains and the genetic variability between them. 
+Uniformity within strains has the special advantage that observed differences among individuals are presumably environmental in origin, so that one has a genetically "noiseless" 
+system in which to evaluate the consequences of experiential treatments. Genetic variability between strains offers the possibility of repeating treatments across genotypes as a 
+reasonable first step to estimating their generality. Physiological psychologists will find a wide range of anatomical characteristics among standard inbred strains. Some effects 
+produced by mutant genes &#151; for example, retinal degeneration (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856373" target="_blank">rd</A></I>) &#151; can probably not be copied by any experimental treatment (
+<A HREF="chapter32.shtml">Chapter 32</A>).
+
+<P>Interest in the behavior of mice is not restricted to behaviorists. Biological problems in such fields as reproductive physiology and possibly resistance to cancer have been 
+found to have psychological aspects. The mouse has been exploited rather extensively by neurochemists, though little advantage has been taken of the genetic diversity within the 
+species. If this is remedied, psychochemistry may come to depend upon the cooperation of behaviorists, chemists, and laboratory mice. It should be noted that psychotropic drug 
+assay and screening procedures make use of large numbers of mice, generally of unrecorded ancestry.
+
+<P>A final comment is required to place the genetic and environmental determinants of behavioral phenotype in proper perspective. Our writing has, as a matter of convenience and 
+clarity of exposition and as a reflection of our own interests and those of the anticipated readers, placed great and oversimplified emphasis on genetic determinants of behavior. 
+Let us set the record straight: Just as it is impossible to conceive of an organism without a genotype, so it is also impossible to conceive of one which does not develop and is 
+not maintained and tested in some environment. Some of the genetically associated differences in behavior reported may originate in differences in the pre- and postnatal environments 
+which the different stocks afford (Ressler, 
+<A HREF="#ref33-132">1962</A>, 
+<A HREF="#ref33-133">1963</A>). Both direction and degree of other genetically associated differences may depend upon more general experimenter-controlled conditions of maintenance (
+<A HREF="#ref33-35">Cooper and Zubeck, 1958</A>; 
+<A HREF="#ref33-103">Lieberman, 1963</A>) and test (
+<A HREF="#ref33-116">McClearn, 1960</A>).
+
+<P>We firmly believe that conceptions of behavior not jointly determined by heredity <I>and</I> environment are absurd (
+<A HREF="#ref33-128">Moltz, 1965</A>). More-traditional psychologists have been criticized for failure to pay adequate attention to genetic factors in behavior. Behavior 
+geneticists potentially run the opposite risk. Intelligently united, both approaches will increase our understanding of behavior.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grant MH 01775 from National Institute of Mental Health.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref33-1"></A>
+<P>Anliker, J., and J. Mayer. 1956. 
+An operant conditioning technique for studying feeding-fasting patterns in normal and obese mice. 
+J. Appl. Physiol. <B>8:</B> 667-670.
+<!-- 13331857 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13331857" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-2"></A>
+<P>Antalfi, S. 1963. 
+Biological determination of the intensity of the alarm reaction in house mice. 
+J. Comp. Physiol. Psychol. <B>56:</B> 889-891.
+<!-- 14050182 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14050182" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-3"></A>
+<P>Banks, E.M. 1962. 
+A time and motion study of prefighting behavior in mice. 
+J. Genet. Psychol. <B>101:</B> 165-183.
+<!-- 13966388 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13966388" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-4"></A>
+<P>Barnes, G.W., and A. Baron. 1961. 
+The effect of sensory reinforcement on extinction behavior. 
+J. Comp. Physiol. Psychol. <B>54:</B> 461-465.
+<!-- 13687101 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13687101" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-5"></A>
+<P>Barnes, G.W., and G.B. Kish. 1957. 
+Reinforcing properties of the termination of intense auditory stimulation. 
+J. Comp. Physiol. Psychol. <B>50:</B> 40-43.
+<!-- 13406137 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13406137" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-6"></A>
+<P>Barnes, G.W., and G.B. Kish. 1961. 
+Reinforcing properties of the onset of auditory stimulation. 
+J. Exp. Psychol. <B>62:</B> 164-170.
+<!-- 13687102 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13687102" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-7"></A>
+<P>Barnes, G.W., G.B. Kish, and W.O. Wood. 1959. 
+The effect of light intensity when onset or termination of illumination is used as reinforcing stimulus. 
+Psychol. Re. <B>9:</B> 53-60.
+<!-- 13549975 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13549975" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-8"></A>
+<P>Barnett, S.A. 1956. 
+Endothermy and ectothermy in mice at - 3&#176C. 
+J. Exp. Biol. <B>33:</B> 124-133.
+
+<A NAME="ref33-9"></A>
+<P>Barnett, S.A. 1959. 
+The skin and hair of mice living at a low environmental temperature. 
+Quart. J. Exp. Physiol. <B>44:</B> 35-42.
+<!-- 13624011 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13624011" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-10"></A>
+<P>Barnett, S.A., and S.G. Scott. 1964. 
+Behavioral "vigor" in inbred and hybrid mice. 
+Anim. Behav. <B>12:</B> 325-337.
+
+<A NAME="ref33-11"></A>
+<P>Baron, A., J.J. Antonitis, and S.F. Schell. 1962. 
+Effects of early restriction and facilitation of climbing on later climbing behavior in mice. 
+J. Comp. Physiol. Psychol. <B>55:</B> 808-812.
+<!-- 13969428 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13969428" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-12"></A>
+<P>Baron, A., and G.B. Kish. 1962. 
+Low-intensity auditory and visual stimuli as reinforcers for the mouse. 
+J. Comp. Physiol. Psychol. <B>55:</B> 1011-1013.
+<!-- 13969429 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13969429" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-13"></A>
+<P>Bauer, F.J. 1956. 
+Genetic and experimental factors affecting social reaction in male mice. 
+J. Comp. Physiol. Psychol. <B>49:</B> 359-364.
+<!-- MGI:75323 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75323" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-14"></A>
+<P>Beeman, E.A. 1947. 
+The effect of male hormone on aggressive behavior in mice. 
+Physiol. Zool. <B>20:</B> 373-405.
+
+<A NAME="ref33-15"></A>
+<P>Bell, R.W., and V.H. Denenberg. 1963. 
+The interrelationships of shock and critical periods in infancy as they affect adult learning and activity. 
+Anim. Behav. <B>11:</B> 21-27.
+
+<A NAME="ref33-16"></A>
+<P>Beniest-Noirot, E. 1958. 
+Analyse du comportement dit maternal chez la souris. 
+Cent. Nat. Rech. Sci. Monogr. Franc. Psychol. No. 1.
+
+<A NAME="ref33-17"></A>
+<P>Beven, J.M., W. Bevan, and B.F. Williams. 1958. 
+Spontaneous aggressiveness in young castrate C3H male mice treated with three dose levels of testosterone. 
+Physiol. Zool. <B>31:</B> 284-288.
+
+<A NAME="ref33-18"></A>
+<P>Bevan, W., W.F. Daves, and G.W. Levy. 1960. 
+The relation of castration, androgen therapy and pretest fighting experience to competitive aggression in male C57BL/10 mice. 
+Anim. Behav. <B>8:</B> 6-12.
+
+<A NAME="ref33-19"></A>
+<P>Broadhurst, P.L., and J.L. Jinks. 1963. 
+The inheritance of mammalian behavior re-examined. 
+J. Hered. <B>54:</B> 170-176.
+<!-- 14057866 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14057866" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-20"></A>
+<P>Bronson, F.H. 1963. 
+Density, subordination and social timidity in peromyscus and C57BL/10J mice. 
+Anim. Behav. <B>11:</B> 475-479.
+
+<A NAME="ref33-21"></A>
+<P>Bronson, F.H., and B.E. Eleftheriou. 1963. 
+Adrenal responses to crowding in Peromyscus and C57BL/10J mice. 
+Physiol. Zool. <B>36:</B> 161-166.
+
+<A NAME="ref33-22"></A>
+<P>Bruell, J.H. 1962. 
+Dominance and segregation in the inheritance of quantitative behavior in mice, p. 48-67. 
+<I>In</I> E.L. Bliss [ed.] <I>Roots of Behavior</I>. Hoeber-Harper, New York.
+
+<A NAME="ref33-23"></A>
+<P>Bruell, J.H. 1963. 
+Emotional defecation in mice, a territory marking response. 
+Amer. Psychol. <B>17:</B> 445. (Abstr.)
+
+<A NAME="ref33-24"></A>
+<P>Bruell, J.H. 1964<I>a</I>. 
+Inheritance of behavioral and psychological characters of mice and the problem of heterosis. 
+Amer. Zool. <B>4:</B> 125-138.
+<!-- MGI:71233 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71233" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-25"></A>
+<P>Bruell, J.H. 1964<I>b</I>. 
+Heterotic inheritance of wheel-running in mice. 
+J. Comp. Physiol. Psychol. <B>58:</B> 159-163.
+<!-- 14215383 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14215383" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-26"></A>
+<P>Bruell, J.H. 1965. 
+Mode of inheritance of response time in mice. 
+J. Comp. Physiol. Psychol. <B>60:</B> 147-148.
+<!-- 14334234 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14334234" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-27"></A>
+<P>Caldwell, D.F. 1962. 
+Effects of adrenal demedulation on  retention of a conditioned avoidance response in the mouse. 
+J. Comp. Physiol. Psychol. <B>55:</B> 1079-1081.
+<!-- 14017849 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14017849" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-28"></A>
+<P>Carran, A.B., L.T. Yendall, and J. R. Royce. 1964. 
+Voltage level and skin resistance in avoidance conditioning of inbred strains of mice. 
+J. Comp. Physiol. Psychol. <B>58:</B> 427-430.
+<!-- 14241059 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14241059" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-29"></A>
+<P>Catlett, R.H. 1961. 
+An evaluation of methods for measuring fighting behavior with special reference to <I>Mus musculus</I>. 
+Anim. Behav. <B>9:</B> 8-10.
+
+<A NAME="ref33-30"></A>
+<P>Chitty, D., and H.N. Southern [ed.] 1954. 
+<I>Control of Rats and Mice. Vol. 3. House Mice</I>. Oxford, London. 240 p.
+
+<A NAME="ref33-31"></A>
+<P>Christian, J.J. 1955. 
+Effect of population size on the adrenal glands and reproductive organs of male mice in populations of fixed size. 
+Amer. J. Physiol. <B>182:</B> 292-301.
+<!-- 13258805 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13258805" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-32"></A>
+<P>Coleman, D.L. 1960. 
+Phenylalanine hydroxylase activity in dilute and nondilute strains of mice. 
+Arch. Biochem. Biophys. <B>91:</B> 300-306.
+<!-- 13694597 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13694597" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-33"></A>
+<P>Coleman, D.L., and K. Schlesinger. 1965. 
+The effects of pyridoxine deficiency on audiogenic seizure susceptibility in inbred mice. 
+Proc. Soc. Exp. Biol. Med. <B>119:</B> 264-266.
+<!-- 14297866 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14297866" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-34"></A>
+<P>Cooley, W.W., and P.R. Lohnes. 1962. 
+<I>Multivariate Procedures for the Behavioral Sciences</I>. 
+Wiley, New York. 211 p.
+
+<A NAME="ref33-35"></A>
+<P>Cooper, R.M., and J.P. Zubeck. 1958. 
+Effects of enriched and restricted early environments on the learning ability of bright and dull rats. 
+Can. J. Psychol. <B>12:</B> 159-164.
+<!-- 13573245 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13573245" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-36"></A>
+<P>Davis, W.M. 1962. 
+Day-night periodicity in pentobarbital response of mice and the influence of socio-psychological conditions. 
+Experientia <B>18:</B> 235-237.
+<!-- 13883977 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13883977" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-37"></A>
+<P>Dawson, W.M. 1932. 
+Inheritance of wildness and tameness in mice. 
+Genetics <B>17:</B> 296-326.
+<!-- 17246653 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17246653" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-38"></A>
+<P>Denenberg, V.H. 1958. 
+Effects of age and early experience upon conditioning in the C57BL/10 mouse. 
+J. Psychol. <B>46:</B> 211-226.
+
+<A NAME="ref33-39"></A>
+<P>Denenberg, V.H. 1959<I>a</I>. 
+Interactive effects of infantile and adult shock levels upon learning. 
+Psychol. Rep. <B>5:</B> 357-364.
+
+<A NAME="ref33-40"></A>
+<P>Denenberg, V.H. 1959<I>b</I>. 
+Learning differences in two separated lines of mice. 
+Science <B>130:</B> 451-452.
+<!-- 13675770 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13675770" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-41"></A>
+<P>Denenberg, V.H. 1960. 
+A test of the critical period hypothesis and a further study of the relationship between age and conditioning in the C57BL/10 mouse. 
+J. Genet. Psychol. <B>97:</B> 379-384.
+
+<A NAME="ref33-42"></A>
+<P>Denenberg, V.H., and R.W. Bell. 1959. 
+Relationships between social reactions and avoidance conditioning. 
+Physiol. Zool. <B>32:</B> 51-56.
+
+<A NAME="ref33-43"></A>
+<P>Denenberg, V.H., and R.W. Bell. 1960. 
+Critical periods for the effects of infantile experience on adult learning. 
+Science <B>131:</B> 227-228.
+<!-- 13815894 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13815894" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-44"></A>
+<P>Denenberg, V.H., G.A. Hudgens, and M.X. Zarrow. 1964. 
+Mice reared with rats: modification of behavior by early experience with another species. 
+Science <B>143:</B> 380-381.
+<!-- 14074860 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14074860" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-45"></A>
+<P>Denenberg, V.H., J.A. King, and D.W. Ehrenfeld. 1958. 
+Effects of testosterone propionate on the avoidance learning of male C57BL/6 mice. 
+Physiol. Zool. <B>31:</B> 244-247.
+
+<A NAME="ref33-46"></A>
+<P>Denenberg, V.H., S. Ross, and M. Blumenfield. 1963. 
+Behavioral differences between mutant and non-mutant mice. 
+J. Comp. Physiol. Psychol. <B>56:</B> 290-293.
+<!-- 14026972 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14026972" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-47"></A>
+<P>Doner, R.D., C. Inman, and R.T. Davis. 1952. 
+Competitive behavior between inbred strains of mice. 
+Proc. S.D. Acad. Sci. <B>31:</B> 172-176.
+
+<A NAME="ref33-48"></A>
+<P>Ekstr&#246;m, N.A., and F. Sandberg. 1962. 
+A method for quantitative determination of the inhibitory effect on the conditioned avoidance response in mice. 
+Drug Res. <B>12:</B> 1208-1209.
+
+<A NAME="ref33-49"></A>
+<P>Elton, C. 1942. 
+<I>Voles, Mice, and Lemmings.</I> 
+Oxford, London. 496 p.
+
+<A NAME="ref33-50"></A>
+<P>Essman, W.B., and H. Alpern. 1964. 
+Single trial conditioning: methodology and results with mice. 
+Psychol. Rep. <B>14:</B> 731-740.
+
+<A NAME="ref33-51"></A>
+<P>Essman, W.B., and M.E. Jarvik. 1961<I>a</I>. 
+A water-escape test for mice. 
+Psychol. Rep. <B>8:</B> 58.
+
+<A NAME="ref33-52"></A>
+<P>Essman, W.B., and M.E. Jarvik. 1961<I>b</I>. 
+Impairment of retention for a conditioned response by ether anesthesia in mice. 
+Psychopharmacologia <B>2:</B> 172-176.
+<!-- 13697426 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13697426" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-53"></A>
+<P>Fredericson, E. 1950. 
+The effects of food deprivation upon competitive and spontaneous combat in C57 black mice. 
+J. Psychol. <B>29:</B> 89-100.
+<!-- 15400147 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15400147" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-54"></A>
+<P>Fredericson, E. 1952. 
+Aggressiveness in female mice. 
+J. Comp. Physiol. Psychol. <B>45:</B> 254-257.
+<!-- 14946271 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14946271" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-55"></A>
+<P>Fredericson, E., and E.A. Birnbaum, 1954. 
+Competitive fighting between mice with different hereditary backgrounds. 
+J. Genet. Psychol. <B>85:</B> 271-280.
+<!-- 13221789 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13221789" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-56"></A>
+<P>Fredericson, E., C.D. Fink, and J.R. Parker. 1955. 
+Elicitation and inhibition of competitive fighting in food deprived mice. 
+J. Genet. Psychol. <B>86:</B> 131-141.
+<!-- 14354162 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14354162" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-57"></A>
+<P>Frings, H., and M. Frings. 1953. 
+The production of stocks of albino mice with predictable susceptibilities to audiogenic seizures. 
+Behavior <B>5:</B> 305-319.
+<!-- MGI:73070 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73070" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-58"></A>
+<P>Fuller, J.L. 1964. 
+Measurements of alcohol preference in genetic experiments. 
+J. Comp. Physiol. Psychol. <B>57:</B> 85-88.
+<!-- MGI:75496 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75496" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-59"></A>
+<P>Fuller, J.L., R.M. Chambers, and R.P. Fuller. 1956. 
+Effects of cortisone and of adrenalectomy on activity and emotional behavior of mice. 
+Psychosomat. Med. <B>18:</B> 234-242.
+<!-- 13323180 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13323180" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-60"></A>
+<P>Fuller, J.L., C. Easler, and M.E. Smith. 1950. 
+Inheritence of audiogenic seizure susceptibility in the mouse. 
+Genetics <B>35:</B> 622-632.
+<!-- 14793707 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14793707" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-61"></A>
+<P>Fuller, J.L., and G.A. Jacoby, Jr. 1955. 
+Central and sensory control of food intake in genetically obese mice. 
+Amer. J. Physiol. <B>183:</B> 279-283.
+<!-- 13268677 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13268677" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-62"></A>
+<P>Fuller, J.L., and W.R. Thompson. 1960. 
+<I>Behavior Genetics</I>. 
+Wiley, New York. 396 p.
+
+<A NAME="ref33-63"></A>
+<P>Ginsburg, B., and W.C. Allee. 1942. 
+Some effects of conditioning on social dominance and subordination in inbred strains of mice. 
+Physiol. Zool. <B>15:</B> 485-506.
+
+<A NAME="ref33-64"></A>
+<P>Grant, E.C., and J.H. Mackintosh. 1963. 
+A comparison of the social postures of some common laboratory rodents. 
+Behavior <B>21:</B> 246-259.
+
+<A NAME="ref33-65"></A>
+<P>Green, E.L. 1964. 
+Fitness of populations of irradiated mice: plan of experiments. 
+Genetics <B>50:</B> 417-421.
+<!-- 14207707 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14207707" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-66"></A>
+<P>Halberg, F., J.J. Bittner, R.J. Gully, P.G. Albrecht, and E.L. Brackney. 1955. 
+24-hour periodicity and audiogenic convulsions in mice of various ages. 
+Proc. Soc. Exp. Biol. Med. <B>88:</B> 169-173.
+<!-- 14357377 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14357377" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-67"></A>
+<P>Halberg, F., E. Jacobsen, G. Wadsworth, and J.J. Bittner. 1958. 
+Audiogenic abnormality spectra, twenty-four hour periodicity, and lighting. 
+Science <B>128:</B> 657-658.
+<!-- 13580232 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13580232" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-68"></A>
+<P>Halberg, R., R.E. Peterson, and R.H. Silber. 1959. 
+Phase relations of 24-hour periodicities in blood corticosterone, mitoses in cortical adrenal parenchyma, and total body activity. 
+Endocrinology <B>64:</B> 222-230.
+
+
+<A NAME="ref33-69"></A>
+<P>Hall, C.S., and P.H. Whiteman. 1951. 
+The effects of infantile stimulation upon later emotional stability in the mouse. 
+J. Comp. Physiol. Psychol. <B>44:</B> 61-66.
+<!-- 14814241 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14814241" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-70"></A>
+<P>Hall, M.J. 1959. 
+The effects of early infantile experiences on maze learning in the mouse. 
+Proc. W. Va. Acad. Sci. <B>31:</B> 79-82.
+<!-- 13710798 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13710798" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-71"></A>
+<P>Harner, R.N. 1961. 
+Electrocorticography and frequency analysis in mice; circadian periodicity in electrocerebral activity. 
+Electroenceph. Clin. Neurophysiol. <B>13:</B> 752-761.
+
+<A NAME="ref33-72"></A>
+<P>Hauschka, T.S. 1952<I>a</I>. 
+Whisker-eating mice. 
+J. Hered. <B>43:</B> 77-80.
+<!-- MGI:74909 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74909" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-73"></A>
+<P>Hauschka, T.S. 1952<I>b</I>. 
+Mutilation patterns and hereditary cannibalism in mice. 
+J. Hered. <B>43:</B> 117-123.
+<!-- MGI:71249 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71249" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-74"></A>
+<P>Hollifield, G., W. Parson, and K.R. Crispell. 1955. 
+Studies of food drive and satiety in mice with gold thioglucose-induced obesity and the hereditary obesity-diabetes syndrome. 
+Metabolism <B>4:</B> 537-541.
+<!-- 13272598 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13272598" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-75"></A>
+<P>Hoshishima, K., S. Yokoyama, and K. Seto. 1962. 
+Taste sensitivity in various strains of mice. 
+Amer. J. Physiol. <B>202:</B> 1200-1204.
+<!-- 14449173 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14449173" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-76"></A>
+<P>Huff, S.D., and J. L. Fuller. 1964. 
+Audiogenic seizures, the dilute locus, and phenylalanine hydroxylase in DBA/1 mice. 
+Science <B>144:</B> 304-305.
+<!-- 14169720 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14169720" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-77"></A>
+<P>Huff, S.D., and R.L. Huff. 1962. 
+Dilute locus and audiogenic seizures in mice. 
+Science <B>136:</B> 318-319.
+<!-- 14449750 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14449750" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-78"></A>
+<P>Hummel, K.P. 1960. 
+Pituitary lesions in mice of the Marsh strains. 
+Anat. Rec. <B>137:</B> 366. (Abstr.)
+
+<A NAME="ref33-79"></A>
+<P>Jacobs, B.B. 1962. 
+Propylthiouracil taste inheritance in mice. 
+J. Hered. <B>53:</B> 183-186.
+
+<A NAME="ref33-80"></A>
+<P>Janssen, P.A.J., A.H. Jageneau, and C.J.E. Niemegeers. 1960. 
+Effects of various drugs on isolation-induced fighting behavior of male mice. 
+J. Pharmacol. Exp. Therap. <B>129:</B> 471-475.
+<!-- 14406755 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14406755" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-81"></A>
+<P>Jarvik, M.E., and W.B. Essman. 1960. 
+A simple one-trial learning situation for mice. 
+Psychol. Rep. <B>6:</B> 290.
+
+<A NAME="ref33-82"></A>
+<P>Kahn, M.W. 1951. 
+The effects of severe defeat at various age levels on the aggressive behavior of mice. 
+J. Genet. Psychol. <B>79:</B> 117-130.
+<!-- 14880682 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14880682" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-83"></A>
+<P>Keeler, C.E. 1927. 
+Rodless retina, an ophthalmic mutation in the house mouse, <I>Mus musculus</I>. 
+J. Exp. Zool. <B>46:</B> 355-407.
+
+<A NAME="ref33-84"></A>
+<P>Keeler, C.E. 1928. 
+Blind mice. 
+J. Exp. Zool. <B>51:</B> 495-508.
+
+<A NAME="ref33-85"></A>
+<P>Kendall, M.G. 1961. 
+<I>Course in Multivariate Analysis, 2nd ed.</I> 
+Hafner, New York. 185 p.
+
+<A NAME="ref33-86"></A>
+<P>King, J.A. 1956. 
+Sexual behavior of C57BL/10 mice and its relation to early social experience. 
+J. Genet. Psychol. <B>88:</B> 223-229.
+<!-- 13406250 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13406250" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-87"></A>
+<P>King, J.A. 1957<I>a</I>. 
+Intra- and interspecific conflict of <I>Mus</I> and <I>Peromyscus</I>. 
+Ecology <B>38:</B> 355-357.
+
+<A NAME="ref33-88"></A>
+<P>King, J.A. 1957<I>b</I>. 
+Relationships between early social experience and adult aggressive behavior in inbred mice. 
+J. Genet. Psychol. <B>90:</B> 151-166.
+<!-- 13449290 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13449290" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-89"></A>
+<P>King, J.A., and H. Cannon. 1955. 
+Effects of social relationships upon mortality in C57BL/10 mice. 
+Physiol. Zool. <B>28:</B> 233-239.
+
+<A NAME="ref33-90"></A>
+<P>King, J.A., and N.L. Gurney. 1954. 
+Effect of early social experience on adult aggressive behavior in C57BL/10 mice. 
+J. Comp. Physiol. Psychol. <B>47:</B> 326-330.
+<!-- 13192229 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13192229" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-91"></A>
+<P>King, J.A., and A. Mavromatis. 1956. 
+The effect of a conflict situation on learning ability in two strains of inbred mice. 
+J. Comp. Physiol. Psychol. <B>49:</B> 465-468.
+<!-- 13376754 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13376754" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-92"></A>
+<P>King, J.T., Y.C.P. Lee, and M.B. Visscher. 1955. 
+Single versus multiple cage occupancy and convulsion frequency in C3H mice. 
+Proc. Soc. Exp. Biol. Med. <B>88:</B> 661-663.
+<!-- 14371733 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14371733" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-93"></A>
+<P>Kish, G.B. 1955. 
+Learning when the onset of illumination is used for reinforcing stimulus. 
+J. Comp. Physiol. Psychol. <B>48:</B> 261-264.
+<!-- 13252153 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13252153" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-94"></A>
+<P>Kish, G.B., and A. Baron. 1962. 
+Satiation of sensory reinforcement. 
+J. Comp. Physiol. Psychol. <B>55:</B> 1007-1010.
+<!-- 14033071 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14033071" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-95"></A>
+<P>Lagerspetz, K. 1964. 
+Studies on the aggressive behaviour of mice. 
+Ann. Acad. Sci. Fenn. B <B>131:</B> 1-13.
+
+<A NAME="ref33-96"></A>
+<P>Lane, P.W., and M.M. Dickie. 1954. 
+Fertile, obese male mice. 
+J. Hered. <B>45:</B> 56-58.
+
+<A NAME="ref33-97"></A>
+<P>Leblond, C.P. 1940. 
+Nervous and hormonal factors in the maternal behavior of the mouse. 
+J. Genet. Psychol. <B>57:</B> 327-344.
+
+<A NAME="ref33-98"></A>
+<P>Leblond, C.P., and W.O. Nelson. 1937. 
+Maternal behavior in hypophysectomized male and female mice. 
+Amer. J. Physiol. <B>120:</B> 167-172.
+
+<A NAME="ref33-99"></A>
+<P>Les, E. 1958. 
+A study of the effects of single locus heterozygosity on traits which may have survival value in eight stocks of laboratory mice. 
+Ph.D. Diss. Ohio State Univ.
+
+<A NAME="ref33-100"></A>
+<P>Levine, L. 1958. 
+Studies on sexual selection in mice. I. Reproductive competition between albino and black-agouti males. 
+Amer. Natur. <B>92:</B> 21-26.
+
+<A NAME="ref33-101"></A>
+<P>Levine, L. 1963. 
+Factors affecting mating competition in mice, p. 249-250. 
+<I>In</I> S.J. Geerts [ed.] <I>Proc. XI Int. Congr. Genet. (The Hague, 1963) Vol. 1</I>. Pergamon Press, New York (Abstr.)
+
+<A NAME="ref33-102"></A>
+<P>Levine, S. 1959. 
+Emotionality and aggressive behavior in the mouse as a function of infantile experience. 
+J. Genet. Psychol. <B>94:</B> 77-83.
+<!-- 13641630 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13641630" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-103"></A>
+<P>Lieberman, M.W. 1963. 
+Early developmental stress and later behavior. 
+Science <B>141:</B> 824-825.
+<!-- 14045142 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14045142" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-104"></A>
+<P>Lindzey, G. 1951. 
+Emotionality and audiogenic seizure susceptibility in five inbred strains of mice. 
+J. Comp. Physiol. Psychol. <B>44:</B> 389-393.
+<!-- 14861319 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14861319" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-105"></A>
+<P>Lindzey, G., D.T. Lykken, and H.D. Winston. 1960. 
+Infantile trauma, genetic factors, and adult temperament. 
+J. Abnorm. Soc. Psychol. <B>61:</B> 7-14.
+<!-- 14417226 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14417226" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-106"></A>
+<P>Lindzey, G., and H. Winston. 1962. 
+Maze learning and effects of pretraining in inbred strains of mice. 
+J. Comp. Physiol. Psychol. <B>55:</B> 748-752.
+<!-- 13930849 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13930849" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-107"></A>
+<P>Lindzey, G., H. Winston, and M. Manosevitz. 1961. 
+Social dominance in inbred mouse strains. 
+Nature <B>191:</B> 474-476.
+<!-- 13762409 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13762409" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-108"></A>
+<P>Lipkow, J. 1960. 
+Die Begattung bei der weissen Maus. 
+Z. Tierpsychol. <B>17:</B> 182-187.
+
+<A NAME="ref33-109"></A>
+<P>Maren, T. 1952. 
+A summary of preliminary observations on genetically and chemically obese mice, p. 12-13. 
+<I>Conference on the Obese Mouse</I>. Roscoe B. Jackson Memorial Laboratory, Bar Harbor, Maine.
+
+<A NAME="ref33-110"></A>
+<P>Martin, G.M., D. Manring, and E.P. Benditt. 1960. 
+Experimental turpentine abscesses in aggressive and non-aggressive inbred strains of mice. 
+Fed. Proc. <B>19:</B> 20. (Abstr.)
+
+<A NAME="ref33-111"></A>
+<P>Martin, P.G., and H.G. Andrewartha. 1962. 
+Success in fighting of two varieties of mice. 
+Amer. Natur. <B>96:</B> 375-376.
+
+<A NAME="ref33-112"></A>
+<P>Mast, T.M., and N.W. Heimstra. 1962. 
+Prior social experience and amphetamine toxicity in mice. 
+Psychol. Rep. <B>11:</B> 809-812.
+
+<A NAME="ref33-113"></A>
+<P>Mather, K. 1949. 
+<I>Biometrical Genetics.</I> 
+Dover, New York. 158 p.
+
+<A NAME="ref33-114"></A>
+<P>McClearn, G.E. 1958. 
+Performance differences among mouse strains in a learning situation. 
+Amer. Psychol. <B>13:</B> 405. (Abstr.)
+
+<A NAME="ref33-115"></A>
+<P>McClearn, G.E. 1959. 
+The genetics of mouse behavior in novel situations. 
+J. Comp. Physiol. Psychol. <B>52:</B> 62-67.
+<!-- 13641467 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13641467" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-116"></A>
+<P>McClearn, G.E. 1960. 
+Strain differences in activity of mice: influence of illumination. 
+J. Comp. Physiol. Psychol. <B>53:</B> 142-143.
+
+<A NAME="ref33-117"></A>
+<P>McClearn, G.E. 1961. 
+Genotype and mouse activity. 
+J. Comp. Physiol. Psychol. <B>54:</B> 674-676.
+
+<A NAME="ref33-118"></A>
+<P>McClearn, G.E. 1965. 
+Genotype and mouse behavior, p. 795-805. 
+<I>In</I> S.J. Geerts [ed.] <I>Proc. XI Int. Congr. Genet</I>. (The Hague, 1963) Vol 3. Pergamon Press, New York.
+
+<A NAME="ref33-119"></A>
+<P>McClearn, G.E., and D.A. Rodgers. 1959. 
+Differences in alcohol preference among inbred strains of mice. 
+Quart. J. Stud. Alc. <B>20:</B> 691-695.
+
+<A NAME="ref33-120"></A>
+<P>McClearn, G.E., and D.A. Rodgers. 1961. 
+Genetic factors in alcohol preference of laboratory mice. 
+J. Comp. Physiol. Psychol. <B>54:</B> 116-119.
+
+<A NAME="ref33-121"></A>
+<P>McGill, T.E. 1962. 
+Sexual behavior in three inbred strains of mice. 
+Behaviour <B>19:</B> 341-350.
+
+<A NAME="ref33-122"></A>
+<P>McGill, T.E., and W.C. Blight. 1963<I>a</I>. 
+Effects of genotype on the recovery of sex drive in the male mouse. 
+J. Comp. Physiol. Psychol. <B>56:</B> 887-888.
+<!-- 14050181 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14050181" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-123"></A>
+<P>McGill, T.E., and W.C. Blight. 1963<I>b</I>. 
+The sexual behaviour of hybrid male mice compared with the sexual behavior of males of the inbred parent strains. 
+Anim. Behav. <B>11:</B> 480-483.
+
+<A NAME="ref33-124"></A>
+<P>Meier, G.W. 1964. 
+Differences in maze performances as a function of age and strain of house mice. 
+J. Comp. Physiol. Psychol. <B>58:</B> 418-422.
+<!-- 14241057 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14241057" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-125"></A>
+<P>Meier, G.W., and D.P. Foshee. 1963. 
+Genetics, age, and the variability of learning performances. 
+J. Genet. Psychol. <B>102:</B> 267-275.
+<!-- 13934536 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13934536" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-126"></A>
+<P>Meier, G.W., and D.P. Foshee; H.D. Winston and G. Lindzey. 1965. 
+Albinism and water escape performance in mice. 
+Science <B>147:</B> 307-308.
+<!-- 17788219 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17788219" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-127"></A>
+<P>Mirone, L. 1958. 
+The effect of ethyl alcohol on growth and voluntary consumption of alcohol by successive generations of mice. 
+Quart. J. Stud. Alc. <B>19:</B> 388-393.
+<!-- 13579166 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13579166" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-128"></A>
+<P>Moltz, H. 1965. 
+Contemporary instinct theory and the fixed action pattern. 
+Psychol. Rev. <B>72:</B> 27-47.
+<!-- 14296450 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14296450" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-129"></A>
+<P>Mordkoff, A.M., and J.L. Fuller. 1959. 
+Variability in activity within inbred and crossbred mice. 
+J. Hered. <B>50:</B> 6-8.
+
+<A NAME="ref33-130"></A>
+<P>Morgan, H.S. 1963. 
+The effects of food and darkness on learning in two inbred strains of mice. 
+M. A. Thesis. Cornell Univ.
+
+<A NAME="ref33-131"></A>
+<P>Pavlov, I.P. 1923. 
+New researches on conditioned reflexes. 
+Science <B>58:</B> 359-361.
+
+<A NAME="ref33-132"></A>
+<P>Ressler, R.H. 1962. 
+Parental handling in two strains of mice reared by foster parents. 
+Science <B>137:</B> 129-130.
+<!-- 14491572 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14491572" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-133"></A>
+<P>Ressler, R.H. 1963. 
+Genotype-correlated parental influences in two strains of mice. 
+J. Comp. Physiol. Psychol. <B>56:</B> 882-886.
+<!-- 14050180 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14050180" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-134"></A>
+<P>Rodgers, D.A., and G.E. McClearn. 1962<I>a</I>. 
+Mouse strain differences in preference for various concentrations of alcohol. 
+Quart. J. Stud. Alc. <B>23:</B> 26-33.
+<!-- 14493106 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14493106" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-135"></A>
+<P>Rodgers, D.A., and G.E. McClearn. 1962<I>b</I>. 
+Alcohol preference of mice, p. 68-95. 
+<I>In</I> E.L. Bliss [ed.] <I>Roots of Behavior</I>. Hoeber-Harper, New York.
+
+<A NAME="ref33-136"></A>
+<P>Ross, S., and W. Smith. 1953. 
+The hoarding behavior of the mouse. II. The role of deprivation, satiation, and stress. 
+J. Genet. Psychol. <B>82:</B> 299-307.
+<!-- 13096723 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13096723" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-137"></A>
+<P>Royce, J.R., and M. Covington. 1960. 
+Genetic differences in the avoidance conditioning of mice. 
+J. Comp. Physiol. Psychol. <B>53:</B> 197-200.
+
+<A NAME="ref33-138"></A>
+<P>Runner, M.N., and A. Gates. 1954. 
+Sterile, obese mothers. 
+J. Hered. <B>45:</B> 51-55.
+
+<A NAME="ref33-139"></A>
+<P>Schlesinger, K. 1964. 
+Genetic and biochemical determinants of alcohol preference and alcohol metabolism in mice. 
+Ph.D. Diss. Univ. California, Berkeley. 98 p.
+
+<A NAME="ref33-140"></A>
+<P>Schlesinger, K., and A.M. Mordkoff. 1963. 
+Locomotor activity and oxygen consumption: variability in two inbred strains of mice and their F<SUB>1</SUB> hybrids. 
+J. Hered. <B>54:</B> 177.
+<!-- 14057867 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14057867" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-141"></A>
+<P>Scott, J.P. 1944. 
+An experimental test of the theory that social behavior determines social organization. 
+Science <B>99:</B> 42-43.
+<!-- 17741328 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17741328" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-142"></A>
+<P>Scott, J.P. 1946. 
+Incomplete adjustment caused by frustration of untrained fighting mice. 
+J. Comp. Physiol. Psychol. <B>39:</B> 379-390.
+
+<A NAME="ref33-143"></A>
+<P>Scott, J.P. 1947. 
+"Emotional" behavior of fighting mice caused by conflict between weak stimulatory and weak inhibitory training. 
+J. Comp. Physiol. Psychol. <B>40:</B> 275-282.
+
+<A NAME="ref33-144"></A>
+<P>Scott, J.P., and E. Fredericson. 1951. 
+The causes of fighting in mice and rats. 
+Physiol. Zool. <B>24:</B> 273-309.
+
+<A NAME="ref33-145"></A>
+<P>Scriabine, A., and M. Blake. 1962. 
+Evaluation of centrally acting drugs in mice with fighting behavior induced by isolation. 
+Psychopharmacologia <B>3:</B> 224-226.
+<!-- 13910046 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13910046" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-146"></A>
+<P>Silverstein, E. 1961. 
+Effect of hybridization on the primary polydipsic trait of an inbred strain of mice. 
+Nature <B>191:</B> 523.
+
+<A NAME="ref33-147"></A>
+<P>Sirlin, J.L. 1956. 
+Vacillans, a neurological mutant in the house mouse linked with brown. 
+J. Genet. <B>54:</B> 42-48.
+<!-- MGI:48835 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48835" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-148"></A>
+<P>Smith, M.P., and S. Ross. 1960. 
+Acceptance of sodium sucaryl by C57 black mice. 
+J. Genet. Psychol. <B>96:</B> 101-104.
+<!-- 13832104 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13832104" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-149"></A>
+<P>Smith, R.P., and W. Bevan. 1957. 
+Maze performance, emotionality, audiogenic seizure susceptibility in rats and mice treated with 2-dimethylaminoethanol. 
+Proc. Soc. Exp. Biol. Med. <B>96:</B> 382-385.
+<!-- 13485109 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13485109" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-150"></A>
+<P>Smith, W., and E.K. Powell. 1955. 
+The role of emotionality in hoarding. 
+Behavior <B>8:</B> 57-62.
+
+<A NAME="ref33-151"></A>
+<P>Smith, W., and S. Ross. 1953<I>a</I>. 
+The hoarding behavior of the mouse. I. The role of previous feeding experience. 
+J. Genet. Psychol. <B>82:</B> 279-297.
+<!-- 13096722 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13096722" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-152"></A>
+<P>Smith, W., and S. Ross. 1953<I>b</I>. 
+The hoarding behavior of the mouse. III. The storing of "non-relevant" material. 
+J. Genet. Psychol. <B>82:</B> 309-316.
+<!-- 13096724 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13096724" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-153"></A>
+<P>Southwick, C.H. 1959. 
+Eosinophil responses of C57BR mice to behavioral disturbance. 
+Ecology <B>40:</B> 156-157.
+<!-- 13661403 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13661403" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-154"></A>
+<P>Southwick, C.H., and V.P. Bland. 1959. 
+Effect of population density on adrenal glands and reproductive organs of CFW mice. 
+Amer. J. Physiol. <B>197:</B> 111-114.
+<!-- 13661403 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13661403" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-155"></A>
+<P>Stanley, W.C., and J.A. Monkman. 1956. 
+A test for specific and general behavioral effects of infantile stimulation with shock in the mouse. 
+J. Abnorm. Soc. Psychol. <B>53:</B> 19-22.
+<!-- 13345562 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13345562" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-156"></A>
+<P>Tedeschi, R.E., D.H. Tedeschi, A. Mucha, L. Cook, P.A. Mattis, and E.J. Fellows. 1959. 
+Effects of various centrally acting drugs on fighting behavior of mice. 
+J. Pharmacol. Exp. Therap. <B>125:</B> 28-34.
+<!-- 13621388 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13621388" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-157"></A>
+<P>Thiessen, D.D. 1961. 
+Mouse exploratory behavior and body weight. 
+Psychol. Rec. <B>11:</B> 299-304.
+<!-- MGI:84310 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:84310" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-158"></A>
+<P>Thiessen, D.D., and V.G. Nealey. 1962. 
+Adrenocortical activity, stress response and behavioral reactivity of five inbred mouse strains. 
+Endocrinology <B>71:</B> 267-270.
+<!-- 13920698 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13920698" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-159"></A>
+<P>Thiessen, D.D., J.F. Zolamn, and D.A. Rodgers. 1962. 
+Relation between adrenal weight, brain cholinesterase activity, and hole-in-wall behavior of mice under different living conditions. 
+J. Comp. Physiol. Psychol. <B>55:</B> 186-190.
+<!-- 13920700 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13920700" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-160"></A>
+<P>Thompson, W.R. 1953. 
+The inheritance of behavior: behavioral differences in fifteen mouse strains. 
+Can. J. Psychol. <B>7:</B> 145-155.
+<!-- MGI:71150 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71150" target="_blank">MGI</A></I>.
+
+<A NAME="ref33-161"></A>
+<P>Thompson, W.R. 1956. 
+The inheritance of behavior; activity differences in five inbred mouse strains. 
+J. Hered. <B>47:</B> 147-148.
+
+<A NAME="ref33-162"></A>
+<P>Tollman, J., and J.A. King. 1956. 
+The effects of testosterone propionate on aggression in male and female C57BL/10 mice. 
+Brit. J. Anim. Behav. <B>4:</B> 147-149.
+
+<A NAME="ref33-163"></A>
+<P>Uhrich, J. 1938. 
+The social hierarchy in albino mice. 
+J. Comp. Psychol. <B>25:</B> 373-413.
+
+<A NAME="ref33-164"></A>
+<P>Van Abeelen, J.H.F. 1963<I>a</I>. 
+Mouse mutants studied by means of ethological methods. I. Ethogram. 
+Genetica <B>34:</B> 79-94.
+
+<A NAME="ref33-165"></A>
+<P>Van Abeelen, J.H.F. 1963<I>b</I>. 
+Mouse mutants studied by means of ethological methods. II. Mutants and methods. 
+Genetica <B>34:</B> 95-101.
+
+<A NAME="ref33-166"></A>
+<P>Van Abeelen, J.H.F. 1963<I>c</I>.
+Mouse mutants studied by means of ethological methods. III. Results with yellow, pink-eyed dilution, brown and jerker. 
+Genetica <B>34:</B> 270-286.
+
+<A NAME="ref33-167"></A>
+<P>Vandenbergh, J.G. 1960. 
+Eosinophil response to aggressive behavior in CFW albino mice. 
+Anim. Behav. <B>8:</B> 13-18.
+
+<A NAME="ref33-168"></A>
+<P>Vanderpool, D.L., and R.T. Davis. 1962. 
+Differences in spontaneous behavior among inbred strains of mice. 
+Psychol. Rep. <B>10:</B> 123-130.
+
+<A NAME="ref33-169"></A>
+<P>Vicari, E. 1923. 
+Hybridization and behavior. 
+Eugen. Race State <B>2:</B> 75-77.
+
+<A NAME="ref33-170"></A>
+<P>Vicari, E. 1924. 
+Non-inheritance of the effects of training. 
+Science <B>59:</B> 303.
+<!-- 17807762 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17807762" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-171"></A>
+<P>Vicari, E.M. 1929. 
+Mode of inheritance of reaction time and degrees of learning in mice. 
+J. Exp. Zool. <B>54:</B> 31-88.
+
+<A NAME="ref33-172"></A>
+<P>Waller, M.B., P.F. Waller, and L.A. Brewster. 1960. 
+A water maze for use in studies of drive and learning. 
+Psychol. Rep. <B>7:</B> 99-102.
+
+<A NAME="ref33-173"></A>
+<P>Warren, R.P. 1963. 
+Preference aversion in mice to bitter substance. 
+Science <B>140:</B> 808-809.
+<!-- 13998994 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13998994" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-174"></A>
+<P>Weir, M.W., and J.C. De Fries. 1964. 
+Prenatal maternal influence on behavior in mice: evidence of a genetic basis. 
+J. Comp. Physiol. Psychol. <B>58:</B> 412-417.
+<!-- 14241056 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14241056" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-175"></A>
+<P>Willingham, W.W. 1956. 
+The organization of emotional behavior in mice. 
+J. Comp. Physiol. Psychol. <B>49:</B> 345-348.
+<!-- 13345911 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13345911" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-176"></A>
+<P>Wimer, R.E., and J.L. Fuller. 1965. 
+The effects of <I>d</I>-amphetamine sulphate on three exploratory behaviors. 
+Can. J. Psychol. <B>19:</B> 94-103.
+<!-- 14296003 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14296003" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-177"></A>
+<P>Wimer, R.E., and H. Sterns. 1964. 
+Controlled visual input and exploratory activity in C57BL/6J mice. 
+Percept. Mot. Skills <B>18:</B> 299-307.
+
+
+<A NAME="ref33-178"></A>
+<P>Wimer, R., and S. Weller. 1965. 
+Evaluation of a visual discrimination task for the analysis of the genetics of a mouse behavior. 
+Percept. Mot. Skills <B>20:</B> 203-208.
+
+
+<A NAME="ref33-179"></A>
+<P>Winston, H.D. 1963. 
+Influence of genotype and infantile trauma on adult learning in the mouse. 
+J. Comp. Physiol. Psychol. <B>56:</B> 630-635.
+<!-- 14001225 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14001225" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-180"></A>
+<P>Winston, H.D., and G. Lindzey. 1964. 
+Albinism and water escape performance in the mouse. 
+Science <B>144:</B> 189-191.
+<!-- 17788219 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17788219" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref33-181"></A>
+<P>Wolf, E. 1930. 
+Die Aktivit&#228;t der japanischen Tanzmaus und ihre rhythmische Verteilung. 
+Z. Vergl. Physiol. <B>11:</B> 321-344.
+
+
+<A NAME="ref33-182"></A>
+<P>Yerkes, R.M. 1907. 
+<I>The Dancing Mouse</I>. 
+Macmillan, New York. 290 p.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter32.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter34.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

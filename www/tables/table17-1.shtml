@@ -1,0 +1,670 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 17-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 17 -->
+
+<CENTER>
+
+<H3>Table 17-1. MEANS AND STANDARD ERRORS OF MEANS FOR ERYTHROCYTE<BR>
+CHARACTERISTICS OF 18 INBRED STRAINS.<SUP><I>a</I></SUP> (<I>After 
+<A HREF="#ref17-115">Russell et al., 1951</A>, with permission<BR>
+of the authors and of the Society for Experimental Biology and Medicine.</I><SUP>&nbsp;</SUP>)</H3> 
+
+<P><TABLE>
+
+<TR><TD COLSPAN=26><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4></TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>Hematocrit</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>Mean cell</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>Hemoglobin,</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>Hemoglobin,</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>Reticulocytes,</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>RBC<SUP><I>b</I></SUP></TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>percentage</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>volume &#956;<SUP>3</SUP></TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>g/100 cc blood</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>g/cc cells</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>per cent</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>Strain</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>(mean and S.E.)</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>(mean and S.E.)</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>(mean and S.E.)</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4>(mean and S.E.)</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>(mean)</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>(mean)</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=26><HR></TD></TR>
+
+<TR>
+<TD>A/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.42</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.28</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>42.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.1</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.4</TD>
+<TD>&nbsp;</TD>
+<TD>12.9</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.5</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>A/HeJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.48</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.18</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>42.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.8</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.0</TD>
+<TD>&nbsp;</TD>
+<TD>12.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.9</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>AKR/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.38</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.24</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.6</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.0</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>48.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.6</TD>
+<TD>&nbsp;</TD>
+<TD>13.9</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.3</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>BALB/cAnJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.14</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.15</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>46.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.8</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.9</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.1</TD>
+<TD>&nbsp;</TD>
+<TD>14.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.3</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>BALB/cJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.51</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.16</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>48.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.0</TD>
+<TD>&nbsp;</TD>
+<TD>15.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.9</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>CBA/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.04</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.27</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.3</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.8</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.8</TD>
+<TD>&nbsp;</TD>
+<TD>13.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.6</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C3H/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>8.79</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.24</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>39.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.9</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.4</TD>
+<TD>&nbsp;</TD>
+<TD>12.2</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.8</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C3H/ScJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.63</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.26</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>43.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.0</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.6</TD>
+<TD>&nbsp;</TD>
+<TD>13.2</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.3</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.2</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C57BL/6pJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.70</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.15</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>43.4</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.8</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.0</TD>
+<TD>&nbsp;</TD>
+<TD>13.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.3</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.5</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C57BL/6J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.66</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.09</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.6</TD>
+<TD>&nbsp;</TD>
+<TD>13.3</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.6</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C57BL/cdJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.54</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.17</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>50.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>47.4</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.9</TD>
+<TD>&nbsp;</TD>
+<TD>14.6</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.29</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.4</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C57BL/HeJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.82</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>0.20</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>50.6</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>0.5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>51.5</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>1.1</TD>
+<TD>&nbsp;</TD>
+<TD>14.9</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.29</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.6</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>DBA/1J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.52</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>0.27</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>43.8</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>0.6</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>41.6</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>1.2</TD>
+<TD>&nbsp;</TD>
+<TD>13.2</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.5</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>DBA/WaJ</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.93</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.27</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>43.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.6</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>43.3</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.1</TD>
+<TD>&nbsp;</TD>
+<TD>12.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.29</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.6</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>DBA/2J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.30</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.25</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>42.6</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>41.4</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.1</TD>
+<TD>&nbsp;</TD>
+<TD>12.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.1</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>I/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.27</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.27</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>46.8</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>45.6</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.5</TD>
+<TD>&nbsp;</TD>
+<TD>13.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.29</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.4</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>RIII/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.63</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.25</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.6</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>46.2</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>1.3</TD>
+<TD>&nbsp;</TD>
+<TD>13.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.8</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>ST/J</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.88</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>0.19</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.1</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>1.1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.6</TD>
+<TD>*</TD>
+<TD>+/-</TD>
+<TD>1.4</TD>
+<TD>&nbsp;</TD>
+<TD>12.1</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>0.2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.1</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=26><HR></TD></TR>
+
+<TR><TD COLSPAN=26><SUP><I>a</I></SUP>All means are based on 10 animals, except that those marked * are based on 20 animals.</TD></TR>
+
+<TR><TD COLSPAN=26><SUP><I>b</I></SUP>Red blood count in millions per cubic millimeter.</TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<A NAME="ref17-115"></A>
+<P>Russell, E.S., E.F. Neufeld, and C.T. Higgins. 1951. 
+Comparison of normal blood picture of young adults from 18 inbred strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>78:</B> 761-766.
+<!-- MGI:70612 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:70612" target="_blank">MGI</A></I>.
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

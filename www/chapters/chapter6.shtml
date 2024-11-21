@@ -1,0 +1,603 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 6 - Nomenclature</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, genetic nomenclature, inbred strains, substrains, symbols, genes, alleles">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter5.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter7.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>6</H1>
+<H2><I>Nomenclature</I></H2>
+<H3>Joan Staats</H3>
+
+<P>This chapter presents a history of the efforts to achieve standardization of genetic nomenclature for mice and gives 
+the 1964 rules for naming genes. The confusing terminology of the earlier years has gradually given way to increasing 
+orderliness and uniformity; we recognize, however, that complete uniformity may not always be possible.
+
+<CENTER>
+<P><B>HISTORY</B>
+</CENTER>
+
+<P>Several decades ago, Professor H. de Haan (
+<A HREF="#ref6-4">1932</A>) wrote: "It is high time to bring unity into genetic nomenclature....In my opinion it is due to the 
+International Congress of Genetics to appoint a Committee for Genetic Nomenclature. A permanent committee which keeps 
+drawing the attention to the international rules to be drafted by it could do much to promote unity in the nomenclature."
+
+<P>Five years earlier, at the Fifth International Congress of Genetics, A.S. Serebrovsky (
+<A HREF="#ref6-12">1928</A>) had presented an entirely new system of denoting hereditary factors analogous to a decimal bibliographic 
+system. Casual inspection of this system indicates the motivation for de Hahn's plaint.
+
+<P>Earlier still, in 1919, the American Society of Naturalists appointed a Committee on Genetic Form and Nomenclature with 
+C.C. Little as chairman and Sewall Wright, G.H. Shull, O.E. White, and A.H. Sturtevant as members. The scheme drawn up by 
+this group was adopted and published (
+<A HREF="#ref6-9">Little, 1921</A>). The hope of the chairman, expressed in his covering letter, that this publication would 
+stimulate discussion of modifications was apparently largely ignored, and scant attention was paid to this succinct report.
+
+<P>It was indeed, as de Haan had suggested, left to future Genetics Congresses, both to appoint committees and to serve 
+as meeting places for them. At the Sixth Congress in Ithaca, N.Y., in 1932, C.C. Little announced that several suggestions 
+had been received that the Congress appoint a standing committee to consider matters of genetical nomenclature. There was no 
+discussion and no action was taken. However, at a later plenary session of the same Congress, the resolutions committee 
+moved that the problem of standardizing genetic symbolism and nomenclature be reconsidered. The motion was carried (
+<A HREF="#ref6-7">Jones, 1932</A>).
+
+<P>As a result of a circular letter sent in the spring of 1939 from The Jackson Laboratory to biologists interested in mouse 
+genetics, a committee was chosen consisting of L.C. Dunn, G.D. Snell, and F.A.E. Crew to prepare recommendations for symbols 
+for mouse genes. Hans Gr&#252;neberg later replaced Crew. During the Seventh Congress in Edinburgh, an open meeting on rodent 
+gene symbolism, chaired by A.L. Hagedoorn, considered a set of nomenclature rules drawn up by the committee (
+<A HREF="#ref6-11">Punnett, 1941</A>). Recommendations from this meeting were incorporated into rules concerning only gene symbols, 
+published in the <I>Journal of Heredity</I> (
+<A HREF="#ref6-5">Dunn <I>et al</I>., 1940</A>).
+
+<P>In 1949, after consultation with the genetics group at The Jackson Laboratory and correspondence with other geneticists, 
+G.D. Snell drew up a list of suggested rules of nomenclature for inbred strains of mice (
+<A HREF="#ref6-10"><I>Mouse News Letter</I>, 1950</A>). This list, with minor variations, was sent by Snell and T.C. Carter to 
+geneticists in 1951, asking for a vote on two alternative systems of notation. That giving maximum uniformity was adopted. 
+Workers were also asked to select abbreviations of their own names for use in designating substrains.
+
+<P>This Committee on Standardized Nomenclature of Inbred Strains of Mice, as the informal working group came to be known, 
+was responsible for issuing the first standardized nomenclature list in <I>Cancer Research</I> in 1952 (
+<A HREF="#ref6-2">Committee, 1952</A>), 
+following the format devised by Snell (
+<A HREF="#ref6-13">1941</A>) and Law (
+<A HREF="#ref6-8">1948</A>). This paper contained the recommended rules for strain names, a list of known inbred strains with their 
+histories and characteristics, and a list of users of mice with abbreviations for their names or institutions.
+
+<P>As time went on, more substrains of existing strains were developed by spontaneous mutations, manipulation, or merely physical 
+separation. New mutations and linkages were discovered, strains became more widely distributed, and the list of workers grew 
+enormously. It became apparent that a reappraisal of the rules of nomenclature was in order.
+
+<P>Following the suggestion of Hans Gr&#252;neberg, the old nomenclature committee was reactivated, reconstituted, and renamed. 
+During the 10th International Congress of Genetics in Montreal in 1958, the group met, was named the Committee on Standardized 
+Genetic Nomenclature for Mice and discussed both strain and gene symbols. This body supersedes and represents a merger of the 
+Mouse Genetics Nomenclature Committee (genes) and the Committee on Standardized Nomenclature for Inbred Strains of Mice (strains) (
+<A HREF="#ref6-14">Staats, 1963</A>).
+
+<P>This body was responsible for issuing the second (
+<A HREF="#ref6-3">Committee, 1960</A>) and third (
+<A HREF="#ref6-15">Staats, 1964</A>) alphabetic listing of inbred strains in <I>Cancer Research</I> and the first major revision of 
+the gene nomenclature rules (
+<A HREF="#ref6-1">Committee, 1963</A>). The latter was made necessary by the detection of many presumed 
+recurrences of old mutations, reversions to wild type, long series of alleles at single loci, translocations, and by the 
+increased use of mice generally. In 1965, the members of the Committee were: Margaret C. Green, Hans Gruneberg, Paula Hertwing, 
+W.E. Heston, Mary F. Lyon, N.N. Medvedev, George D. Snell, and Joan Staats.
+
+<CENTER>
+<P><B>STRAIN RULES</B>
+</CENTER>
+
+<P>The rules for symbols to designate inbred strains of mice as recommended by the Committee on Standardized Genetic Nomenclature are as follows (from 
+<A HREF="#ref6-15">Staats, 1964</A>, with permission of <I>Cancer Research</I>):
+
+<P><B><I>1. Definition of inbred strain.</I></B> A strain shall be regarded as inbred when it has been mated brother x sister 
+(hereafter called b x s) for twenty or more consecutive generations. Parent x offspring matings may be substituted for b x s 
+matings, provided that in the case of consecutive parent x offspring matings the mating in each case is to the younger of the two parents.
+
+<P><B><I>2. Symbols for inbred strains.</I></B> Inbred strains shall be designed by a capital letter or letters in Roman type. 
+It is urged that anyone naming a new stock consult [
+<A HREF="#ref6-15">Staats, 1964, Appendix 2</A> or the latest issue of <I>Inbred Strains of Mice</I> (see references)] to avoid duplication. 
+Brief symbols are preferred.
+
+<P>An exception is allowed in the case of stocks already widely used and known by a designation which does not conform.
+
+<P><B><I>3. Definition of substrain.</I></B> The definition of substrain presents some of the same problems as the definition 
+of species. In practice, the determination of whether two related strains should be treated as substrains, and whether, in 
+published articles, substrain symbols should be added to the strain symbol, must rest with the investigators using them. The 
+following rules, however, may be of help.
+
+<P>Any strains separated after 8 to 19 generations of b x s inbreeding and maintained thereafter in the same laboratory without 
+intercrossing for a further 12 or more generations shall be regarded as substrains. It shall be considered that substrains have 
+been constituted (<I>a</I>) if pairs from a parent strain (or substrain) are transferred to another investigator, or (<I>b</I>) 
+if detectable genetic differences become established.
+
+<P><B><I>4. Designation of substrains.</I></B>
+
+<P>A substrain shall be known by the name of the parent strain followed by a slant line and an appropriate substrain symbol. 
+Substrain symbols may be of two types.
+
+<P><I>a. Abbreviated name as substrain symbol.</I> The symbol for substrains should usually consist of an abbreviation for the 
+name of the person or laboratory maintaining it. The initial letter of this symbol should be set in Roman capitals; all other 
+letters should be in lower case. Abbreviations should be brief, should as far as possible be standardized, and should be checked with published lists [
+<A HREF="#ref6-15">Staats, 1964</A>, Appendix 3, and the latest issue of <I>Inbred Strains of Mice</I>] to avoid duplication. 
+Examples: A/He (Heston substrain of strain A), A/Icrc (Indian Cancer Research Centre substrain of strain A).
+
+<P>When a new substrain is created by transfer, the old symbol may be retained and a new one added. Example: YBR/He, on transfer 
+from Heston to Wilson, becomes YBR/HeWi. The accumulation of substrain symbols in this fashion provides a history of the strain. 
+If the substrain symbols are not accumulated, the history of transfers should be recorded in <I>Inbred Strains of Mice</I>.
+
+<P><I>b. Numbers or lower-case letters.</I> numbers or lower-case letters may be used as substrain symbols in certain circumstances. 
+The position of these relative to other parts, if any, of the substrain symbol should be suggestive of a historical or time sequence. 
+Thus, two substrain branches, separated in and maintained by one laboratory, may be designated by terminal numbers, with or without a 
+preceding slant line. Example: two sublines of A/HeCrgl, separated and maintained by Crgl, become A/HeCrgl/1 (or A/Crgl/1) and 
+A/HeCrgl/2 (or A/Crgl/2). Lower-case letters immediately following the strain symbol, with a slant line only intervening, may be 
+employed when two substrains are separated from a common strain prior to complete inbreeding. Example: C57BR/a and C57BR/cd. (These 
+were separated after nine generations of b x s.) The use of numbers or lower-case letters immediately after the slant line, to 
+designate lines separated after twenty or more generations b x s, is ordinarily not recommended, but may occasionally be justified 
+for sublines widely recognized as different. Example: DBA/1 and DBA/2. Appropriate checks to avoid duplication should be made 
+before this type of symbol is adopted.
+
+<P><B><I>5. Coisogenic stocks.</I></B> Coisogenic stocks produced by the occurrence of a single major mutation within an inbred strain, 
+or by the introduction of a gene into an inbred background by a series of crosses, shall be designated by the strain symbol and, 
+where appropriate (see rule 7), substrain symbol, followed by a hyphen and the gene symbol (in italics in printed articles). 
+Example: DBA/Ha-<I>D</I>. Where the mutant or introduced gene is maintained in the heterozygous condition, this may be indicated 
+by including a + in the symbol. Examples: A/Fa-+<I>C</I>. C3H/N-+
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>.
+
+<P>When a coisogenic strain is produced by inbreeding with forced heterozygosis, indication of the segregating locus is strictly 
+optional. Examples: 129 or 129-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP>c</I></A> (129 is customary); SEAC-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>+/+
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A> or SEAC/Gn.
+
+<P>In the case of coisogenic stocks produced by repeated crosses of a dominant gene into a standard inbred strain, it may be desirable 
+to indicate the number of backcross generations. Strains shall be regarded as coisogenic when at least seven such crosses have been 
+made. Example: C57BL/6-+
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> (N8). 
+The first hybrid or F<SUB>1</SUB> generation should be counted as generation 1, the first backcross generation as generation 2, etc.
+
+<P><B><I>6. Substrains developed through foster nursing, ova transfer, or ovary transplant.</I></B> Substrains developed by foster 
+nursing shall be indicated by appending an "f" to the strain symbol. Example: C3Hf. The strain used to foster parent may be indicated 
+if desired by the addition of its symbol or an abbreviation for the same. Example: C3HfC57BL or C3HfB (C3H fostered on C57BL). In 
+like manner, strains developed through egg transfer or ovary transplant shall be indicated by adding an "e" or "o," respectively. 
+Example: AeB (A ova transferred to C57BL). Where the symbol for fostering or transfer might be confused with an adjoining substrain 
+symbol, it may be used in a subscript position. Example: A/He<SUB>f</SUB>B (Heston substrain of A fostered on C57BL).
+
+<P><B><I>7. Compound substrain symbols for stocks of complex origin.</I></B> When a stock has been produced by manipulation of a 
+standard inbred strain, as, for example, by fostering or by introduction of a foreign gene, compound substrain symbols may be 
+necessary. In general, the elements of such a compound symbol should be arranged in an order indicating a historical or time sequence. 
+Specifically, different positions should be interpreted as follows:
+
+<P><I>a. Substrain symbol that immediately follows strain symbol.</I> Examples: BALB/cf, DBA/2eB, C3H/Ha-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A>. 
+In this position the substrain symbol (c, 2, or Ha in examples given) designated the substrain which was fostered or otherwise 
+manipulated, or in which a mutation occurred.
+
+<P><I>b. Substrain symbols following symbol for manipulative process or introduced gene.</I> Substrain symbols in this position 
+refer either to the person performing the fostering or other manipulation, or to the person or laboratory currently maintaining the 
+strain, or to both. The symbol or symbols may or may not be immediately preceded by a slant line. Examples: DBA/2eB/De or DBA/2eBDe 
+(strain derived from ova of DBA/2 transferred by Deringer to C57BL, maintained by Deringer); C3H/He<SUB>f</SUB>Ha (C3H/He fostered 
+by Heston, currently maintained by Hauschka); CBA/Ca-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A>/Gn 
+(Carter's substrain of CBA with mutation to 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A>, 
+maintained by Green). Since a single symbol in this position (<I>e.g.</I>, the De in DBA/2eBDe) may refer either to the person producing or 
+the person maintaining the strain, the intended meaning should be clearly recorded.
+
+<P><B><I>8. Indication of inbreeding.</I></B> Where it is desired to indicate the number of generations of b x s inbreeding, this 
+shall be done by appending, in parentheses, an F followed by the number of inbred generations. Example: A(F87). If because of 
+incomplete information, the number given represents only part of the total inbreeding, this should be indicated by preceding it 
+with a question mark an plus sign. Example: YBL(F?+10).
+
+<P><B><I>9. Priority in strain symbols.</I></B> If two inbred strains are reassigned the same symbol, the symbol to be retained 
+shall be determined by priority in publication. For this purpose, listing in <I>Mouse News Letter</I> or <I>Inbred Strains of Mice</I> 
+shall be regarded as publication.
+
+<CENTER>
+<P><B>STRAIN ABBREVIATIONS</B>
+</CENTER>
+
+<P>Abbreviations for symbols of some older strains are useful for forming hybrid designations and in other places where brevity is 
+desired. However, such abbreviations should be used only after giving the full symbols. The following abbreviations for 
+standard inbred strains are used in this book.
+
+<CENTER>
+
+<TABLE>
+
+<TR>
+<TD>AKR</TD><TD>&nbsp;</TD>
+<TD>AK</TD><TD>&nbsp;</TD>
+<TD>C57BL/6</TD><TD>&nbsp;</TD>
+<TD>B6</TD>
+</TR>
+
+<TR>
+<TD>BALB/c</TD><TD>&nbsp;</TD>
+<TD>C</TD><TD>&nbsp;</TD>
+<TD>C57BL/10</TD><TD>&nbsp;</TD>
+<TD>B10</TD>
+</TR>
+
+<TR>
+<TD>DBA/1</TD><TD>&nbsp;</TD>
+<TD>D1</TD><TD>&nbsp;</TD>
+<TD>C57L</TD><TD>&nbsp;</TD>
+<TD>L</TD>
+</TR>
+
+<TR>
+<TD>DBA/2</TD><TD>&nbsp;</TD>
+<TD>D2</TD><TD>&nbsp;</TD>
+<TD>C57BR/cd</TD><TD>&nbsp;</TD>
+<TD>BR</TD>
+</TR>
+
+<TR>
+<TD>C3H</TD><TD>&nbsp;</TD>
+<TD>C3</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+</CENTER>
+
+<P>Example: AKD2F<SUB>1</SUB> for (AKR x DBA/2)F<SUB>1</SUB>.
+
+<CENTER>
+<P><B>GENE RULES</B>
+</CENTER>
+
+<P>The rules for symbols to designate genes in mice as recommended by the Committee on Standardized Genetic Nomenclature for Mice (
+<A HREF="#ref6-1">1963</A>) are as follows (reprinted with permission from <I>The Journal of Heredity</I>):
+
+<P><B>1. <I>The names of genes,</I></B> as distinguished from the symbols, shall be written with a lower case initial letter, 
+regardless of whether the mutant is dominant or recessive, except at the beginning of a sentence or other place in which 
+capitalization would normally be used, or when the word is a proper noun. Examples: albinism, rex, Jay's dominant spotting.
+
+<P><B>2. <I>The symbols for genes</I></B> should typically be abbreviations of the name, <I>e.g.</I> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> for dilution, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856024" target="_blank"><I>dw</I></A> for dwarf, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856647" target="_blank"><I>ac</I></A> 
+for absence of corpus callosum. For convenience in alphabetical listings, the initial letters 
+of names and symbols should be the same. Certain exceptions are indicated in subsequent rules.
+
+<P><B>3. <I>Recessive mutations</I></B> shall be indicated by the use of a small initial letter for the symbol of the dominant gene, 
+<I>e.g.</I>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> for nonagouti.
+
+<P><B>4. <I>Dominant mutations</I></B> (mutations with consistent heterozygous expression) shall be indicated by the use of a 
+capital initial letter for the symbol of the mutant gene, <I>e.g.</I>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856137" target="_blank"><I>Re</I></A> for rex.
+
+<P><B>5. <I>The locus symbol</I></B> shall be the symbol of the first named mutant gene or allelic pair, except that any 
+superscript indicative of a specific allele shall be omitted. Examples: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> for the dilution locus, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856137" target="_blank"><I>Re</I></A> for the rex locus, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95894" target="_blank"><I>H-2</I></A> for the histocompatibility locus.
+
+<P><B>6. <I>The wild type may be designated by:</I></B>
+
+<P><I>a</I>. The locus symbol with a small initial letter and a plus superscript, <I>e.g.</I>, <I>t<SUP>+</SUP></I>, <I>re<SUP>+</SUP></I>.
+
+<P><I>b</I>. A + sign only, when the context leaves no doubt as to the locus represented.
+
+<P><I>c</I>. The same symbol as the mutant gene but with a capital initial letter for recessive mutants, a small initial letter 
+for dominant mutants. Examples: <I>D</I> for the wild type allele of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>; <I>re</I> for the wild type allele of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856137" target="_blank"><I>Re</I></A>.
+
+<P>Alternatives (<I>a</I>) and (<I>b</I>) are recommended, except for teaching purposes or when there is doubt as to which allele 
+is wild type, <I>e.g.</I>, biochemical polymorphisms, the agouti locus.
+
+<P><B>7. <I>Mutants of similar phenotype but different location</I></B> (mimics) shall be indicated either by entirely 
+different names and symbols (<I>e.g.</I>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A> for leaden and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> for dilution) or by the same name and symbol 
+with the addition of a hyphen and a distinguishing number. Examples: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95882" target="_blank"><I>H-1</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95894" target="_blank"><I>H-2</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95977" target="_blank"><I>H-3</I></A>, etc. for 
+different histocompatibility loci; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856388" target="_blank"><I>wa-1</I></A> (waved-1) and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856397" target="_blank"><I>wa-2</I></A> (waved-2). The preferred system is 
+to give mimics distinctive names.
+
+<P><B>8. <I>Multiple alleles determining visible or other clearly characterized distinctions</I></B> shall be represented 
+by the locus symbol with an added superscript, typically a small letter or letters suggestive of the name. The initial letter 
+of the symbol shall be capitalized according as the allele behaves as a dominant or a recessive. Examples: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> 
+(chinchilla allele of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> or albino), 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A> (the yellow allele of 
+<I>A</I> or agouti), 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:3579322" target="_blank"><I>H-2<SUP>k</SUP></I></A> 
+(the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:3579322" target="_blank"><I>k</I></A> allele of histocompatibility-2).
+
+<P><B>9. <I>Variants which are members of a series</I></B> (<I>e.g.</I>, recurrences, reversions to wild type, translocations, 
+some series of multiple alleles) should usually be separated one from another by the use of a series symbol. For this purpose 
+an Arabic numeral corresponding to the serial number of the variant in any given laboratory, plus an abbreviation indicative 
+of the name of the laboratory or the discoverer, shall be used. Where the laboratory or discoverer has already been assigned 
+an abbreviation for the designation of inbred substrains, this shall be the abbreviation used. Where there is no preassigned 
+abbreviation, any appropriate abbreviation may be used, except that it should not duplicate an existing symbol in the standard list of abbreviations (
+<A HREF="#ref6-15">Staats, 1964</A>). In every case the first letter of the abbreviations should be capitalized. Example: <I>7Rl</I> 
+(the seventh recurrence of any particular type of variant found by Russell). To avoid the confusion of the numeral one and 
+the letter l, any first-discovered variant may be left unnumbered. The second variant is then numbered 2.
+
+<P><B>10. <I>Indistinguishable alleles of independent origin</I></B> (supposed recurrences) shall be designated by the existing 
+gene symbol with the series symbol (rule 9) appended as a superscript. If the gene symbol already has a superscript, this shall 
+be separated from the appended superscript by a hyphen. Examples: 
+<I>c<SUP>4Rl</SUP></I> (the fourth recurrence of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> found 
+by Russell); <I>a<SUP>t-7J</SUP></I> (the seventh recurrence of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A> found at The Jackson Laboratory).
+
+<P><B>11. <I>Reversions to wild type</I></B> shall be designated by the symbol for the wild-type allele (rule 6a) with the 
+series symbol (rule 9) appended as a superscript. Examples: <I>d<SUP>+J</SUP></I>, <I>d<SUP>+2J</SUP></I> (the first and second 
+reversions from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+to <I>d<SUP>+</SUP></I> found at The Jackson Laboratory).
+
+<P><B>12. <I>Translocations</I>,</B> when initially discovered, shall be designated by a <I>T</I> followed by the series symbol 
+(rule 9). Example: <I>T138Ca</I> (the 138th translocation found by Carter). When the linkage groups involved in the translocation 
+have been identified, these shall be indicated by adding the appropriate numbers. These shall be inserted between the <I>T</I> 
+and the series symbol, shall be Arabic rather than Roman numerals (except that the symbol for the X chromosome shall be either 
+X or 20, and that the Y chromosome shall be indicated by Y), shall be enclosed in parentheses, and shall be separated by a semicolon. 
+Example: after it is found that <I>T138Ca</I> involves linkage groups II and IX, the symbol becomes <I>T(2;9)138Ca</I>. If one 
+of the linkage groups involved in the translocation has been identified but the other has not, the unknown linkage group shall 
+be indicated by a question mark. Example: <I>T(11;?)7Ca</I>.
+
+<P>In general, the translocation symbol should be reserved for reciprocal translocations. If a translocation is shown to be 
+something other than reciprocal, <I>e.g.</I>, a transposition, some other appropriate initial letter or letters should be used.
+
+<P><B>13. <I>In published articles</I></B> in which symbols are used, the symbols should be set in italics.
+
+<CENTER>
+<P><B>ADDITIONAL CONVENTIONS</B>
+</CENTER>
+
+<P>The authors of this edition of the <I>Biology of the Laboratory Mouse</I> have adhered to the following conventions wherever possible.
+
+<P>Genotypes are designated with alleles separated by "/," nonalleles by a space. In heterozygotes with the type allele (+) at a given 
+locus, the mutant allele is written first. Genotypes of males carrying sex-linked alleles are designated as shown in the examples using 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>. Examples: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:3579320" target="_blank"><I>H-2<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:3579322" target="_blank"><I>H-2<SUP>k</SUP></I></A>, and in males only, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>/Y or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>.
+
+<P>Linked genes are written in sets with spaces between nonalleles. The sets are written on one line separated by a "/" or are 
+written on two lines like a fraction. Examples:
+
+<CENTER>
+<TABLE>
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856875" target="_blank"><I>fr</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A></TD>
+</TR>
+
+<TR>
+<TD>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856875" target="_blank"><I>fr</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A>/ + 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> +</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><HR></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> +</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P>Matings are denoted by a multiplication or times sign "x." Example: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> x 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/+.
+
+<P>Hybrids between two inbred strains are designated as follows: (C57BL/6 x DBA/2)F<SUB>1</SUB> or, for greater brevity, 
+B6D2F<SUB>1</SUB> (see Strain Abbreviations, this chapter). In every instance the female is listed first.
+
+<CENTER>
+<P><B>SUMMARY</B>
+</CENTER>
+
+<P>Since 1940, concerted efforts have been made to promote uniformity in genetic nomenclature for mice. 
+The Committee on Standardized Genetic Nomenclature for Mice has published rules for designating both inbred 
+strains and mutant genes. The rules are given in this chapter.
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref6-1"></A>
+<P>Committee on Standardized Genetic Nomenclature for Mice. 1963. 
+A revision of the standardized genetic nomenclature for mice. 
+J. Hered. <B>54:</B> 159-162.
+<!-- 14057864 -->
+
+<A NAME="ref6-2"></A>
+<P>Committee on Standardized Nomenclature for Inbred Strains of Mice. 1952. 
+Standardized nomenclature for inbred strains of mice. 
+Cancer Res. <B>12:</B> 602-613.
+<!-- 14945054 -->
+
+<A NAME="ref6-3"></A>
+<P>Committee on Standardized Nomenclature for Inbred Strains of Mice. 1960. 
+Standardized nomenclature for inbred strains of mice, second listing. 
+Cancer Res. <B>20:</B> 145-169.
+
+
+<A NAME="ref6-4"></A>
+<P>De Haan, H. 1932. 
+The symbolizing of hereditary factors. 
+Genetics <B>15:</B> 1-21.
+
+
+<A NAME="ref6-5"></A>
+<P>Dunn, L.C., H. Gr&#252;neberg, and G.D. Snell. 1940. 
+Report of the Committee on Mouse Genetic Nomenclature. 
+J. Hered. <B>31:</B> 505-506.
+
+
+<A NAME="ref6-6"></A>
+<P>Inbred Strains of Mice. An informal biennial mimeographed document distributed by 
+The Jackson Laboratory and edited by Joan Staats. It carries lists of inbred strains of mice, 
+arranged alphabetically by the cooperating laboratories.
+<!-- pmed -->
+
+<A NAME="ref6-7"></A>
+<P>Jones, D.F. [ed.] 1932. 
+<I>Proc. VI Int. Cong. Genet</I>. (Ithaca, 1932) p. 16, 19. Vol I. 
+Brooklyn Botanic Garden, New York.
+<!-- pmed -->
+
+<A NAME="ref6-8"></A>
+<P>Law, L.W. 1948. 
+Mouse genetic news, No. 2. 
+J. Hered. <B>39:</B> 300-308.
+
+
+<A NAME="ref6-9"></A>
+<P>Little, C.C. 1921. 
+Report of the Committee on Genetic Form and Nomenclature. 
+Amer. Natur. <B>55:</B> 175-178.
+
+
+<A NAME="ref6-10"></A>
+<P>Mouse News Letter, No. 2. 1950. p. 8-9. An informal semiannual mimeographed document distributed 
+by the Laboratory Animals Centre, Carshalton, Surrey. It carries information on mutant genes, research 
+stocks of mice, and research news, and is edited by Mary F. Lyon.
+
+
+<A NAME="ref6-11"></A>
+<P>Punnett, R.C. 1941. p. 37. Proc. VII Int. Cing. Genet. (Edinburgh, 1939), Cambridge Univ. Press, London.
+
+
+<A NAME="ref6-12"></A>
+<P>Serebrovsky, A.S. 1928. 
+Versuch einer allgemeinen Nomenclatur des Genes. Proc. V Int. Cong. Genet. (Berlin, 1927) 
+Z. Indukt. Abstamm. Vererb., Suppl. <B>2:</B> 1320.
+
+
+<A NAME="ref6-13"></A>
+<P>Snell, G.D. [ed.] 1941. Mouse genetic news, No. 1. 
+Roscoe B. Jackson Memorial Laboratory, Bar Harbor, Maine. 18 p. (Mimeo.)
+
+
+<A NAME="ref6-14"></A>
+<P>Staats, J. 1963. 
+International rules of nomenclature for mice, p. 517-521. <I>In</I> W.J. Burdette [ed.] 
+<I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+
+<A NAME="ref6-15"></A>
+<P>Staats, J. 1964. 
+Standardized nomenclature for inbred strains, Third listing. (Prepared for the Committee on Standardized Genetic Nomenclature for Mice.) 
+Cancer Res. <B>24:</B> 147-168.
+<!-- 14117809 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14117809" target="_blank">PubMed</A>.</I>
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter5.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter7.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

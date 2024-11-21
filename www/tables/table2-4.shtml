@@ -1,0 +1,220 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 2-4</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 2 -->
+
+<CENTER>
+
+<H3>Table 2-4. THE PROBABILITY OF INCROSSES (<I>p</I>) AND THE PROBABILITY OF HETEROZYGOSITY (<I>h</I>) AT THE <I>a</I> LOCUS 
+AFTER <I>m</I> CYCLES OF THE CROSS-BACKCROSS-INTERCROSS SYSTEM WITH THREE GENERATIONS PER CYCLE, WHERE <I>c</I> IS THE 
+PROBABILITY OF RECOMBINATION BETWEEN THE <I>a</I> AND THE <I>r</I> LOCI</H3>
+
+<TABLE>
+
+<P><TR><TD COLSPAN=18><HR></TR>
+
+<TR>
+<TD><I>c</I></TD><TD>&nbsp;</TD>
+<TD><I>m</I></TD><TD>&nbsp;</TD>
+<TD>=</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>6</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>8</TD>
+</TR>
+
+<TR><TD COLSPAN=18><HR></TR>
+
+<TR>
+<TD>0.5</TD><TD>&nbsp;</TD>
+<TD><I>p (%)</I></TD><TD>&nbsp;</TD>
+<TD>=</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>56.2</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>89.1</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>97.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>99.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>99.9</TD><TD ALIGN=LEFT>+</TD>
+<TD ALIGN=RIGHT>99.9</TD><TD ALIGN=LEFT>+</TD>
+</TR>
+
+<TR>
+<TD>0.4</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>41.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>78.7</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>92.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>97.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>99.6</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>99.9</TD><TD ALIGN=LEFT>+</TD>
+</TR>
+
+<TR>
+<TD>0.3</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>26.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>63.7</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>82.2</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>91.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>97.9</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>99.5</TD>
+</TR>
+
+<TR>
+<TD>0.2</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>13.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>44.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>64.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>77.2</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>90.7</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>96.2</TD>
+</TR>
+
+<TR>
+<TD>0.1</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>3.6</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>21.9</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>36.8</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>48.8</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>66.4</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>77.9</TD>
+</TR>
+
+<TR><TD COLSPAN=18><HR></TR>
+
+<TR>
+<TD>0.5</TD><TD>&nbsp;</TD>
+<TD><I>h (%)</I></TD><TD>&nbsp;</TD>
+<TD>=</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>37.5</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>9.4</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>2.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0.6</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0.0</TD><TD ALIGN=LEFT>+</TD>
+<TD ALIGN=RIGHT>0.0</TD><TD ALIGN=LEFT>+</TD>
+</TR>
+
+<TR>
+<TD>0.4</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>46.1</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>16.6</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>6.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>2.2</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0.3</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0.0</TD><TD ALIGN=LEFT>+</TD>
+</TR>
+
+<TR>
+<TD>0.3</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>50.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>25.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>12.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>6.0</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>1.4</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0.3</TD>
+</TR>
+
+<TR>
+<TD>0.2</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>46.1</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>29.5</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>18.5</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>12.1</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>4.9</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>2.0</TD>
+</TR>
+
+<TR>
+<TD>0.1</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>30.8</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>24.9</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>20.2</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>16.4</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10.7</TD><TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>7.0</TD>
+</TR>
+
+<TR><TD COLSPAN=18><HR></TR>
+
+</TABLE>
+
+</CENTER>
+
+
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

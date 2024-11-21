@@ -1,0 +1,1122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 30 - Infectious Diseases</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, infectious diseases, viral, ectromelia, mouse pox, polyoma, adenovirus, reoviruses, pneumonia">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter29.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter31.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>30</H1>
+<H2><I>Infectious Diseases</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Warren G. Hoag and Hans Meier</H3>
+
+<P>In this chapter we will briefly describe pertinent features of some infectious diseases of inbred mice. We will not attempt to cover all aspects of 
+the diagnosis, treatment, and prevention of mouse diseases.
+
+<P><B>VIRAL DISEASES</B>
+
+<P>A number of viruses are indigenous to both wild and laboratory mice. Almost all produce no evidence of illness in nature and their presence is usually revealed 
+only by a deliberate search. In some apparently healthy laboratory mice experimental stress may activate viruses and thus cause obvious clinical disease. A few 
+viruses such as mouse pox (infectious ectromelia) cause spontaneous disease.
+
+<P>Of the viruses described in the following section some are sufficiently antigenic so that there presence or absence may be determined directly by serological 
+testing or indirectly by measuring the antibody response in suckling mice after inoculation of suspect biological materials. These viruses include ectromelia, 
+polyoma, K virus, mouse adenovirus, Theiler's GD VII, reoviruses, Manaker-Nelson hepatitis, and pneumonia viruses. For other poorly antigenic viruses, such as 
+lymphocyte choriomeningitis (LCM), mouse salivary gland virus, thymic agent, and perhaps the Gledhill-type hepatitis virus, isolation procedures are required. Serial 
+passages of biological material often bring to light viruses carried as latent infections. Some of the viruses can exist in a mouse colony whose members appear 
+clinically healthy, but such mice may readily initiate a serious epidemic when brought into contact with healthy susceptible stocks.
+
+<P>Control measures for these viral diseases include prevention of virus introduction, destruction of all exposed and infected animals, disinfection, and 
+reintroduction of healthy stocks. Another important measure is the establishment of specific-pathogen-free or germ-free colonies; the freedom from virus infection 
+in such colonies has been well demonstrated (
+<A HREF="#ref30-53">Rowe <I>et al.</I>, 1962</A>; 
+<A HREF="#ref30-18">Gledhill, 1962</A>).
+
+<P><B>Mouse pox (infectious ectromelia)</B>
+
+<P>Mouse pox is a highly infectious disease to which all strains of mice are susceptible, some more than others. Ectromelia is an excellent example of a virus 
+carried and spread by apparently healthy mice. There may be no signs of illness, yet active virus may be readily recovered from viscera by blind passage. The 
+virus obviously not only persists and multiplies despite a certain suppression by antibody, but also is shed through the feces. The virus was first described in 
+England, but has since been reported from continental Europe as well as the United States (
+<A HREF="#ref30-56">Saunders, 1958<I>a</I></A>; 
+<A HREF="#ref30-68">Trentin, 1953</A>). It is from 100 to 150 &#956; in diameter, is destroyed by exposure to 55&#176;C for 30 minutes, but withstands 50 per cent glycerol 
+and 0.5 per cent phenol for several months at refrigerator temperature. Clinical aspects of the disease have been described in detail by Fenner (
+<A HREF="#ref30-9">1949</A>) and Trentin (
+<A HREF="#ref30-68">1953</A>). The disease is generalized, the virus multiplying in cells of the skin, lymph nodes, liver, spleen, and other organs. In all these tissues 
+intracellular eosinophilic inclusion bodies develop. The acute form, occurring in previously unexposed mice, is characterized by visceral lesions, usually hepatic 
+necroses, the animals dying within days without external signs of illness. Sometimes inconspicuous external primary lesions are present such as swollen eyelids or 
+pocked noses. The disease usually spreads rapidly throughout a susceptible colony, killing 50 to 95 per cent of the mice within weeks. The surviving mice develop 
+circulating antibodies and often show a chronic form of the disease characterized by necrosis of the extremities, gangrene, crusting and scarring of skin, and 
+regenerative lesions of internal organs. The foot lesions must be distinguished from those caused by <I>Streptobacillus moniliformis</I>. The most reliable diagnostic 
+test for ectromelia infection is hemagglutination inhibition (HI). Either vaccinia or ectromelia virus is used as a red blood cell-agglutinating antigen. Serum from 
+mice recovered from acute mouse pox will inhibit such agglutination of blood cells (
+<A HREF="#ref30-5">Burnet and Boake, 1946</A>; 
+<A HREF="#ref30-3">Briody, 1959</A>). The test can be quickly and conveniently carried out with as little as 0.05 ml of serum. The virus is demonstrated by intraperitoneal 
+inoculation of visceral suspensions into susceptible mice. These animals ordinarily die 4 to 6 days after inoculation and show the visible lesions of 
+multiple focal necroses of the livers.
+
+<P>Mouse colonies can be protected from ectromelia by strict isolation to preclude contamination by infected mice and other materials. Once the disease is recognized, 
+however, infected colonies should be destroyed and all presumably infected animals incinerated. Another preventative measure, applicable to valuable inbred stocks, 
+is vaccination, either by scarification or intranasal instillation with vaccinia virus or with formolized liver suspensions from infected mice (
+<A HREF="#ref30-60">Shope, 1954</A>). Although both Levaditi and IHD-T strains of vaccinia virus have been successfully employed, IHD-T is preferred because it is more 
+immunogenic, does not induce HI antibodies, and will not interfere with the HI test for diagnosis of infection. It is therefore possible to distinguish between 
+antibodies formed as a result of infection and those formed as a result of vaccination. Vaccinated mice may transfer the infection to unvaccinated cage mates but 
+not to mice in other cages of the same room. DBA mice seem to be more resistant to contact infection than other stocks (
+<A HREF="#ref30-3">Briody, 1959</A>).
+
+<P><B>Hepatoencephalitis group of viruses</B>
+
+<P>Some viruses are capable of causing hepatitis, encephalitis, or both in suckling mice. These are designated as MHV, JHM, EHF 120, and H747 and are related by 
+degrees of cross-immunity (complement-fixation, neutralization tests). All produce qualitatively similar histological lesions affecting mesothelial and endothelial 
+surfaces. These viruses, particularly the neurotropic ones, have similar susceptible host species ranges and occur in latent form in mouse stocks. All are 
+heat-labile and ether-sensitive and range in size from 80 to 120 &#956;. The MHV or mouse hepatitis virus gives rise to intranuclear inclusion bodies, but to 
+produce active disease requires the synergistic action of <I>Eperythrozo&#246;n coccoides</I>, a red blood cell parasite. The link between the two agents is complex. 
+References may be found in Gledhill and Niven (
+<A HREF="#ref30-19">1955</A>) and Gledhill (
+<A HREF="#ref30-18">1962</A>).
+
+<P><B>Neurotropic viruses causing spontaneous encephalitis</B>
+
+<P>There are three groups of viruses causing spontaneous encephalitis with distinctions based on the type of pathological lesion. Theiler's FV, FA, FO, and GD-VII 
+affect the gray matter primarily, producing lesions comparable to those found in poliomyelitis (
+<A HREF="#ref30-64">Theiler and Gard, 1940</A>; 
+<A HREF="#ref30-66">Thompson <I>et al.</I>, 1951</A>). The second group includes the JHM virus which causes demyelinization (
+<A HREF="#ref30-46">Olitsky and Lee, 1955</A>; 
+<A HREF="#ref30-47">Pappenheimer, 1958<I>a</I></A>). The third group, which does not cause demyelinization, consists of SK, 
+the Columbia strain of Jungeblut, LCM or lymphatic choriomeningitis (
+<A HREF="#ref30-67">Traub, 1939</A>; 
+<A HREF="#ref30-23">Haas, 1954</A>), EK virus, herpes simplex, and eastern equine encephalitis.
+
+<P><B><I>Theiler's mouse encephalomyelitis.</I></B> Spontaneous infections of the central nervous system due to this virus are considerably more prevalent in 
+younger mice. Unless the disease is rapidly fatal, gradual flaccid paralysis, usually of the hind limbs, develops. Microscopically, anterior-horn lesions quite 
+similar to those of human poliomyelitis (ganglionic cell destruction) are observed. However, there is no serological relationship between Theiler's virus and that 
+of poliomyelitis. Theiler's virus is recoverable from the intestinal tract or central nervous system. Artificial infections are possible by virtually all routes, 
+although the level of infective dose differs considerably. For a more detailed review see Maurer (
+<A HREF="#ref30-39">1958<I>a</I></A>).
+
+<P><B><I>Lymphocytic choriomeningitis.</I></B> Although mice of laboratory colonies may harbor this virus, the disease is carried in latent form with few animals 
+showing clinical signs or dying. Clinical illness occurs only in young animals which may show photophobia, conjuctivitis, and convulsive leg movements. Tremors, 
+spastic convulsions, and paralysis are observed in Artificial infections. Microscopically, leukocytic infiltration of the meninges, pleural exudation, and 
+splenomegaly are found. Virus is detected by intracerebral inoculation of mice with sterile suspensions of brain, blood, or spleen from suspect animals. In 
+view of the wide host range (mice, monkeys, dogs, guinea pigs, and man) LCM represents a hazard to both experimental animals and man. Aside from direct contact 
+transmission, as by the urine of infected mice, the virus may also be spread by ectoparasites and mosquitoes. For a review see Maurer (
+<A HREF="#ref30-40">1958<I>b</I></A>).
+
+<P><B>Pneumotropic viruses</B>
+
+<P>A number of viruses have been implicated as causes of respiratory disease in mice. Among these are Nigg's pneumonitis (
+<A HREF="#ref30-44">Nigg and Eaton, 1944</A>) and PVM or pneumonia virus of mice (
+<A HREF="#ref30-41">Mirick <I>et al.</I>, 1952</A>; 
+<A HREF="#ref30-71">Volkert and Horsfall, 1947</A>).
+
+<P><B>K virus</B>
+
+<P>K virus infection is also a respiratory disease. In suckling mice the clinical signs are labored breathing and early death. Large basophilic inclusion bodies 
+are observed in greatly hypertrophied alveolar lining cells. On occasion, focal disseminated fatty liver dystrophy is found. Since the first description of the 
+disease and isolation of the virus, the K virus has been isolated in several parts of the world, notably Australia (
+<A HREF="#ref30-10">Fisher and Kilham, 1953</A>; 
+<A HREF="#ref30-33">Holt, 1959</A>; 
+<A HREF="#ref30-6">Derrick and Pope, 1960</A>). The virus presumably spreads by way of the urine and saliva, yet serological surveys of both laboratory and wild mouse 
+colonies indicate that antibodies occur in only a small proportion of mice from infected colonies.
+
+<P>Livers of moribund suckling mice provide a source for a suitable complement-fixing antigen so that the virus may be detected by the presence of specific 
+antibody, although intracerebral inoculation of newborn mice with suspect tissues is a more sensitive test. It has been suggested that the K virus may be 
+generically related to polyoma in view of certain common biological properties such as size, stability, etc. (Kilham, cited by 
+<A HREF="#ref30-53">Rowe <I>et al.</I>, 1962</A>.
+
+<P><B>Salivary gland virus</B>
+
+<P>This virus is ubiquitous in wild mouse populations, but has been observed in only a few laboratory colonies. Apparently the virus does not spread with ease (
+<A HREF="#ref30-53">Rowe <I>et al.</I>, 1962</A>) since even in infected colonies its incidence is 3 per cent or less. Virus isolation techniques must be used for laboratory 
+diagnosis. Serological techniques are of little value, and inclusion bodies are rarely observed despite continual excretion of virus in saliva (
+<A HREF="#ref30-53">Rowe <I>et al.</I>, 1962</A>; 
+<A HREF="#ref30-4">Brodsky and Rowe, 1958</A>). Two procedures (utilizing mouth swabs as a convenient source of virus) are generally employed: (1) isolation of the virus in 
+mouse embryo tissue culture, and (2) inoculation of newborn mice. The disease may be suspected in suckling mice by their malnourished appearance and at necropsy by 
+the gross yellow discoloration of the edges of the liver.
+
+<P><B>Thymic virus</B>
+
+<P>The thymic agent has been discovered in as high as one-half the mice of one laboratory colony and is highly prevalent in wild mice. It is pathogenic only for 
+newborn mice and is recognizable by the production of gross thymic necroses, visible about 2 weeks after inoculation. Direct virus isolation is the most reliable 
+diagnostic means, although infected mice produce neutralizing antibodies in low titer. The salivary glands represent the best source of virus since naturally or 
+artificially infected mice excrete the virus in saliva for periods of more than one year. In contrast to the mouse salivary gland virus, the thymic agent does not 
+propagate in tissue culture (
+<A HREF="#ref30-52">Rowe and Capps, 1961</A>).
+
+<P><B>Adenovirus</B>
+
+<P>This virus regularly infects recently weaned mice after prolonged exposure to urine of carrier animals. Infection induces a good complement-fixing and 
+neutralizing-antibody response. Spontaneous clinical disease rarely occurs. However, virus inoculation into suckling mice induces a fatal disease consisting in 
+inflammation and necrosis of the heart, adrenals, and brown fat. Acidophilic intranuclear inclusion bodies occur in these and other tissues (
+<A HREF="#ref30-26">Hartley and Rowe, 1960</A>). The virus produces cytopathic effects in mouse kidney tissue cultures. Fluids from such infected cultures contain an 
+excellent complement-fixing antigen which reacts strongly with adenoviral antisera prepared in guinea pigs (but not with human, monkey, or dog antisera). 
+Apparently the virus does not cross the placental barrier, since it has not been encountered in caesarian-derived colonies (
+<A HREF="#ref30-53">Rowe <I>et al.</I>, 1962</A>).
+
+<P><B>Reoviruses</B>
+
+<P>The reovirus group is composed of three serotypes (
+<A HREF="#ref30-55">Sabin, 1959</A>). Antibodies to reoviruses are assayed by hemagglutination inhibition, neutralization, or complement-fixation tests. Reo 3 virus can be 
+detected by tissue-culture cytopathogenicity, inoculation of suckling mice, or mouse antibody production tests. The sera of some mice contain hemagglutination 
+inhibitor which is undoubtedly nonspecific since it is commonly encountered even in specific-pathogen-free and germ-free mouse colonies.
+
+<P>Only Reo 3 is indigenous to mice and has been isolated from tissue suspensions containing Molony virus. The oncolytic virus of Nelson, obtained from a transplanted 
+ascites tumor (
+<A HREF="#ref30-43">Nelson and Tarnowski, 1960</A>) has been identified as Reo 3. Reo 2 has been encountered as a focal infection in several wild mouse populations which may 
+have acquired infection by contact with other species, such as man and cattle (
+<A HREF="#ref30-53">Rowe <I>et al.</I>, 1962</A>).
+
+<P><B>Oncogenic and tumor-associated viruses</B>
+
+<P>Gross (
+<A HREF="#ref30-22">1961</A>) has discussed the status of virus-induced neoplasms, including mouse leukemias as produced by cell-free leukemic filtrates, the induction of 
+leukemia by filtrates of solid mouse tumors, and the filterable agent causing mouse mammary tumors (Bittner's milk factor). Sinkovics (
+<A HREF="#ref30-62">1962</A>) has reviewed viral leukemias in mice and oncogenic viruses are discussed in Chapters 
+<A HREF="chapter27.shtml">27</A> and 
+<A HREF="chapter28.shtml">28</A>. We refer here only to mouse polyoma infection and the lactic dehydrogenase-stimulating viruses (
+<A HREF="#ref30-21">Gross, 1953</A>; 
+<A HREF="#ref30-63">Stewart, 1953</A>; 
+<A HREF="#ref30-51">Riley <I>et al.</I>, 1960</A>).
+
+<P>A detailed epidemiology of mouse polyoma infection has been developed after intensive studies. The classic techniques of virology for detection of antibodies 
+reveal that mouse polyoma virus is widely disseminated among laboratory colonies and wild mouse populations. Focal reservoirs of infection are maintained by routes 
+of transmission involving virus excretion in urine, feces, and saliva. Apparently the virus is not transferred transplacentally since mice derived by caesarean section 
+for specific-pathogen-free or germ-free colonies have been negative to antibody tests. Polyoma virus (<I>e.g.</I>, infected tissue culture fluid) induces multiple 
+tumors when inoculated into newborn mice. Such tumors are of multicentric and multiple histological origins, with mixed tumors of the salivary glands most frequent. 
+The virus is capable of producing tumors in other species as well.
+
+<P>From the epidemiology of polyoma virus infection several points are notable: (10 Resistance of infant mice is perfectly correlated with presence of maternal 
+antibody titers; no tumors develop in offspring of positive mothers; (2) spontaneous parotid tumors are rarely found in naturally infected mouse colonies; 
+(3) high antibody titers are present in milk of infected mice; and (4) maternally derived antibodies are presumably present in fetuses, since it has been shown 
+that mice born of resistant mothers but not having access to immune mouse milk are resistant to polyoma infection.
+
+<P>Certain transmissible agents have been found to be associated with many transplanted and induced spontaneous tumors of mice (
+<A HREF="#ref30-51">Riley <I>et al.</I>, 1960</A>). These are manifested by biochemical response. Susceptible animals respond with five- to tenfold increases in serum lactic 
+dehydrogenase (LDH) and by induction of other glycolytic enzymes after inoculation with plasma or organ extracts from tumor-bearing hosts. Natural transmission of 
+the <I>lactic dehydrogenase-stimulating agents</I>(<I>s</I>) (LDH) occurs when normal mice are placed in the same cage with agent-infected mice or tumor-bearing mice. 
+In most infected animals moderate splenomegaly occurs. Serum LDH elevation has been induced by inoculation with preparations of cells from infected mice (
+<A HREF="#ref30-50">Riley <I>et al.</I>, 1961</A>). Although there is a close correlation between LDH levels and the growth of several transplanted tumors, elevation is not 
+directly related to the neoplastic process. There is evidence to indicate that the LDH factor is a virus, specifically of mouse origin, and that changes in the LDH 
+level of a tumor-bearing animal depend on whether or not the LDH factor has become associated with that tumor (
+<A HREF="#ref30-45">Notkins <I>et al.</I>, 1962</A>). An increase in lactate dehydrogenase levels can also be induced by injection of several of the mouse hepatitis viruses. 
+LDH virus may be eliminated as a contaminant of transplantable tumors by passage of such material through tissue culture. However, it has been reported that the agent 
+can be propagated and maintained by serial passage on primary mouse embryo tissue-culture (
+<A HREF="#ref30-75">Yaffee, 1962</A>). It can be inactivated by radiation and is unstable in the presence of ether (
+<A HREF="#ref30-45">Notkins <I>et al.</I>, 1962</A>).
+
+<P><B>Infantile diarrhea</B>
+
+<P>Diarrheal disease of unweaned mice is a complex syndrome caused by a number of agents (
+<A HREF="#ref30-48">Pappenheimer, 1958<I>b</I></A>; 
+<A HREF="#ref30-54">Runner and Palm, 1953</A>; 
+<A HREF="#ref30-36">Kraft, 1962</A>). As is true for diarrheal disease in human infants, there is considerable evidence that no single pathogen is the causative agent (
+<A HREF="#ref30-65">Thomlinson, 1964</A>; 
+<A HREF="#ref30-8">Erlandson <I>et al.</I>, 1964</A>; 
+<A HREF="#ref30-1">Altman, 1964</A>; 
+<A HREF="#ref30-49">Payne, 1960</A>; 
+<A HREF="#ref30-2">Barua <I>et al.</I>, 1962</A>). Rather, under certain environmental conditions (crowding, poor sanitation, improper nutrition, variable temperatures, 
+too low or too high humidity, inadequate ventilation, etc.) ubiquitous viral or bacterial organisms may be incriminated as producing diarrheal or septicemic signs 
+in unweaned mice. We find that host factors, such as strain of mouse and parity play a determining role in morbidity and degree of clinical signs.
+
+<P>The clinical signs of the syndrome are: slight-to-severe diarrhea in which fecal material ranges from bright yellow to light brown in color. Nursing mothers 
+will sometimes very efficiently clean up the anal region of the affected animal so that only a slight "pasting up" condition is noted. Animals affected by diarrhea 
+(usually 4 to 10 days of age) usually recover, but many are discarded as runts at weaning time. The diarrhea is often followed by constipation contributing to 
+later mortality, Mortality more often occurs in animals not showing signs of diarrhea. Such deaths occur early, 1 to 2 days after onset of the disease in a litter. 
+Survivors in these litters show varying degrees of diarrhea.
+
+<P>At necropsy, the only common finding is the presence of light colored and watery fecal material in the intestinal tract, with occasional bubbles of gas. 
+Histologically the tissues demonstrate a mild catarrhal inflammation. Some workers have reported inclusion bodies in epithelial cells from live and intestinal tract.
+
+<P>Viral agents such as those described by Kraft (
+<A HREF="#ref30-36">1962</A>) are found in the intestinal contents and reportedly can be transmitted directly to susceptible animals through this medium. Various types of 
+bacteria, coliforms, <I>Proteus</I> sp., and pseudomonads have been found in separate outbreaks of the disease.
+
+<P>Epidemiologically the disease usually occurs in cycles. In certain affected mouse colonies, diarrheal disease is rarely seen until the fall and winter months. 
+Our studies suggest that lower humidity and less fresh outside air are involved in seasonal recurrence rather than length of day and seasonal variation in quality 
+of diet.
+
+<P>Colonies in which diarrheal disease is enzootic may show longer periods between epizootic outbreaks when moved to new quarters. During an outbreak the disease 
+can be controlled by the use of broad-spectrum antibiotics such as the oxytetracyclines or tetracyclines administered in the drinking water. Therapeutic doses are 
+administered over a 2-week period to all animals in a breeding colony. The preferable medication period is during the last third of pregnancy. This treatment is 
+repeated in 2 weeks. Such therapy results in marked increase in the numbers of healthy-looking mice weaned and a decrease in the incidence of diarrhea. Similar 
+effects are produced by the use of air-filtering material placed around each breeding cage or by the use of aluminum foil covering 50 per cent or more of open 
+cage surfaces. The effects shown by cage modification (air filtering, foil covers) may be due to decreased aerosol dose levels. The use of certain types of highly 
+absorbent bedding material also results in a higher recovery rate and a decrease in diarrheal disease. All of these control measures singly or in combination result 
+initially in marked improvement of colony health, but usually over a period of months the disease reappears. Also, the effects of combining such control measures 
+are not additive but only as good as the best measure used alone. Other effective control and prevention measures entail a variety of steps to isolate each breeding 
+pen completely.
+
+<P>Much remains to be learned of the causes of infantile diarrheal disease, but the diarrhea should be considered as an accompaniment of certain diseases of 
+suckling mice and not as a disease entity in itself.
+
+<P><B>BACTERIAL DISEASES</B>
+
+<P>The spontaneously occurring or latently present bacterial diseases of mice are numerous, and the mouse is also susceptible to experimental infection by many 
+pathogens from other species. Because of the small size of the animal, its habits, and the complexity of husbandry methods applied, it is extremely difficult to 
+evaluate the health of a single animal by the usual clinical methods. Instead, an epidemiological approach is necessary. The population or a percentage thereof is 
+observed for common factors which can be related to the various signs of morbidity and to mortality rates (
+<A HREF="#ref30-61">Shope, 1964</A>).
+
+<P><B>Salmonellosis</B>
+
+<P>Infection by <I>Salmonella</I> sp. is one of the more common types of bacteriological infections of mice (
+<A HREF="#ref30-24">Habermann and Williams, 1958<I>a</I></A>; 
+<A HREF="#ref30-37">Lane-Petter, 1963</A>). The most commonly found strain is <I>Salmonella typhimurium</I>. However, mice are highly susceptible to infection by most of 
+the <I>Salmonella</I> sp. organisms and other strains have been reported as responsible for epizootics or as latently infecting a few mice in a colony (
+<A HREF="#ref30-73">Wetmore and Hoag, 1960</A>; 
+<A HREF="#ref30-29">Hoag <I>et al.</I>, 1964<I>a</I></A>). The degree of virulence is dependent largely upon the dose and route of infection and the strain of host mouse 
+as well as upon the inherent virulence of the organism itself. Salmonellosis is characterized initially by diarrhea or soft stools, sudden deaths, anorexia, and 
+cachexia. Large number of animals are often lost not by death, but by the culling of underweight and poor-looking mice. The initial outbreak of salmonellosis soon 
+subsides into a chronic form of the disease wherein the organisms are shed in fecal material. The adult carriers often appear healthy, but suckling and growing mice 
+show great variation in body weight and rates of gain. Occasional breeding pairs are affected by attacks of mild diarrhea evidenced by soft, light-colored fecal 
+pellets. Cull rates are high chiefly because of variations in weight and the poor appearance of weanling mice. At necropsy only a few animals show the classic 
+"white spotted livers." Many will show enlarged spleens, but no gross necropsy findings are pathognomonic. Spleen, liver, and both large and small intestine are 
+the tissues of choice for bacteriological examination. Tissues should be separately cultured for the presence of the organisms. In moribund or sick-looking animals 
+the liver and spleen will yield <I>Salmonella</I>, whereas the chronically infected cases will usually yield organisms from the intestinal tract only.
+
+<P>For the isolation of <I>Salmonella</I> sp. enrichment media, preferably Tetrathionate Broth (Difco Laboratories), should be inoculated with a quantity of minced 
+or ground tissues and the media incubated at 37&#176;C for 72 hours (
+<A HREF="#ref30-28">Hoag and Rogers, 1961</A>). During this period subcultures to Brilliant Green Agar (Difco) are incubated at 37&#176;C for 48 hours before being discarded 
+as negative for salmonella growths. Serological identification of suspect bacterial colonies is then carried out with polyvalent or group-specific antisera. Specific 
+identification is dependent upon further serological techniques.
+
+<P>The disease is not controllable by any known therapeutic measures. Broad-spectrum antibiotics such as tetracycline or oxytetracycline seem to be of some use in 
+epizootics in increasing the numbers of survivors, but they will not cure chronically infected animals. Vaccines of various types have been found to be highly effective 
+against clinical signs and mortality from the disease but do not prevent chronic infection and carrier states from developing (
+<A HREF="#ref30-30">Hoag <I>et. al.</I>, 1964<I>b</I></A>). We have demonstrated that three differently prepared <I>S. typhimurium</I> vaccines were effective against as many as 
+100 LD<SUB>50</SUB> challenge doses of <I>S. typhimurium</I> but all of the surviving animals, although appearing perfectly healthy, were shedding organisms in fecal 
+material and had infected livers and spleens as long as 6 weeks after the challenge.
+
+<P>The disease is controlled by elimination of infected or carrier stocks. Several (at least two and preferably six) weekly fecal tests should be performed before 
+concluding that an animal is free of infection, since intermittent and low-level shedders are commonly encountered in a chronically infected colony. Sanitation is 
+an important part of preventing spread of the disease, since an important mode of transmission is by contact with contaminated objects. Food supplies and bedding 
+material should be treated as potential sources of infection. Occasional parathyphoid carriers are found among mouse handlers, but are not important sources of animal 
+infection.
+
+<P><B>Pasteurellosis</B>
+
+<P>Pasteurellosis due to <I>Pasteurella pseudotuberculosis</I>, <I>P. septica</I>, or <I>P. pneumotropica</I> may occur spontaneously in laboratory mice (
+<A HREF="#ref30-59">Sellers <I>et al.</I>, 1961</A>; 
+<A HREF="#ref30-69">Tuffery, 1958</A>; 
+<A HREF="#ref30-32">Hoag <I>et al.</I>, 1962</A>). The latter two organisms may be found in various tissues of apparently normal mice. Latently infected animals subjected to 
+various types of stress (radiation, abrupt temperature changes) will often produce signs of acute disease: anorexia, lassitude, sudden deaths. The livers of animals 
+infected with <I>P. pseudotuberculosis</I> present multiple focal abscesses. <I>P. pneumotropica</I> has been reported in outbreaks of pneumonia in mice and has also 
+been found in normal-appearing lung tissue (
+<A HREF="#ref30-34">Jawetz, 1948</A>; 
+<A HREF="#ref30-35">Jawetz and Baker, 1948</A>). In other instances this organism has been isolated from the brain, uterus, testes, liver, or spleen of normal-appearing mice. 
+In rare instances septicemic deaths have been attributed to <I>P. pneumotropica</I>. Pasteurellosis is probably a stress-induced disease and the causative organism 
+most commonly a latent infective one.
+
+<P>The pasteurella organism is susceptible to the tetracycline or oxytetracycline types of broad-spectrum antibiotics but is usually resistant to penicillin. 
+Outbreaks in which signs of disease are thought to be caused by pasteurella organisms (on the basis of isolations from organ tissue) may be treated by administering 
+the effective antibiotics in the drinking water. Response to the drugs is immediate and favorable.
+
+<P><B>Pseudomonas infections</B>
+
+<P>Infection with <I>Pseudomonas aeruginosa</I> is common in laboratory mouse colonies (
+<A HREF="#ref30-11">Flynn, 1963<I>a</I></A>). No signs of infection are manifest unless animals are subjected to radiation or other types of stress (cortisone, etc.) (
+<A HREF="#ref30-11">Flynn, 1963<I>a</I></A>; 
+<A HREF="#ref30-72">Wensinck <I>et al.</I> 1957</A>; 
+<A HREF="#ref30-70">Verder and Rosenthal, 1961</A>). Such treatment results in rapid onset of septicemic disease (anorexia, listlessness) and high mortality. At necropsy the 
+organisms are easily cultured from all organs, particularly liver and spleen. Although not important as a spontaneous disease-causing organism, <I>P. aeruginosa</I> 
+is of major concern to investigators using mice in experiments employing radiation. The organism is shed in feces and urine from chronically infected animals. 
+Nearly 100 per cent of the animals in a colony may become rapidly infected by contamination and recontamination of drinking water, caging equipment, and feeds. The 
+infection can be controlled by hyperchlorination and acidification of water used for drinking and cleaning (
+<A HREF="#ref30-31">Hoag <I>et al.</I>, 1965</A>). Sanitation procedures must be of the highest efficiency and detectable carriers eliminated. Carrier detection should not 
+serve as a criterion for culling until <I>after</I> control procedures such as water treatment and intensified sanitation have been inaugurated, since it has been 
+shown that most fecal shedders of the organisms are only transiently infected and will seemingly spontaneously "recover" if not exposed to further doses of the 
+organisms in contaminated water. After control procedures have been in effect for several weeks, a test-and-slaughter program should be started. Pens containing 
+mice shedding the organism should be provided from the colony.
+
+<P>Antibiotics and other drugs are of no value in treating the infection. In one instance when oxytetracycline was being administered in drinking water to inbred 
+mice, it was found that the organism grew more rapidly in water containing hypertherapeutic levels of the drug (
+<A HREF="#ref30-31">Hoag <I>et al.</I>, 1965</A>).
+
+<P><B>Klebsiella infections</B>
+
+<P>Latent infections with capsulated lactose-fermenting bacilli, often loosely identified as <I>Klebsiella</I> group organisms, are not uncommon (
+<A HREF="#ref30-74">Wilson and Miles, 1964</A>). Such organisms are occasionally isolated from lung tissue of normal-appearing mice. Sometimes the organism is found in 
+the nasopharyngeal region or in various body wastes. In certain outbreaks of pneumonia in mice, <I>Klebsiella</I> sp. can be recovered from 100 per cent of the 
+lungs of sick or moribund mice. The organisms recovered vary greatly in virulence. Rarely, the bacterium can be recovered from abscesses of lung or from other 
+internal organs and cutaneous areas. Improved sanitation and environmental constancy are recommended control measures.
+
+<P><B>Tyzzer's disease</B>
+
+<P>Disease caused by <I>Bacillus piliformis</I> has been described by several workers (
+<A HREF="#ref30-16">Fujiwara <I>et al.</I>, 1963</A>; 
+<A HREF="#ref30-17">Fujiwara <I>et al.</I>, 1964</A>; 
+<A HREF="#ref30-57">Saunders, 1958<I>b</I></A>). Most agree that the organism occurs in an infected colony as an intestinal saprophyte and that clinical disease occurs 
+only after animals have been stressed, as by adverse nutrition or by the effects of stressors introduced during the course of an experiment. Onset of disease 
+signs is abrupt with death occurring 2 to 3 days afterward. Diarrhea may occur as the major sing or may affect only a few of the sick animals. Anorexia and 
+other signs of septicemia are manifest. Some immunity develops in recovered animals.
+
+<P>The condition may occur in mice of all ages, but the highest mortality rate is observed in 3- to 7-week-old animals. The most striking necropsy finding is 
+the occurrence of numerous grayish-white spots (up to 2.5 mm in diameter) on the outer and cut surfaces of the liver. Mesenteric lymph nodes are usually enlarged 
+and sometimes abscessed. Microscopically the organisms (long, thin, Gram-negative rods) are found intercellularly, surrounding the necrotic tissue areas, but 
+are also seen in intact liver cells as well. the organisms have been reported as cultivatable in tissue culture, but cannot be grown on defined bacteriological 
+media. Diagnosis is by histological sectioning and staining of tissues with subsequent demonstration of stained organisms.
+
+<P>Differences between mouse strains in susceptibility have been demonstrated, but it is emphasized that any incidence in a mouse colony represents a disease 
+potential and infected colonies must therefore be considered as hazardous for other research. Little work has been done to demonstrate the effectiveness of 
+therapy, although oxytetracycline has been of value (
+<A HREF="#ref30-69">Tuffery, 1958</A>).
+
+<P><B>PPLO (Pleuropneumonia-like organisms)</B>
+
+<P>Infections with organisms described as PPLO have been chiefly reported as causing catarrhal disease in mice (
+<A HREF="#ref30-42">Nelson, 1958</A>). Some outbreaks of disease of the upper respiratory tract are characterized by sudden onset and involvement of a large percentage of a 
+colony usually after chilling or overheating. Chattering and sniffling with variable nasal discharge are the observable signs of infection. Mortality rates are low, 
+and recovery from the exudative catarrh is spontaneous. A few animals succumb to bronchopneumonia or may develop a chronic bronchiectatic pneumonia. In other types 
+of upper respiratory disease caused by PPLO the onset is gradual and the outbreak appears enzootic in character, Because of the chronic nature and long course of 
+the disease, the eventual involvement of large numbers of animals may give the appearance of a suddenly occurring epizootic disease, particularly if the mild symptoms 
+in the early stages of the condition are unnoted. Labyrinthitis (manifested by disequilibrium) may occur in a few of the mice.
+
+<P>PPLO organisms are often found in animals from an apparently healthy colony and may be recovered from various tissues other than lung material (
+<A HREF="#ref30-15">Freundt, 1959</A>). The pathogenic potential of latent infections is always manifest but has not been quantitatively evaluated.
+
+<P><B>Streptobacillus moniliformis</B>
+
+<P>Infections with <I>Streptobacillus moniliformis</I> are usually latent. In certain outbreaks where clinical signs include lameness and swelling of joints and 
+extremities (due to edema), the organism is readily isolated from blood and organs, including affected joints (
+<A HREF="#ref30-74">Wilson and Miles, 1964</A>; 
+<A HREF="#ref30-14">Freundt, 1956</A>). In other instances the organism is not found in the bacterial cell state, but is isolated with extreme difficulty in L form by PPLO 
+culture techniques (
+<A HREF="#ref30-15">Freundt, 1959</A>). Clinical signs are often confused with those seen in chronic ectromelia, and for this reason an early differential diagnosis is indicated (
+<A HREF="#ref30-37">Lane-Petter, 1963</A>). Stress plays an important role in the activation of latent infection. In many outbreaks mice will arrive in apparently good 
+health after exposure to adverse shipping conditions, but within 3 to 4 days 10 to 50 per cent will develop signs of the disease &#151; swellings and ulcerations of 
+feet and tail after the appearance of a sharp band of demarcation proximal to the swelling. Recovery is usually spontaneous, although severely affected animals are 
+deformed because of deranged circulation to extremities with subsequent sloughing of the entire area distal to the necrotic demarcation band. In our experience 
+antibiotics such as tetracycline and oxytetracycline seem to be useful in controlling outbreaks. In clinically affected animals these drugs serve to mitigate the 
+severity of developing lesions.
+
+<P><B>PARASITIC DISEASES</B>
+
+<P><B>Helminth infections</B>
+
+<P>Mice may become infected with helminths from other species (
+<A HREF="#ref30-25">Haberman and Williams, 1958<I>b</I></A>). Outbreaks of infection with <I>Taenia taeniformis</I> can occur when mice are housed in the same area with cats. 
+Infections with the various helminths rarely produce clinical signs and are only potentially important as producing unpredictable variables in animals used in research. 
+Heavily infected animals are below norms in weight and may be anemic. Some mouse colonies may be infected with <I>Hymenolopis nana</I> (the dwarf tapeworm). The life 
+cycle of this parasite does not involve any secondary hosts, with infection taking place directly from eggs excreted in feces. Upon necropsy, the tapeworm is easily 
+observed through the walls of the unopened intestinal tract.
+
+<P>Mouse colonies are often infected with the oxyurids <I>Syphacia obvelata</I> and <I>Aspiculuris tetraptera</I>. These mouse pinworms have a direct life cycle and 
+spread through a colony rapidly because of the large numbers of eggs excreted and the ease with which the eggs are airborne. There are no clinical signs of oxyuriasis. 
+There may be some weight and growth variation between infected and noninfected animals, but other signs such as poor hair coat, etc., are not clear-cut. There is some 
+evidence that oxyuriasis may contribute to rectal prolapse. Diagnosis can be made by examination of fecal material or the anal region for oxyurid eggs by the various 
+flotation or contact-tape techniques. Pinworm infection may be eliminated by treatment with various drugs such as the piperazine compounds, usually most efficacious 
+when administered via drinking water (
+<A HREF="#ref30-27">Hoag, 1961</A>). Treatment must be accompanied by through cleaning of the room and caging equipment to remove the possibility of reinfection from 
+egg-contaminated dust.
+
+<P><B>Arthropod infections</B>
+
+<P>Lice (<I>Polyplax serrata</I>) and mites (<I>Myobia musculi</I>, <I>Myocoptes musculinus</I>, <I>Myocoptes romboutsi</I>, <I>Radfordia affinis</I>, and 
+<I>Psoregates simplex</I>) are the chief ectoparasites of laboratory mice (
+<A HREF="#ref30-12">Flynn, 1963<I>b</I></A>). Their presence is manifested by hair loss and scratching, which may give rise to bacterially infected ulcerative wounds. It is not 
+unusual for mice to die in a heavily infested colony as a result of these infected sores.
+
+<P>Control of ectoparasites is difficult. Various dusting powders containing DDT, methoxyclor, rotenone, or other parasiticides, and dips containing aramite or other 
+materials have been used, but must be regularly or periodically applied. Bedding materials either treated with aromatic hydrocarbons (such as crude cedar wood oil) or 
+naturally containing such materials (cedar wood shavings) are successful in suppressing infestations.
+
+<P><B>PROTOZOAN INFECTIONS</B>
+
+<P>Several types of protozoan diseases have been reported in mice. Most are inapparent infections, noted only after synergistic activity with other agents such as 
+viruses or after interference with immunological body defenses as by splenectomy, Control is usually by improving hygiene after elimination of infected animals or 
+whole colonies.
+
+<P><I>Eperythrozo&#246;n coccoides</I> occurs as a blood parasite in the form of disc-shaped structures on the surface of red blood cells. Splenectomy of infected 
+mice results in a marked increase in the numbers of parasitized cells and onset of transient mild anemia. The presence of this parasite increases susceptibility to 
+such infectious agents as the mouse hepatitis virus, lymphocytic choriomeningitis virus, and lactate dehydrogenase-elevating virus (
+<A HREF="#ref30-58">Seamer <I>et al.</I>, 1961</A>; 
+<A HREF="#ref30-50">Riley, 1964</A>).
+
+<P><I>Hemobartonella muris</I> is another red blood cell parasite activated in infected mice after splenectomy (
+<A HREF="#ref30-20">Griesemer, 1958</A>). Infectivity is very low. The anemia produced is mild and transitory.
+
+<P><I>Eperythrozo&#246;n cuniculi</I> causes mild febrile disease in mice, infects epithelial cells of the kidney papillae, and produces granulomatous lesions in 
+brain tissue (
+<A HREF="#ref30-76">Yost, 1958</A>). These organisms occur as 1.5- to 2.0-&#956 Gram-positive rods. Transmission is apparently by way of urine, which may contain large numbers 
+of organisms.
+
+<P><I>Klosiella muris</I> has been described as causing an infection of mouse kidney epithelial cells (
+<A HREF="#ref30-7">Dunn, 1949</A>). Signs of disease are inapparent although, on necropsy, kidneys of infected animals may be surface-marked with varying numbers of tiny 
+grayish-white foci. Transmission is by way of spore cysts released into the urine.
+
+<P><B>MYCOTIC INFECTIONS</B>
+
+<P>Mycotic infections of mice usually produce a dermatitis. Such infections, which can be caused by any one of several <I>Trichophyton</I> or <I>Microsporum</I> sp., 
+result in circumscribed encrusted areas with hair loss and are empirically called ringworm. The fungus from the lesions may be easily demonstrated by microscopic 
+examination of skin scrapings (
+<A HREF="#ref30-38">La Touche, 1957</A>). Control of the colony infection is difficult. Outbreaks are chiefly important as sources of human infection as most of these fungi 
+cause similar lesions in man.
+
+<P><B>SUMMARY</B>
+
+<P>The mouse is susceptible to an array of infectious agents. Many of these agents produce signs of disease and must be eliminated or controlled if only 
+to maintain sizable mouse populations. On the other hand, because the mouse is so important as a biological yardstick for measurement of varied procedures, 
+it becomes important as well to eliminate or control those infectious agents which do not produce observable disease, but which may affect the outcome of an 
+experiment. The development of mouse colonies from caesarean-derived stock is an effective panacea for eliminating those disease agents which cannot penetrate 
+the placental barriers. In another respect, it is important to study the synergistic or antagonistic effect of various disease agents either in combination with 
+each other or with other factors so that information so derived may contribute toward man's understanding of his own disease problems. It would be unfortunate 
+to eliminate completely all disease of mice before obtaining more complete knowledge of the etiology, epidemiology, and pathology of such naturally occurring conditions.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grant CA 04691 from the National Cancer Institute.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref30-1"></A>
+<P>Altman, R. 1964. Clinical aspects of enterovirus infection. Postgrad Med. <B>35:</B> 451-453.
+<!-- 14163253 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14163253" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-2"></A>
+<P>Barua, D., P.L. Bannerjee, B.K. Aikat, and C.L. Mukherjee. 1962. 
+Infantile gastroenteritis outbreak due to <I>Escherichia cloi</I>. 
+J. Indian Med. Ass. <B>38:</B> 383-386.
+
+
+<A NAME="ref30-3"></A>
+<P>Briody, B.A. 1959. 
+Response of mice to ectromelia and vaccinia viruses. 
+Bacteriol. Rev. <B>23:</B> 61-95.
+<!-- 13670876 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13670876" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-4"></A>
+<P>Brodsky, I., and W.P. Rowe. 1958. 
+Chronic subclinical infection with mouse salivary gland virus. 
+Proc. Soc. Exp. Biol. Med. <B>99:</B> 654-655.
+<!-- 13614454 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13614454" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-5"></A>
+<P>Burnet, F.M., and W.C. Boake. 1946. 
+The relationship between the virus of infectious ectromelia of mice and vaccinia virus. 
+J. Immunol. <B>53:</B> 1013.
+
+
+<A NAME="ref30-6"></A>
+<P>Derrick, E.H., and J.H. Pope. 1960. 
+Murine typhus in mice, rats, and fleas on the Darling Downs. 
+Med. J. Austral. <B>11:</B> 924-928.
+<!-- 13722085 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13722085" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-7"></A>
+<P>Dunn, T.B. 1949. 
+Some observations on the normal and pathologic anatomy of the kidney of the mouse. 
+J. Nat. Cancer Inst. <B>9:</B> 285-301.
+<!-- MGI:75340 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75340" target="_blank">MGI</A></I>.
+
+<A NAME="ref30-8"></A>
+<P>Erlandson, A.L., Jr., M.A. Nemer, and I.A. Pearson. 1964. 
+Characteristics of various experimental human adult virulent <I>Escherichia coli</I> infections in mice. 
+J. Infect. Dis. <B>114:</B> 163-168.
+<!-- 14141858 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14141858" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-9"></A>
+<P>Fenner, F. 1949. 
+Mouse-pox (infectious ectromelia of mice). A review. 
+J. Immunol. <B>63:</B> 341-373.
+<!-- 15398116 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15398116" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-10"></A>
+<P>Fisher, E.R., and L. Kilham. 1953. 
+Pathology of a pneumotropic virus recovered from C3H mice carrying the Bittner agent. 
+Arch. Pathol. <B>55:</B> 14-19.
+<!-- 12996187 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12996187" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-11"></A>
+<P>Flynn, R.J. 1963<I>a</I>. 
+<I>Pseudomonas aeruginosa</I> infection and radiobiological research at the Argonne National Laboratory: effects, diagnosis, epizootiology and control. 
+Lab. Anim. Care <B>13:</B> 25-35.
+
+
+<A NAME="ref30-12"></A>
+<P>Flynn, R.J. 1963<I>b</I>. 
+The diagnosis of some forms of ectoparasitism of mice. 
+Lab. Anim. Care <B>13:</B> 111-125.
+<!-- 14043130 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14043130" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-13"></A>
+<P>Flynn, R.J. 1963<I>c</I>. 
+The diagnosis of <I>Pseudomonas aeruginosa</I> infection in mice. 
+Lab. Anim. Care <B>13:</B> 126-129.
+<!-- 14043131 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14043131" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-14"></A>
+<P>Freundt, E.A. 1956. 
+<I>Streptobacillus moniliformis</I> infection in mice. 
+Acta Pathol. Microbiol. Scand. <B>38:</B> 231-245.
+<!-- 13326443 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13326443" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-15"></A>
+<P>Freundt, E.A. 1959. 
+Arthritis caused by <I>Streptobacillus moniliformis</I> and pleuropneumonia-like organisms in small rodents. 
+Lab. Invest. <B>8:</B> 1358-1366.
+<!-- 13824925 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13824925" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-16"></A>
+<P>Fujiwara, K., Y. Takagaki, K. Maejima, K. Kato, M. Naiki, and Y. Tajima. 1963. 
+Tyzzer's disease in mice: pathologic studies on experimentally infected animals. 
+Jap. J. Exp. Med. <B>33:</B> 183-202.
+<!-- 14062698 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14062698" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-17"></A>
+<P>Fujiwara, K., Y. Takagaki, M. Naiki, K. Maejima, and Y. Tajima. 1964. 
+Tyzzer's disease in mice. 
+Jap. J. Exp. Med. <B>34:</B> 59-75.
+<!-- 14169585 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14169585" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-18"></A>
+<P>Gledhill, A.W. 1962. 
+Viral diseases in laboratory animals, p. 99-112. 
+<I>In</I> R.J.C. Harris [ed.] <I>The Problems of Laboratory Animal Disease</I>. Academic Press, New York.
+
+
+<A NAME="ref30-19"></A>
+<P>Gledhill, A.W., and J.S.F. Niven. 1955. 
+Latent virus infection as exemplified by mouse hepatitis virus (MHV). 
+Vet. Rev. Annot. <B>1:</B> 82-90.
+
+
+<A NAME="ref30-20"></A>
+<P>Griesemer, R.A. 1958. 
+Bartonellosis. 
+J. Nat. Cancer Inst. <B>20:</B> 949-956.
+<!-- 13570654 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13570654" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-21"></A>
+<P>Gross, L. 1953. 
+A filterable agent recovered from AK leukemic extracts, causing salivary gland carcinomas in C3H mice. 
+Proc. Soc. Exp. Biol. Med. <B>83:</B> 414-416.
+<!-- 13064287 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13064287" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-22"></A>
+<P>Gross, L. 1961. 
+<I>Oncogenic Viruses</I>. 
+Pergamon Press, New York. 393 p.
+
+
+<A NAME="ref30-23"></A>
+<P>Haas, V.H. 1954. 
+Some relationships between choriomeningitis (LCM) virus and mice. 
+J. Infect. Dis. <B>94:</B> 187-198.
+<!-- 13163460 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13163460" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-24"></A>
+<P>Habermann, R.T., and F.P. Williams, Jr. 1958<I>a</I>. 
+Salmonellosis in laboratory animals. 
+J. Nat Cancer Inst. <B>20:</B> 933-947.
+<!-- 13539639 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539639" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-25"></A>
+<P>Habermann, R.T., and F.P. Williams, Jr. 1958<I>b</I>. 
+The identification and control of helminths in laboratory animals. 
+J. Nat. Cancer Inst. <B>20:</B> 979-1009.
+<!-- 13539642 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539642" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-26"></A>
+<P>Hartley, J.W., and W.P. Rowe. 1960. 
+A new mouse virus apparently related to the adeno virus group. 
+Virology <B>11:</B> 645-647.
+<!-- 14400125 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14400125" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-27"></A>
+<P>Hoag, W.G. 1961. 
+Oxyuriasis in laboratory mouse colonies. 
+Amer. J. Vet. Res. <B>22:</B> 150-153.
+<!-- 13714745 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13714745" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-28"></A>
+<P>Hoag, W.G., and J. Rogers. 1961. 
+Techniques for the isolation of <I>Salmonella typhimurium</I> from laboratory mice. 
+J. Bacteriol. <B>82:</B> 153-154.
+<!-- 13714744 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13714744" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-29"></A>
+<P>Hoag, W.G., J. Strout, and H. Meier. 1964<I>a</I>. 
+Isolation of <I>Salmonella</I> spp. from laboratory mice and from diet supplements. 
+J. Bacteriol. <B>88:</B> 534-536.
+<!-- 14203375 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14203375" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-30"></A>
+<P>Hoag, W.G., J. Strout, and H. Meier. 1964<I>b</I>. 
+Attempts to immunize mice against chronic and acute states of <I>Salmonella typhimurium</I> infection. 
+Z. Versuchstierk. <B>5:</B> 121-129.
+
+
+<A NAME="ref30-31"></A>
+<P>Hoag, W.G., J. Strout, and H. Meier. 1965. 
+Epidemiological aspects of the control of <I>Pseudomonas</I> infection in mouse colonies. 
+Lab. Anim. Care. <B>15:</B> 217-225.
+<!-- 14302823 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14302823" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-32"></A>
+<P>Hoag, W.G., P.W. Wetmore, J. Rogers, and H. Meier. 1962. 
+A study of latent <I>Pasteurella</I> infection in a mouse colony. 
+J. Infect. Dis. <B>111:</B> 135-140.
+<!-- 13954858 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13954858" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-33"></A>
+<P>Holt, D. 1959. 
+Presence of K virus in wild mice in Australia. 
+Austral. J. Exp. Biol. Med. Sci. <B>37:</B> 183-191.
+<!-- 14402846 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14402846" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-34"></A>
+<P>Jawetz, E. 1948. 
+A pneumotropic <I>Pasteurella</I> of laboratory animals. I. Bacteriological and serological characteristics of the organism. 
+J. Infect. Dis. <B>85:</B> 172-183.
+
+
+<A NAME="ref30-35"></A>
+<P>Jawetz, E., and W.H. Baker. 1948. 
+A pneumotropic <I>pasteurella</I> of laboratory animals. II. Pathological and immunological studies with the organism. 
+J. Infect. Dis. <B>86:</B> 184-196.
+
+
+<A NAME="ref30-36"></A>
+<P>Kraft, L.M. 1962. 
+Two viruses causing diarrhoea in infant mice, p. 115-130. 
+<I>In</I> R.J.C. Harris [ed.] <I>The Problems of Laboratory Animal Disease.</I> Academic Press, New York.
+
+
+<A NAME="ref30-37"></A>
+<P>Lane-Petter, W. [ed.] 1963. 
+<I>Animals for Research</I>. 
+Academic Press, New York.
+
+
+<A NAME="ref30-38"></A>
+<P>La Touche, C.J. 1957. 
+Ringworm in laboratory mice, p. 526-532. 
+<I>In</I> A.N. Worden and W. Lane-Petter [ed.] <I>The Universities Federation for Animal Welfare Handbook on the Care and 
+Management of Laboratory Animals.</I> Univ. Fed. Anim. Welfare, London.
+
+
+<A NAME="ref30-39"></A>
+<P>Maurer, F.D. 1958<I>a</I>. 
+Mouse poliomyelitis or Theiler's mouse encephalomyelitis. 
+J. Nat. Cancer Inst. <B>20:</B> 871-874.
+<!-- 13539631 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539631" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-40"></A>
+<P>Maurer, F.D. 1958<I>b</I>. 
+Lymphocytic choriomeningitis. 
+J. Nat. Cancer Inst. <B>20:</B> 867-870.
+<!-- 13539630 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539630" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-41"></A>
+<P>Mirick, G.S., J.M. Smith, C.I. Leffwich, Jr., and W.V. Leffwich. 1952. 
+The enhancing effect of urethane on the severity of infection with pneumonia virus of mice (PVM). 
+J. Exp. Med. <B>95:</B> 147-160.
+<!-- 14907967 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14907967" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-42"></A>
+<P>Nelson, J.B. 1958. 
+Infection in laboratory animals with pleuropneumonia-like organisms. 
+J. Nat. Cancer Inst. <B>20:</B> 911-915.
+<!-- 13539637 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539637" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-43"></A>
+<P>Nelson, J.B., and G.S. Tarnowski. 1960. 
+An oncolytic virus recovered from Swiss mice during passage of an ascites tumor. 
+Nature <B>188:</B> 866-867.
+<!-- 13728288 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13728288" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-44"></A>
+<P>Nigg, C., and N.D. Eaton. 1944. 
+Isolation from normal mice of pneumotropic virus which forms elementary bodies. 
+J. Exp. Med. <B>79:</B> 497-509.
+
+
+<A NAME="ref30-45"></A>
+<P>Notkins, A.L., R.L. Berry, J.B. Moloney, and R.E. Greenfield. 1962. 
+Relationship of the lactic dehydrogenase factor to certain murine tumours. 
+Nature <B>193:</B> 79-80.
+<!-- 14480485 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14480485" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-46"></A>
+<P>Olitsky, P.K., and J.M. Lee. 1955. 
+The immunologic response of mice from stocks resistant and susceptible to acute disseminated encephalomyelitis. 
+J. Lab. Clin. Med. <B>45:</B> 81-86.
+<!-- 13233630 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13233630" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-47"></A>
+<P>Pappenheimer, A.M. 1958<I>a</I>. 
+Pathology of infection with the JHM virus. 
+J. Nat. Cancer Inst. <B>20:</B> 879-891.
+<!-- 13539633 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539633" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-48"></A>
+<P>Pappenheimer, A.M. 1958<I>b</I>. 
+Epidemic diarrheal diseases of suckling mice. 
+J. Nat. Cancer Inst. <B>20:</B> 861-865.
+<!-- 13539629 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539629" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-49"></A>
+<P>Payne, F.J. 1960. 
+<I>Escherichia coli</I> strains as etiological agents of diarrheal disease. 
+Public Health Rep. <B>75:</B> 534-536.
+<!-- 14431147 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14431147" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-50"></A>
+<P>Riley, V., E. Huerto, F. Lilly, D. Bardell, J.D. Loveless, and M.A. Fitzmaurice. 1961. 
+Some characteristics of virus-like entities associated with 50 varieties of experimental tumors. 
+Proc. Amer. Ass. Cancer Res. <B>3:</B> 262.
+
+
+<A NAME="ref30-51"></A>
+<P>Riley, V., F. Lilly, E. Huerto, and D. Bardell. 1960. 
+Transmissible agent associated with 26 types of mouse neoplasms. 
+Science <B>132:</B> 545-547.
+<!-- 17798830 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17798830" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-52"></A>
+<P>Rowe, W.P., and W.I. Capps. 1961. 
+A new mouse virus causing necrosis of the thymus in newborn mice. 
+J. Exp. Med. <B>113:</B> 831-844.
+<!-- 13744140 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13744140" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-53"></A>
+<P>Rowe, W.P., J.W. Hartley, and R.J. Huebner. 1962. 
+Polyoma and other indigenous mouse viruses. p. 131-142. 
+<I>In</I> R.J.C. Harris [ed.] <I>The Problems of Laboratory Animal Disease</I>. Academic Press, New York.
+
+
+<A NAME="ref30-54"></A>
+<P>Runner, M.N., and J. Palm. 1953. 
+Factors associated with the incidence of infantile disease in mice. 
+Proc. Soc. Exp. Biol. Med. <B>82:</B> 147-150.
+<!-- 13037827 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13037827" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-55"></A>
+<P>Sabin, A.B. 1959. 
+Reoviruses. A new group o respiratory and enteric viruses formerly classified as ECHO type 10 is described. 
+Science <B>130:</B> 1387-1389.
+<!-- 14440555 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14440555" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-56"></A>
+<P>Saunders, L.Z. 1958<I>a</I>. 
+Mouse pox (infectious ectromelia). 
+J. Nat. Cancer Inst. <B>20:</B> 875-877.
+<!-- 13539632 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539632" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-57"></A>
+<P>Saunders, L.Z. 1958<I>b</I>. 
+Tyzzer's disease. 
+J. Nat. Cancer Inst. <B>20:</B> 893-897.
+<!-- 13539634 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539634" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-58"></A>
+<P>Seamer, J., A.W. Gledhill, J.L. Barlow, and J. Hotchin. 1961. 
+Effect of <I>Eperythrozo&#246;n coccoides</I> upon lymphocytic choriomeningitis in mice. 
+J. Immunol. <B>86:</B> 512-515.
+<!-- 13749489 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13749489" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-59"></A>
+<P>Sellers, T.F., J.J. Schulman, C. Bouvier, R. McCune, and E.D. Kilbourne. 1961. 
+The influence of influenza virus infection on exogenous staphyloccal and endogenous murine bacterial infection of the bronchopulmonary tissues of mice. 
+J. Exp. Med. <B>115:</B> 234-256.
+<!-- 13749920 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13749920" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-60"></A>
+<P>Shope, R.E. 1954. 
+Report of committee on infectious ectromelia of mice (mouse-pox). 
+J. Nat. Cancer Inst. <B>15:</B> 405-408.
+
+
+<A NAME="ref30-61"></A>
+<P>Shope, R.E. 1964. 
+The epidemiology of the origin and perpetuation of a new disease. 
+Perspect. Biol. Med. <B>7:</B> 263-278.
+<!-- 14161259 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14161259" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-62"></A>
+<P>Sinkovics, J.G. 1962. 
+Abnormal immune and other complicating phenomena associated with a viral mouse leukemia. 
+J. Infect. Dis. <B>110:</B> 282-296.
+<!-- 13913389 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13913389" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-63"></A>
+<P>Stewart, S.E. 1953. 
+Leukemia in mice produced by a filterable agent present in AKR leukemic tissues with notes on a sarcoma produced by the same agent. 
+Anat. Re. <B>117:</B> 532. (Abstr.)
+
+
+<A NAME="ref30-64"></A>
+<P>Theiler, M., and S. Gard. 1940. 
+Encephalomyelitis of mice. I. Characteristics and pathogenesis of the virus. 
+J. Exp. Med. <B>72:</B> 49-67.
+
+
+<A NAME="ref30-65"></A>
+<P>Thomlinson, J.R. 1964. 
+The pathogenesis of gastro-enteritis associated with <I>Escherichia coli</I>. 
+Vet. Rec. <B>76:</B> 237-238.
+
+
+<A NAME="ref30-66"></A>
+<P>Thompson, R., V.M. Harrison, and F.P. Meyers. 1951. 
+A spontaneous epizootic of mouse encephalomyelitis. 
+Proc. Soc. Exp. Biol. Med. <B>77:</B> 262-266.
+<!-- 14854014 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14854014" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-67"></A>
+<P>Traub, E. 1939. 
+Epidemiology of lymphocytic choriomeningitis in a mouse stock observed for 4 years. 
+J. Exp. Med. <B>69:</B> 801-817.
+
+
+<A NAME="ref30-68"></A>
+<P>Trentin, J.J. 1953. 
+An outbreak of mouse-pox (infectious ectromelia) in the United States; a presumptive diagnosis. 
+Science <B>117:</B> 226-227.
+<!-- 13038484 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13038484" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-69"></A>
+<P>Tuffery, A.A. 1958. 
+The mouse, p. 243-278. <I>In</I> A.M. Worden and W. Lane-Petter [ed.] <I>Universities Federation for Animal Welfare Handbook on the Care and 
+Management of Laboratory Animals</I>. Univ. Fed. Anim. Welfare, London.
+
+
+<A NAME="ref30-70"></A>
+<P>Verder, E., and S.M. Rosenthal. 1961. 
+Role of infection in the delayed deaths of mice following extensive burn injury. 
+Proc. Soc. Exp. Biol. Med. <B>108:</B> 501-505.
+<!-- 13925392 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13925392" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-71"></A>
+<P>Volkert, M., and F.L. Horsfall. 1947. 
+Studies on a lung tissue component which combines with pneumonia virus of mice (PVM). 
+J. Exp. Med. <B>86:</B> 393-407.
+
+
+<A NAME="ref30-72"></A>
+<P>Wensinck, F., D.W. Van Bekkum, and H. Renaud. 1957. 
+A prevention of <I>Pseudomonas aeruginosa</I> infections in irradiated mice and rats. 
+Radiat. Res. <B>7:</B> 491-499.
+<!-- 13485390 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13485390" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-73"></A>
+<P>Wetmore, P.W., and W.G. Hoag. 1960. 
+<I>Salmonella binza</I> and <I>Salmonella breseney</I> from laboratory mice. 
+J. Bacteriol. <B>80:</B> 283.
+<!-- 13844204 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13844204" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref30-74"></A>
+<P>Wilson, F.S., and A.A. Miles. 1964. 
+<I>Topley and Wilson's Principles of Bacteriology and Immunity, 5th ed</I>. 
+Williams & Wilkins, Baltimore. 2 vol.
+
+
+<A NAME="ref30-75"></A>
+<P>Yaffee, D. 1962. 
+The distribution and <I>in vitro</I> propagation of an agent causing high plasma lactic dehydrogenase activity. 
+Cancer Res. <B>22:</B> 573-580.
+
+
+<A NAME="ref30-76"></A>
+<P>Yost, D.H. 1958. 
+Encephalitozo&#246;n infection in laboratory animals. 
+J. Nat. Cancer Inst. <B>20:</B> 957-963.
+<!-- 13539640 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539640" target="_blank">PubMed</A>.</I>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter29.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter31.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

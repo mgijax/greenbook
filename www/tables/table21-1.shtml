@@ -1,0 +1,817 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 21-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 10 -->
+
+<CENTER>
+
+<H3>Table 21-1. SOME GENES AFFECTING PIGMENT IN THE MOUSE</H3><P><TABLE>
+
+<TR>
+<TD COLSPAN=9><HR></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER VALIGN=BOTTOM>Symbol</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM>Name</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM>General effect on pigment</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM>Probable site<BR>of gene action<SUP>a</SUP></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM>Related effects</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=9><HR></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Yellow</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Yellow coat color, black eye and<BR>skin pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>A<SUP>y</SUP></I>/<I>A<SUP>y</SUP></I> prenatal lethal;<BR><I>A<SUP>y</SUP></I>/- becomes obese, susceptible to tumors</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855930" target="_blank"><I>A<SUP>vy</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Viable Yellow</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Coat color varies from agouti to yellow</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>A<SUP>vy</SUP></I>/<I>A<SUP>vy</SUP></I> viable; some become obese;<BR><I>A<SUP>vy</SUP></I>/- sometimes become obese</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>White-bellied agouti</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti dorsum, white ventrum<BR>(some yellow pigment)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<I>A</I> or +</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Hairs typically with black base,<BR>yellow subterminal band, black tip</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855932" target="_blank"><I>A<SUP>i</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Intermediate agouti</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Resembles agouti, but with<BR>darkened middorsum</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855942" target="_blank"><I>a<SUP>td</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Tanoid</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black dorsum, white ventrum<BR>(some yellow pigment);<BR>some agouti hairs</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black-and-tan</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black dorsum, tan (yellow) ventrum</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855937" target="_blank"><I>a</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nonagouti</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black-pigmented hairs except for some yellow<BR>hairs around ears, mammae, perineum</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855939" target="_blank"><I>a<SUP>e</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Extreme nonagouti</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>All hairs black-pigmented</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855944" target="_blank"><I>a<SUP>x</SUP></I></A></TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD VALIGN=TOP>Pseudoallele of agouti; <I>a<SUP>x</SUP></I>/<I>a</I> black, with<BR>pale belly</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>a<SUP>x</SUP></I>/<I>a<SUP>x</SUP></I> prenatal lethal</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<I>As</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti-supressor</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Pseudoallele (?) of agouti;<BR>agouti but with darkened middorsum</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855962" target="_blank"><I>B<SUP>lt</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Light</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black pigment reduced in hairs,<BR>especially proximally</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3a</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855961" target="_blank"><I>b<SUP>c</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Cordovan</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Dark brown pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3a</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855960" target="_blank"><I>b</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Brown</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Brown pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3a</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855968" target="_blank"><I>bg</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Beige</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Skin and hair pigment diluted</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856097" target="_blank"><I>Blo</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Blotchy</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Blo</I>/<I>Blo</I> and <I>Blo</I>/Y viable,<BR>vibrissae kinked at birth,<BR>straight at weaning</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856473" target="_blank"><I>bt</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Belted</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Pigment absent in a variable-sized belt,<BR>depending on genetic background</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Chinchilla</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced melanins, particularly<BR>phaeomelanin; hairs have reduced or<BR>absent distal pigment with darker bases<BR>giving chinchilla effect</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3c</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855979" target="_blank">c<I><SUP>h</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Himalayan</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced melanins, pigment intense at<BR>body extremities</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3c</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Extreme dilution</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Coat appears dirty white from near<BR>elimination of melanins</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3c</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1855976" target="_blank"><I>c</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Albino</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Absence of melanins</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3c</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856004" target="_blank"><I>d</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Dilute</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Hair and skin pigments appear diluted</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3d</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Susceptible to audiogenic seizures</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Dilute-lethal</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Hair and skin pigments appear diluted</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3d</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>d<SUP>l</SUP></I>/<I>d<SUP>l</SUP></I> postnatal lethal, spontaneous<BR>convulsion, myelin degeneration</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:95473" target="_blank"><I>f</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Flexed tail</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Belly spot on some genetic backgrounds</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Kinked tail, transitory siderocytic anemia</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856885" target="_blank"><I>gl</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Grey-lethal</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Yellow pigment missing from agouti hairs</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>gl</I>/<I>gl</I> postnatal lethal, failure of secondary<BR>bone resorption</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856674" target="_blank"><I>ln</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Leaden</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Diluted hair and skin pigment, no effect on<BR>retinal pigmentation</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3d</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856392" target="_blank"><I>ls</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Lethal spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Extensive white spotting of the piebald type</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>ls</I>/<I>ls</I> postnatal lethal, megacolon</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856946" target="_blank"><I>m</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Misty</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Diluted coat color, white tail tip, belly spot</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Females breed poorly</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>White</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Mi<SUP>wh</SUP></I>/<I>Mi<SUP>wh</SUP></I> nonpigmented except for retina;<BR><I>Mi<SUP>wh</SUP></I>/+ has reduced eye, hair, and skin pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Mi<SUP>wh</SUP></I>/<I>Mi<SUP>wh</SUP></I> has reduced eye size, viability, and fertility</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856085" target="_blank"><I>mi</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Microphthalmia</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>mi</I>/<I>mi</I> nonpigmented; <I>mi</I>/+ has variable<BR>spotting, hairs fully pigmented but pigment<BR>in choroid and iris reduced</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>mi</I>/<I>mi</I> postnatal lethal, eyes drastically reduced in size<BR>or missing, failure of secondary bone resortption,<BR>incisors do not erupt</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856089" target="_blank"><I>mi<SUP>bw</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black-eyed white</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>mi<SUP>bw</SUP></I>/<I>mi<SUP>bw</SUP></I> all-white with black eyes</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856092" target="_blank"><I>mi<SUP>sp</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Mi-spotted</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>mi<SUP>sp</SUP></I>/<I>mi<SUP>sp</SUP></I> fully pigmented, black eyes;<BR>
+<I>mi<SUP>sp</SUP></I>/<I>Mi<SUP>wh</SUP></I> pale yellow with variable<BR>white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856096" target="_blank"><I>Mo</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Mottled</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Mo</I>/<I>Mo</I> or <I>Mo</I>/Y prenatal lethal</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856098" target="_blank"><I>Mo<SUP>br</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Brindle</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Mo<SUP>br</SUP></I>/<I>Mo<SUP>br</SUP></I> or <I>Mo<SUP>br</SUP></I>/Y prenatal lethal</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856099" target="_blank"><I>Mo<SUP>dp</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Dappled</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Mo<SUP>dp</SUP></I>/<I>Mo<SUP>dp</SUP></I> or <I>Mo<SUP>dp</SUP></I>/Y prenatal lethal</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:97454" target="_blank"><I>p</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Pink-eyed dilution</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced eye, skin, and hair pigment,<BR>particularly eumelanin</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3b</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Greater response to induced ovulation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856982" target="_blank"><I>pa</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Pallid</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced eye, skin, and hair pigment,<BR>particularly eumelanin</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD VALIGN=TOP>Abnormal behavior due to absence of otoliths</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856989" target="_blank"><I>pe</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Pearl</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced eye and hair pigment</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD VALIGN=TOP>Females breed poorly</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:97571" target="_blank"><I>Ph</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Patch</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>White spotting on dorsum and ventrum,<BR>sometimes appearing as a belt</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Ph</I>/<I>Ph</I> prenatal lethal; <I>Ph</I>/+ have slighly shortened heads</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:2181763" target="_blank"><I>ru</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Ruby eye</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced eye, skin, and hair pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>3b</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856149" target="_blank"><I>s<SUP>l</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Piebald lethal</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Extensive white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>s<SUP>l</SUP></I>/<I>s<SUP>l</SUP></I> postnatal lethal, megacolon</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856148" target="_blank"><I>s</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Piebald spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variable white spotting depending on<BR>genetic background</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Small percentage with megacolon</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:98301" target="_blank"><I>si</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Silvered</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Hairs having no pigment or reduced<BR>pigment interspersed among hairs<BR>having pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856161" target="_blank"><I>Sl</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Steel</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Reduced skin and hair pigment in <I>Sl</I>/+,<BR>variable white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sl</I>/<I>Sl</I> prenatal lethal; <I>Sl</I>/+ have slight macrocytic anemia</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Steel-Dickie</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sl<SUP>d</SUP></I>/<I>Sl<SUP>d</SUP></I> black-eyed white; <I>Sl<SUP>d</SUP></I>/+ have<BR>reduced skin and hair pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sl<SUP>d</SUP></I>/<I>Sl<SUP>d</SUP></I> viable, but anemic and sterile</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856165" target="_blank"><I>Sl<SUP>gb</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Grizzle-belly</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sl<SUP>gb</SUP></I>/<I>Sl<SUP>gb</SUP></I> black-eyed white;<BR><I>Sl<SUP>gb</SUP></I>/+ have reduced skin and hair pigment</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sl<SUP>gb</SUP></I>/<I>Sl<SUP>gb</SUP></I> postnatal lethal, macrocytic anemia</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856173" target="_blank"><I>Sp</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Splotch</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sp</I>/+ have variable white belly spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sp</I>/<I>Sp</I> prenatal lethal, cranial and caudal rachischisis</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856174" target="_blank"><I>Sp<SUP>d</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Delayed splotch</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sp<SUP>d</SUP></I>/+ have variable white belly spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>Sp<SUP>d</SUP></I>/<I>Sp<SUP>d</SUP></I> prenatal lethal, caudal rachischisis and<BR>later death than <I>Sp</I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856101" target="_blank"><I>To</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Tortoise</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>To</I>/<I>To</I> or <I>To</I>/Y prenatal lethal</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856214" target="_blank"><I>tp</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Taupe</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Slightly diluted coat color</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Females do not nurse their young</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856230" target="_blank"><I>Va</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Varitint-waddler</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Defective labyrinth in <I>Va</I>/<I>Va</I> and <I>Va</I>/+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856232" target="_blank"><I>W</I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Dominant spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W</I>/<I>W</I> black-eyed white; <I>W</I>/+ has variable<BR>white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W</I>/<I>W</I> prenatal or early postnatal lethal, macrocytic anemia</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856256" target="_blank"><I>W<SUP>a</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Ames dominant spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W<SUP>a</SUP></I>/<I>W<SUP>a</SUP></I> black-eyed white; <I>W<SUP>a</SUP></I>/+ has reduced<BR>skin and hair pigment, variable white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W<SUP>a</SUP></I>/<I>W<SUP>a</SUP></I> prenatal or early postnatal lethal;<BR>
+<I>W<SUP>a</SUP></I>/<I>W<SUP>a</SUP></I> and <I>W<SUP>a</SUP></I>/+ have macrocytic anemia</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Jay's dominant spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W<SUP>j</SUP></I>/<I>W<SUP>j</SUP></I> black-eyed white; <I>W<SUP>j</SUP></I>/+ has reduced<BR>skin and hair pigment, variable white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W<SUP>j</SUP></I>/<I>W<SUP>j</SUP></I> prenatal or early postnatal lethal;<BR>
+<I>W<SUP>j</SUP></I>/<I>W<SUP>j</SUP></I> and <I>W<SUP>j</SUP></I>/+ have macrocytic anemia</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Viable dominant spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W<SUP>v</SUP></I>/<I>W<SUP>v</SUP></I> black-eyed white; <I>W<SUP>v</SUP></I>/+ has reduced<BR>skin and hair pigment, variable white spotting</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><I>W<SUP>v</SUP></I>/<I>W<SUP>v</SUP></I> has reduced viability, severe macrocytic anemia<BR>and is sterile; <I>W<SUP>v</SUP></I>/+ has less severe macrocytic anemia</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD VALIGN=TOP>X-autosome translocations</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Variegated</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>4</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=9><HR></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=9>
+<P><SUP>a</SUP>1. Follicular environment.
+
+<P>2. Melanoblast differentiation. Time of gene action has not been determined nor have relative roles of melanoblast-tissue environment been fully evaluated.
+
+<P>3. Within melanoblast (melanocyte): (<I>a</I>) polymerization of melanin, as related to periodicity of binding sites on protein matrix of melanosome; 
+(<I>b</I>) alteration of protein matrix of melanosome itself; (<I>c</I>) alteration of tyrosinase structure; (<I>d</I>) alteration of melanocyte morphology.
+
+<P>4. Variegation explained by X chromosome-inactivation hypothesis.
+
+
+</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

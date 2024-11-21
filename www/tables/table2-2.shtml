@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 2-2</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 2 -->
+
+<CENTER>
+
+<H3>Table 2-2. THE PROBABILITY OF INCROSSES <I>p</I> AT THE <I>a</I> LOCUS AFTER <I>n</I> GENERATIONS 
+OF BACKCROSSING, WHERE <I>c</I> IS THE PROBABILITY OF RECOMBINATION BETWEEN THE <I>a</I> AND THE <I>D</I> LOCI. 
+THE PROBABILITY OF HETEROZYGOSITY (<I>h</I>) EQUALS 1-<I>p</I></H3>
+
+<P><TABLE>
+
+<TR><TD COLSPAN=19><HR></TR>
+
+<TR>
+<TD><I>c</I></TD><TD>&nbsp;</TD>
+<TD><I>n</I></TD><TD>&nbsp;</TD>
+<TD>=</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>8</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>12</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>16</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>20</TD>
+</TR>
+
+<TR><TD COLSPAN=19><HR></TR>
+
+<TR>
+<TD>0.5</TD><TD>&nbsp;</TD>
+<TD><I>p (%)</I></TD><TD>&nbsp;</TD>
+<TD>=</TD><TD>&nbsp;</TD>
+<TD>0</TD><TD>&nbsp;</TD>
+<TD>50.0</TD><TD>&nbsp;</TD>
+<TD>87.5</TD><TD>&nbsp;</TD>
+<TD>99.2</TD><TD>&nbsp;</TD>
+<TD>99.9</TD><TD>&nbsp;</TD>
+<TD>99.9+</TD><TD>&nbsp;</TD>
+<TD>99.9+</TD>
+</TR>
+
+<TR>
+<TD>0.4</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>0</TD><TD>&nbsp;</TD>
+<TD>40.0</TD><TD>&nbsp;</TD>
+<TD>78.4</TD><TD>&nbsp;</TD>
+<TD>97.2</TD><TD>&nbsp;</TD>
+<TD>99.6</TD><TD>&nbsp;</TD>
+<TD>99.9+</TD><TD>&nbsp;</TD>
+<TD>99.9+</TD>
+</TR>
+
+<TR>
+<TD>0.3</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>0</TD><TD>&nbsp;</TD>
+<TD>30.0</TD><TD>&nbsp;</TD>
+<TD>65.7</TD><TD>&nbsp;</TD>
+<TD>91.8</TD><TD>&nbsp;</TD>
+<TD>98.0</TD><TD>&nbsp;</TD>
+<TD>99.5</TD><TD>&nbsp;</TD>
+<TD>99.9</TD>
+</TR>
+
+<TR>
+<TD>0.2</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>0</TD><TD>&nbsp;</TD>
+<TD>20.0</TD><TD>&nbsp;</TD>
+<TD>48.8</TD><TD>&nbsp;</TD>
+<TD>79.0</TD><TD>&nbsp;</TD>
+<TD>91.4</TD><TD>&nbsp;</TD>
+<TD>96.5</TD><TD>&nbsp;</TD>
+<TD>98.6</TD>
+</TR>
+
+<TR>
+<TD>0.1</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>0</TD><TD>&nbsp;</TD>
+<TD>10.0</TD><TD>&nbsp;</TD>
+<TD>27.1</TD><TD>&nbsp;</TD>
+<TD>52.2</TD><TD>&nbsp;</TD>
+<TD>68.6</TD><TD>&nbsp;</TD>
+<TD>79.4</TD><TD>&nbsp;</TD>
+<TD>86.5</TD>
+</TR>
+
+<TR><TD COLSPAN=19><HR></TR>
+
+</TABLE>
+
+</CENTER>
+
+
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,939 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 1 - The Laboratory Mouse</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+	
+<meta Name="KEYWORDS"
+Content="Laboratory Mouse, Mus musculus, Rodentia, Clarence Cook Little, inbred strains">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="../contents.shtml" TARGET="_top">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter2.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>1</H1>
+<H2><I>The Laboratory Mouse</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Joan Staats</H3>
+
+<P><I>Mus musculus</I> Linn. the common house mouse, has been a member of man's immediate environment for many centuries. 
+Along with other members of the order Rodentia, rats and mice constituting the family Muridae spread with man and his commerce 
+from their origin in Asia to all parts of the world. A thorough account of the antiquity of the fancy mouse and its interactions 
+with the human species is given by Clyde E. Keeler (
+<A HREF="#ref1-46">1931</A>).
+
+<P>The conversion of the mouse from pest to pet to productive element of the scientific community took place slowly. During the 
+19th century a number of European zoologists bred fancy mice to investigate varietal characters and tried to interpret the results 
+by Galton's law of ancestral inheritance. The valuable information thus acquired, however, could not be correctly interpreted 
+until the rediscovery of Mendel's work in 1900. The problems of inbreeding, selection, decrease in fertility, appearance of 
+abnormalities, and increased susceptibility to disease noted by earlier workers were attacked from a new viewpoint in the light 
+of Mendel's findings. Cu&#233;not's 1902 papers in <I>Archives de Zoologie Exp&#233;rimentale et G&#233;n&#233;rale</I> seem to 
+be the first to apply Mendelian principles to animals (
+<A HREF="#ref1-2">Bateson, 1903</A>). William E. Castle working with <I>Drosophila</I>, 
+Sewell Wright with guinea pigs, and S. Hatai and Helen Dean King with rats provided early examples of the new scientific breeding of animal forms (
+<A HREF="#ref1-8">Castle <I>et al.</I>, 1906</A>; 
+<A HREF="#ref1-100">Wright, 1922</A>; 
+<A HREF="#ref1-47">King, 1911</A>).
+
+<CENTER>
+<P><B>ORIGINS OF COMMON INBRED STRAINS</B>
+</CENTER>
+
+<P>Clarence Cook Little, a Harvard undergraduate, began studying the inheritance of coat color in mice under Castle's tutelage in 1907. 
+Two years later he obtained a pair of mice carrying the recessive genes for dilution, brown, and nonagouti. During the next few years he 
+inbred the descendants of this pair brother to sister for more than 20 generations, with selection for vigorous animals, thus creating 
+the first inbred strain of mice, which he named dbr. It was later called dba after the three recessive genes, and since about 1950 has been written DBA.
+
+<P>Little was interested in the study of neoplastic diseases and recognized that difficulties were bound to arise in dealing with a condition which 
+appears relatively late in life and is subject to much environmental influence. He reasoned that elimination of the great genetic diversity 
+in unrelated animals would facilitate that study.
+
+<P>Within 15 years after the origin of the first inbred strain, most of the others used in cancer research had been established. 
+Relationships between strains and families of strains are shown in 
+<a href="javascript:windowf11 = window.open('../figures/figure1-1.shtml', 'windowt11', 'width=700,height=700,resizable=yes,scrollbars=yes'); windowt11.focus()">Figure 1-1</A>.
+
+<P>In 1913, Halsey J. Bagg obtained some albino mice from a dealer in Ohio, maintained them as a closed colony, and used them in behavioral experiments. 
+In 1921, Leonell C. Strong mated a mouse of the Bagg albino stock with one from an albino stock Little maintained at that time at Cold Spring Harbor. 
+From this cross Strong started the A strain, a high mammary and lung tumor strain (
+<A HREF="#ref1-39">Heston, 1949</A>). In 1920, Strong made a series of crosses between the Bagg albinos and strain DBA, and from the hybrids developed a number 
+of inbred lines: C3H, CBA, C, CHI, and C12I. Of these the C3H has been the most widely used and has been split into several sublines with well-defined differences between them (
+<A HREF="#ref1-83">Staats, 1964</A>).
+
+<P>Another well-known and widely used family of strains also dates from 1921. While he was at Cold Spring Harbor, Little obtained mice from Miss A.E.C. 
+Lathrop, a fancier in Granby, Massachusetts, and mated littermates female 57 and male 52. Progeny of this black pair segregated as black and brown; 
+inbreeding them led to the C57BL and C57BR strains. C57L was developed by J.M. Murray from a color mutant in a C57BR subline.
+
+<P>Also at Cold Spring Harbor, E. Carleton MacDowell received from Little the descendants of Miss Lathrop's male 52, the progenitor of the C57 lines, 
+and female 58. He inbred these mice, forming the C58 strain, and by selection was able to establish an incidence of leukemia of about 90 per cent. MacDowell 
+also inbred the Bagg albinos and sent some to George D. Snell about 1932. Snell used the letter "c" in his laboratory records as a convenient indication that the animals 
+were white. The letter became attached to "Bagg alb," and the designation evolved to BALB/c, a widely used strain.
+
+<P>While at the Henry Phipps Institute in Philadelphia in 1928, Jacob Furth purchased three different stocks of mice, designated A, R, and S. 
+Stock A "was claimed to yield many cancers," and stock R was stated to be cancer-free. He and his collaborators inbred a number of 
+families in each stock, from which were derived the AK and RF strains (
+<A HREF="#ref1-30">Furth <I>et al.</I>, 1933</A>).
+
+<P>The widely distributed Swiss albino mice, largely noninbred, are mainly derived from two males and seven females which Clara J. Lynch of the Rockefeller Institute 
+obtained from A. de Coulon of Lausanne in 1926 (Lynch, 1961, personal communication). The original stock probably came from Paris. Descendants of 
+these mice were distributed to other laboratories and to commercial breeders. Some lines, such as the SWR/J and SJL/J, have since been inbred. 
+Origins of these and many other inbred strains are listed in 
+<a href="javascript:windowt11 = window.open('../tables/table1-1.shtml', 'windowt11', 'width=500,height=1000,resizable=yes,scrollbars=yes'); windowt11.focus()">Table 1-1</A>. 
+References given are not in all cases the original ones, 
+for an attempt has been made to list papers best describing the strain origin. In most cases multiple references are supplementary, offering additional 
+information or enabling the searcher to go from a reference in which the strain is clearly named to one in which the real origin is given but the 
+mice are not so named. In some cases, no really satisfactory reference can be found. The many fostered and congenic strains have not been included. 
+For these interesting formulations the latest issue of <I>Inbred Strains of Mice</I> should be consulted. Strains known to be extinct have not been listed.
+
+<CENTER>
+<P><B>USE OF MICE IN RESEARCH</B>
+</CENTER>
+
+<P>The majority of inbred strains, from the most recent back to the DBA, were developed for use in cancer research, to prove or disprove the existence 
+of genetic factors influencing the incidence of cancer and the independence of inheritance of different types of cancers. By selection during inbreeding, 
+various types of malignancies in predictable frequencies were established in the several genotypes. Or, conversely, resistance to all forms of neoplasia was established (Chapters 
+<A HREF="chapter27.shtml">27</A>, 
+<A HREF="chapter28.shtml">28</A>). As inbred strains became available and information about them began appearing in the scientific literature, 
+investigators recognized that these animals could contribute greatly to medical research. It became possible to use biological material in experiments 
+with confidence the only variables were those the investigator chose to include in the experimental design. The greater the uniformity among animals, 
+the fewer are needed to attain a given standard of accuracy or repeatability.
+
+<P>A large proportion of cancer research has been built upon inbred strains of mice. Many types of projects were made possible only by the development of the strains 
+and the tumors the mice produce or tolerate, and a large part of the remainder is dependent on the strains for suitable material.
+
+<P>Investigators in many fields have come to realize the value of F<SUB>1</SUB> hybrids from crosses between inbred strains. Such mice are genetically 
+homogeneous although heterozygous for those gene pairs by which the parent strains differ. Hybrids have been found to be as predictable in response as the parent 
+strains, though not necessarily like either one. The greatest general advantage of F<SUB>1</SUB> hybrids is their increased vigor and, in certain types of terminal 
+experiments, they are preferred over inbred mice. Such mice cannot be used for propagating their own characteristics, however, since genetic segregation will occur 
+in F<SUB>2</SUB> generations.
+
+<P>As an extra dividend of fixing coat-color genes and cancer-affecting genes by inbreeding, it was found that other 
+constitutional diseases also became established in the various genotypes (
+<A HREF="chapter29.shtml">Chapter 29</A>). Many of these conditions parallel pathological states in man, thus providing unique material for studies on 
+causation as well as on the march of the disease process.
+
+<P>Other differences between strains have been found and exploited in many fields and situations, as following chapters in this book attest. 
+These include differences in disease susceptibility, nature of disease produced by a given pathogen, and survival time of infected individuals; 
+nature and severity of radiation response, length of reproductive life, litter size, number of litters, and maternal care; sensitivity to and 
+production of various hormones, and reaction to implantation or extirpation of endocrine organs; cold tolerance, growth performance on varying 
+dietary formulas, and capacity for antibody production; blood constituents including normal blood-cell values, and enzyme levels in various organs.
+
+<CENTER>
+<P><B>SOURCES OF INFORMATION</B>
+</CENTER>
+
+<P>Information about mice is available from a variety of institutions and publications. Among the standard scientific periodicals, the 
+<I>Journal of Heredity</I> (United States), <I>Genetical Research</I> and <I>Heredity</I> (England), <I>Bulletin of the Experimental Animals</I> 
+(Japan), and <I>Zeitschrift f&#252;r Vererbungslehre</I> and <I>Zeitschrift f&#252;r Versuchstierkunde</I> (Germany) are important 
+vehicles for reporting new mutations, linkage tests, and methods of husbandry.
+
+<P>Hans Gr&#252;neberg's <I>The Genetics of the Mouse</I> (1952) is the standard work in this field. It gives detailed 
+descriptions of the genetics and pathology of all mouse mutants known up to 1950. 
+<A HREF="chapter8.shtml">Chapter 8</A> of this volume contains a check list of all mouse mutants known to early 1965 
+with short descriptions of each. The number of recorded mutants is more than three times as large as it was in 1950.
+
+<P><I>Mouse News Letter</I> (MNL) is a continuing source of information on the location of mutants, discovery of new ones, and research news. 
+It is not a publication, but an informal document circulated privately. It is issued semiannually by the Laboratory Animals Centre, Carshalton, 
+Surrey, England, and provides an information exchange among those working with mutant mice. Contributing laboratories provide lists of the mutant stocks they maintain.
+
+<P><I>Inbred Strains of Mice</I> (ISM) is issued biennially by The Jackson Laboratory, Bar Harbor, Maine, as a companion to <I>Mouse News Letter</I>. Contributing 
+laboratories send lists of their inbred strains only. Both MNL and ISM are arranged alphabetically by reporting laboratories.
+
+<P><I>Standardized Nomenclature for Inbred Strains of Mice</I> (
+<A HREF="#ref1-83">Staats, 1964</A>) is compiled mainly from the contributions to ISM and is arranged by strains rather than by laboratories, thus 
+being essentially a locator list. It gives information on the origin of strains, their particular characteristics, 
+and the institutions maintaining them. It contains also the rules of nomenclature (
+<A HREF="chapter6.shtml">Chapter 6</A>) and a list of abbreviations of names of institutions or persons to be used in identifying substrains.
+
+<P>More general information, not restricted to genetics, is gathered and disseminated by many national centers. 
+The Universities Federation for Animal Welfare (UFAW) in London has published an excellent handbook (
+<A HREF="#ref1-99">Worden and Lane-Petter, 1957</A>) covering all of the common and some of the uncommon animals. The topics to which UFAW has given 
+particular attention during its history include regulation of wild populations (especially inhumane trapping and poisoning), 
+the treatment of animals, the techniques of euthanasia, and humane education. The Institute of Laboratory Animal Resources (ILAR) 
+in Washington, D.C., issues a mimeographed quarterly publication, <I>Information on Laboratory Animals for Research</I>, containing 
+news of meetings and publications, with occasional information-exchange sections or husbandry hints. Distribution is limited to 
+persons active in biological research or in the production of laboratory animals. The ILAR has published minimum standards for 
+the commercial production of various laboratory animals. Whereas UFAW and ILAR act as informational bodies, promote legislation, 
+and work toward accreditation and improved standards, they do not generate scientific research or raise animals. The Laboratory Animals Centre, 
+set up near London in 1947 by the Medical Research Council, does generate research and raise animals, as 
+well as promote the use of better animals and the proper training of animal caretakers.
+
+<P>Three important publications in the general field of laboratory animal husbandry are the 
+<I>Proceedings of the Laboratory Animal Science Association</I> (and its predecessor the <I>Laboratory Animals Centre Collected Papers</I>), the 
+<I>Journal of the Animal Technicians Association</I>, and <I>Laboratory Animal Care</I>.
+
+<CENTER>
+<P><B>SOURCES OF QUALITY MICE</B>
+</CENTER>
+
+<P>Inbred mice, once maintained in very few places, are now widely available from national or regional stock centers. The Jackson Laboratory 
+raises 2 million mice a year, maintains more than 75 strains and substrains, and in addition has many stocks carrying one or more named mutant 
+genes. Other large colonies in the United States are at the National Institutes of Health in Bethesda, Maryland, and at the 
+Oak Ridge National Laboratory, Oak Ridge, Tennessee. England, France, Germany, Japan, Russia, Hungary, and Scotland all have at least one 
+center where large numbers of genetically controlled mice are raised for the benefit of the scientific community. Many other countries are 
+establishing or planning such centers, either under the auspices of the national health ministry or as private laboratories.
+
+<CENTER>
+<P><B>SUMMARY</B>
+</CENTER>
+
+Inbred mice have been used for cancer research since C.C. Little established the DBA strain in 1909. Other differences in disease incidence 
+between strains, whether fixed in the genotype by selective inbreeding or arising as mutations, have made possible concerted attacks on major 
+diseases afflicting mankind. As more becomes known about subtle biochemical differences between strains, ever more refined tools will be available to medical research workers.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by National Science Foundation grant G-18485, The Lousie H. and David S. Ingalls Foundation, and the Edwin S. Webster Foundation.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+
+<A NAME="ref1-1"></A>
+<P>Bagshaw, M.A., and L.C. Strong, 1950. 
+The occurrence of tumors of the forestomach in mice after parenteral administration of methylcholanthrene: a histopathologic and genetic analysis. 
+J. Nat. Cancer Inst. <B>11:</B> 141-175.
+<!-- MGI:1933995 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1933995" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-2"></A>
+<P>Bateson, W. 1903. 
+The present state of knowledge of colour-heredity in mice and rats. 
+Proc. Zool. Soc. Lond. <B>2:</B> 71-99.
+
+<A NAME="ref1-3"></A>
+<P>Bielschowsky, M., F. Bielschowsky, and D. Lindsay. 1956. 
+A new strain of mice with a high incidence of mammary cancers and enlargement of the pituitary. 
+Brit. J. Cancer <B>10:</B> 688-699.
+<!-- MGI:50923 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50923" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-4"></A>
+<P>Blount, R.F., and I.H. Blount. 1961. 
+Strain differences and the relation of aging to salt susceptibility in mice. 
+Texas Rep. Biol. Med. <B>19:</B> 739-748.
+<!-- 13870169 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13870169" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-5"></A>
+<P>Bonser, G.M. 1938. 
+The hereditary factor in induced skin tumors in mice: establishment of a strain specially sensitive to carcinogenic agents applied to the skin. 
+J. Pathol. Bacteriol. <B>46</B>: 581-602.
+<!-- MGI:72447 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72447" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-6"></A>
+<P>Bowman, J.C., and D.S. Falconer. 1960. 
+Inbreeding depression and heterosis of litter size in mice. 
+Genet. Res. <B>1:</B> 262-274.
+<!-- MGI:87325 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:87325" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-7"></A>
+<P>Casas, C.B. 1963. 
+Induction of hepatomas by thiouracil in inbred strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>113:</B> 493-494.
+<!-- 14019047 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14019047" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-8"></A>
+<P>Castle, W.E., F. W. Carpenter, A.H. Clark, S.O. Mast, and W.M. Barrows. 1906. 
+The effects on inbreeding, cross-breeding, and selection upon the fertility and variability of <I>Drosophila</I>. 
+Proc. Amer. Acad. Arts Sci. <B>41:</B> 731-786.
+
+<A NAME="ref1-9"></A>
+<P>Chase, H.B., M.S. Gunther, J. Miller, and D. Wolffson. 1948. 
+High insulin tolerance in an inbred strain of mice. 
+Science <B>107:</B> 297-299.
+
+<A NAME="ref1-10"></A>
+<P>Cooper, C.B. 1939. 
+A linkage between naked and caracul in the house mouse. 
+J. Hered. <B>30:</B> 212.
+<!-- MGI:48769 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48769" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-11"></A>
+<P>Crispens, C. Jr. 1963. 
+Factors which influence normal values for serum lactic dehydrogenase in mice. 
+Experientia <B>19:</B> 97-98.
+<!-- MGI:72355 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72355" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-12"></A>
+<P>Davenport, C.B. 1900. 
+Review of von Guaita's experiments in breeding mice. Biol. Bull. 
+<B>2:</B> 121-128.
+
+<A NAME="ref1-13"></A>
+<P>Davenport, C.B. 1906. 
+<I>Inheritance in Poultry</I>. 
+Carnegie Inst. Wash. Pub. No. 52. 136 p.
+
+<A NAME="ref1-14"></A>
+<P>Deringer, M.K. 1951. 
+Spontaneous and induced tumors in haired and hairless strain HR mice. 
+J. Nat. Cancer Inst. <B>12:</B> 437-445.
+<!-- MGI:1342405 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1342405" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-15"></A>
+<P>Deringer, M.K. 1959<I>a</I>. 
+Occurrence of tumors, particularly mammary tumors, in agent-free strain C3HeB mice. J. Nat. Cancer Inst. 
+<B>22:</B> 995-1002.
+<!-- MGI:72422 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72422" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-16"></A>
+<P>Deringer, M.K. 1959<I>b</I>. 
+Necrotizing arteritis in strain BL/De mice. 
+Lab. Invest. <B>8:</B> 1461-1465.
+<!-- MGI:2135795 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2135795" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-17"></A>
+<P>Deringer, M.K. 1962. 
+Development of tumors, especially mammmary tumors, in agent-free strain DBA/2eB mice. 
+J. Nat. Cancer Inst. <B>28:</B> 203-210.
+<!-- MGI:50937 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50937" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-19"></A>
+<P>Detlefsen, J.A. 1921. 
+A new mutation in the house mouse. 
+Amer. Natur. <B>55:</B> 469-473.
+<!-- MGI:82009 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:82009" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-20"></A>
+<P>Diadkova, A.M., and E.A. Lotosh. 1962. 
+Onkologicheskaia kharakteristika novoi linii laboratornykh myshei DBR. [The oncological characteristics of a new line of laboratory mice DBR.] 
+Vop. Onkol. <B>8 (11):</B> 46-47.
+
+<A NAME="ref1-21"></A>
+<P>Dobrovolska&#239;a-Zavadska&#239;a, N. 1929. 
+Sur l'h&#233;r&#233;dit&#233; de la pr&#233;disposition au cancer spontan&#233; chez la souris. 
+Compt. Rend. Soc. Biol. <B>101:</B> 518-520.
+
+<A NAME="ref1-22"></A>
+<P>Dobrovolska&#239;a-Zavadska&#239;a, N. 1930<I>a</I>. 
+Sur une lign&#233;e de souris, riche en ad&#233;nocarcinome de la mamelle. 
+Compt. Rend. Soc. Biol. <B>104:</B> 1191-1193.
+<!-- MGI:50939 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50939" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-23"></A>
+<P>Dobrovolska&#239;a-Zavadska&#239;a, N. 1930<I>b</I>. 
+Sur une lign&#233;e de souris, pauvre en ad&#233;nocarcinome de la mamelle. 
+Compt. Rend. Soc. Biol. <B>104:</B> 1193-1195.
+
+<A NAME="ref1-24"></A>
+<P>Dobrovolska&#239;a-Zavadska&#239;a, N. 1937. 
+Efficacit&#233; de la s&#233;lection en vue de l'&#233;limination des factuers h&#233;r&#233;ditas responables du cancer spontan&#233; dans une lign&#233;e de souris (lign&#233;e XVII nc). 
+Compt. Rend. Soc. Biol. <B>126:</B> 287-289.
+
+<A NAME="ref1-25"></A>
+<P>Dunn, L.C. 1936. 
+Studies of multiple allelomorphic series in the house-mouse. I. Description of agouti and albino series of allelomorphs. 
+J. Genet. <B>33:</B> 443-453.
+<!-- MGI:70460 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70460" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-26"></A>
+<P>Dux, A. 1957. 
+Experimental studies on the transplantability of the mammary cancer in mice [in Polish, with English summary]. 
+Nowotwory <B>7:</B> 67-90.
+<!-- MGI:75545 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75545" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-27"></A>
+<P>Eaton, O.N. 1941. 
+Crosses between inbred strains of mice. 
+J. Hered. <B>32:</B> 393-395.
+
+<A NAME="ref1-28"></A>
+<P>Foulds, L. 1956. 
+The histologic analysis of mammary tumors of mice. I. Scope of investigations and general principles of analysis. 
+J. Nat. Cancer Inst. <B>17:</B> 701-711.
+<!-- 13385677 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13385677" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-29"></A>
+<P>Fraser, F.C., T.D. Fainstat, and H. Kalter. 1953. 
+The experimental production of congenital defects with particular reference to cleft palate. 
+Neo-Natal Stud. <B>2:</B> 43-48.
+<!-- 13068378 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13068378" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-30"></A>
+<P>Furth, J., H.R. Seibold, and R.R. Rathbone. 1933. Experimental studies on lymphomatosis of mice. 
+Amer. J. Cancer <B>19:</B> 521-604.
+<!-- MGI:73083 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73083" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-31"></A>
+<P>Gardner, W.U., and J. Rygaard. 1954. 
+Further studies on the incidence of lymphomas in mice exposed to x-rays and given sex hormones. 
+Cancer Res. <B>14:</B> 205-209.
+<!-- 13150335 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13150335" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-32"></A>
+<P>Gates, W.H. 1927. 
+A case of nondisjunction in the mouse. 
+Genetics <B>12:</B> 295-306.
+<!-- MGI:50946 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50946" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-33"></A>
+<P>Goodale, H.D. 1938. 
+A study of the inheritance of body weight in the albino mouse by selection. 
+J. Hered. <B>29:</B> 101-112.
+<!-- MGI:50947 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50947" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-34"></A>
+<P>Green, E.L. 1941. 
+Genetic and non-genetic factors which influence the type of the skeleton in an inbred strain of mice. 
+Genetics <B>26:</B> 192-222.
+<!-- 17247002 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247002" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-35"></A>
+<P>Green, E.L., and M.C. Green. 1946. 
+Effect of the short ear gene on number of ribs and presacral vertebrae in the house mouse. 
+Amer. Natur. <B>80:</B> 619-625.
+<!-- MGI:3587773 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:3587773" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-36"></A>
+<P>Gr&#252;neberg, H. 1952. 
+<I>The Genetics of the Mouse, 2nd ed</I>. Nijhoff, The Hague. 650 p.
+<!-- MGI:78359 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78359" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-37"></A>
+<P>Helyer, B.J., and J.B. Howie. 1958. 
+Spontaneous haemolytic anaemia in NZB/Bl mice. 
+36th Ann. Rep. Brit. Empire Cancer Campaign, p. 458-459.
+
+<A NAME="ref1-38"></A>
+<P>Heston, W.E. 1945. 
+Genetics of mammary tumors in mice, p. 55-84. 
+<I>In</I> F.R. Moulton [ed.] <I>A Symposium on Mammary Tumors in Mice</I>. Amer. Ass. Adv. Sci., Washington, D.C.
+
+<A NAME="ref1-39"></A>
+<P>Heston, W.E. 1949. 
+Development of inbred strains in the mouse and their use in cancer research, p. 9-31. 
+<I>In</I> <I>Lectures on Genetics, Cancer, Growth and Social Behavior</I>. Roscoe B. Jackson Memorial Laboratory, Bar Harbor, Maine.
+<!-- MGI:82021 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:82021" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-40"></A>
+<P>Heston, W.E., G. Vlahakis, and Y. Tsubura. 1964. 
+Strain DD, a new high mammary tumor strain, and comparison of DD with strain C3H. 
+J. Nat. Cancer Inst. <B>32:</B> 237-251.
+<!-- MGI:72423 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72423" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-42"></A>
+<P>Hummel, K.P. 1957. 
+Mouse News Letter <B>17:</B> 54.
+
+<A NAME="ref1-43"></A>
+<P>Hummel, K.P. 1958. 
+The inheritance and expression of disorganization, an unusual mutation in the mouse. 
+J. Exp. Zool. <B>137:</B> 389-423.
+<!-- MGI:61225 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61225" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-44"></A>
+<P>Inbred Strains of Mice, No. 3. 1963. 
+The Jackson Laboratory, Bar Harbor, Maine.
+
+<A NAME="ref1-45"></A>
+<P>Inbred Strains of Mice, No. 4. 1965. 
+The Jackson Laboratory, Bar Harbor, Maine.
+
+<A NAME="ref1-46"></A>
+<P>Keeler, C.E. 1931. 
+<I>The Laboratory Mouse: Its Origin, Heredity, and Culture</I>. 
+Harvard University Press, Cambridge, Mass. 81 p.
+<!-- MGI:78368 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-47"></A>
+<P>King, H.D. 1911. 
+The sex ratio in hybrid rats. 
+Biol. Bull. <B>21:</B> 104-112.
+
+<A NAME="ref1-48"></A>
+<P>Kobozieff, N. 1959. 
+Mouse News Letter <B>19:</B> 14.
+
+<A NAME="ref1-49"></A>
+<P>Kreyberg, L. 1952. 
+The origin and the development of the "white label" mouse strain. 
+Brit. J. Cancer <B>6:</B> 140-147.
+<!-- MGI:50965 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50965" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-50"></A>
+<P>Laboratory Animals Centre. 1958. 
+<I>Catalogue of Uniform Strains, 2nd ed</I>. Carshalton, Surrey.
+
+<A NAME="ref1-51"></A>
+<P>Law, L.W. 1948. 
+Mouse genetic news, No. 2. 
+J. Hered. <B>39:</B> 300-308.
+
+<A NAME="ref1-52"></A>
+<P>Lehman, A., and R.G. Busnel. 1962. 
+A new test for detecting MAO-inhibitor effects. 
+Int. J. Neuropharmacol. <B>1:</B> 61-73.
+
+<A NAME="ref1-53"></A>
+<P>Little, C.C. 1913. 
+Experimental studies of the inheritance of color in mice. 
+Carnegie Inst. Pub. No. <B>179:</B> 17-102.
+
+<A NAME="ref1-54"></A>
+<P>Lynch, C.J. 1954. 
+The R.I.L. strain of mice: its relation to the leukemic AK strain and AKR substrains. 
+J. Nat. Cancer Inst. <B>15:</B> 161-176.
+<!-- MGI:50974 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50974" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-55"></A>
+<P>MacArthur, J.W. 1944. 
+Genetics of body size and related characters. I. Selecting small and large races of the laboratory mouse. 
+Amer. Natur. <B>78:</B> 142-157.
+<!-- MGI:73080 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73080" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-56"></A>
+<P>MacDowell, E.C. 1936. 
+Genetic aspects of mouse leukemia. 
+Amer. J. Cancer <B>26:</B> 85-101.
+<!-- MGI:50978 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50978" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-57"></A>
+<P>MacDowell, E.C. 1950. 
+"Light" - a new mouse color. 
+J. Hered. <B>41:</B> 35-36.
+<!-- MGI:61270 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61270" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-58"></A>
+<P>MacDowell, E.C., E. Allen, and C.G. MacDowell. 1927. 
+The prenatal growth of the mouse. 
+J. Gen. Physiol. <B>11:</B> 57-70.
+<!-- MGI:50976 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50976" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-59"></A>
+<P>MacDowell, E.C., and M.N. Richter. 1935. 
+Mouse leukemia. IX. The role of heredity in spontaneous cases. 
+Arch. Pathol. <B>20:</B> 709-724.
+<!-- MGI:50977 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50977" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-60"></A>
+<P>Maliugina, L. L., and O.G. Prokof'eva. 1957. 
+Oncological characteristics of mice of strain C3HA [English transl.]. 
+Probl. Oncol. <B>3:</B> 201-207.
+<!-- 13443230 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13443230" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-61"></A>
+<P>Medvedev, N.N. 1957. 
+Konkologicheskoi Kharakteristike nizkorakovykh myshei <I>CC-57-Korichnevye</I>. 
+[On the oncological characteristic of the low-tumorous <I>CC-57-brown</I> stock mice.] 
+Biull. Moskov. Obshchest. Ispytatelei Prirody <B>62:</B> 63-67.
+
+<A NAME="ref1-62"></A>
+<P>Medvedev, N.N. 1958. 
+O lineinykh myshakh CC-57-belye. [The CC-57 white mice lines.] 
+Dokl. Akad. nauk SSSR <B>119:</B> 369-371.
+
+<A NAME="ref1-63"></A>
+<P>Mouriquand, J., C. Mouriquand, and J. Petat. 1960. 
+Premi&#232;res observations &#224; propos d'une nouvelle souche de sourris hautement canc&#233;rigene. 
+Compt. Rend. Soc. Biol. <B>154:</B> 632-633.
+<!-- 13773314 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13773314" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-64"></A>
+<P>M&#252;hlbock, O. 1947. 
+On the susceptibility of different inbred strains of mice for oestrone. 
+Acta Brev. Neer. <B>15:</B> 18-20.
+
+<A NAME="ref1-65"></A>
+<P>Murphy, E.D. 1963. 
+SJL/J, a new inbred strain of mouse with a high. early incidence of reticulum-cell neoplasms. 
+Proc. Amer. Ass. Cancer Res. <B>4:</B> 46. (Abstr.)
+<!-- MGI:50986 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50986" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-66"></A>
+<P>Murray, J.M. 1933. 
+"Leaden," a recent color mutation in the house mouse. 
+Amer. Natur. <B>67:</B> 278-283.
+<!-- MGI:65214 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:65214" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-67"></A>
+<P>Murray, W.S. 1934. 
+The breeding behavior of the dilute brown stock of mice (Little dba). 
+Amer. J. Cancer <B>20:</B> 573-593.
+<!-- MGI:50987 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50987" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-68"></A>
+<P>Murray, W.S. 1938. 
+Genetic segregation mammary cancer to no mammary cancer, in the mouse. 
+Amer. J. Cancer <B>34:</B> 434-441.
+<!-- MGI:50988 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50988" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-69"></A>
+<P>Murray, W.S. 1963. 
+MA/My strain of the Marsh albino mouse. 
+J. Nat. Cancer Inst. <B>30:</B> 605-610.
+<!-- MGI:50989 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50989" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-70"></A>
+<P>Nelson, J.B. 1948. 
+The nasal transmission of pleuropneumonia-like organisms in mice and rats. 
+J. Infect. Dis. <B>82:</B> 169-176.
+<!-- MGI:50990 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50990" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-71"></A>
+<P>Nichols, S.E., Jr., and W.M. Reams, Jr. 1960. 
+The occurrence and morphogenesis of melanocytes in the connective tissues of the PET/MCV mouse strain. 
+J. Embryol. Exp. Morphol. <B>8:</B> 24-32.
+
+<A NAME="ref1-72"></A>
+<P>Ranadive, K.J., and S. A. Hakim. 1958. 
+A biological study of strain L(P) and its response to 20-methylcholanthrene treatment. 
+Brit. J. Cancer <B>12:</B> 44-54.
+<!-- 13536213 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13536213" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-73"></A>
+<P>Ranadive, K.J., K.A. Kamat, T.G. Coutinho, and V.R. Khanolkar. 1961. 
+Incidence of spontaneous mammary carcinoma in the new strain of Indian laboratory mouse. 
+Indian J. Med. Res. <B>49:</B> 562-567.
+<!-- MGI:75467 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75467" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-74"></A>
+<P>Rauch, H., and M.T. Yost. 1963. 
+Phenylalanine metabolism in dilute-lethal mice. 
+Genetics <B>48:</B> 1487-1495.
+<!-- 14083045 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14083045" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-75"></A>
+<P>Rudali, G., N. Yourkovski, L. Juliard, and M. Fautrel. 1956. 
+Sur quelques caract&#232;res des souris appartenant &#224; la nouvelle lign&#233;e canc&#233;reuse. Lign&#233;e NLC de la Fondation Curie. Bull. Ass. Franc. &#201;t. 
+Cancer <B>43:</B> 364-383.
+<!-- MGI:73061 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73061" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-76"></A>
+<P>Runner, M.N. 1957. 
+Mouse News Letter <B>17:</B> 56.
+
+<A NAME="ref1-77"></A>
+<P>Russell, E.S., and F.A. Lawson. 1959. Selection and inbreeding for longevity of a lethal type. J. Hered. <B>50:</B> 19-25.
+<!-- MGI:50992 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50992" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-78"></A>
+<P>Russell, L.B. 1957. Mouse News Letter <B>17:</B> 84.
+<!-- MGI:63166 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63166" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-79"></A>
+<P>Russell, W.L., and J.G. Hurst. 1945. 
+Pure strain mice born to hybrid mothers following ovarian transplantation. 
+Proc. Nat. Acad. Sci. <B>31:</B> 267-273.
+<!-- MGI:70479 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70479" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-80"></A>
+<P>Schott, R.G. 1932. 
+The inheritance of resistance to <I>Salmonella aertrycke</I> in various strains of mice. 
+Genetics <B>17:</B> 203-229.
+<!-- 17246651 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17246651" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-81"></A>
+<P>Snell, G.D. [ed.] 1941. 
+Mouse genetic news No. 1, p. 7. 
+Roscoe B. Jackson Memorial Laboratory, Bar Harbor, Maine. (Mineo.)
+
+<A NAME="ref1-82"></A>
+<P>Sokoloff, L., and M.F. Barile. 1962. 
+Obstructive geniturinary disease in male STR/1N mice. 
+Amer. J. Pathol. <B>41:</B> 233-246.
+
+<A NAME="ref1-83"></A>
+<P>Staats, J. 1964. 
+Standardized nomenclature for inbred strains of mice, Third listing. 
+Cancer Res. <B>24:</B> 147-168.
+<!-- 14117809 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14117809" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-84"></A>
+<P>Stamer, S. 1943. 
+<I>Effect of a Carcinogenic Hydrocarbon on Manifest Malignant Tumors in Mice</I>. 
+Munksgaard, Copenhagen. 158 p.
+
+
+<A NAME="ref1-86"></A>
+<P>Strong, L.C. 1936. 
+The establishment of the "A" strain of inbred mice. 
+J. Hered. <B>27:</B> 21-24.
+<!-- MGI:51004 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51004" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-87"></A>
+<P>Strong, L.C. 1940. 
+A genetic analysis of the induction of tumors by methylcholanthrene, with a note on the origin of the NH strain of mice. 
+Amer. J. Cancer <B>39:</B> 347-349.
+<!-- MGI:72321 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72321" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-88"></A>
+<P>Strong, L.C. 1942. 
+The origin of some inbred mice. 
+Cancer Res. <B>2:</B> 531-539.
+<!-- MGI:51006 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51006" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-89"></A>
+<P>Strong, L.C. 1951. 
+Litter seriation phenomena in fibrosarcoma susceptibility. 
+J. Gerentol. <B>6:</B> 340-357.
+<!-- MGI:72384 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72384" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-90"></A>
+<P>Strong, L.C. 1952. 
+Susceptibility to fibrosarcomas in 2NHO mice. 
+Yale J. Biol. Med. <B>24:</B> 109-115.
+<!-- 14901882 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14901882" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref1-91"></A>
+<P>Taylor, A., and G.F. McKenna. 1961. 
+A new mouse strain susceptible to mammary cancer. 
+Texas Rep. Biol. Med. <B>19:</B> 706-707
+<!-- MGI:72616 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72616" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-92"></A>
+<P>Tib&#243;n, G. 1953. 
+Mouse News Letter <B>9:</B> 10.
+
+<A NAME="ref1-93"></A>
+<P>Van Gulick, P.J., and R. Korteweg. 1940. 
+Susceptibility to follicular hormone and disposition to mammary cancer in female mice. 
+Amer. J. Cancer <B>38:</B> 506-515.
+
+<A NAME="ref1-94"></A>
+<P>Webster, L.T. 1933. 
+Inherited and acquired factors in resistance to infection. I. Development of resistant and susceptible lines of mice through selective breeding. 
+J. Exp. Med. <B>57:</B> 793-817.
+<!-- MGI:72401 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72401" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-95"></A>
+<P>Webster, L.T. 1937. 
+Inheritance of resistance of mice to enteric bacterial and neurotropic virus infections. 
+J. Exp. Med. <B>65:</B> 261-286.
+<!-- MGI:61218 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61218" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-96"></A>
+<P>Weir, J.A. 1953. 
+Association of blood-PH with sex ratio in mice. 
+J. Hered. <B>44:</B> 133-138.
+
+<A NAME="ref1-97"></A>
+<P>Wolfe, H.G. 1961. 
+Selection for blood-pH in the house mouse. 
+Genetics <B>46:</B> 55-75.
+<!-- MGI:73124 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73124" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-98"></A>
+<P>Woolley, G.W., and C.C. Little. 1945. 
+The incidence of adrenal cortical carcinoma in gonadectomized female mice of the extreme dilution strain. I. Observations on the adrenal cortex. 
+Cancer Res. <B>5:</B> 193-202.
+<!-- MGI:51017 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51017" target="_blank">MGI</A></I>.
+
+<A NAME="ref1-99"></A>
+<P>Worden, A.N., and W. Lane-Petter. 1957. 
+<I>The UFAW Handbook on the Care and Management of Laboratory Animals, 2nd ed</I>. 
+Universities Federation for Animal Welfare, London. 951 p.
+
+<A NAME="ref1-100"></A>
+<P>Wright, S. 1922. 
+The effects of inbreeding and crossbreeding on guinea pigs. 
+U.S. Dep. Agr. Bull. No. <B>1090:</B> 1-63.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="../contents.shtml" TARGET="_top">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter2.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

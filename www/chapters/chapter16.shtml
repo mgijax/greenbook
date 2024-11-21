@@ -1,0 +1,975 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 16 - Physiological Characteristics</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, physiological characteristics, mammalian, plasma, electrolytes, phosphorus, amino acid">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter15.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter17.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>16</H1>
+<H2><I>Physiological Characteristics</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Seldon E. Bernstein</H3>
+
+<P>Maintenance of the internal environment within narrowly restricted limits is an essential characteristic of all mammalian systems. 
+Control is exerted through highly refined and sensitive regulatory systems employing positive and negative feedback methods and functioning 
+chemically or electrically in modifying both cellular and organic behavior. Many of the controls are exerted through, by, and upon the blood 
+vascular system. Hence, an indication of the extent of homeostasis, permissible deviations, as well as significant disparities resulting from 
+pathological processes, can be obtained by measuring the physical and chemical attributes of blood. This becomes even more apparent when it is 
+recalled that most somatic cells have a direct dependency upon the fluid constituent of blood for their survival, since plasma is the vehicle 
+for provision of nutrients, removal of excretory products, temperature regulation, and transmission of control information.
+
+<P>The cellular components of blood, though no less important in the maintenance of the dynamically balanced internal milieu, are considered in 
+<A HREF="chapter17.shtml">Chapter 17</A>. The fluid portion containing dissolved solids will be emphasized in this chapter. We are concerned mainly then with 
+quantitative and qualitative evaluation of the materials carried in the aqueous vehicle, the vehicle itself, and in the removal of solid, soluble, 
+and gaseous products of cellular metabolism from plasma.
+
+<P>Inasmuch as significant deviations from normal may be of diagnostic value when well-defined baselines are established, the primary function 
+of this chapter is to present available information on the quantitative physiological characteristics of the noncellular components of blood 
+and urine and on the variables affecting these characteristics in the laboratory mouse. Circulation, excretion, and respiration are emphasized 
+while metabolism, neurophysiology, muscle physiology, sensory perception, acclimatization, endocrine balance, and nutrition are discussed in Chapters 
+<A HREF="chapter5.shtml">5</A>, 
+<A HREF="chapter11.shtml">11</A>, 
+<A HREF="chapter19.shtml">19</A>, 
+<A HREF="chapter20.shtml">20</A>, 
+<A HREF="chapter26.shtml">26</A>, 
+<A HREF="chapter32.shtml">32</A>, and 
+<A HREF="chapter33.shtml">33</A>.
+
+<P><B>CIRCULATION</B>
+
+<P><B>Composition of plasma</B>
+
+<P>Mouse plasma is composed of water, proteins, salts, and other solids in solution. Its major constituent is water and this is reflected in its 
+specific gravity and conversely in its content of total solids. 
+<a href="javascript:windowt1601 = window.open('../tables/table16-1.shtml', 'windowt1601', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1601.focus()">Table 16-1</A> 
+contains representative values.
+
+<P><B><I>Specific gravity</I></B>. Historically, specific gravity has been determined by weighing a known volume of fluid and comparing its weight 
+with an equal volume of water at a particular temperature. Since large volumes are necessary for accurate determinations, other methods have been relied 
+upon for work with mice. Hydrometry has been employed but surface tension complicates this method of measurement. Refractometry is more convenient and, 
+in general, the values obtained parallel those of other methods. Its usefulness, however, is limited to relatively clear fluids and its sensitivity is 
+not great. The gradient tube technique of Lowry and Hunter (
+<A HREF="#ref16-34">1945</A>), the falling drop method of Barbour and Hamilton (
+<A HREF="#ref16-3">1926</A>), or the copper sulfate technique of Phillips <I>et al.</I> (
+<A HREF="#ref16-45">1943</A>) all appear to be reliable and simple, and they are the ones usually employed in the determination of specific gravity of mouse serum and urine.
+
+<P><B><I>Electrolytes and trace minerals</I></B>. Little information about electrolytes and trace minerals in mouse blood is available. Small amounts 
+of data are available, however, on magnesium, phosphorus, and iodine. Eveleth (
+<A HREF="#ref16-15">1937</A>) found that whole blood contains 10.3 mg/100 ml and plasma contains 7.6 mg/100 ml of magnesium. Rapoport and Guest (
+<A HREF="#ref16-48">1941</A>) reported that inorganic phosphorus was present in the concentration of 7.4 to 7.9 mg/100 ml of whole blood, and organic phosphorus 
+was distributed as ATP (12.1 to 16.0 mg/100 ml of cells), diphosphoglycerate (51.8 to 54.0 mg/100 ml of cells), and organic acid-soluble phosphorus 
+(84.1 to 85.8 mg/100 ml of cells). Morris and Courtice (
+<A HREF="#ref16-39">1955</A>) found that phospholipid phosphorus was present in plasma in the amount 
+of 6.97 +/- 0.6 mg per cent. Iodine is primarily available in a protein-bound form (3.8 &#956;g/100 ml of mouse plasma), while total plasma iodine 
+was 4.5 &#956;g/100 ml according to Taurog and Chaikoff (
+<A HREF="#ref16-61">1946</A>). Much work remains to be done in the determination of the mineral content of mouse plasma.
+
+<P><B><I>Plasma proteins</I></B>. In man and mouse the plasma proteins have been separated on the basis of precipitation of proteins by salts of various 
+bases into albumins and globulin components and on the basis of electrophoretic mobility into prealbumins, &#945;<SUB>1</SUB>-, &#945;<SUB>2</SUB>-, 
+&#945;<SUB>3</SUB>-, &#946;<SUB>1</SUB>-, &#946;<SUB>2</SUB>-, and &#946;<SUB>3</SUB>-globulin groups, etc., and into categories defined on the basis of 
+presumed function (transferrins, haptoglobins, etc.), whereas immunologists and geneticists have split them into groups based on their immunological specificity.
+
+<P>The distribution of albumins and of &#945;-, &#946;-, and &#947;-globulins in various mouse strains and in different genotypes has been investigated by Geinitz (
+<A HREF="#ref16-19">1954</A>), Dolyak and Weir (
+<A HREF="#ref16-12">1956</A>), White and Dougherty (
+<A HREF="#ref16-69">1946</A>), Gleason and Friedberg (
+<A HREF="#ref16-20">1953</A>), Yoon (
+<A HREF="#ref16-75">1961</A>), and others, (
+<a href="javascript:windowt1602 = window.open('../tables/table16-2.shtml', 'windowt1602', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1602.focus()">Table 16-2</A>). 
+The paper by Dolyak and Weir (
+<A HREF="#ref16-12">1956</A>) also presents electrophoretic mobility values for each of the components mentioned. They obtained values for albumin near 6.4; for 
+&#945;-globulin 4.7; &#946;-globulin 2.7; and &#947;-globulin 1.3 x 10<SUP>-5</SUP> cm per volt per second.
+
+<P>Polymorphism of serum components appears to be the rule rather than the exception. In the mouse several electrophoretically detectable protein variant 
+systems are known. These include transferrins (
+<A HREF="#ref16-53">Shreffler, 1960</A>; 
+<A HREF="#ref16-9">Cohen, 1960</A>; 
+<A HREF="#ref16-10">Cohen and Shreffler, 1961</A>); prealbumins (
+<A HREF="#ref16-54">Shreffler, 1964<I>a</I></A>); and esterases (
+<A HREF="#ref16-46">Popp, 1961</A>; 
+<A HREF="#ref16-44">Petras and Church, 1962</A>). Serological variants in many &#947;-globulins are recognizable by Ouchterlony immuno-diffusion techniques with 
+isoimmune serum (
+<A HREF="#ref16-32">Kelus and Moor-Jankowski, 1961</A>; 
+<A HREF="#ref16-74">Wunderlich and Herzenberg, 1962</A>). Ashton and Braden (
+<A HREF="#ref16-1">1961</A>) found serum &#946;-globulin variants, and Cinader and Dubiski (
+<A HREF="#ref16-8">1963</A>) discovered &#945;-globulin allotype variants. Shreffler and Owen (
+<A HREF="#ref16-56">1963</A>) presented information on quantitative differences in the concentration of a specific serum globulin not related to &#947;-variants. Shreffler (
+<A HREF="#ref16-55">1964<I>b</I></A>) later showed that the serum trait was controlled directly by the complex 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95894" target="_blank"><I>H-2</I></A> 
+locus. These hereditary variations are described in 
+<A HREF="chapter8.shtml">Chapter 8</A> under the gene symbols 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98821" target="_blank"><I>Trf</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98376" target="_blank"><I>Pre</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95420" target="_blank"><I>Es-1</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95431" target="_blank"><I>Es-2</I></A>, <I>Ig-1</I>, <I>He</I>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:88228" target="_blank"><I>Ss</I></A>.
+
+<P><B><I>Free serum amino acids</I></B>. Physiological differences are often associated with variations in free amino acid level of tissues and fluids. Hrubant (
+<A HREF="#ref16-28">1958</A>) found several differences in the free amino acid composition of serum attributable to the action of selected genes. Quoting from his paper:
+
+<P>This research disclosed statistically significant differences between the genotypes in mice of the SEC/2Gn-<I>d</I> strain for glutathione (<I>DD</I> high), 
+glycine (<I>Dd</I> high), alpha alanine (<I>DD</I> high), and valine-norvaline (measured together) (<I>dd</I> high). No differences were found between the genotypes 
+in the CBA/Ca-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A> strain. Between the genotypes segregating in the Furless strain, there were significant differences found with respect to glutathione (
+<I>fsfs</I> high), aspartic acid (<I>fsfs</I> high), lysine (<I>Fsfs</I> high), and isoleucine-leucine (measured together) (<I>FsFs</I> high). Significant 
+differences in the level of arginine, lysine, valine-norvaline, and glutamic acid were found between the sexes within a particular strain. Male and female 
+SEC/2 mice differed in the proportion of arginine in their blood, the males being higher. CBA males differed from the females in their proportion of lysine 
+(females higher than males), and valine-norvaline (males higher than females), while the proportion of glutamic acid in Furless males exceeded that in females 
+by a statistically significant amount.
+
+<P>Steel <I>et al.</I> (
+<A HREF="#ref16-60">1950</A>) gave normal values of individual amino acids found in plasma. They reported that the concentration of amino acids in mouse blood was 
+essentially unaffected by variations in dietary intake.
+
+<P><B><I>Other serum constituents</I></B>. Isolated reports on other serum components have been encountered. These deal with glucose levels, serum cholesterol, 
+and vitamins. Hiestand <I>et al.</I> (
+<A HREF="#ref16-27">1947</A>) reviewed the situation with respect to blood sugar levels. They reported that unstarved Purdue Swiss mice had a mean blood sugar of 
+173.8 mg/100 ml of blood while those fasted for 24 hours averaged 108.9 mg. Ritchey <I>et al.</I> (
+<A HREF="#ref16-51">1947</A>) summarized the results obtained on determinations of vitamin concentrations, and Morris and Courtice (
+<A HREF="#ref16-39">1955</A>) indicated that mice have characteristic values of fatty acids of 10.0 +/- 0.4 mEq/liter, and total cholesterol of 97 +/- 4.4 mg per cent. 
+Inbred strains, however, do differ in serum cholesterol level (
+<A HREF="#ref16-7">Bruell, 1963</A>) and the action of the genes controlling this level is modified by sex.
+
+<P><B>Blood volume</B>
+
+<P>The over-all size of the cell-filled fluid component of blood has been estimated by several means. Even though blood volume is influenced by many things, 
+it is reasonably constant under normal laboratory conditions, being estimated at 5.5 ml/100 g of body weight for adults. It varies with age (
+<A HREF="#ref16-22">Gr&#252;neberg, 1941</A>), blood or fluid loss, vascular dilation due to heat or drugs, and salt imbalance. Hypoxia and altitude also have an influence. 
+Short-term compensation is achieved by dilation or contraction of liver, spleen and the vascular tree, so the amount of fluid available to the heart for 
+distribution is remarkably constant.
+
+<P>Various means have been employed to determine blood or plasma volume. They often yield different results as seen in 
+<a href="javascript:windowt1603 = window.open('../tables/table16-3.shtml', 'windowt1603', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1603.focus()">Table 16-3</A>. 
+An interesting comparison of methods with simultaneous determination of hematocrit, plasma volume, red cell volume, and total blood volume has been presented by Wish <I>et al.</I> (
+<A HREF="#ref16-71">1950</A>).
+
+<P>Estimates of total blood volume may be obtained by exsanguination or by the injection of known amounts of material which are diluted by the blood but which 
+escape slowly from the vascular system. Brilliant Vital Red T1824 and iodinated serum albumin (I<SUP>131</SUP>) have been employed but yield larger blood volume 
+values than do methods employing erythrocytes tagged with radioisotopes (P<SUP>32</SUP>, Cr<SUP>51</SUP>, Fe<SUP>59</SUP>), since the former are soluble and expand 
+into pericapillary spaces and lymphatics. It goes without saying that the tag must be distributed homogeneously, that the investigator must be able to measure the 
+dilution easily if the isotope dilution method is to be of value.
+
+<P><B>Blood pressure and heart rate</B>
+
+<P>It is well known that blood pressure depends upon the pumping action of the heart, the peripheral resistance, the quantity of blood in the arterial system, 
+the viscosity of blood, and upon the elasticity of the vascular walls. The mouse has been little studied in this regard. In fact, there are only four reports 
+dealing with determination of systolic pressure (
+<a href="javascript:windowt1604 = window.open('../tables/table16-4.shtml', 'windowt1604', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1604.focus()">Table 16-4</A>).
+
+<P>Mean arterial pressures depend upon the elasticity of the arterial walls and the volume of blood within the arterial system. The volume in the system is dependent 
+on cardiac output, which is a function of cardiac frequency and cardiac stroke volume. Cardiac frequency or heart rate in turn is coupled with the rate of metabolism, 
+and any alteration in metabolism is reflected in alteration of the heart rate and cardiac output.
+
+<P>Richards <I>et al.</I> (
+<A HREF="#ref16-50">1953</A>) reported that "newborn mice" have a heart rate of 268 +/- 56.8 (standard deviation) beats per minute and "adult mice" have a heart rate of 
+632 +/- 51.3 (standard deviation). Other values appear in 
+<a href="javascript:windowt1604 = window.open('../tables/table16-4.shtml', 'windowt1604', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1604.focus()">Table 16-4</A>. 
+There seems to be no literature on peripheral resistance or cardiac stroke volume.
+
+<P><B>Blood pH</B>
+
+<P>The pH of the blood is related to the base-binding capacity of hemoglobin and the extent of oxygenation of hemoglobin. For practical purposes, hemoglobin and 
+phosphate esters together constitute the major portion of the nondiffusible anions available for this purpose. The pH of red blood cells is on the alkaline side 
+of the hemoglobin isoelectric point and as a result the alkali-binding capacity increases linearly with pH. Moreover, it has been shown that oxygenated hemoglobin 
+binds more alkali than reduced hemoglobin. Thus, a decrease in carbon dioxide tension or an increase in oxygenation of hemoglobin results in an elevated blood pH. Wolfe's (
+<A HREF="#ref16-72">1965</A>) observations (
+<a href="javascript:windowt1605 = window.open('../tables/table16-5.shtml', 'windowt1605', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1605.focus()">Table 16-5</A>) 
+bear out these generalizations, for in every case the pH of arterial blood (left ventricular) is higher than venous blood obtained from the right ventricle, which 
+in turn is generally more alkaline than sinus blood. Marked variations in strains have been observed by Wolfe (
+<A HREF="#ref16-72a">1961</A>), Weir (
+<A HREF="#ref16-67">1955</A>), Weir and Clark (
+<A HREF="#ref16-68">1955</A>), Dolyak and Weir (
+<A HREF="#ref16-12">1956</A>), and others, but these workers report that neither sex nor age had a significant effect on blood pH. Heritable differences in pH were not 
+necessarily associated with variations in total serum protein (
+<A HREF="#ref16-12">Dolyak and Weir, 1956</A>).
+
+<P>There is some indication that diet and environmental temperature may influence blood pH (
+<A HREF="#ref16-66">Weir, 1949</A>). Weir found that blood pH increased with temperature. His data indicated that the pH of blood from mice of strain RI rose from 7.302 to 7.336 
+when their environmental temperature was elevated from 24 to 32&#176;C, and this was true for strain Ba as well, for pH's of 7.228 and 7.270 were observed in mice kept at 24 and 
+32&#176;C, respectively. The pH elevation may have been due to rise in body temperature, but Weir found evidence against this since rectal temperatures of five mouse 
+strains did not correlate with their blood pH's.
+
+<P><B>RESPIRATION</B>
+
+<P><B>Oxygen consumption, respiratory rate, and basal metabolism</B>
+
+<P>Surprisingly little information is available on respiratory rate, oxygen consumption, and basal metabolism in mice. Most of the data, presented in Tables 
+<a href="javascript:windowt1606 = window.open('../tables/table16-6.shtml', 'windowt1606', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1606.focus()">16-6</A>, 
+<a href="javascript:windowt1607 = window.open('../tables/table16-7.shtml', 'windowt1607', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt1607.focus()">16-7</A>, and 
+<a href="javascript:windowt1608 = window.open('../tables/table16-8.shtml', 'windowt1608', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt1608.focus()">16-8</A>, 
+were obtained from Spector's <I>Handbook of Biological Data</I> (
+<A HREF="#ref16-59">1956</A>). This material is supplemented by information obtained from other investigators. See Tables 
+<a href="javascript:windowt1606 = window.open('../tables/table16-6.shtml', 'windowt1606', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1606.focus()">16-6</A> 
+and 
+<a href="javascript:windowt1607 = window.open('../tables/table16-7.shtml', 'windowt1607', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt1607.focus()">16-7</A> 
+for a summary of respiratory characteristics and energy metabolism, and 
+<a href="javascript:windowt1608 = window.open('../tables/table16-8.shtml', 'windowt1608', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt1608.focus()">16-8</A> 
+for consumption of oxygen by mouse tissues.
+
+<P><B>Body temperature</B>
+
+<P>For the mouse, maintenance of a constant body temperature is a major physiological problem. This stems largely from the high surface-to-volume ratio characteristic 
+of mice. The large surface area presents an excellent opportunity for heat loss through radiation and convection, and additional heat loss takes place through vaporization 
+in the lungs. A high metabolic rate thus is necessary if a balance between heat production and heat loss is to be achieved. The requirement for heat production is 
+accentuated at low environmental temperatures. See 
+<a href="javascript:windowt1609 = window.open('../tables/table16-9.shtml', 'windowt1609', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt1609.focus()">Table 16-9</A> 
+for the relationship between environmental temperature and caloric expenditure necessary to maintain heat balance.
+
+<P>Mice, in general, have poor temperature regulatory mechanisms and, when young, are even poikilothermic (
+<A HREF="#ref16-5">Barnett, 1956</A>). External temperatures above 33&#176;C usually produce in adults an elevation in body temperature proportional to the increase above this level. 
+Mice exposed to temperatures below 18.5&#176;C develop a hypothermia corresponding to the drop below this point (
+<A HREF="#ref16-38">Mills <I>et al.</I> 1939</A>). Between 18 and 33&#176;C, only minor variations in rectal temperatures are encountered (
+<a href="javascript:windowt1610 = window.open('../tables/table16-10.shtml', 'windowt1610', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1610.focus()">Table 16-10</A>).
+
+<P>McLaren (
+<A HREF="#ref16-36">1961</A>), studying the effects of strain, sex, age, and sexual condition on body temperature, reported a highly significant decrease in temperature with age in 
+strain C3H/Bi, but no change was observed in C57BL/How. There were no significant effects of pregnancy or lactation in the C57BL strain, whereas in mothers of the C3H strain 
+there was an elevation of 1&#176;C shortly after delivery. The mother's temperature returned gradually to control levels when the litter was 20 days old, a time when effective 
+lactation had ceased.
+
+<P>With a drop in body temperature there is a decrease in heart rate. Richards <I>et al.</I> (
+<A HREF="#ref16-50">1953</A>) found that heart rate was lowered from 600 beats per minute 
+to 200 or fewer when body temperature was lowered from 37 to 20&#176;C.
+
+<P><B>EXCRETION</B>
+
+<P>A fully functional integrated excretory system is essential in maintenance of the internal milieu. It not only provides for constancy of the internal environment but also 
+provides for the removal of the end products of metabolism from the blood and maintenance of proper osmotic pressure. Such a system regulates the outflow of gases, water, 
+salts, and a wide variety of nitrogenous and nonnitrogenous organic compounds. It should be emphasized that although the kidney is one of the most important excretory organs 
+it is not the only one. In fact, every mammalian surface is a potential excretory organ. Excretion of water and salts, for example, occurs through the skin. The liver is known 
+to excrete bile and sterols; the lungs regulate blood pH by removing carbon dioxide, and viscosity of the blood is regulated in part by excretion of water by this organ. The 
+intestine, though not considered as an excretory organ, is involved in regulation of fluid volume, and the excretion of excess calcium and magnesium. Nevertheless, major 
+emphasis will be placed here on the production of urine and upon its physical and chemical attributes.
+
+<P><B>Water balance</B>
+
+<P>Since the main constituent of urine is water, it is appropriate to consider its metabolic turnover before turning to nonaqueous components. Barbour and Trace (
+<A HREF="#ref16-4">1952</A>) estimated that a 21-g albino mouse turns over 4.28 ml water per day. Water intake averages 2.12 ml and metabolic water amounts to 2.16 ml. Urine output 
+averages 0.9 ml while the remainder (3.38 ml) is lost through respiration or in the feces or is incorporated into protoplasm. In an adult mouse it appears that the major 
+portion of excreted water is vaporized and removed from the respiratory system by pulmonary ventilation.
+
+<P><B>Density of urine</B>
+
+<P>Mouse urine generally is highly concentrated as indicated by an unusually high specific gravity and high content of total solids. These values depend to a considerable 
+extent upon the intake of water and the excretion of urine, for as the water intake rises, and as the urine output increases, there is a progressive decrease in the total 
+solids content of urine per unit volume. This is evident from the data presented in Tables 
+<a href="javascript:windowt1611 = window.open('../tables/table16-11.shtml', 'windowt1611', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1611.focus()">16-11</A> and 
+<a href="javascript:windowt1612 = window.open('../tables/table16-12.shtml', 'windowt1612', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1612.focus()">16-12</A>.
+
+<P>In most strains there are few significant quantitative changes with age. However, Hummel (1964, personal communication) reported that the strains SWR and MA deviate 
+significantly in regard to water balance (see Chapters 
+<A HREF="chapter20.shtml">20</A> and 
+<A HREF="chapter29.shtml">29</A>). For example, 4-month-old females of strain MA drank on the average 5.6 ml of water per day and excreted 2.9 ml urine per day (total solid concentration 
+of 9.7 per 100 g). Values for water consumption and urine output increased gradually with age, while urine total solids decreased. At 17 and 19 months of age water 
+consumption in this strain was up to 28.6 ml per day. Silverstein <I>et al.</I> (
+<A HREF="#ref16-58">1961<I>a</I></A>) reported similar observations for strain STR/N. They found that the mean urine osmolarity of STR/N mice (298 milliosmols/kg) was approximately 
+one-fifth of the control value, and sodium content (15.5 vs. 151 mEq/liter) and total inonic concentration (3780 vs. 43,800 ppm) in the urine was much below that found in 
+controls. No protein or reducing substances were detected. The plasma of these polydipsic mice was normal in osmolarity (325 milliosmols/kg) and total ionic concentration 
+(7960 ppm). Twenty-four-hour urine output equalled 20.8 ml and urine total solids were found to be 1.1 g per 100 g. Calculations of 24-hour urine total solids showed little 
+deviation from normal.
+
+<P><B>Proteinuria</B>
+
+<P>In contrast to most other mammals, proteinuria is a normal condition in mice. The high total-solids content of urine and high specific gravity reflect to some extent 
+this passage of protein into the urine. It has been recognized as being normal for mice since 1933 (
+<A HREF="#ref16-42">Parfentjev and Perlzweig</A>) and is probably characteristic of all strains (
+<a href="javascript:windowt1613 = window.open('../tables/table16-13.shtml', 'windowt1613', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1613.focus()">Table 16-13</A>). 
+Finlayson and Baumann (
+<A HREF="#ref16-17">1958</A>) presented electrophoretic evidence indicating that the proteins excreted were the same regardless of the strain. Wicks (
+<A HREF="#ref16-70">1941</A>) showed that males usually excreted more protein than females. This apparently stemmed from the influence of testosterone on kidney function. 
+Castration decreased the protein content of male urine, whereas testosterone increased the proteinuria. Oestrone and progesterone had no effect on protein content (
+<A HREF="#ref16-64">Thung, 1962</A>). Wicks (
+<A HREF="#ref16-70">1941</A>) also showed that proteinuria was influenced by diet, being higher on a 33 per cent casein diet than on a 5 per cent diet.
+
+<P>The protein excreted has bound to it both cholesterol and &#916;<SUP>7</SUP>-cholestenol. Finlayson and Baumann (
+<A HREF="#ref16-16">1957</A>) noted strain differences in the amount of sterols encountered. Rockland mice, for example, excreted 3.0 &#956;g of cholesterol per day, and 0.3 &#956;g 
+of &#916;<SUP>7</SUP>-cholestenol, whereas Swiss Webster mice excreted 0.7 &#956;g and 0.1 &#956;g, respectively, of the two compounds.
+
+<P>Mice normally excrete a considerable amount of albumin and prealbumin but very little &#945;<SUB>2</SUB>-globulin. Mice with a minor to medium degree of experimental 
+amyloidosis of liver and spleen (
+<A HREF="chapter29.shtml">Chapter 29</A>) showed no definite abnormal excretion of protein, but mice with kidney amyloidosis added &#946;-globulins to the normal excretion of albumin 
+and prealbumin.
+
+<P><B>Aminoaciduria</B>
+
+<P>More attention has been devoted to amino acid excretion. Harris and Searle (
+<A HREF="#ref16-24">1953</A>) found that taurine was the only ninhydrin-positive material present on paper chromatograms of urine of mice fed on a standard diet. This was present 
+in urine of nearly all mice whether they were from inbred strains (A, C57BL, or CBA), or were homozygous for mutant genes (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target=_blank"><I>A<SUP>w</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target=_blank"><I>a<SUP>t</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target=_blank"><I>a</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target=_blank"><I>b</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target=_blank"><I>c<SUP>ch</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target=_blank"><I>c</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target=_blank"><I>d</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target=_blank"><I>d<SUP>l</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target=_blank"><I>f</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856870" target=_blank"><I>fi</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856573" target=_blank"><I>je</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target=_blank"><I>Mi<SUP>wh</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target=_blank"><I>p</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856544" target=_blank"><I>ru</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857036" target=_blank"><I>sh-2</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target=_blank"><I>se</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856222" target=_blank"><I>un</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target=_blank"><I>Va</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target=_blank"><I>W<SUP>v</SUP></I></A>), or were heterozygous for others (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target=_blank"><I>A<SUP>y</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856705" target=_blank"><I>ch</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856885" target=_blank"><I>gl</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856913" target=_blank"><I>hy-3</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856085" target=_blank"><I>mi</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857746" target=_blank"><I>Sd</I></A>, or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target=_blank"><I>W</I></A>). Differences in the concentration of excreted taurine were also observed, it being very much higher in C57BL (0.4 per cent) than in strain A mice (0.04 per cent), 
+though there was no significant difference in serum concentration of taurine in the two strains.
+
+<P>Bennett (
+<A HREF="#ref16-6">1961</A>) found no qualitative effect of the brain hernia gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856677" target=_blank"><I>bh</I></A>) 
+on excretion of amino acids in urine, but pointed our that the amount of amino acid 
+excreted in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856677" target=_blank"><I>bh</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856677" target=_blank"><I>bh</I></A> 
+individuals was constantly aberrant. She was concerned because these mice developed polycystic kidney disease as part of their syndrome. Goodman (
+<A HREF="#ref16-21">1958</A>) analyzed urinary amino acids after feeding D, L, and DL forms of tyrosine, methionine, phenylalanine, tryptophan, and histidine to mice of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target=_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target=_blank"><I>W<SUP>v</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target=_blank"><I>W<SUP>v</SUP></I></A>/+, 
+and +/+ genotypes. She concluded that +/+ mice utilize both D and L isomers, whereas 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target=_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target=_blank"><I>W<SUP>v</SUP></I></A> 
+use only L forms and excrete D forms. Heterozygotes are intermediate. The differential excretion of these amino acids was attributed 
+to the action of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target=_blank"><I>W</I></A>-allele, 
+since differences in genetic background (C57BL vs. BALB/c) did not influence excretion pattern.
+
+<P>In general, urinary excretion of amino acids by mice depends upon the types and amounts of amino acids ingested, although Steel <I>et al.</I> (
+<A HREF="#ref16-60">1950</A>) noted that significant alterations in the quantity of amino acids excreted had little relationship with the amounts encountered in the blood. The reader 
+is referred to their paper for the influence of age and diet on urinary amino acid appearing in urine.
+
+<P><B>Creatinuria</B>
+
+<P>Creatinine and creatine are, next to urea, the most abundant nitrogen-containing substances present in urine. Creatine does not normally appear in the urine of mammals 
+but in the mouse it is a normal constituent. Specific reference is made to its excretion in mice with hereditary muscular dystrophy in 
+<A HREF="chapter19.shtml">Chapter 19</A>. Many physiologists often assume that total creatine, creatine per gram of body weight, total creatinine, and creatinine per gram of 
+body weight are relatively constant for a given mouse, and the data generally bear out the assumption that creatine excretion is constant and related to body weight. Since 
+creatinine in a 24-hour sample shows less variation than do other urinary constituents, many investigators employ a creatinine:creatine index. Madison (
+<A HREF="#ref16-35">1952</A>) observed that the index values depend upon the nutritional status of the mouse, since fasting supposedly increased the creatine output. She also found sex 
+differences in creatinine excretion, females excreting larger amounts of creatinine excretion, females excreting larger amounts of creatinine than males. Her data also suggested 
+that the short-ear gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A>) 
+may affect creatine and possibly creatinine excretion, though the significance was not immediately apparent, since 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A> 
+appeared to reduce excretion of these substances in males and increase it in females.
+
+<P><B>Other organic compounds</B>
+
+<P>Compounds other than those already considered appear in the urine. Among these are allantoin, chlorides, glucose, urea, uric acid, hippuric acid, purine bases, indican, 
+17-ketosteroids, and estrogens. The concentration of these compounds reported in the literature are summarized in 
+<a href="javascript:windowt1614 = window.open('../tables/table16-14.shtml', 'windowt1614', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt1614.focus()">Table 16-14</A>, 
+and the influences of age, strain, and sexual condition on excretion of these substances may be found in a paper by Karnofsky <I>et al.</I> (
+<A HREF="#ref16-30">1944</A>).
+
+<P><B>Inorganic ions</B>
+
+<P>Strain differences in the excretion of sodium and potassium have been investigated by McNutt and Dill (
+<A HREF="#ref16-37">1963</A>). These authors indicate that strains IHB (salt-resistant), and NH (salt-sensitive) differ in excretion of potassium but do not differ perceptibly in 
+the amount of excreted sodium (122 mEq/liter). Urinary potassium concentration was slightly but not significantly higher in IHB (103 +/- 7.5 mEq/liter) than in NH 
+(91 +/- 7.8 mEq/liter) mice, though the 24-hour urine volumes and total amounts of sodium and potassium were identical. Sodium administered in the form of 4 per cent NaCl 
+in the drinking water elevated urine concentration of sodium to 310 mEq/liter and potassium to 274 mEq/liter within 24 hours in the IHB strain and to 430 and 196 mEq/liter, 
+respectively, in the NH strain. The NH strain had consistently higher mean values for sodium in urine compared with the IHB strain and lower mean potassium values. The 
+differences between means, however, were not statistically significant.
+
+<P><B>SUMMARY</B>
+
+<P>In this chapter I have limited the presentation to the physiological and biochemical features of respiration, circulation, and excretion, and 
+excluded other areas of physiology such as sense perception, nutrition, and metabolism, which are covered in other chapters. Within this restricted 
+area attention has been devoted to normal values and permissible deviations and emphasis has been placed on variations attributable to differences 
+of strain, sex, or genotype, and to the influence of diet and environment.
+
+<P>Physiologically the mouse is like other mammals, differing from the larger members of the class by its small size, its consequent large 
+surface-to-volume ratio, and its higher metabolic rate. Despite superficial differences, the mouse possesses the same complex physiological control 
+systems characteristic of other terrestrial mammals.
+
+<P>The laboratory mouse has been little studied physiologically and much micromethodology needs to be developed before its full potential as an 
+experimental animal is realized.
+
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Contract AT(30-1)-1800 with the U.S. Atomic Energy Commission and by Public Health Service Research Grant HD 00254 of the National Institute of Child Health and Human Development.
+<HR>
+
+<P><B>LITERATURE CITED</B>
+
+<A NAME="ref16-1"></A>
+<P>Ashton, G.C., and A.W.H. Braden. 1961. 
+Serum &#946;-globulin polymorphism in mice. 
+Austral. J. Biol. Sci. <B>14:</B> 248-253.
+<!-- MGI:63019 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63019" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-2"></A>
+<P>Bahn, R., J. Furth, E. Anderson, and E. Gadsden. 1957. 
+Morphologic and functional changes associated with transplantable ACTH-producing pituitary tumors in mice. 
+Amer. J. Pathol. <B>33:</B> 1075-1085.
+<!-- 13478658 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13478658" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-3"></A>
+<P>Barbour, H.G., and W.F. Hamilton. 1926. 
+The falling drop method for determining specific gravity. 
+J. Biol. Chem. <B>69:</B> 625-640.
+
+<A NAME="ref16-4"></A>
+<P>Barbour, H.G., and J. Trace. 1937. 
+Standard metabolism in the white mouse. 
+Amer. J. Physiol. <B>118:</B> 77-86.
+
+<A NAME="ref16-5"></A>
+<P>Barnett, S.A. 1956. 
+Endothermy and actothermy in mice at -3&#176;C. 
+J. Exp. Biol. <B>33:</B> 124-133.
+
+<A NAME="ref16-6"></A>
+<P>Bennett, D. 1961. 
+A chromatographic study of abnormal urinary amino acid excretion in mutant mice. 
+Ann. Hum. Genet. <B>25:</B> 1-6.
+<!-- MGI:60422 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60422" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-7"></A>
+<P>Bruell, J.H. 1963. 
+Additive inheritance of serum cholesterol level in mice. 
+Science <B>142:</B> 1664-1666.
+<!-- 14075696 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14075696" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-8"></A>
+<P>Cinader, B., and S. Dubiski. 1963. 
+An alpha-globulin allotype in the mouse. 
+Nature <B>200:</B> 781.
+<!-- 14087012 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14087012" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-9"></A>
+<P>Cohen, B.L. 1960. 
+Genetics of plasma transferrins in the mouse. 
+Genet. Res. <B>1:</B> 431-438.
+<!-- MGI:61155 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61155" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-10"></A>
+<P>Cohen, B.L., and D.C. Shreffler. 1961. 
+A revised nomenclature for the mouse transferrin locus. 
+Genet. Res. <B>2:</B> 306-308.
+<!-- MGI:50931 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50931" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-11"></A>
+<P>Congdon, E.D. 1912. 
+The surroundings of the germ plasm. III. The internal temperature of warm-blooded animals in artificial climates. 
+Arch. Entwickl. Mech. Organismen <B>33:</B> 703-715. 
+
+<A NAME="ref16-12"></A>
+<P>Dolyak, F., and J.A. Weir. 1956. 
+Electrophoretic analysis of the serum proteins of high and low blood-pH line of mice. 
+Trans. Kansas Acad. Sci. <B>59:</B> 346-350.
+
+<A NAME="ref16-13"></A>
+<P>Dougherty, T.F., and A. White. 1944. 
+Influence of hormones on lymphoid tissue structure and function. 
+Endocrinology <B>35:</B> 1-14.
+
+<A NAME="ref16-14"></A>
+<P>Edwards, C.C., and R.M. Reinecke. 1953. 
+Effect of ischemia of the tail of the mouse on the subsequent local blood pressure. 
+Amer. J. Physiol. <B>174:</B> 289-292.
+<!-- 13080448 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13080448" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-15"></A>
+<P>Eveleth, D.F. 1937. 
+Comparison of the distribution of magnesium in blood cells and plasma of animals. 
+J. Biol. Chem. <B>119:</B> 289-292.
+
+<A NAME="ref16-16"></A>
+<P>Finlayson, J.S., and C.A. Baumann. 1957. 
+Protein-bound sterols in rodent urine. 
+Amer. J. Physiol. <B>190:</B> 297-302.
+<!-- 13458460 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13458460" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-17"></A>
+<P>Finlayson, J.S., and C.A. Baumann. 1958. 
+Mouse proteinuria. 
+Amer. J. Physiol. <B>192:</B> 69-72.
+<!-- 13498152 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13498152" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-18"></A>
+<P>Furth, J., and H. Sobel. 1946. 
+Hypervolemia secondary to grafted granulosa-cell tumor. 
+J. Nat. Cancer Inst. <B>7:</B> 103-113.
+
+<A NAME="ref16-19"></A>
+<P>Geinitz, W. 1954. 
+Serum proteins of animals frequently used for experiments or serum production. 
+Klin. Wochensch. <B>32:</B> 1108-1111.
+
+<A NAME="ref16-20"></A>
+<P>Gleason, T.L., and F. Friedberg. 1953. 
+Filter paper electrophoresis of serum proteins from small animals. 
+Physiol. Zool. <B>26:</B> 95-100.
+
+<A NAME="ref16-21"></A>
+<P>Goodman, R.M. 1956. 
+The effect of the <I>W<SUP>v</SUP></I> allele in the mouse on the differential excretion of the optical isomers of several amino acids. 
+J. Exp. Zool. <B>132:</B> 189-218.
+<!-- 14357415 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14357415" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-22"></A>
+<P>Gr&#252;neberg, H. 1941. 
+Growth of the blood of the sucking mouse. 
+J. Pathol. Bacteriol. <B>52:</B> 323-339.
+
+<A NAME="ref16-23"></A>
+<P>Guyton, A.C. 1947. 
+Measurement of respiratory volumes of laboratory animals. 
+Amer. J. Physiol. <B>150:</B> 70-77.
+
+<A NAME="ref16-24"></A>
+<P>Harris, H., and A.G. Searle. 1953. 
+Urinary amino acids in mice of different genotypes. 
+Ann. Eugen. <B>17:</B> 165-167.
+<!-- 13031386 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13031386" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-25"></A>
+<P>Henry, J.P., J. P. Meehan, G. Santisteban, and P. Stevens. 1963. 
+Age variation of the blood pressure of male CBA mice. 
+Fed. Proc. <B>22:</B> 455. (Abstr.)
+
+<A NAME="ref16-26"></A>
+<P>Herter, K., and K. Sgonina. 1938. 
+Vorzugstemperatur und Haut beschaffenheit bei M&#228;usen. 
+Z. Vergl. Physiol. <B>26:</B> 366-415.
+
+<A NAME="ref16-27"></A>
+<P>Hiestand, W.A., M.F. Hadley, S.E. Mercer, and B.K. Sandock. 1947. 
+Hemoglobin and glycemia levels of the adult white mouse. 
+Proc. Soc. Exp. Biol. Med. <B>65:</B> 324-326.
+
+<A NAME="ref16-28"></A>
+<P>Hrubant, H.E. 1959. 
+A chromatographic analysis of the free amino acids in the blood plasma of three inbred strains of the house mouse. 
+Genetics <B>44:</B> 591-608.
+<!-- 17247844 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247844" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-29"></A>
+<P>Kaliss, N., and D. Pressman. 1950. 
+Plasma and blood volumes of mouse organs as determined with radioactive iodoproteins. 
+Proc. Soc. Exp. Biol. Med. <B>75:</B> 16-20.
+<!-- MGI:75308 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75308" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-30"></A>
+<P>Karnofsky, D.A., I.T. Nathansen, and J.C. Aub. 1944. 
+The urinary excretion of estrogens, 17-ketosteroid, creatine, and creatinine in high and low mammary tumor strains of mice. 
+Cancer Res. <B>4:</B> 772-778.
+
+<A NAME="ref16-31"></A>
+<P>Keighley, G., E.S. Russell, and P.H. Lowy. 1962. 
+Response of normal and genetically anaemic mice to erythropoietic stimuli. 
+Brit. J. Haematol. <B>8:</B> 429-441.
+<!-- 14031691 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14031691" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-32"></A>
+<P>Kelus, A., and J.K. Moor-Jankowski. 1961. 
+An isoantigen BA of mouse gamma-globulin present in inbred strains. 
+Nature <B>191:</B> 1405-1406.
+<!-- 14455058 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14455058" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-33"></A>
+<P>Larson, W.P., M. Levine, R.B. Bieter, and W.F. McLimans. 1940. 
+Study of mouse temperatures with reference to the effect of temperature on sulfanilamide therapy. 
+J. Bacteriol. <B>39:</B> 45.
+
+<A NAME="ref16-34"></A>
+<P>Lowry, O.H., and T.H. Hunter. 1945. 
+The determination of serum protein concentrationwith a gradient tube. 
+J. Biol. Chem. <B>159:</B> 465-474.
+
+<A NAME="ref16-35"></A>
+<P>Madison, C.R. 1952. 
+A search for quantitative differences in the normal constituents of the urine of short ear and normal mice. 
+J. Exp. Zool. <B>120:</B> 457-468.
+
+<A NAME="ref16-36"></A>
+<P>McLaren, A. 1961. 
+Some causes of variations of body temperature in mice. 
+Quart. J. Exp. Physiol. <B>46:</B> 38-45.
+
+<A NAME="ref16-37"></A>
+<P>McNutt, W., and R.E. Dill. 1963. 
+Strain differences in mice on a high salt diet. 
+J. Hered. <B>54:</B> 297-303.
+<!-- MGI:2137626 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2137626" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-38"></A>
+<P>Mills, C.A. 1939. 
+<I>Medical Climatology</I>. 
+Charles C Thomas, Springfield, Ill. 296 p.
+
+<A NAME="ref16-39"></A>
+<P>Morris, B., and F.C. Courtice. 1955. 
+The protein and lipid composition of plasma of different animal species determined by zone electrophoresis and chemical analysis. 
+Quart. J. Exp. Physiol. <B>40:</B> 127-137.
+<!-- 14371994 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14371994" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-40"></A>
+<P>Morrison, P.R. 1948. 
+Oxygen consumption in several mammals under basal conditions. 
+J. Cell. Comp. Physiol. <B>31:</B> 281-291.
+
+<A NAME="ref16-41"></A>
+<P>Oakley, C.L., and G.H. Warrack. 1940. 
+The blood volume of the mouse. 
+J. Pathol. Bacteriol. <B>50:</B> 372-377.
+
+<A NAME="ref16-42"></A>
+<P>Parfentjev, I.A., and W.A. Perlzweig. 1933. 
+The composition of the urine of white mice. 
+J. Biol. Chem. <B>100:</B> 551-555.
+
+<A NAME="ref16-43"></A>
+<P>Pearson, O.P. 1947. 
+The rate of metabolism of some small mammals. 
+Ecology <B>28:</B> 127-145.
+
+<A NAME="ref16-44"></A>
+<P>Petras, M., and T.A. Church. 1962. 
+The inheritance of a serum esterase component in <I>Mus musculus</I>. 
+Genetics <B>47:</B> 976. (Abstr.)
+<!-- 13942838 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13942838" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-45"></A>
+<P>Phillips, R.A., D.D. Van Slyke, V.P. Dole, K. Emerson, P.B. Hamilton, and R.M. Archibald. 1943. 
+<I>Copper Sulfate Method for Measuring Specific Gravities of Whole Blood Plasma</I>. 
+U.S. Naval Research Unit, Rockefeller Institute, New York. 51 p.
+
+<A NAME="ref16-46"></A>
+<P>Popp, R.A. 1961. 
+Inheritance of different serum esterase patterns among inbred strains of mice. 
+Genetics <B>46:</B> 890. (Abstr.)
+
+<A NAME="ref16-47"></A>
+<P>Rabinowitz, J.L., J. Burns, G.D. Chase, and H.C. Allen, Jr. 1959. 
+Studies on dystrophic mice and their littermates. I. Blood volume determinations. 
+Atompraxis <B>5:</B> 487-488.
+
+<A NAME="ref16-48"></A>
+<P>Rapoport, S., and G.M. Guest. 1941. 
+Distribution of acid-soluble phosphorus in the blood cells of various vertebrates. 
+J. Biol. Chem. <B>138:</B> 269-282.
+
+<A NAME="ref16-49"></A>
+<P>Rask-Nielsen, R., J. Clausen, and H.E. Christensen. 1960. 
+Biochemical changes in experimental amyloidosis. II. Paper electrophoretic investigations on serum and urine from mice with experimental amyloidosis, p. 190-195. 
+<I>In</I> <I>Protides of the Biological Fluids. Proc. 2nd Colloq. Bruges, 1959</I>. Elsevier, Amsterdam.
+
+<A NAME="ref16-50"></A>
+<P>Richards, A.G., E. Simonson, and M.B. Visscher. 1953. 
+Electrocardiogram and phonogram of adult and newborn mice in normal conditions and under the effect of cooling, hypoxia and potassium. 
+Amer. J. Physiol. <B>174:</B> 293-298.
+<!-- 13080449 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13080449" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-51"></A>
+<P>Ritchey, M.G., L.F. Wicks, and E.L. Tatum. 1947. 
+Biotin, choline, inositol, p-aminobenzoic acid and vitamin B<SUB>6</SUB> in transplantable mouse carcinomas and in mouse blood. 
+J. Biol. Chem. <B>171:</B> 51-59.
+
+<A NAME="ref16-52"></A>
+<P>Schlesinger, K., and A.M. Mordkoff. 1963. 
+Locomotor activity and oxygen consumption. 
+J. Hered. <B>54:</B> 177-182.
+<!-- 14057867 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14057867" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-53"></A>
+<P>Shreffler, D.C. 1960. 
+Genetic control of serum transferrin type in mice. 
+Proc. Nat. Acad. Sci. <B>46:</B> 1378-1384.
+<!-- MGI:61335 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61335" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-54"></A>
+<P>Shreffler, D.C. 1964<I>a</I>. 
+Inheritance of a serum prealbumin variant in the mouse. 
+Genetics <B>49:</B> 629-634. 
+<!-- MGI:61174 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61174" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-55"></A>
+<P>Shreffler, D.C. 1964<I>b</I>. 
+A serologically detected variant in mouse serum: further evidence for genetic control by the histocompatibility-2 locus. 
+Genetics <B>49:</B> 973-978.
+<!-- 14181489 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14181489" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-56"></A>
+<P>Shreffler, D.C., and R.D. Owen. 1963. 
+A serologically detected variant in mouse serum: inheritance and association with the histocompatibility-2 locus. 
+Genetics <B>48:</B> 9-26.
+<!-- MGI:71536 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71536" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-57"></A>
+<P>Silverstein, E. 1961. 
+Urine specific gravity and osmolality in inbred strains of mice. 
+J. Appl. Physiol. <B>16:</B> 194-196.
+<!-- MGI:75494 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75494" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-58"></A>
+<P>Silverstein, E., L. Sokoloff, O. Mickelsen, and G.E. Jay. 1961<I>a</I>. 
+Primary polydipsia and hydronephrosis in an inbred strain. 
+Amer. J. Pathol. <B>38:</B> 143-159.
+<!-- MGI:50999 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50999" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-59"></A>
+<P>Spector, W.S. 1956. 
+<I>Handbook of biological data. Wright Air Development Center Technical Report 56-273, ASTIA Document No. AD110501</I>. 
+Carpenter Lithographic & Printing Co., Springfield, Ohio. (<I>Also</I> publ. as <I>Handbook of Biological Data</I>, Nat. Acad. Sci. Saunders, Philadelphia, 1960.)
+
+<A NAME="ref16-60"></A>
+<P>Steel, B.F., M.S. Reynolds, and C.A. Baumann. 1950. 
+Effect of diet on amino acids in blood of mice of various ages. 
+Arch. Biochem. <B>25:</B> 124-132.
+
+<A NAME="ref16-61"></A>
+<P>Taurog, A., and I.L. Chaikoff. 1946. 
+On the determination of plasma iodine. 
+J. Biol. Chem. <B>163:</B> 313-322.
+
+<A NAME="ref16-62"></A>
+<P>Taylor, A. 1945. 
+Changes in hemoglobin concentration, total hemoglobin, and blood volume associated with tumor growth. 
+U. Texas Publ. No. <B>4507:</B> 95-102.
+
+<A NAME="ref16-63"></A>
+<P>Thompson, S., J.F. Foster, J.W. Gowen, and O.E. Tauber. 1954. 
+Hereditary differences in serum proteins of normal mice. 
+Proc. Soc. Exp. Biol. Med. <B>87:</B> 315-317.
+<!-- MGI:63158 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63158" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-64"></A>
+<P>Thung, P.J. 1962. 
+Physiological proteinuria in mice. 
+Acta Physiol. Pharmacol. Neer. <B>10:</B> 248-261.
+<!-- 13921098 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13921098" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-65"></A>
+<P>Weir, J.A. 1947. 
+The temperature of the mouse in health and disease. 
+Proc. Iowa Acad. Sci. <B>54:</B> 383-388.
+
+<A NAME="ref16-66"></A>
+<P>Weir, J.A. 1949. 
+Blood-pH as a factor in genetic resistance to mouse typhoid. 
+J. Infect. Dis. <B>84:</B> 252-274.
+
+<A NAME="ref16-67"></A>
+<P>Weir, J.A. 1955. 
+Male influence on sex ratio of offspring in high and low blood-pH lines of mice. 
+J. Hered. <B>46:</B> 277-283.
+
+<A NAME="ref16-68"></A>
+<P>Weir, J.A., and R.D. Clark. 1955. 
+Production of high and low blood-pH lines of mice by selection and inbreeding. 
+J. Hered. <B>46:</B> 125-132.
+<!-- MGI:51013 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51013" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-69"></A>
+<P>White, A., and T.F. Dougherty. 1946. 
+The role of lymphocytes in normal and immune globulin production and the mode of release of globulin from lymphocytes. 
+Ann. N.Y. Acad. Sci. <B>46:</B> 859-883.
+
+<A NAME="ref16-70"></A>
+<P>Wicks, L.F. 1941. 
+Sex and proteinuria in mice. 
+Proc. Soc. Exp. Biol. Med. <B>48:</B> 395-400.
+
+<A NAME="ref16-71"></A>
+<P>Wish, L., J. Furth, and R.H. Storey. 1950. 
+Direct determinations of plasma, cell, and organ-blood volumes in normal and hypervolemic mice. 
+Proc. Soc. Exp. Biol. Med. <B>74:</B> 644-648.
+<!-- 15440918 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15440918" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-72"></A>
+<P>Wolfe, H.G. 1959. 
+Blood-pH differences in two inbred strains of mice. 
+J. Hered. <B>50:</B> 155-158.
+<!-- MGI:73116 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73116" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-72a"></A>
+<P>Wolfe, H.G. 1961. 
+Selection for blood-pH in the house mouse. 
+Genetics <B>46:</B> 55-75.
+<!-- MGI:73124 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73124" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-73"></A>
+<P>Wu, C.H., and M. B. Visscher. 1947. 
+Measurement of blood pressure in the mouse with special reference to age. 
+Fed. Proc. <B>6:</B> 231. (Abstr.)
+
+<A NAME="ref16-74"></A>
+<P>Wunderlich, J.R., and L.A. Herzenberg. 1962. 
+A second gamma-globulin isoantigen (allotype). 
+Genetics <B>47:</B> 995. (Abstr.)
+
+<A NAME="ref16-75"></A>
+<P>Yoon, C.H. 1961. 
+Electrophoretic analysis of the serum proteins of neurological mutations in mice. 
+Science <B>134:</B> 1009-1010.
+<!-- MGI:48853 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48853" target="_blank">MGI</A></I>.
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter15.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter17.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

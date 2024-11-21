@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Title Page</title>
+	<meta name="generator" content="BBEdit 7.0.3" />
+</head>
+<body>
+
+<H2>Tables</H2>
+
+<TABLE CELLSPACING=5>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt11 = window.open('tables/table1-1.shtml', 'windowt11', 'width=500,height=1000,resizable=yes,scrollbars=yes'); windowt11.focus()">1-1</A></TD>
+<TD>References to origins of inbred strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt21 = window.open('tables/table2-1.shtml', 'windowt21', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt21.focus()">2-1</A></TD>
+<TD>The probability of heterozygosity (<I>h</I>) and the possibility of incrosses 
+(<I>p</I>) at the <I>a</I> locus at <I>n</I> generations of brother-sister inbreeding, 
+assuming a cross (<I>a</I>/<I>a</I> x +/+) in generation zero</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt22 = window.open('tables/table2-2.shtml', 'windowt22', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt22.focus()">2-2</A></TD>
+<TD>The probability of incrosses <I>p</I> at the <I>a</I> locus after <I>n</I> generations 
+of backcrossing, where <I>c</I> is the probability of recombination between the <I>a</I> and the <I>D</I> loci
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt23 = window.open('tables/table2-3.shtml', 'windowt23', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt23.focus()">2-3</A></TD>
+<TD>The probability of incrosses (<I>p</I>) and of heterozygosity (<I>h</I>) at the <I>a</I> locus 
+after <I>m</I> cycles of the cross-intercross system with two generations per cycle, where <I>c</I> is the 
+probability of recombination between the <I>a</I> and the <I>r</I> loci</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt24 = window.open('tables/table2-4.shtml', 'windowt24', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt24.focus()">2-4</A></TD>
+<TD>The probability of incrosses (<I>p</I>) and the probability of heterozygosity (<I>h</I>) at the <I>a</I> locus 
+after <I>m</I> cycles of the cross-backcross-intercross system with three generations per cycle, where <I>c</I> is the 
+probability of recombination between the <I>a</I> and the <I>r</I> loci</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt25 = window.open('tables/table2-5.shtml', 'windowt25', 'width=500,height=700,resizable=yes,scrollbars=yes'); windowt25.focus()">2-5</A></TD>
+<TD>The probability of incrosses <I>p</I> at the <I>a</I> locus 
+after <I>n</I> generations of brother-sister inbreeding with heterozygosis forced by backcrossing assuming the initial mating is 
++ <I>r</I>/+ <I>r</I> x <I>a</I> +/<I>a</I> + 
+or <I>a</I> <I>r</I>/<I>a</I> <I>r</I> x + +/+ <I>r</I>, and by intercrossing, assuming the initial mating is 
++ +/+ <I>r</I> x <I>a</I> +/<I>a</I> <I>r</I>, 
+where <I>c</I> is the probability of recombination between the <I>a</I> and <I>r</I> loci</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt51 = window.open('tables/table5-1.shtml', 'windowt51', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowt51.focus()">5-1</A></TD>
+<TD>Diet formulations at the Jackson Laboratory in parts per thousand by weight</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt52 = window.open('tables/table5-2.shtml', 'windowt52', 'width=1200,height=500,resizable=yes,scrollbars=yes'); windowt52.focus()">5-2</A></TD>
+<TD>Summary of vitamin needs and effects in the mouse and amounts used in Jackson Laboratory diets (1965)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt53 = window.open('tables/table5-3.shtml', 'windowt53', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt53.focus()">5-3</A></TD>
+<TD>Comparative analysis of various diets in percentage</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt71 = window.open('tables/table7-1.shtml', 'windowt71', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt71.focus()">7-1</A></TD>
+<TD>Chiasma frequency in adult male cells at metaphase</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt72 = window.open('tables/table7-2.shtml', 'windowt72', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt72.focus()">7-2</A></TD>
+<TD>Chiasma frequency in young male cells (6 weeks old) at metaphase</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt73 = window.open('tables/table7-3.shtml', 'windowt73', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowt73.focus()">7-3</A></TD>
+<TD>Comparison of chiasma frequencies in male mouse cells at diakinesis and metaphase</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt74 = window.open('tables/table7-4.shtml', 'windowt74', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt74.focus()">7-4</A></TD>
+<TD>Chiasma frequency in female mouse cells at metaphase</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt75 = window.open('tables/table7-5.shtml', 'windowt75', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt75.focus()">7-5</A></TD>
+<TD>Sex determination in <I>Drosophila</I>, <I>Melandrium</I>, and the mouse</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt76 = window.open('tables/table7-6.shtml', 'windowt76', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt76.focus()">7-6</A></TD>
+<TD>Translocations and other heritable chromosomal abnormalities</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt81 = window.open('tables/table8-1.shtml', 'windowt81', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt81.focus()">8-1</A></TD>
+<TD>Linkage groups and recombination frequencies</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt82 = window.open('tables/table8-2.shtml', 'windowt82', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt82.focus()">8-2</A></TD>
+<TD>Kinds of matings which allow use of a linked marker for early identification of a mutant</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt83 = window.open('tables/table8-3.shtml', 'windowt83', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt83.focus()">8-3</A></TD>
+<TD>Linkage testing stocks maintained at The Jackson Laboratory in 1965</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt91 = window.open('tables/table9-1.shtml', 'windowt91', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowt91.focus()">9-1</A></TD>
+<TD>Results of an experiment for selection of vibrissa number</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1001 = window.open('tables/table10-1.shtml', 'windowt1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1001.focus()">10-1</A></TD>
+<TD>Mutation rates in postmeiotic male germ cells exposed to single acute doses of X-irradiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1002 = window.open('tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">10-2</A></TD>
+<TD>Mutation rates in fetal spermatogonia exposed to single acute doses of X-irradiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1003 = window.open('tables/table10-3.shtml', 'windowt1003', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1003.focus()">10-3</A></TD>
+<TD>Mutation rates in all spermatogenetic stages exposed to varying doses of &#947-rays at low dose rates from a 400 millicurie radium source</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1004 = window.open('tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">10-4</A></TD>
+<TD>Mutation rates of spermatogonia exposed to one or two acute doses of radiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1005 = window.open('tables/table10-5.shtml', 'windowt1005', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1005.focus()">10-5</A></TD>
+<TD>Mutation rates of spermatogonia exposed to single chronic doses of radiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1006 = window.open('tables/table10-6.shtml', 'windowt1006', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1006.focus()">10-6</A></TD>
+<TD>Mutation rates of spermatogonia exposed to 1,000 R of X-rays at 90 R/min in fractionated doses</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1007 = window.open('tables/table10-7.shtml', 'windowt1007', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1007.focus()">10-7</A></TD>
+<TD>Mutation rates of spermatogonia exposed to chronic neutron radiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1008 = window.open('tables/table10-8.shtml', 'windowt1008', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1008.focus()">10-8</A></TD>
+<TD>Mutation rates in fetal oogonia exposed to single acute or chronic doses of radiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1009 = window.open('tables/table10-9.shtml', 'windowt1009', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1009.focus()">10-9</A></TD>
+<TD>Mutation rates in oocytes exposed to single acute and chronic doses of radiation</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1010 = window.open('tables/table10-10.shtml', 'windowt1010', 'width=800,height=300,resizable=yes,scrollbars=yes'); windowt1010.focus()">10-10</A></TD>
+<TD>Percentage distribution of mutations at seven specific loci induced in spermatogonial and postspermatogonial cells by &#947;- and X-irradiation.</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1011 = window.open('tables/table10-11.shtml', 'windowt1011', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1011.focus()">10-11</A></TD>
+<TD>Experiments designed to assess the effects of irradiation on the hereditary fitness of mouse populations</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1101 = window.open('tables/table11-1.shtml', 'windowt1101', 'width=1100,height=700,resizable=yes,scrollbars=yes'); windowt1101.focus()">11-1</A></TD>
+<TD>Schematic outline of changes in the reproductive organs of the mouse during the estrous cycle</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1301 = window.open('tables/table13-1.shtml', 'windowt1301', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt1301.focus()">13-1</A></TD>
+<TD>Peyer's patches in mice of seven strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1302 = window.open('tables/table13-2.shtml', 'windowt1302', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt1302.focus()">13-2</A></TD>
+<TD>Accessory spleens and spleens with forked tips in mice of nine strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1401 = window.open('tables/table14-1.shtml', 'windowt1401', 'width=900,height=800,resizable=yes,scrollbars=yes'); windowt1401.focus()">14-1</A></TD>
+<TD>Physical and chemical teratogenic agents</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1402 = window.open('tables/table14-2.shtml', 'windowt1402', 'width=900,height=800,resizable=yes,scrollbars=yes'); windowt1402.focus()">14-2</A></TD>
+<TD>Critical periods for various malformations produced by teratogenic agents in mouse embryos</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1501 = window.open('tables/table15-1.shtml', 'windowt1501', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1501.focus()">15-1</A></TD>
+<TD>Pleiotropic effects of genes causing limb defects</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1601 = window.open('tables/table16-1.shtml', 'windowt1601', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1601.focus()">16-1</A></TD>
+<TD>Quantitative serum characteristics</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1602 = window.open('tables/table16-2.shtml', 'windowt1602', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1602.focus()">16-2</A></TD>
+<TD>Protein constituents of serum</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1603 = window.open('tables/table16-3.shtml', 'windowt1603', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1603.focus()">16-3</A></TD>
+<TD>Total blood volumes</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1604 = window.open('tables/table16-4.shtml', 'windowt1604', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1604.focus()">16-4</A></TD>
+<TD>Blood pressure and pulse rate</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1605 = window.open('tables/table16-5.shtml', 'windowt1605', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1605.focus()">16-5</A></TD>
+<TD>Means and standard errors of means of blood pH</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1606 = window.open('tables/table16-6.shtml', 'windowt1606', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1606.focus()">16-6</A></TD>
+<TD>Respiratory characteristics of mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1607 = window.open('tables/table16-7.shtml', 'windowt1607', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt1607.focus()">16-7</A></TD>
+<TD>Basal and resting energy metabolism</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1608 = window.open('tables/table16-8.shtml', 'windowt1608', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt1608.focus()">16-8</A></TD>
+<TD>Tissue oxygen consumption</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1609 = window.open('tables/table16-9.shtml', 'windowt1609', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt1609.focus()">16-9</A></TD>
+<TD>Relationship of environmental temperature to heat production</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1610 = window.open('tables/table16-10.shtml', 'windowt1610', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1610.focus()">16-10</A></TD>
+<TD>Body temperature</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1611 = window.open('tables/table16-11.shtml', 'windowt1611', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1611.focus()">16-11</A></TD>
+<TD>Quantitative characteristics of urine</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1612 = window.open('tables/table16-12.shtml', 'windowt1612', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1612.focus()">16-12</A></TD>
+<TD>Water balance in young adults (3 to 5 months of age)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1613 = window.open('tables/table16-13.shtml', 'windowt1613', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1613.focus()">16-13</A></TD>
+<TD>Proteinuria</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1614 = window.open('tables/table16-14.shtml', 'windowt1614', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt1614.focus()">16-14</A></TD>
+<TD>Composition of normal mouse urine</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1701 = window.open('tables/table17-1.shtml', 'windowt1701', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1701.focus()">17-1</A></TD>
+<TD>Means and standard errors of means for erythrocyte characteristics of 18 inbred strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1702 = window.open('tables/table17-2.shtml', 'windowt1702', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1702.focus()">17-2</A></TD>
+<TD>Means and standard errors of means for leukocyte characteristics of 18 inbred strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1703 = window.open('tables/table17-3.shtml', 'windowt1703', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1703.focus()">17-3</A></TD>
+<TD>Mean total numbers and differential distributions of leukocytes in blood of mice from six inbred strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1704 = window.open('tables/table17-4.shtml', 'windowt1704', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1704.focus()">17-4</A></TD>
+<TD>Known characteristics of the hemoglobins of 48 inbred strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1705 = window.open('tables/table17-5.shtml', 'windowt1705', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1705.focus()">17-5</A></TD>
+<TD>Myelograms of 2-month-old female mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1706 = window.open('tables/table17-6.shtml', 'windowt1706', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt1706.focus()">17-6</A></TD>
+<TD>Fetal erythrocyte populations</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1707 = window.open('tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">17-7</A></TD>
+<TD>Postnatal increase in mean number and mean volume of erythrocytes in normal and certain genetically anemic mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt1708 = window.open('tables/table17-8.shtml', 'windowt1708', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1708.focus()">17-8</A></TD>
+<TD>Hematoogical characteristics of mice bearing one or more mutant genes causing hemolytic anemia or jaundice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2001 = window.open('tables/table20-1.shtml', 'windowt2001', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowt2001.focus()">20-1</A></TD>
+<TD>Comparison of estimates of thyroid secretion rate</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2002 = window.open('tables/table20-2.shtml', 'windowt2002', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt2002.focus()">20-2<SUP>&nbsp;</SUP></A></TD>
+<TD>Ratio of I<SUP>131</SUP> count in thyroid to that in serum (T/S) and plasma protein-bound iodine concentration (PBI) in various strains of mice and their hybrids</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2003 = window.open('tables/table20-3.shtml', 'windowt2003', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt2003.focus()">20-3</A></TD>
+<TD>Minimum amount of estradiol benzoate giving positive vaginal smears in approximately 50 per cent of the mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2004 = window.open('tables/table20-4.shtml', 'windowt2004', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2004.focus()">20-4</A></TD>
+<TD>Association of body and organ weights with weights of pituitary gland remnants in D2CEF<SUB>1</SUB> hybrid female mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2101 = window.open('tables/table21-1.shtml', 'windowt2101', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2101.focus()">21-1</A></TD>
+<TD>Some genes affecting pigment in the mouse</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2201 = window.open('tables/table22-1.shtml', 'windowt2201', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt2201.focus()">22-1</A></TD>
+<TD>Radiation sensitivity (LD<SUB>50.30</SUB>) of ten inbred mouse strains</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2202 = window.open('tables/table22-2.shtml', 'windowt2202', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt2202.focus()">22-2</A></TD>
+<TD>Relative biological effectiveness (RBE) of various ionizing radiations for the production of acute lethality in mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2301 = window.open('tables/table23-1.shtml', 'windowt2301', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt2301.focus()">23-1</A></TD>
+<TD>Convulsive threshold of inbred and hybrid mice treated with insulin</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2401 = window.open('tables/table24-1.shtml', 'windowt2401', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt2401.focus()">24-1</A></TD>
+<TD>Deaths produced by tumors indigenous to inbred strains when transplanted to F<SUB>1</SUB>, F<SUB>2</SUB>, and BC mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2402 = window.open('tables/table24-2.shtml', 'windowt2402', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt2402.focus()">24-2</A></TD>
+<TD>Survival of skin grafts from inbred mice when transplanted to F<SUB>1</SUB>, F<SUB>2</SUB>, and BC generations</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2403 = window.open('tables/table24-3.shtml', 'windowt2403', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2403.focus()">24-3</A></TD>
+<TD>The expected outcome of transplants made from strain A to strain B, and to F<SUB>1</SUB>, F<SUB>2</SUB>, and BC generations produced by crossing strain A and strain B</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2404 = window.open('tables/table24-4.shtml', 'windowt2404', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2404.focus()">24-4</A></TD>
+<TD>Expected percentage of susceptible mice in F<SUB>2</SUB> and BC generations on the assumption that susceptibility and resistance is determined by 4, 9, 13, or 15 histocompatibility loci</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2405 = window.open('tables/table24-5.shtml', 'windowt2405', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2405.focus()">24-5</A></TD>
+<TD>Linkage of albinism (<I>c</I>) with resistance (-) in the 12th (intercross) generation of CR line B10.C(41N)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2406 = window.open('tables/table24-6.shtml', 'windowt2406', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2406.focus()">24-6</A></TD>
+<TD>Four histocompatibility loci identifiable by their linkage relations</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2407 = window.open('tables/table24-7.shtml', 'windowt2407', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt2407.focus()">24-7</A></TD>
+<TD>Crossover data for <I>H-1</I>, <I>H-2</I>, <I>H-3</I>, and <I>H-4</I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2408 = window.open('tables/table24-8.shtml', 'windowt2408', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt2408.focus()">24-8</A></TD>
+<TD>Analysis of CR lines B10.C(41N) and B10.C(47N) by the F<SUB>1</SUB> test</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2409 = window.open('tables/table24-9.shtml', 'windowt2409', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt2409.focus()">24-9</A></TD>
+<TD>Use of the F<SUB>1</SUB> test to type various inbred strains for allele <I>H-7<SUP>a</SUP></I> of strain C57BL/10</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2410 = window.open('tables/table24-10.shtml', 'windowt2410', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt2410.focus()">24-10</A></TD>
+<TD>Distribution of histocompatibility alleles and alloantigenic specificities among inbred strains and congenic resistant sublines</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2411 = window.open('tables/table24-11.shtml', 'windowt2411', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt2411.focus()">24-11</A></TD>
+<TD>Differences in the "strength" of various histocompatibility loci as measured by grafts of skin and C57BL/10 transplantable leukemias made between congenic strain pairs</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2412 = window.open('tables/table24-12.shtml', 'windowt2412', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowt2412.focus()">24-12</A></TD>
+<TD>The maximum number of alloantigenic specificities detectable with four genetically unrelated strains of mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2413 = window.open('tables/table24-13.shtml', 'windowt2413', 'width=1000,height=900,resizable=yes,scrollbars=yes'); windowt2413.focus()">24-13</A></TD>
+<TD>The known alleles and alloantigenic specificities of the <I>H-2</I> system and the inbred strains that carry them</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2414 = window.open('tables/table24-14.shtml', 'windowt2414', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowt2414.focus()">24-14</A></TD>
+<TD>Crossovers separating <I>H-2</I> into five regions and locating the position of <I>Ss</I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2415 = window.open('tables/table24-15.shtml', 'windowt2415', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowt2415.focus()">24-15</A></TD>
+<TD>Per cent crossing over between different regions of the <I>H-2</I> locus</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2416 = window.open('tables/table24-16.shtml', 'windowt2416', 'width=800,height=450,resizable=yes,scrollbars=yes'); windowt2416.focus()">24-16</A></TD>
+<TD>Evidence from grafts to C57BL x BALB/c reciprocal hybrids for an X-linked histocompatibility factor</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2417 = window.open('tables/table24-17.shtml', 'windowt2417', 'width=800,height=300,resizable=yes,scrollbars=yes'); windowt2417.focus()">24-17</A></TD>
+<TD>Evidence that the Y-linked histocompatibility factor is present in the Y and absent in the X of strain CBA</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2418 = window.open('tables/table24-18.shtml', 'windowt2418', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2418.focus()">24-18</A></TD>
+<TD>Relation of the age of donor and host to the per cent successful skin grafts made from male to female in strain A</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2419 = window.open('tables/table24-19.shtml', 'windowt2419', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowt2419.focus()">24-19</A></TD>
+<TD>Relative concentration in different tissues of the <I>H-2</I>, <I>H-5</I>, and <I>H-6</I> transplantation alloantigens</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2501 = window.open('tables/table25-1.shtml', 'windowt2501', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2501.focus()">25-1</A></TD>
+<TD>Organs of the mouse cultivated <I>in vitro</I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2502 = window.open('tables/table25-2.shtml', 'windowt2502', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt2502.focus()">25-2</A></TD>
+<TD>Effects of hormones on mouse organ cultrues</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2601 = window.open('tables/table26-1.shtml', 'windowt2601', 'width=800,height=650,resizable=yes,scrollbars=yes'); windowt2601.focus()">26-1</A></TD>
+<TD>Mean lifespans and standard errors of means in days in samples of n inbred mice in the pedigreed expansion stocks</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2602 = window.open('tables/table26-2.shtml', 'windowt2602', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt2602.focus()">26-2</A></TD>
+<TD>Mean lifespans and standard errors of means in days in samples of n nonbred F<SUB>1</SUB> hybrid mice (1954-1958)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2701 = window.open('tables/table27-1.shtml', 'windowt2701', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt2701.focus()">27-1</A></TD>
+<TD>Characteristic tumors of inbred strains, sex and age incidence</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2702 = window.open('tables/table27-2.shtml', 'windowt2702', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2702.focus()">27-2</A></TD>
+<TD>Percentage incidence of tumors of some long-lived inbred strains and wild mice</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2703 = window.open('tables/table27-3.shtml', 'windowt2703', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt2703.focus()">27-3</A></TD>
+<TD>Classification of mammary tumors</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2704 = window.open('tables/table27-4.shtml', 'windowt2704', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt2704.focus()">27-4</A></TD>
+<TD>Classification of tumors of the hematopoietic system of the mouse</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt2901 = window.open('tables/table29-1.shtml', 'windowt2901', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt2901.focus()">29-1</A></TD>
+<TD>Constitutional diseases associated with single-gene substitutions</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3201 = window.open('tables/table32-1.shtml', 'windowt3201', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt3201.focus()">32-1</A></TD>
+<TD>Percentage composition of whole mouse brain at different ages</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3202 = window.open('tables/table32-2.shtml', 'windowt3202', 'width=900,height=800,resizable=yes,scrollbars=yes'); windowt3202.focus()">32-2</A></TD>
+<TD>Stocks and inbred strains of mice with recessive inherited retinal disease</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3203 = window.open('tables/table32-3.shtml', 'windowt3203', 'width=750,height=400,resizable=yes,scrollbars=yes'); windowt3203.focus()">32-3</A></TD>
+<TD>Behavioral and morphological effects in some mutants involving the inner ear</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3204 = window.open('tables/table32-4.shtml', 'windowt3204', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt3204.focus()">32-4</A></TD>
+<TD>Relationship of drugs and electroshock to audiogenic seizure susceptibility</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3301 = window.open('tables/table33-1.shtml', 'windowt3301', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt3301.focus()">33-1</A></TD>
+<TD>Percentage of mice in each of 15 strains defecating during six 10-minute tests</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3302 = window.open('tables/table33-2.shtml', 'windowt3302', 'width=650,height=400,resizable=yes,scrollbars=yes'); windowt3302.focus()">33-2</A></TD>
+<TD>Strain comparisons for mean number of trials to reach conditioning criterion of five successive avoidances</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3303 = window.open('tables/table33-3.shtml', 'windowt3303', 'width=700,height=700,resizable=yes,scrollbars=yes'); windowt3303.focus()">33-3</A></TD>
+<TD>Mean amount of exploratory activity shown by each of 15 mouse strains, and the probability of differences among them</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3304 = window.open('tables/table33-4.shtml', 'windowt3304', 'width=650,height=450,resizable=yes,scrollbars=yes'); windowt3304.focus()">33-4</A></TD>
+<TD>Pentobarbital anesthesia (60 mg/kg ip) under varying conditions of lighting and housing</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3305 = window.open('tables/table33-5.shtml', 'windowt3305', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt3305.focus()">33-5</A></TD>
+<TD>Mean manipulation and visual exploration scores</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="8%">
+<a href="javascript:windowt3306 = window.open('tables/table33-6.shtml', 'windowt3306', 'width=650,height=450,resizable=yes,scrollbars=yes'); windowt3306.focus()">33-6</A></TD>
+<TD>Genetic constitution of groups with means and variances of activity scores</TD>
+</TR>
+
+</TABLE>
+
+
+</body>
+</html>

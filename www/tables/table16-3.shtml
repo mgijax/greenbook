@@ -1,0 +1,286 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 16-3</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 16 -->
+
+<CENTER>
+
+<H3>Table 16-3. TOTAL BLOOD VOLUMES</H3> 
+
+<P><TABLE>
+
+<TR><TD COLSPAN=13><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=5>Blood volume,</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=5>ml/100 g</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>Strain</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Genotype</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=5>body wt</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Method</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Reference</TD>
+</TR>
+
+<TR><TD COLSPAN=13><HR></TD></TR>
+
+<TR>
+<TD>Akm</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>12.1</TD><TD>+/-</TD><TD ALIGN=LEFT>0.8</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Radio-iodoprotein exsanguination</TD>
+<TD>&nbsp;</TD>
+<TD>Kaliss and Pressman (
+<A HREF="#ref16-29">1950</A>)</TD>
+</TR>
+
+<TR>
+<TD>C57</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>4.9</TD><TD>+/-</TD><TD ALIGN=LEFT>0.17</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Exsanguination</TD>
+<TD>&nbsp;</TD>
+<TD>Taylor (
+<A HREF="#ref16-62">1945</A>)</TD>
+</TR>
+
+<TR>
+<TD>dba</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>5.23</TD><TD>+/-</TD><TD ALIGN=LEFT>0.31</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Exsanguination</TD>
+<TD>&nbsp;</TD>
+<TD>Taylor (
+<A HREF="#ref16-62">1945</A>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>WBB6F<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856232" target="_blank">W</A></I>/+<SUB>&nbsp;</SUB></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD VALIGN=BOTTOM>5.5<SUB>&nbsp;</SUB></TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Fe<SUP>59</SUP> labeled RBC<SUB>&nbsp;</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Keighley <I>et al.</I> (
+<A HREF="#ref16-31">1962</A>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>WBB6F<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856232" target="_blank">W</A></I>/<I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856266" target="_blank">W<SUP>v</SUP></A></I><SUB>&nbsp;</SUB></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD VALIGN=BOTTOM>5.5<SUB>&nbsp;</SUB></TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Fe<SUP>59</SUP> labeled RBC<SUB>&nbsp;</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Keighley <I>et al.</I> (
+<A HREF="#ref16-31">1962</A>)</TD>
+</TR>
+
+<TR>
+<TD>Not reported</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>5.59</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Extraction of hemoglobin</TD>
+<TD>&nbsp;</TD>
+<TD>Gr&#252;neberg <I>et al.</I> (
+<A HREF="#ref16-22">1941</A>)</TD>
+</TR>
+
+<TR>
+<TD>Not reported</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>6.3</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Perfusion and exsanguination</TD>
+<TD>&nbsp;</TD>
+<TD>Oakley and Warrack (
+<A HREF="#ref16-41">1940</A>)</TD>
+</TR>
+
+<TR>
+<TD>(Ak x Rf)F<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>5.2</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Perfusion and exsanguination</TD>
+<TD>&nbsp;</TD>
+<TD>Furth and Sobel (
+<A HREF="#ref16-18">1946</A>)</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>10.9</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Dye dilution with T1824</TD>
+<TD>&nbsp;</TD>
+<TD>Furth and Sobel (
+<A HREF="#ref16-18">1946</A>)</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD><TD>5.7</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>Dye T1824 and exsanguination</TD>
+<TD>&nbsp;</TD>
+<TD>Furth and Sobel (
+<A HREF="#ref16-18">1946</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=13><HR></TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<A NAME="ref16-18"></A>
+<P>Furth, J., and H. Sobel. 1946. 
+Hypervolemia secondary to grafted granulosa-cell tumor. 
+J. Nat. Cancer Inst. <B>7:</B> 103-113.
+
+<A NAME="ref16-22"></A>
+<P>Gr&#252;neberg, H. 1941. 
+Growth of the blood of the sucking mouse. 
+J. Pathol. Bacteriol. <B>52:</B> 323-339.
+
+<A NAME="ref16-29"></A>
+<P>Kaliss, N., and D. Pressman. 1950. 
+Plasma and blood volumes of mouse organs as determined with radioactive iodoproteins. 
+Proc. Soc. Exp. Biol. Med. <B>75:</B> 16-20.
+<!-- MGI:75308 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:75308" target="_blank">MGI</A></I>.
+
+<A NAME="ref16-31"></A>
+<P>Keighley, G., E.S. Russell, and P.H. Lowy. 1962. 
+Response of normal and genetically anaemic mice to erythropoietic stimuli. 
+Brit. J. Haematol. <B>8:</B> 429-441.
+<!-- 14031691 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14031691" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref16-41"></A>
+<P>Oakley, C.L., and G.H. Warrack. 1940. 
+The blood volume of the mouse. 
+J. Pathol. Bacteriol. <B>50:</B> 372-377.
+
+<A NAME="ref16-62"></A>
+<P>Taylor, A. 1945. 
+Changes in hemoglobin concentration, total hemoglobin, and blood volume associated with tumor growth. 
+U. Texas Publ. No. <B>4507:</B> 95-102.
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

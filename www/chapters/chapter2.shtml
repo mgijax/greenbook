@@ -1,0 +1,993 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 2 - Breeding Systems</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+	
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, mice, breeding, inbreeding, selection, geneticists, research">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter1.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter3.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>2</H1>
+<H2><I>Breeding Systems</I><SUP>
+<A HREF="#note1">1</A></SUP></H2>
+<H3>Earl L. Green</H3>
+
+<P>Characteristics of mice, like the characteristics of other things, living or nonliving, may be treated as <I>discrete</I> 
+or <I>continuous</I> variables. Litter size, sex, and coat colors are examples of discrete variables. Weight, body size, and 
+lifespan are examples of continuous variables. We may describe groups by the proportions of males, of brown mice, or of 
+brown male mice (discrete variables), or by the means and variances of their weights, lengths, or lifespans (continuous variables).
+
+<P>A collection of samples will usually exhibit some variability in the proportions or means of the characteristics under study. 
+If a sufficient number of characteristics are simultaneously considered, no two mice will be alike. The variability, aside from 
+chance differences between samples, may have either <I>genetic</I> or <I>nongenetic</I> causes. The nongenetic causes of variation 
+in the characteristics under study may be of many kinds, including seasonal fluctuations, differences in kind and amount of 
+food consumed, exposures to noise, light, or humidity, or differences in prior experiences. The genetic causes of variation 
+are simpler, at least in principle, in that they are exclusively the consequences of different genetic contents of zygotes.
+
+<P>Investigators who use mice are concerned with the control of both genetic and nongenetic sources of variation. Some of the 
+nongenetic sources may be controlled by standardizing the management of the mouse colony or, when it is desired, by deliberately 
+imposing two or more different conditions of rearing or treating the mice. The genetic sources of variability may be controlled 
+by the choice of an appropriate breeding system. Various breeding systems useful with mice, their theoretical consequences, and 
+the criteria for choosing one in preference to another are the subjects of this chapter.
+
+<P>More extensive general discussions of breeding systems may be found in the books by Lush (
+<A HREF="#ref2-32">1945</A>), Mal&#233;cot (
+<A HREF="#ref2-34">1948</A>), Fisher (
+<A HREF="#ref2-15">1949</A>), Mather (
+<A HREF="#ref2-35">1949</A>), Lerner (
+<A HREF="#ref2-28">1950</A>), Li (
+<A HREF="#ref2-30">1955</A>), Kempthorne (
+<A HREF="#ref2-25">1957</A>), Falconer (
+<A HREF="#ref2-13">1960</A>), and Le Roy (
+<A HREF="#ref2-29">1960</A>), and in the papers by Wright (
+<A HREF="#ref2-45">1921<I>a</I></A>, 
+<A HREF="#ref2-50">1963</A>), Bartlett and Haldane (
+<A HREF="#ref2-2">1935</A>), Green and Doolittle (
+<A HREF="#ref2-18">1963</A>), Kimura and Crow (
+<A HREF="#ref2-27">1963</A>), and Robertson (
+<A HREF="#ref2-37">1964</A>), as well as others.
+
+<CENTER>
+<P><B>PURPOSES OF BREEDING SYSTEMS</B>
+</CENTER>
+
+<P>The purpose of all breeding systems is to preserve or control the genetic causes of variability in traits of interest. In theoretical 
+populations of infinite size under specified environmental conditions, random mating in the absence of selection or mutation will keep 
+the means and variances of all quantitative traits constant. Inbreeding will subdivide a population and, in the individual subpopulations, 
+will increase or decrease the means and will reduce the genetic variances. Outcrosses (matings between populations) will usually change 
+the mean and increase the genetic variance of the resulting population. Selective breeding of like with like will increase or decrease 
+or stabilize the mean, depending upon the direction of selection, and will also ultimately decrease the genetic variance, but not necessarily 
+eliminate it. If the selected mates are deliberately as unlike as possible, the genetic variance will be kept large.
+
+<P>Combinations of inbreeding and selection systems give geneticists a wide variety of methods for controlling the inherited characteristics 
+of research animals.
+
+<P>Four general types of mice have come into common use: <I>inbred</I>, <I>hybrid</I>, <I>mutant-bearing</I>, and <I>selected</I>. 
+Breeding systems to produce inbred and hybrid mice and to propagate mutant-bearing mice are described in the following 
+sections of this chapter. Systems of selective breeding are described in 
+<A HREF="chapter9.shtml">Chapter 9</A>.
+
+<P>It is necessary to distinguish between two uses of mice in research. Mice for <I>breeding experiments</I> must be individually identified 
+in such a way that the parents and more remote ancestors, the offspring and later descendants, and collateral relatives can, when necessary, 
+also be identified. Methods for keeping breeding records to accomplish this aim are given in 
+<A HREF="chapter3.shtml">Chapter 3</A>. In <I>terminal experiments</I>, the mice are used for investigations of physiology, biochemistry, pathology, behavior, 
+etc., but not for further breeding. They need not necessarily be individually identified, but must be identified by lot. That is, the strain, 
+generation, age, weight, and other characteristics will need to be known, but the exact relationships to other mice in the same or 
+different lots may not always be needed.
+
+<CENTER>
+<P><B>SYSTEMS OF BREEDING</B>
+</CENTER>
+
+<P>The genetic consequences of a system of breeding may be grasped by considering how the system affects the probabilities or theoretical 
+relative frequencies of the alleles or genes, the genotypes, and the mating types at any one locus and hence at all loci.
+
+<P>We shall refer to the <I>a</I> locus as any locus whose heterozygosity is in question under any given system of breeding. For simplicity 
+we shall suppose that there are two alleles, + and <I>a</I>, at the <I>a</I> locus. In certain systems we shall need to refer to the locus 
+of a dominant mutation (<I>D</I>) and to the locus of a recessive mutation (<I>r</I>). These will be denoted as the <I>D</I> locus with 
+alleles + and <I>D</I> and as the <I>r</I> locus with alleles + and <I>r</I>. The <I>a</I>, <I>D</I>, and <I>r</I> loci are distinct and 
+may be linked or not. The <I>D</I> and <I>r</I> loci are called loci of interest in any system of breeding for control of a segregating locus.
+
+<P>From three genotypes, such as +/+, <I>a</I>/+, <I>a</I>/<I>a</I> at a locus with two alleles, there will be nine mating types, which may be 
+grouped into four kinds:
+
+<OL>
+<LI>Matings of like homozygotes, +/+ x +/+ and <I>a</I>/<I>a</I>, called <I>incrosses</I></LI>
+<LI>Matings of unlike homozygotes +/+ x <I>a</I>/<I>a</I> and <I>a</I>/<I>a</I> x +/+, called <I>crosses</I></LI>
+<LI>Matings of a homozygote and a heterozygote, +/+ x <I>a</I>/<I>a</I>, <I>a</I>/+ x +/+, <I>a</I>/+ x <I>a</I>/<I>a</I>, and 
+<I>a</I>/<I>a</I> x <I>a</I>/+, called <I>backcrosses</I></LI>
+<LI>Matings of heterozygotes, <I>a</I>/+ x <I>a</I>/+ called <I>intercrosses</I></LI>
+</OL>
+
+<P>The theoretical consequences of any breeding system are easily displayed in terms of the probability or frequency of heterozygotes, 
+denoted by <I>h</I>, that is, P(<I>a</I>/+) = <I>h</I>, and of the probability of incrosses, denoted by <I>p</I>, that is, P(+/+ x +/+ or 
+<I>a</I>/<I>a</I> x  <I>a</I>/<I>a</I>) = <I>p</I>. The probability of incrosses (<I>p</I>) may increase in a given system of mating 
+only at the expense of the crosses, backcrosses, and intercrosses. The magnitude of <I>p</I> therefore reveals the expected proportion 
+of matings of like homozygotes, and 1-<I>p</I> gives the probabilities of matings of other types.
+
+<P>As <I>h</I> decreases, the probability of homozygotes (1 - <I>h</I>) increases. If these probabilities are interpreted as referring 
+to all loci, we may say that the probability of homozygosity is 1 - <I>h</I>. In the limit when <I>h</I> = 0, the strain may be said to be 
+<I>isogenic</I>. In practice the term isogenic is used to mean homozygous at nearly all loci as well as homozygous at all loci. If two 
+animals or two groups of animals are isogenic (or nearly so) at all loci except one or two at which they are known to be different, 
+either by being opposite homozygotes (+/+ vs. <I>a</I>/<I>a</I>) or by one being homozygous (+/+ or <I>a</I>/<I>a</I>) and the other 
+being heterozygous (<I>a</I>/+), the two animals or groups are called <I>coisogenic</I> (
+<A HREF="#ref2-9">Chovnik and Fox, 1953</A>). If a new mutation arises in and is propagated within an already inbred strain, the mutant and 
+non-mutant mice are called coisogenic. To avoid the risk of a false claim inherent in the use of <I>coisogenic</I> when in fact <I>h</I> 
+is not zero, Loosli <I>et al.</I> (
+<A HREF="#ref2-31">1961</A>) proposed the term <I>congenic</I>. This term is especially useful when referring to stocks produced by repeated 
+crossing of mutant-bearing animals to animals of inbred strains.
+
+<P>Methods of analyzing breeding systems not given here are amply described in several books and papers. The method of <I>path analysis</I>, 
+invented by Sewell Wright, is the most versatile general method of analyzing regular and irregular breeding systems (Wright, 
+<A HREF="#ref2-45">1921<I>a</I></A>, 
+<A HREF="#ref2-46">1921<I>b</I></A>, 
+<A HREF="#ref2-48">1934</A>, 
+<A HREF="#ref2-49">1954</A>, 
+<A HREF="#ref2-50">1963</A>). The <I>generation matrix</I> method, first used by Bartlett and Haldane (
+<A HREF="#ref2-2">1935</A>), is useful in analyzing regular breeding systems and was adopted by Fisher (
+<A HREF="#ref2-15">1949</A>) in an extensive general analysis of inbreeding. The introduction of concepts of probability 
+to the analysis of breeding systems is largely due to Mal&#233;cot (
+<A HREF="#ref2-34">1948</A>). An exposition of the methods and results of the analysis of some regular breeding systems useful 
+with laboratory mice will be found in Green and Doolittle (
+<A HREF="#ref2-18">1963</A>).
+
+<P>In the following sections of this chapter are descriptions of random breeding, avoidance of inbreeding, brother-sister inbreeding, 
+other types of inbreeding, strain crossing, breeding systems for putting mutant genes on standard inbred backgrounds and for decomposing 
+complex genotypes, and inbreeding with forced heterozygosis. Special breeding systems using linked markers are described in 
+<A HREF="chapter8.shtml">Chapter 8</A>. The construction and maintenance of linkage testing stocks are described by Carter and Falconer (
+<A HREF="#ref2-7">1951</A>).
+
+<CENTER>
+<P><B>RANDOM BREEDING</B>
+</CENTER>
+
+<P>Random breeding is easy to define, but difficult to achieve. In principle, random breeding requires that the product rule of 
+probability be satisfied. This means that the chance of choosing any one male out of <I>m</I> males must be 1/<I>m</I> and of 
+choosing any one female out of <I>f</I> females be 1/<I>f</I> and that the chance of mating any two specific mice be 1/<I>mf</I>. 
+Tables of random sampling numbers or other equivalent randomizing devices must be used to unsure random choices and random 
+matings. Indiscriminate or nonsystematic ways of making up matings are likely to permit unknown biases to occur in the choices of mates.
+
+<P>The effect of random breeding on the genetic structure of a stock of mice has to be considered separately for theoretical and actual populations.
+
+<P>In theoretical or large populations, random breeding will preserve the gene and genotype frequencies generation after generation. 
+Discrete traits usually determined by one or a few pairs of genes will be retained at stable frequencies in the population, assuming 
+there is no selection and no mutation. The means and variances of continuous or metrical traits will likewise remain constant, under 
+the same assumptions, provided the nongenetic components of variances do not change. These assertions about stability of gene frequencies, 
+genotype frequencies, means, and variances follow from the Hardy-Weinberg principle (
+<A HREF="#ref2-30">Li, 1955</A>).
+
+<P>In actual populations of small size the expected results of a random breeding system will be slightly different. First, the effective 
+breeding number (<I>N</I>) will determine the rate of random fixation or loss of alleles at each locus, the rate being approximately equal to &#189;<I>N</I> (
+<A HREF="#ref2-47">Wright, 1931</A>). Random breeding in populations of finite size will lead to homozygosity (fixation and loss of alleles), 
+slowly if <I>N</I> is large, rapidly if <I>N</I> is small. The proportion of discrete traits will change to higher or lower values, 
+ultimately to all or none, and the means of continuous traits will increase or decrease. The genetic variance will stochastically 
+decrease to zero. These changes arising from the finite size of the population have been variously called the "inbreeding effect," 
+"random drift," "genetic drift," and the "Sewall Wright effect." Second, it is impossible to raise populations of mice in the laboratory 
+in the absence of selection, mutation, and varying nongenetic or environmental causes of variation. Selection may favor one allele or 
+one set of nonalleles, or one or more genotypes, or one or more phenotypes at the expense of all the other alleles, genotypes, and 
+phenotypes. Mutation may be either "forward" or "reverse." Nongenetic sources of variation may not act uniformly on all genotypes. 
+The consequences of all these forces interacting in the population may impair attempts to preserve the gene and genotype frequencies 
+of a population by random breeding. Nonetheless, the experimenter who wishes to maintain the genetic variability of a population has 
+no recourse but to carry out a random breeding system in as large a population as feasible and to try to minimize the effects of 
+selection and of nongenetic causes of variation. There is nothing he can do about natural mutations.
+
+<CENTER>
+<P><B>AVOIDANCE OF INBREEDING</B>
+</CENTER>
+
+<P>As indicated in the preceding section, random breeding in populations of finite size results in some loss of heterozygosity. 
+Certain systems of breeding minimize the loss of heterozygosity even in finite populations. Wright (
+<A HREF="#ref2-45">1921<I>a</I></A>) showed that regular matings of double first cousins, quadruple second cousins, and octuple third 
+cousins preserve any existing heterozygosity better than random matings in finite populations. Other systems have since been 
+devised that are superior to the regular cousin-mating systems in preserving heterozygosity in later generations, even though 
+the loss of heterozygosity may be greater in early generations. These new systems, called circular, circular pair, and circular 
+subpopulation mating systems, are described and analyzed by Kimura and Crow (
+<A HREF="#ref2-27">1963</A>) and Robertson (
+<A HREF="#ref2-37">1964</A>).
+
+<CENTER>
+<P><B>BROTHER-SISTER INBREEDING</B>
+</CENTER>
+
+<P>The system of brother-sister inbreeding is by far the easiest from the standpoint of the investigator. He needs merely to 
+put a male and one of his sisters, usually from the same litter, in a breeding pen. The record-keeping is minimal (
+<A HREF="chapter3.shtml">Chapter 3</A>). Repeating this act, generation after generation, will produce an inbred strain of mice. Meanwhile, 
+mice with certain characteristics of interest may be selected in order to fix the character or characters, if possible, within 
+the line, along with the inevitable selection for viability, fertility, and fecundity. The only major difficulty is that mice, 
+like other naturally outbreeding species, exhibit inbreeding depression, that is, loss of reproductive fitness as inbreeding 
+progresses. Astute selection for the more vigorous mice in each generation may enable the line to escape reproductive failure, 
+the most severe consequence of inbreeding.
+
+<P>From the large number of strains of mice, successfully propagated for more than 20 generations and some for more than 100 
+generations of brother-sister inbreeding, one may gain the impression that mice accept inbreeding easily. Two observations 
+deny this. First, many attempts to inbreed mice have failed. Although the number of failures has never been recorded, it 
+probably exceeds the number of successes about fivefold. Second, crosses between unrelated inbred strains of mice characteristically 
+produce vigorous, healthy progeny which in turn give birth to and rear large families. Hybrid vigor is the opposite of inbreeding 
+depression and can be manifested only if some degree of depression has already occurred.
+
+<P>A strain of mice is called an "inbred strain" when there have been 20 or more consecutive generations of brother-sister 
+matings or 20 or more consecutive generations of parent-offspring matings, provided the offspring was mated to the younger parent (
+<A HREF="#ref2-43">Staats, 1964</A>). For convenience, strains with fewer generations of inbreeding are said to be "partially inbred" 
+or "on the way to being inbred." It is necessary to understand that this definition of an inbred strain of mice is in no way 
+inconsistent with the more general concept of inbreeding as matings between individuals related by descent more 
+frequently than expected by the product principle of probability.
+
+<P>A word of caution is necessary. When inbred mice are used in terminal experiments, it is often necessary to make up the 
+experimental groups by pooling mice from several different litters, usually of about the same age and therefore born of 
+different parents. The parents of such litters should themselves be closely related through a recent common pair of ancestors. 
+If the common ancestors were in, say, the 30th generation and the mice to be used in the experiment are in the 33rd to 38th 
+generation, they may confidently be expected to be genetically similar. They may not be genetically identical for there is 
+no way of arresting the evolutionary forces that create genetic diversity. On the other hand, if the common ancestors were 
+in the second generation and the mice to be used in the experiment are in the 33rd generation, one should not be surprised 
+to find phenotypic diversity due to genetic diversity in the group as a whole, even though each individual litter 
+satisfies the operational definition of an inbred strain.
+
+<P>The genetic consequences of brother-sister inbreeding are easily seen from the probability of heterozygosity (<I>h</I>) 
+and the probability of incrosses (<I>p</I>) at specified generations with respect to any neutral locus, the <I>a</I> locus, 
+whose heterozygosity is in question. In the case of starting to inbreed following a cross (<I>a</I>/<I>a</I> x +/+), <I>h</I> 
+approaches zero so that at 20 generations only about 1 per cent of neutral loci like <I>a</I> are expected to be heterozygous. 
+Meanwhile <I>p</I> approaches unity so that 98 per cent of the matings are expected to be incrosses (
+<a href="javascript:windowt21 = window.open('../tables/table2-1.shtml', 'windowt21', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt21.focus()">Table 2-1</A>).
+
+<P>At the same time that all neutral or unselected loci are being driven to homozygosity by brother-sister inbreeding, one 
+or more loci may deliberately be forced to remain heterozygous by matings such as <I>D</I>/+ x +/+ or <I>D</I>/+ x <I>D</I>/+, 
+and <I>r</I>/+ x <I>r</I>/<I>r</I> or <I>r</I>/+ x <I>r</I>/+. Brother-sister inbreeding with forced 
+heterozygosis is described in a later section of this chapter.
+
+<CENTER>
+<P><B>OTHER SYSTEMS OF INBREEDING</B>
+</CENTER>
+
+<P>Systems of inbreeding, other than brother-sister, may sometimes be necessary. A sequence of mating offspring to the 
+younger parent is genetically equivalent to brother-sister mating.
+
+<P>Any system of breeding within a closed colony will inevitably produce increases in the probability of homozygosity and 
+of incrosses, the rates of increase being dependent upon the size of the colony and the specific system of breeding.
+
+<P>Pen breeding is a system of mating a number of males, usually one, with a number of females, usually two or more, of 
+rearing all the progeny together in a single pen, and of making no distinction among the progeny when mates are chosen 
+to produce the next generation. The mated mice may thus be related as brother and sisters, as brother and half-sisters, 
+or, if there were two or more males, as cousins of some degree. (It is usually not practical to put more than one male 
+mouse in a pen with females because of fighting between males leading to emasculation or death.) If pen breeding starts 
+with mice from an inbred strain, the genetic uniformity already achieved will not only be retained but improved upon. 
+If it starts with noninbred stock, genetic uniformity will be approached less rapidly than under brother-sister 
+inbreeding. At worst, when a large number of females are mated with a single male in each generation, the rate of 
+approach to homozygosity is still more than half the rate of approach under brother-sister inbreeding.
+
+<P>If it is not practical to use a regular system of inbreeding such as brother-sister, parent-offspring, or a fixed 
+number of mates for pen breeding, it is still possible to estimate the probability of homozygosity at the <I>a</I> 
+locus by computing the inbreeding coefficient, <I>F</I> (
+<A HREF="#ref2-47">Wright, 1931</A>; 
+<A HREF="#ref2-34">Mal&#233;cot, 1948</A>; 
+<A HREF="#ref2-12">Emik and Terrill, 1949</A>; 
+<A HREF="#ref2-10">Cruden, 1949</A>). <I>F</I> may be interpreted as a probability of homozygosity at any locus.
+
+<P>One further type of mice may be produced by matings of mice within an inbred strain, although the males and females 
+are not necessarily related as brother and sister. The progeny of such matings are called "inbred-derived" to distinguish 
+them from inbred mice. Obviously the mated mice should have recent common ancestors within an inbred line if the genetic 
+variance is to be kept low. In terminal experiments requiring large numbers of mice from a single strain, inbred-derived 
+mice may be superior to inbred mice. Any genetic heterogeneity within an inbred strain will be more uniformly spread over 
+the inbred-derived progeny and so their use will help to avoid accidental differences between experimental 
+groups traceable to genetic heterogeneity.
+
+<CENTER>
+<P><B>STRAIN CROSSES</B>
+</CENTER>
+
+<P>Crosses between inbred strains of mice may serve any one of six purposes:
+
+<OL>
+<LI>To produce uniform F<SUB>1</SUB> hybrids for use in terminal experiments</LI>
+<LI>To produce F<SUB>1</SUB>, F<SUB>2</SUB>, B<SUB>1</SUB>, B<SUB>2</SUB>, and other generations to analyze the 
+genetic basis of a variable trait, either discrete or continuous</LI>
+<LI>To produce 2-way, 3-way, 4-way, etc., crossbred populations to be used as the starting point for genetic selection experiments</LI>
+<LI>To produce all possible F<SUB>1</SUB> generations (diallel crosses) between several inbred strains to reveal the 
+nature of a multiple factor genetic system determining variations in a continuous trait or to estimate general and specific combining abilities</LI>
+<LI>To transfer a mutant gene from one genetic background to another</LI>
+<LI>To decompose a complex genotype into its single-locus constituents and thus lead to the discovery and identification of new genes</LI>
+</OL>
+
+<P>The first four of these purposes are briefly described in the following subsections. The last two, because of 
+their special usefulness in experiments with mice, are described in the next two sections. See 
+<A HREF="chapter9.shtml">Chapter 9</A> for more discussion of the third and fourth purposes.
+
+<P><B>F<SUB>1</SUB> Hybrids</B>
+
+<P>F<SUB>1</SUB> hybrids produced by crosses of two inbred strains of mice are usually decidedly more hardy than mice 
+of the inbred strains. They grow faster, survive to maturity in greater proportions, live longer, and in turn reproduce 
+earlier and more abundantly. Hybrid litters are usually, but not always, larger than inbred litters (
+<A HREF="#ref2-16">Forsthoefel, 1954</A>; 
+<A HREF="#ref2-6">Butler, 1958</A>; 
+<A HREF="#ref2-17">Franks <I>et al.</I>, 1962</A>, 
+<A HREF="#ref2-36">McCarthy, 1965</A>). Hybrid mice will usually accept grafts of tumors, ovaries, skin and other tissues from either 
+parental strain. In some traits F<SUB>1</SUB> hybrids may be less variable than mice of inbred strains (
+<A HREF="#ref2-51">Yoon, 1955</A>).
+
+<P>F<SUB>1</SUB> hybrids will be heterogeneous at all loci for which the inbred strains are homozygous for different alleles. 
+But if the inbred strains are isogenic or nearly so, the F<SUB>1</SUB> hybrids will be uniformly heterozygous or nearly so 
+and thus be as genetically uniform as the mice of the inbred strains. Therefore F<SUB>1</SUB> hybrids are especially valuable 
+in terminal experiments when genetic and phenotypic uniformity are requisites, but are useless for propagating their kind.
+
+<P><B>Crosses between two strains</B>
+
+<P>One may cross two inbred strains of mice to analyze the genetic basis of any trait for which the strains are different. The basic steps are 
+the same irrespective of whether the trait is discrete or continuous, but the methods of analysis of the data are decidedly different.
+
+<P>The basic steps are to cross the strains, denoted as P<SUB>1</SUB> and P<SUB>2</SUB>, reciprocally if possible, to produce 
+one or two first hybrid or F<SUB>1</SUB> generations. Then the F<SUB>1</SUB> mice are mated among themselves (intercrossed) to 
+produce a second hybrid or F<SUB>2</SUB> generation and are also backcrossed to the parental strains to produce two first-generation 
+backcross generations, B<SUB>1</SUB> and B<SUB>2</SUB>. The matings may stop at this point, but it is usually desirable to produce some 
+additional generations. The choice of which ones to produce depends upon whether the trait is discrete or continuous and upon 
+the results obtained in the hybrid and backcross generations.
+
+<P>If the trait is discrete and appears in sharply alternative states, such as "all" vs. "none," "black" vs. "brown," or "high" vs. 
+"low" in the parental strains, and if, further, a small number of discretely distinguishable types appear in Mendelian proportions 
+in the segregating generations (F<SUB>2</SUB>, B<SUB>1</SUB>, B<SUB>2</SUB>, etc.), one may infer that one or two or three pairs of 
+genes distinguish the two parental strains with respect to the strain in question. It is rarely possible to discern the discrete 
+effects of more than three pairs of alleles. There may be any degree of interaction between alleles (dominance) and any degree of 
+interaction between nonalleles (epistasis). Even if the results suggest only one pair of alleles with dominance, it is desirable and 
+sometimes of crucial importance to perform either of two breeding tests.
+
+<P>One test is to ascertain that the F<SUB>2</SUB> mice with the dominant phenotype are in fact of two types, homozygous and heterozygous, 
+and that the two types have occurred in the expected frequencies of 1/3 and 2/3. This may be done by mating the F<SUB>2</SUB> mice with 
+dominant phenotypes to any recessive mice. The other test requires mating B<SUB>2</SUB> mice with the dominant phenotype to the supposed 
+recessive mice to produce a second backcross B<SUB>22</SUB> in which the two types should again occur in equal frequencies. Yet another 
+backcross of B<SUB>22</SUB> mice with the dominant phenotype to the supposed recessive mice should be performed in doubtful cases to 
+ascertain that the dominant phenotypes in the B<SUB>2</SUB> and B<SUB>22</SUB> are in fact all heterozygotes.
+
+<P>Examples of breeding experiments of the sort described abound in the literature. Experiments with 
+clear-cut results were reported by Shreffler and Owen (
+<A HREF="#ref2-40">1963</A>), Russell and Coleman (
+<A HREF="#ref2-39">1963</A>) and Ruddle and Roderick (
+<A HREF="#ref2-38">1965</A>).
+
+<P>If the trait is continuous, there should be at least a significant separation of the means of the parental strains to make a breeding 
+experiment worthwhile. The mice of the P<SUB>1</SUB>, P<SUB>2</SUB>, F<SUB>1</SUB>, F<SUB>2</SUB>, B<SUB>1</SUB>, B<SUB>2</SUB>, 
+and other such generations as B<SUB>11</SUB>, B<SUB>12</SUB>, B<SUB>21</SUB>, and B<SUB>22</SUB> are individually measured for 
+the trait. The data may then yield estimates of the amount of additive genetic variance, dominance variance, epistatic variance, and 
+the number of segregating loci. The methods of analysis are set forth in Mather's (
+<A HREF="#ref2-35">1949</A>) book and elsewhere. Honeyman (
+<A HREF="#ref2-22">1957</A>) used these methods for analyzing a nutritional difference between two strains of mice. Bruell (
+<A HREF="#ref2-5">1962</A>) has given an exposition of the method of analysis and has analyzed the genetics of spontaneous 
+activity and of exploratory behavior of two strains of mice.
+
+<P><B>Crossbred populations</B>
+
+<P>The motive for crossing inbred strains of mice may be to produce a high degree of genetic heterogeneity within a population to serve 
+as the starting point for a selection experiment. If strains are designated as A, B, C, ..., one may start with the progeny of a 2-way 
+cross of A x B, or a 3-way cross of (A x B) x C where females of the F<SUB>1</SUB> of A x B are chosen to mate with males of C in 
+order to take advantage of the extra vigor, if any, of the F<SUB>1</SUB> hybrids. Or 4-way, 6-way, or 8-way crosses may be constructed.
+
+<P><B>Diallel crosses</B>
+
+<P>A diallel cross is the set of all possible matings between several genotypes, defined as individuals, lines, or inbred strains. If 
+there are <I>n</I> genotypes there are <I>n<SUP>2</SUP></I> mating combinations, counting all inbred, crossbred, and reciprocal matings. 
+The results of a diallel cross may be set forth in a diallel table of <I>n<SUP>2</SUP></I> measurements corresponding to the 
+<I>n<SUP>2</SUP></I> mating combinations (
+<A HREF="#ref2-20">Hayman, 1954</A>). A diallel table may, therefore, be constructed from all first generation data (inbreds and F<SUB>1</SUB>'s) 
+or from all second generation data (inbred and F<SUB>2</SUB>'s or inbreds and backcrosses) for one sex or for both sexes.
+
+<P>The type of analysis of a diallel table will depend in part on the experimenter's objectives. He may be interested in an analysis 
+that yields estimates of the additive genetic variance, the dominance variance (allelic interactions), the epistatic variance (nonallelic 
+interactions), and the environmental variance. Or he may be interested in judging the specific and general combining ability of each 
+strain. Or his interest may lie in maternal effects or differences between reciprocal hybrids. The data from the F<SUB>1</SUB> 
+generations and the parental strains may yield all the requisite information. Thus the diallel crossing system has an advantage of 
+simplicity of execution since segregating generations will not be required except for the most exhaustive analyses.
+
+<P>The literature on diallel crosses has grown enormously. For discussion of the method and of the interpretation of results, se Allard (
+<A HREF="#ref2-1">1956</A>), Griffing (
+<A HREF="#ref2-19">1956</A> and earlier), Jinks (
+<A HREF="#ref2-23">1956</A> and earlier), Dickinson and Jinks (
+<A HREF="#ref2-11">1956</A>), Kempthorne (
+<A HREF="#ref2-24">1956</A>), Hayman (
+<A HREF="#ref2-21">1960</A> and earlier), Broadhurst (
+<A HREF="#ref2-4">1960</A>), Kempthorne and Curnow (
+<A HREF="#ref2-26">1961</A>), Falconer and Bloom (
+<A HREF="#ref2-14">1962</A>), Wearden (
+<A HREF="#ref2-44">1964</A>), and Bloom and Falconer (
+<A HREF="#ref2-3">1964</A>).
+
+<CENTER>
+<P><B>TRANSFERRING A MUTATION TO AN INBRED BACKGROUND</B>
+</CENTER>
+
+<P>The purpose of transferring a mutation to the genetic background of an inbred strain of mice is to permit comparisons of the effects of 
+the mutant and nonmutant alleles with the greatest possible precision, that is, as free as possible from the effects of variability due 
+to other unidentified loci. This may be regarded as comparing the results of different doses (0, 1,2) of the mutant gene in the nonmutant 
+homozygote, the heterozygote, and the mutant homozygote. Further, the relative quantitative effects of different mutations may be 
+ascertained only by comparing them against otherwise uniform genetic backgrounds. For this purpose one of the standard inbred strains, 
+such as C57BL/6J, provides the requisite background.
+
+Three breeding systems have passed into general use for this purpose (
+<A HREF="#ref2-18">Green and Doolittle, 1963</A>). The <I>backcross</I> system is most useful if the mutant is a dominant, but may be used if the 
+mutant is a recessive, particularly if the recessive homozygote is inviable or infertile. The <I>cross-intercross</I> and the 
+<I>cross-backcross-intercross</I> systems are useful if the mutation is a recessive. Other breeding and manipulative techniques 
+for maintaining special genetic stocks are described in 
+<A HREF="chapter8.shtml">Chapter 8</A> and by Lyon (
+<A HREF="#ref2-33">1963</A>).
+
+<P><B>Backcross system</B>
+
+<P>Mice bearing a dominant mutation of interest, either as heterozygotes (<I>D</I>/+) or, if viable, as homozygotes (<I>D</I>/<I>D</I>), 
+are mated with mice of an inbred strain which are +/+ at the <I>D</I> locus. The <I>D</I>/+ progeny are backcrossed to +/+ mice from the 
+inbred strain, following which the <I>D</I>/+ progeny in the next generation are also backcrossed to +/+ mice from the inbred strain. 
+This sequence may be continued as long as desired.
+
+<P>The probability of incrosses with respect to the <I>a</I> locus in the <I>n</I>th generation following a mating in the zeroth generation of 
+<I>D</I>/+ x +/+ is <I>p<SUB>n</SUB></I> = 1 - (1 - <I>c</I>)<SUP>n - 1</SUP>, where <I>c</I> is the probability of crossing over between the <I>a</I> 
+and <I>D</I> loci. The probability of heterozygosity is <I>h<SUB>n</SUB></I> = (1 - <I>c</I>)<SUP>n - 1</SUP>. Values of <I>p<SUB>n</SUB></I> 
+and <I>h<SUB>n</SUB></I> in generation <I>n</I> for selected values of <I>c</I> are shown in 
+<a href="javascript:windowt22 = window.open('../tables/table2-2.shtml', 'windowt22', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt22.focus()">Table 2-2</A>. 
+In eight generations <I>p</I> exceeds 99 per cent if <I>c</I> is near 50 per cent, but 45 generations will be required 
+for <I>p</I> to exceed 99 per cent if <I>c</I> is near 10 per cent.
+
+<P>After seven or eight generations of backcrossing, nearly all the alleles not closely linked with <I>D</I> will have been replaced by alleles 
+from the inbred strain. At this point it may be desirable to cease backcrossing to the inbred strain and to continue with brother-sister matings 
+of the types <I>D</I>/+ x <I>D</I>/+ or <I>D</I>/+ x +/+. Sib matings of these sorts will allow variable loci linked to the <I>D</I> locus to 
+become homozygous faster than will continued backcrossing to the inbred strain (see below). Further, if <I>D</I>/<I>D</I> is viable, a few 
+generations of intercrossing following seven or eight generations of backcrossing will allow all three genotypes to be examined against a 
+relatively uniform background. As a practical matter, therefore, seven or eight generations of backcrossing to an inbred strain followed by 
+10 or 12 generations of backcrossing or intercrossing sibs will usually be adequate for producing genetically similar mice.
+
+<P>The backcross system may also be used if the mutation of interest is recessive. Heterozygotes (<I>r</I>/+) are mated with homozygous mice 
+(+/+) of an inbred strain and the heterozygous progeny are again mated to +/+ mice of the inbred strain. Backcrossing in this way may continue 
+as long as desired. If the heterozygotes (<I>r</I>/+) and the homozygotes (+/+) produced in each backcross generation are indistinguishable, 
+it will be necessary to identify the heterozygotes by a breeding test. This requires more time, but not more generations, to reach a given 
+probability of incrosses than backcrossing with a dominant. The use of heterozygotes will be obligatory when the recessive homozygotes 
+(<I>r</I>/<I>r</I>) are inviable or infertile.
+
+<P><B>Cross-intercross system</B>
+
+<P>Mice homozygous for a recessive mutation (<I>r</I>/<I>r</I>) are crossed with mice of an inbred strain which are +/+ at the <I>r</I> 
+locus. Their progeny (<I>r</I>/+) are intercrossed to recover the recessive homozygotes (<I>r</I>/<I>r</I>) which are used to start another 
+cycle of crossing and intercrossing. The number of such cycles, with two generations of matings per cycle, may be made as large as desired.
+
+<P>The probabilities of intercrosses (<I>p<SUB>m</SUB></I>) and of heterozygotes (<I>H<SUB>m</SUB></I>) at the <I>a</I> locus after <I>m</I> 
+cycles of the cross-intercross system are shown in 
+<a href="javascript:windowt23 = window.open('../tables/table2-3.shtml', 'windowt23', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt23.focus()">Table 2-3</A> 
+for selected values of <I>c</I>. Eight cycles or 16 generations 
+will raise the probability of incrosses above 99 per cent if there is loose linkage, but 46 cycles will be required to raise it to 99 per 
+cent if there is close linkage (c = 10 per cent).
+
+<P><B>Cross-backcross-intercross system</B>
+
+<P>This system starts the same as the cross-intercross system by matings of recessive homozygotes with mice of an inbred strain which 
+is +/+ at the <I>r</I> locus. All the progeny (<I>r</I>/+) are backcrossed to mice of the inbred strain, thus producing two indistinguishable 
+kinds of mice (<I>r</I>/+ and +/+) expected in equal proportions. Among these backcross progeny 12 or more matings should be made up to 
+insure recovery of the homozygotes (<I>r</I>/<I>r</I>). The homozygotes are then crossed with mice of the inbred strain and a new cycle 
+of three generations &#151; cross, backcross, and intercross &#151; is thereby started. The sequence may go on for as many 
+cycles or generations as desired.
+
+<P>The question of how many intercross matings to make up may be treated as follows. The Mendelian probability of a heterozygote in 
+the backcross is &#189; and the probability of a mating between two heterozygotes, a "right" mating, is &#188;. Thus the probability of the 
+"wrong" type of mating is &#190;. If <I>k</I> matings are made up, the probability that all of them are "wrong" is (&#190;)<SUP><I>k</I></SUP>. 
+When <I>k</I> exceeds 11 this probability is less than 5 per cent and when it exceeds 17, the probability is less than 1 per cent. One 
+should plan therefore to set out about 12 intercrosses, with the understanding that the "right" intercross may be found among the first few attempts.
+
+<P>The chief advantage of this system appears when the recessive homozygotes (<I>r</I>/<I>r</I>) are not easily detectable, but rather 
+require expensive time-consuming tests. The tests are necessary only once in each three generations. This has to be weighed against the 
+extra expense and time of maintaining more breeding pens of mice.
+
+<P>The probabilities of incrosses (<I>p</I>) and of heterozygotes (<I>h</I>) after <I>m</I> cycles of three generation each are shown in 
+<a href="javascript:windowt24 = window.open('../tables/table2-4.shtml', 'windowt24', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt24.focus()">Table 2-4</A>. 
+Four cycles or 12 generations raise the probability of incrosses to about 99 per cent if there is loose linkage 
+or independence, but 23 cycles will be required to achieve the same probability if there is close linkage (<I>c</I> = 10 per cent).
+
+<CENTER>
+<P><B>ISOLATION OF GENES</B>
+</CENTER>
+
+<P>In the preceding section, three systems for transferring a mutant allele to an inbred background are described under the assumption 
+that a locus with a discrete effect has already been identified by the usual breeding tests. The same three systems of breeding may be 
+used to decompose a complex character into identifiable subunits and thus to isolate single pairs of genes affecting or controlling the 
+character of interest. Even though the breeding systems are identical, the terminology must be changed to avoid confusion. Thus instead 
+of referring to mutant and nonmutant mice, we refer to those with and those without the trait, or to those with high and those with low 
+levels of the trait. The point of the change in terminology is that one does not know, when attempting to decompose a trait into its 
+genetic units, how many loci are responsible for the alternate categories or levels of the trait in any given generation.
+
+<P>The breeding techniques for the isolation of single pairs of genes have been used most effectively by Snell (
+<A HREF="#ref2-42">1958</A> and earlier; 
+<A HREF="chapter24.shtml">Chapter 24</A>) to isolate histocompatibility loci. The histocompatibility reactions fulfill all of the desiderata for the 
+most successful use of the cross-intercross and cross-backcross-intercross breeding systems n uncovering and isolating the histocompatibility 
+loci: discrete all-or-none differences between inbred strains, reasonably small numbers of differential loci distinguishing any pair of strains, 
+and each mouse readily classifiable as having or not having the trait. It is not likely that other genetic systems of such analytic 
+beauty will readily be found in mice.
+
+<P>In the foregoing discussion I have assumed that the trait of interest exhibits discrete alternative. If the trait is continuous, 
+the same breeding procedure may be used, but the outcome is likely to be less clear cut because the environmental sources of variability 
+may blur the differences between alleles at a single locus. Nonetheless, Chai (
+<A HREF="#ref2-8">1961</A>) has reported some success in isolating genes affecting body size in mice.
+
+<P>One final word of caution is necessary. These breeding techniques do not actually isolate single loci, but do isolate successively 
+smaller and smaller bits of heterozygous chromosomes which carry at least one pair of alleles affecting the trait 
+of interest. See Haldane's appendix in Snell's (
+<A HREF="#ref2-41">1948</A>) paper.
+
+<CENTER>
+<P><B>INBREEDING WITH FORCED HETEROZYGOSIS</B>
+</CENTER>
+
+<P>Brother-sister inbreeding may be pursued while heterozygosity is forced upon a specific locus, either by backcrossing or by intercrossing. 
+All matings may be backcrosses, such as <I>r</I>/+ x <I>r</I>/<I>r</I>, if <I>r</I> is a viable recessive, or <I>D</I>/+ x +/+, if <I>d</I> 
+is a dominant or semidominant lethal; or they may be intercrosses, such as <I>r</I>/+ x <I>r</I>/+, if <I>r</I> is a recessive lethal or 
+<I>D</I>/+ x <I>D</I>/+, if <I>D</I> is a dominant or semidominant lethal.
+
+<P>Inbreeding with forced heterosis may be desirable if an inbred strain is not available, making it impossible to try to transfer a 
+mutant allele to the background of a standard inbred strain. Inbreeding with forced heterozygosis may be obligatory if the mutant is 
+incompatible with the genetic backgrounds of available standard inbred strains.
+
+<P>Loci not linked with <I>r</I> (or <I>D</I>) will become homozygous with the same probabilities as under brother-sister inbreeding. 
+Linked loci will become homozygous less rapidly, the rate depending upon the recombination probability <I>c</I>. Further, the probabilities 
+of heterozygosity at linked loci (<I>a</I>) differ in the homozygotes and heterozygotes of the locus of interest (<I>r</I> or <I>D</I>) (
+<A HREF="#ref2-2">Bartlett and Haldane, 1935</A>; 
+<A HREF="#ref2-18">Green and Doolittle, 1963</A>). The probability of incrosses (<I>p</I>) for selected values of <I>c</I> are shown in 
+<a href="javascript:windowt25 = window.open('../tables/table2-5.shtml', 'windowt25', 'width=500,height=700,resizable=yes,scrollbars=yes'); windowt25.focus()">Table 2-5</A>.
+
+<P>With the exception of intercrossing with a recessive, the systems of brother-sister inbreeding with forced heterozygosis have nearly 
+the simplicity of regular brother-sister inbreeding. Matings of the desired types (<I>r</I>/<I>r</I> x <I>r</I>/+, <I>D</I>/+ x +/+, or 
+<I>D</I>/+ x <I>D</I>/+) may usually be made up from littermates. The task of keeping a standard inbred strain on hand for the sole 
+purpose of putting a mutant gene on an inbred background is thus unnecessary.
+
+<P>Intercrossing with a recessive is somewhat bothersome. The desired matings are <I>r</I>/+ x <I>r</I>/+ and these must be selected from 
+a number of matings which are ?/+ x ?/+. This is so because the probability for <I>r</I>/+ among ?/+ progeny is 2/3 and the probability 
+of <I>r</I>/+ x <I>r</I>/+ is 4/9. Hence to reduce the probability of not getting the right mating to less than 1 per cent requires that 
+<I>k</I> be selected so that (5/9)<SUP><I>k</I></SUP> &#060; 0.01.
+
+<P>From Tables 
+<a href="javascript:windowt22 = window.open('../tables/table2-2.shtml', 'windowt22', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt22.focus()">2-2</A>, 
+<a href="javascript:windowt23 = window.open('../tables/table2-3.shtml', 'windowt23', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt23.focus()">2-3</A>, and 
+<a href="javascript:windowt24 = window.open('../tables/table2-4.shtml', 'windowt24', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt24.focus()">2-4</A> in comparison with 
+<a href="javascript:windowt25 = window.open('../tables/table2-5.shtml', 'windowt25', 'width=500,height=700,resizable=yes,scrollbars=yes'); windowt25.focus()">2-5</A>, 
+one may see that the backcross, cross-intercross, and cross-backcross-intercross systems require fewer generations 
+than the systems with forced heterozygosis to achieve a specified high probability of incrosses at the <I>a</I> locus when the <I>a</I> 
+locus is independent of or loosely linked with the <I>r</I> or <I>D</I> locus. When the <I>a</I> locus is closely linked with the 
+<I>r</I> or <I>D</I> locus, the relationship is reversed. This suggests that the two kinds o systems may be used effectively in sequence. 
+To produce a congenic line with segregation at the <I>D</I> locus, for instance, one may use the backcross system for seven or eight 
+generations to bring about a high percentage of incrosses at loci independent of or closely linked with the <I>D</I> locus and follow 
+this with 10 or 12 generations of brother-sister inbreeding with forced heterozygosis to increase the percentage of homozygosity at 
+loci closely linked with the <I>d</I> locus, while not only preserving the percentage of incrosses already achieved 
+but improving at the same time.
+
+<CENTER>
+<P><B>PROPAGATING MUTATIONS WITHOUT INBREEDING</B>
+</CENTER>
+
+<P>Some dominant mutations in mice depress viability and fertility so severely that they can neither be put on standard inbred backgrounds 
+nor inbred with forced heterozygosis. It is therefore necessary, just to preserve the mutation, to propagate it in heterogeneous mice. 
+This may be done either by deliberately avoiding inbreeding within a stock, by routinely backcrossing mutant-bearing mice to a vigorous 
+randombred or noninbred stock, or by routinely backcrossing mutant-bearing mice to vigorous F<SUB>1</SUB> hybrids between two standard inbred strains.
+
+<CENTER>
+<P><B>SUMMARY</B>
+</CENTER>
+
+<P>An experimenter may manipulate the genetic variability in mice by means of the inbreeding systems described in this chapter. Inbreeding 
+will reduce it, outcrossing will increase it, and random breeding will preserve it.
+
+<P>Brother-sister inbreeding has been useful in producing genetically uniform mice and has yielded a large number of inbred strains. Various 
+systems of mating for preserving heterozygosity at a specified locus have also come into general use. These produce mice which are as genetically 
+similar as possible except for the different genotypes at a controlled or segregating locus.
+
+<P>Strains may be crossed to analyze the genetic basis of discrete or of continuous traits. A classic Mendelian experiment with a discrete 
+trait requires the examination of parental, first- and second- generation hybrids, backcrosses, and sometimes other generations. Biometrical 
+techniques will be needed to analyze the genetic constitution of groups of strains differing in quantitative characters. The breeding 
+techniques include selection and diallel crosses.
+
+<P>Mutant genes may be transferred to standard inbred backgrounds by the backcross, the cross-intercross, and the cross-backcross-intercross 
+systems of mating. The same systems may be used to decompose a complex trait into its genetic components and thus to isolate new alleles. 
+Inbreeding with forced heterozygosis may be advantageous when a mutant cannot, for some reason, be transferred to a standard inbred background.
+
+
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by the Aaron E. Norman Fund and by Contract AT(30-1)-1979 with the U.S. Atomic Energy Commission.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref2-1"></A>
+<P>Allard, R.W. 1956. 
+The analysis of genetic-environmental interactions by means of diallel crosses. 
+Genetics <B>41:</B> 305-318.
+<!-- 17247629 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247629" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-2"></A>
+<P>Bartlett, M.S., and J.B.S. Haldane. 1935. 
+The theory of inbreeding with forced heterozygosis. 
+J. Genet. <B>31:</B> 327-340.
+
+<A NAME="ref2-3"></A>
+<P>Bloom, J.L., and D.S. Falconer. 1964. 
+A gene with major effect on susceptibility to induced lung tumors in mice. 
+J. Nat. Cancer Inst. <B>33:</B> 607-618.
+<!-- MGI:61311 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref2-4"></A>
+<P>Broadhurst, P.L. 1960. 
+Analysis of a diallel cross, p. 71-102. 
+<I>In</I> H.J. Eysenck [ed.] <I>Experiments in Personality. Vol 1</I>. The Humanities Press, New York.
+
+<A NAME="ref2-5"></A>
+<P>Bruell, J.H. 1962. 
+Dominance and segregation in the inheritance of quantitative behavior in mice, p. 48-67. 
+<I>In</I> E.L. Bliss [ed.] <I>Roots of Behavior</I>. Hoeber, New York.
+
+<A NAME="ref2-6"></A>
+<P>Butler, L. 1958. 
+The inheritance of litter size, body weight, and variability, in a cross between two inbred strains of mice. 
+Can. J. Zool. <B>36:</B> 969-983.
+
+<A NAME="ref2-7"></A>
+<P>Carter, T.C., and D.S. Falconer. 1951. 
+Stocks for detecting linkage in the mouse, and the theory of their design.
+J. Genet. <B>50:</B> 307-323.
+
+<A NAME="ref2-8"></A>
+<P>Chai, C.K. 1961. Analysis of quantitative inheritance of body size in mice. IV. An attempt to isolate polygenes. 
+Genet. Res. <B>2:</B> 25-32.
+<!-- MGI:50930 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref2-9"></A>
+<P>Chovnick, A. and A.S. Fox 1953. 
+Immunogenetic studies of pseudoallelism in <I>Drosophila melanogaster</I>. I. Antigenic effects of the lozenge pseudoalleles. 
+Proc. Nat. Acad. Sci. <B>39:</B> 1035-1043.
+<!-- 16589370 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16589370" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-10"></A>
+<P>Cruden, D. 1949. 
+The computation of inbreeding coefficients for closed populations. 
+J. Hered. <B>40:</B> 248-251.
+
+<A NAME="ref2-11"></A>
+<P>Dickinson, A.G., and J.L. Jinks. 1956. 
+A generalized analysis of diallel crosses. 
+Genetics <B>41:</B> 65-78.
+<!-- 17247613 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247613" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-12"></A>
+<P>Emik, L.O., and C.E. Terrill. 1949. 
+Systematic procedures for calculating inbreeding coefficients.
+J. Hered. <B>40:</B> 51-55.
+
+<A NAME="ref2-13"></A>
+<P>Falconer, D.S. 1960.
+<I>Introduction to Quantitative Genetics</I>. 
+Ronald Press, New York. 365 p.
+
+<A NAME="ref2-14"></A>
+<P>Falconer, D.S., and J. Bloom. 1962. 
+A genetic study of induced lung-tumours in mice. 
+Brit. J. Cancer <B>16:</B> 665-685.
+<!-- MGI:83211 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref2-15"></A>
+<P>Fisher, R.A. 1949. 
+<I>The Theory of Inbreeding</I>. Oliver and Boyd, Edinburgh. 120 p.
+
+<A NAME="ref2-16"></A>
+<P>Forsthoefel, P.F. 1954. 
+A study of the effect of heterozygosis on litter size in the mouse <I>Mus musculus</I>. 
+Ohio J. Sci. <B>54:</B> 135-141.
+
+<A NAME="ref2-17"></A>
+<P>Franks, E., N.S. Fechheimer, and C. Cohen. 1962.
+An examination of heterosis in crosses of certain inbred strains of mice. 
+Ohio J. Sci <B>62:</B> 177-184.
+
+<A NAME="ref2-18"></A>
+<P>Green, E.L., and D.P. Doolittle. 1963. 
+Theoretical consequences of systems of mating used in mammalian genetics, p. 3-41. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+<A NAME="ref2-19"></A>
+<P>Griffing, B. 1956. 
+A generalized treatment of the use of diallel crosses in quantitative inheritance. 
+Heredity <B>10:</B> 31-50.
+
+<A NAME="ref2-20"></A>
+<P>Hayman, B.I. 1954. 
+The theory and analysis of diallel crosses. 
+Genetics <B>39:</B> 789-809.
+<!-- 17247520 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247520" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-21"></A>
+<P>Hayman, B.I. 1960. 
+The theory and analysis of diallel crosses. III. 
+Genetics <B>45:</B> 155-172.
+<!-- 17247915 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247915" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-22"></A>
+<P>Honeyman, M.S. 1957. 
+A quantitative genetic study of a nutritional strain difference in mice. 
+J. Hered. <B>48:</B> 84-87.
+
+<A NAME="ref2-23"></A>
+<P>Jinks, J.L. 1956. 
+The F<SUB>2</SUB> and backcross generations from a set of diallel crosses. 
+Heredity <B>10:</B> 1-30.
+
+<A NAME="ref2-24"></A>
+<P>Kempthorne, O. 1956. The theory of the diallel cross. 
+Genetics <B>41:</B> 451-459.
+<!-- 17247640 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247640" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-25"></A>
+<P>Kempthorne, O. 1957. <I>An Introduction to Genetic Statistics</I>. Wiley, New York. 545 p.
+
+<A NAME="ref2-26"></A>
+<P>Kempthorne, O., and R. N. Curnow. 1961. 
+The partial diallel cross. 
+Biometrics <B>17:</B> 229-250.
+
+<A NAME="ref2-27"></A>
+<P>Kimura, M., and J. F. Crow. 1963. 
+On the maximum avoidance of inbreeding. Genet. Res. 
+<B>4:</B> 399-415.
+
+<A NAME="ref2-28"></A>
+<P>Lerner, I.M. 1950. 
+<I>Population Genetics and Animal Improvement</I>. 
+Cambridge Univ. Press, London. 342 p.
+
+<A NAME="ref2-29"></A>
+<P>Le Roy, H.L. 1960. 
+<I>Statische Methoden der Populationsgenetik</I>. 
+Birkh&#228;user Verlag, Basel und Stuttgart, 397 p.
+
+
+<A NAME="ref2-30"></A>
+<P>Li, C.C. 1955. 
+<I>Population Genetics</I>. 
+Univ. Chicago Press, Chicago. 366 p.
+
+
+<A NAME="ref2-31"></A>
+<P>Loosi, R., E.S. Russell, W.K. Silvers, and J.L. Southard. 1961. 
+Variability of incidence and clinical manifestation of mouse hereditary muscular dystrophy on heterogeneous genetic backgrounds. 
+Genetics <B>46:</B> 347-355.
+
+
+<A NAME="ref2-32"></A>
+<P>Lush, J.L. 1945. 
+<I>Animal Breeding Plans, 3rd ed</I>. 
+Iowa State College Press, Ames. 443 p.
+
+
+<A NAME="ref2-33"></A>
+<P>Lyon, M.F. 1963. 
+Genetics of the mouse, p. 199-234. 
+<I>In</I> W. Lane-Petter [ed.] <I>Animals for Research</I>. Academic Press, London and New York.
+
+
+<A NAME="ref2-34"></A>
+<P>Mal&#233;cot, G. 1948. 
+Les math&#233;matiques de l'h&#233;r&#233;dit&#233;. 
+Masson, Paris. 63 p.
+
+
+<A NAME="ref2-35"></A>
+<P>Mather, K. 1949. 
+<I>Biometrical Genetics</I>. 
+Dover, New York. 158 p.
+
+
+<A NAME="ref2-36"></A>
+<P>McCarthy, J.C. 1965. 
+The effect on litter size of crossing inbred strains of mice.
+Genetics <B>51:</B> 217-222.
+<!-- 14292150 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14292150" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-37"></A>
+<P>Robertson, A. 1964. 
+The effect of non-random mating within inbred lines on the rate of inbreeding. 
+Genet. Res. <B>5:</B> 164-167.
+
+
+<A NAME="ref2-38"></A>
+<P>Ruddle, F.H., and T.H. Roderick. 1965. 
+The genetic control of three kidney esterases in C57BL/6J and RF/J mice. 
+Genetics <B>51:</B> 445-454.
+<!-- 17248247 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248247" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-39"></A>
+<P>Russell, R.L., and D.L. Coleman 1963. 
+Genetic control of hepatic &#948;-aminolevulate dehydratase in mice. 
+Genetics <B>48:</B> 1033-1039.
+<!-- MGI:63121 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref2-40"></A>
+<P>Shreffler, D.C., and R.D. Owen. 1963. 
+A serologically detected variant in mouse serum: inheritance and association with the histocompatibility-2 locus. 
+Genetics <B>48:</B> 9-25.
+<!-- MGI:71536 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref2-41"></A>
+<P>Snell, G.D. 1948. 
+Methods for the study of histocompatibility genes. 
+J. Genet. <B>49:</B> 87-108.
+
+
+<A NAME="ref2-42"></A>
+<P>Snell, G.D. 1958. 
+Histocompatibility genes of the mouse. II. Production and analysis of isogenic resistant lines. 
+J. Nat. Cancer Inst. <B>21:</B> 843-877.
+<!-- MGI:48657 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78368" target="_blank">MGI</A></I>.
+
+<A NAME="ref2-43"></A>
+<P>Staats, J. 1964. 
+Standardized nomenclature for inbred strains of mice, Third listing. 
+Cancer Res. <B>24:</B> 147-168.
+<!-- 14117809 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14117809" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-44"></A>
+<P>Wearden, S. 1964. 
+Alternative analyses of the diallel cross. 
+Heredity <B>19:</B> 699-680.
+<!-- 14221021 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14221021" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-45"></A>
+<P>Wright, S. 1921<I>a</I>. Systems of mating. 
+Genetics <B>6:</B> 111-178.
+<!-- 17245958,17245959,17245960,17245961,17245962 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17245958,17245959,17245960,17245961,17245962" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-46"></A>
+<P>Wright, S. 1921<I>b</I>. 
+Correlation and causation. 
+J. Agr. Res. <B>20:</B> 557-585
+
+<A NAME="ref2-47"></A>
+<P>Wright, S. 1931. 
+Evolution in Mendelian populations. 
+Genetics <B>16:</B> 97-159.
+<!-- 17246615 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17246615" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref2-48"></A>
+<P>Wright, S. 1934. 
+The method of path coefficients. 
+Ann. Math. Statis. <B>5:</B> 161-215.
+
+<A NAME="ref2-49"></A>
+<P>Wright, S. 1954. 
+The interpretation of multivariate systems, p. 11-33. 
+<I>In</I> O. Kempthorne, T.A. Bancroft, J.W. Gowen, and J.L. Lush [ed.] <I>Statistics and Mathematics in Biology</I>. Iowa State College Press, Ames.
+
+<A NAME="ref2-50"></A>
+<P>Wright, S. 1963. 
+Discussion of paper by Green and Doolittle, p. 42-53. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+<A NAME="ref2-51"></A>
+<P>Yoon, C.H. 1955.
+Homeostasis associated with heterozygosity in the genetics of time of vaginal opening in the house mouse. 
+Genetics <B>40:</B> 297-309.
+<!-- 17247553 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247553" target="_blank">PubMed</A>.</I>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter1.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter3.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

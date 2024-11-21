@@ -1,0 +1,1315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 10 - Radiation Genetics</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, radiation genetics, chromosomes, mutation, sperm, spermatids, spermatocytes, breeding">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter9.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter11.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>10</H1>
+<H2><I>Radiation Genetics</I></H2>
+<H3>Earl L. Green and Thomas H. Roderick</H3>
+
+<P>The laboratory mouse has been and probably will continue to be the mammal of choice for experiments on the genetic effects of radiation. 
+This is so because the existing inbred strains, the stocks bearing named mutations, and the already known genetic linkage groups and chromosome 
+maps provide a desirable degree of experimental sophistication. In addition, the large numbers of mice required for mutation studies may be 
+reared in relatively small space with relatively little expense. More importantly, as mammals, mice may help to bridge the gap between 
+<I>Drosophila</I> and other small organisms, on the one hand, and human beings and other large organisms, on the other, in attempts to 
+predict the effects of high-energy radiation on genetic constitutions not amenable to direct experimental analysis.
+
+<P>The genetic effects of radiation are classifiable into three categories: the induction of mutations, the breakage of chromosomes, and the 
+effects of these changes on populations. We use the term "mutation" to mean any heritable change in the genetic constitution detectable by 
+breeding methods. The breakage of chromosomes by radiation and the related effects are discussed in 
+<A HREF="chapter7.shtml">Chapter 7</A>. The other two aspects are discussed in this chapter.
+
+<CENTER>
+<P><B>MUTATION RATES</B>
+</CENTER>
+
+<P>Little and Bagg (
+<A HREF="#ref10-29">1923</A>) pioneered in attempting to induce heritable changes in the germ plasm of the mouse. Although it is 
+believed that the variations they observed in the descendants of X-rayed mice may not have been induced by X-rays, still this study called 
+attention to the need for such investigations and to the use of laboratory animals for the purpose. Within a few years their work was 
+followed by studies by Hertwig and Snell and later by larger studies by Charles, Russell, Carter, Searle, Lyon, L&#252;ning, and 
+others. Falconer, Wright, Haldane, and Woolf, among others, have contributed important concepts of theory and method.
+
+<P>The most extensive investigations of radiation-induced mutations and mutation rates in mice have been carried out at the Oak Ridge National 
+Laboratory, Oak Ridge, Tennessee, and at the MRC Radiobiological Research Unit at Edinburgh, Scotland, and Harwell, England. W.L. Russell at 
+Oak Ridge and T.C. Carter at Edinburgh each started large-scale studies of mice exposed to radiation in 1947 with related but not identical 
+major objectives and with practically the same genetic techniques. A few years later, the mouse stocks at Edinburgh were transferred to 
+Harwell and in 1953 were supplemented by sublines from Oak Ridge to make the studies even more comparable. This section will be based 
+mostly on these two studies.
+
+<P>Russell (
+<A HREF="#ref10-42">1954</A>) has thoroughly reviewed the studies up to 1952. Since then several reviews of the rapidly expanding literature on 
+radiation mutagenesis of mice have appeared, including a later paper by Russell (
+<A HREF="#ref10-46">1963</A>), opening the way to the preceding papers. We will refer to a few specific experiments in this section. References 
+to studies not in the list of Literature Cited may be found in either the 1954 or 1963 papers of Russell.
+
+<P><B>Types of mutation</B>
+
+<P>Mutations may be classified with respect to type of cell (somatic vs. germinal), chromosomal location (autosomal vs. sex-linked), nature 
+of effect (dominant vs. recessive, visible vs. lethal), and size of effect (major vs. minor, oligogenic vs. polygenic). The studies reviewed 
+in this section deal predominantly with recessive autosomal visible mutations in spermatogonia because these are easier to detect than others 
+in large routine breeding experiments.
+
+<P><B>Cell stages</B>
+
+<P>Male mice, exposed to 300 R or more of high-energy radiation, are usually fertile for about 3 weeks and then enter a sterile period for 
+about 3 weeks and then enter a sterile period with lasts 4 weeks or more depending on the dose. Doses less than 300 R may depress fertility 
+without a clear-cut sterile period. After the sterile period the males remain fertile throughout the rest of their lives.
+
+<P>Matings in the presterile period make use of germ cells which were in postmeiotic stages (sperm, spermatids, spermatocytes) at the time 
+of irradiation. Matings after the sterile period make use of germ cells descended from irradiated spermatogonia. As found by Hertwig, the 
+types of genetic changes induced in the gonial stages are characteristically different from those in the postgonial stages. Irradiated sperm 
+tend to transmit dominant mutations, whereas irradiated gonia tend to transmit recessive mutations. By selecting the interval of time between 
+irradiation and copulation one may thus determine whether irradiation postmeiotic or premeiotic cells produce the sperm.
+
+<P>Young adult female mice exposed to 50 R or more of high-energy radiation may produce one, sometimes two, litters and thereafter may be 
+permanently sterile. Their ovaries contain a quite uniform population of oocytes, nearly all in a resting stage prior to the first meiotic 
+metaphase and a few about to be extruded as fertilizable ova without yet having completed the second meiotic division. As a consequence, it 
+is not possible to effect a clear-cut separation of germ cell stages in irradiated adult females. Females must be irradiated as fetuses to 
+expose oogonia.
+
+<P>The type of cell &#151; somatic or germinal &#151; in which a mutation occurs affects its detectability and, more importantly, one's 
+judgment about the seriousness of the consequences. In this section we are concerned chiefly with the problem of detecting and measuring 
+the frequency of mutations in germ cells exposed to high-energy radiation.
+
+<P><B>Breeding tests</B>
+
+<P>The objective of breeding tests of irradiated and control mice is to analyze the genetic constitution of single germ cells by examining 
+the zygotes they produce or of somatic cells by examining the cell clusters they produce. This may require one, two, or three generations 
+of breeding depending on the nature of the genetic change under investigation.
+
+<P>There are four breeding systems each with a large number of variants useful in radiation genetic experiments with mice. We propose that 
+the systems be called: parental outcross or P-cross, filial outcross or F<SUB>1</SUB>-cross, outcross-backcross or cross-backcross, and 
+outcross-intercross or cross-intercross. These are operational terms referring to what one does with the mice and not to what type of genetic 
+change he expects to find. Each of the systems may be used to detect several types of mutations.
+
+<P><B><I>P-cross method.</I></B> Each parental mouse, irradiated or control, to be tested for mutations is crossed to an unrelated mouse 
+and the progeny are scrutinized for phenotypic deviations or presumptive mutations (
+<a href="javascript:windowf1001 = window.open('../figures/figure10-1.shtml', 'windowf1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowf1001.focus()">Figure 10-1A</A>). 
+Each viable deviant should be tested by further matings to establish whether a mutation has occurred. The 
+P-cross method may be used to search for all types of dominant mutations &#151; autosomal or sex-linked, visible or lethal &#151; and, 
+with appropriate choices of the mates in the cross, for specified types of recessive mutations as well. The rationale may best be explained 
+by considering a few types of mutations. We shall denote alleles at a given locus as dominant <I>D</I>, recessive <I>r</I>, or wild type +, 
+and newly induced mutations as <I>D*</I> or <I>r*</I>.
+
+<P>If the mating type is +/+ x +/+ (autosomal) or +/+ x +/Y (sex-linked), the F<SUB>1</SUB> progeny will be +/+ or +/+ and +/Y, unless there 
+is a new mutation. Either sex may be irradiated. Dominant visible mutations are indicated by the occurrence of some progeny with the 
+<I>D</I>-phenotype. Since each F<SUB>1</SUB> mouse tests one treated or control gamete in combination with an untreated gamete, the relative 
+frequency of the <I>D</I>-phenotype in the treated group, corrected for the relative frequency of the <I>D</I>-phenotype in the control group, 
+is an estimate of the radiation-induced mutation rate at this one locus. If <I>n</I><SUB>1</SUB> and <I>n</I><SUB>2</SUB> are the numbers 
+of F<SUB>1</SUB> mice tested in the control and irradiated groups, respectively, and if <I>v</I><SUB>1</SUB> and <I>v</I><SUB>2</SUB> are 
+the numbers of mice with the <I>D</I>-phenotype in the respective groups, then <I>p</I><SUB>2</SUB> = <I>v</I><SUB>2</SUB>/<I>n</I><SUB>2</SUB> 
+is the relative frequency or fraction of mice with spontaneous (<I>D</I> and radiation-induced (<I>D*</I>) mutations in the irradiated group 
+and <I>p</I><SUB>1</SUB> = <I>v</I><SUB>1</SUB>/<I>n</I><SUB>1</SUB> is the fraction with spontaneous mutations (<I>D</I>) in the control 
+group. The ratio (<I>p</I><SUB>2</SUB> - <I>p</I><SUB>1</SUB>)/(1 - <I>p</I><SUB>1</SUB>) is an estimate of the radiation-induced rate of 
+mutation at the <I>D</I> locus. If <I>p</I><SUB>1</SUB> is very small, the difference (<I>p</I><SUB>2</SUB> - <I>p</I><SUB>1</SUB>) is a 
+sufficiently accurate estimate of the induced mutation rate. If <I>q</I><SUB>1</SUB> = 1 - <I>p</I><SUB>1</SUB> and 
+<I>q</I><SUB>2</SUB> = 1 - <I>p</I><SUB>1</SUB> and <I>q</I><SUB>2</SUB> = 1 - <I>p</I><SUB>2</SUB>, the induced rate is also estimated 
+by 1 - (<I>q</I><SUB>2</SUB>/<I>q</I><SUB>1</SUB>).
+
+<P>It may not often be practical to confine one's attention to a single locus. Therefore the progeny are examined for any departure from 
+the expected type and, either supposing the departures to be due to dominant mutations or testing them by breeding to establish them as 
+such, the resulting frequency relative to the total examined gives an estimate of the rate of mutation to dominant visible alleles in the 
+genome as a whole. Computing the ratio given above gives the radiation-induced mutation rate per gamete.
+
+<P>The irradiated and control mice should be mated with unrelated or distantly related mice to minimize the possibility of mistaking a 
+recessive allele, present in the stock in a low frequency, for an induced dominant mutation. That is, if the mating is in fact 
+<I>r</I>/+ x <I>r</I>/+, the <I>r</I>/<I>r</I> progeny may be erroneously scored as <I>D*</I>/+.
+
+<P>If females are irradiated, recessive sex-linked mutations may appear in their male progeny. The mating +/+ x +/Y may 
+produce <I>r*</I>/Y sons.
+
+<P>One variant of the P-cross, the "specific locus" method, has been extensively used for detecting recessive mutations. If the irradiated 
+and control mice are dominant homozygotes for one or more loci, say +/+, +/+, ..., and if they are mated with recessive homozygotes 
+<I>a</I>/<I>a</I>, <I>b</I>, ..., mutations from + to <I>a</I>, + to <I>b</I>, ..., will be detected by the appearance of the recessive 
+phenotypes among the progeny. The number of proved mutations recovered may be used directly to estimate the mutation rate at each locus 
+tested, the treated rate being adjusted for the control rate to give an induced rate. Obviously the rates from several loci may be averaged.
+
+<P>The P-cross method may be used to detect dominant autosomal lethals by a significant reduction in litter size, particularly if fathers 
+are irradiated. If mothers are irradiated, litter size cannot be used to measure the incidence of dominant lethals, as Russell and Russell (
+<A HREF="#ref10-43">1956</A>) showed. This must be done by using the ratio of the number of living embryos (<I>n</I> - <I>v</I>) to the number of 
+corpora lutea (<I>n</I>). The induced rate is then estimated as 1 - (<I>q</I><SUB>2</SUB>/<I>q</I><SUB>1</SUB>).
+
+<P>If males are irradiated, dominant sex-linked lethals may be detected by a deficiency of daughters. If females are irradiated, recessive 
+sex-linked lethals may be detected by a deficiency of sons. Both litter size and sex ratio are so highly variable that changes in their 
+magnitude are difficult to detect without enormous samples, except in cases of dominant semisterility (due to reciprocal translocations) 
+which can be detected by the half-size of a few litters.
+
+<P>The P-cross method or one of its variants has been widely used. In addition to its being used in the early studies by Hertwig and by 
+Snell on the effects of X-rays and by Snell and Aebersold on the effects of neutrons, it has been used by most later investigators as well. 
+Russell and Carter each devised a multiple recessive tester stock 
+(
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856014" target="_blank"><I>de</I></A>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"></I>se</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A>) to mate 
+with irradiated mice normally carrying wild-type alleles at all seven loci. By far the largest number of mice in radiation genetic 
+experiments have been bred under this system. Lyon (
+<A HREF="#ref10-31">1960</A>) used a balanced lethal line of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856184" target="_blank"><I>T</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857070" target="_blank"><I>tf</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856562" target="_blank"><I>t<SUP>6</SUP></I></A> + to detect mutations from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856184" target="_blank"><I>T</I></A> to 
+<I>t<SUP>m</SUP></I> which restore the tail length to normal. Russell and Major (
+<A HREF="#ref10-39">1957</A>) adapted the specific locus technique to the detection of somatic mutations.
+
+<P><B><I>F</I><SUB>1</SUB><I>-cross method.</I></B> This method requires two generations and may be used to detect sex-linked lethal mutations (
+<a href="javascript:windowf1001 = window.open('../figures/figure10-1.shtml', 'windowf1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowf1001.focus()">Figure 10-1<I>B</I></A>). 
+It makes use of dominant sex-linked markers such as 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856679" target="_blank"><I>Bn</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856098" target="_blank"><I>Mo<SUP>br</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>. 
+Tabby males, irradiated or control, are mated to females heterozygous for bent-tail and brindle in coupling:
+
+<CENTER>
+<TABLE>
+
+<TR>
+<TD VALIGN=BOTTOM><I>+ Ta +</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM><I>Bn + Mo<SUP>br</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM><HR></TD>
+<TD>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>x</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM><HR></TD>
+<TD>&nbsp;</TD>
+<TD>female</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM ALIGN=CENTER>Y</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM ALIGN=CENTER><I>+ Ta +</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P>F<SUB>1</SUB> daughters, heterozygous for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856679" target="_blank"><I>Bn</I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856098" target="_blank"><I>Mo<SUP>br</SUP></I></A> and possibly carrying an 
+induced sex-linked mutation in the chromosome marked by 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>, are backcrossed to wild-type males:
+
+<CENTER>
+<TABLE>
+
+<TR>
+<TD ALIGN=CENTER>+ + +</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>Bn + Mo<SUP>br</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD>x</TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD>female</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>Y</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>+ Ta +</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P>The absence of tabby males (<I>+ Ta +</I>/Y) among the backcross progeny of any one family of adequate size indicates 
+that a lethal mutation is located on the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A> chromosome between the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856679" target="_blank"><I>Bn</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856098" target="_blank"><I>Mo<SUP>br</SUP></I></A> 
+loci. Auerbach <I>et al.</I> (
+<A HREF="#ref10-1">1962</A>), in proposing and first using this method with mice, pointed out the difficulties of using these 
+specific markers. As more sex-linked alleles are discovered in mice, new improved stocks may be synthesized for detecting 
+sex-linked lethal mutations.
+
+<P><B><I>Cross-backcross method.</I></B> This method, requiring three generations, is useful for detecting recessive visible 
+and lethal mutations. Each exposed or control mouse in the zeroth generation (G0) is mated to a stock mouse with wild-type or 
+specific mutant alleles. If a recessive mutation has occurred in some of the gametes, the progeny, each representing one gamete 
+from an irradiated or control parent, will be heterozygous for an induced or natural mutation (<I>r*</I>?+ or <I>r</I>/+). 
+These mutations are to be uncovered by two more generations of breeding: an outcross and a backcross. Accordingly, the G1 
+mice are outcrossed to unrelated wild-type mice to produce prospective heterozygous carriers in G2. The G2 mice are, in turn, 
+backcrossed to their parents to produce G3. Homozygotes (<I>r*</I><I>r*</I> or <I>r</I>/<I>r</I>) in G3 can be recovered if + 
+mutated to <I>r*</I> or <I>r</I>, if the new phenotype is viable, and if a sufficient number of progeny have been reared to reduce 
+the chance of nonrecovery to a low level. I <I>r*</I>/<I>r*</I> or <I>r</I>/<I>r</I> is lethal, its existence must be inferred 
+from a reduction in litter size in G3 (
+<a href="javascript:windowf1001 = window.open('../figures/figure10-1.shtml', 'windowf1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowf1001.focus()">Figure 10-1<I>C</I></A>).
+
+<P>Using this method, Carter and Phillips (
+<A HREF="#ref10-11">1952</A>) found two new recessive visible mutations in the progeny of nonexposed mice, and Carter (
+<A HREF="#ref10-3">1957<I>a</I></A>) found evidence for the induction of recessive lethal mutations, manifested by reductions in litter sizes.
+
+<P>The strength of this method may be markedly increased by the use of single markers of selected linkage groups as Snell (
+<A HREF="#ref10-57">1935</A>) proposed and, still further, by the use of two or more linked markers as Carter (
+<A HREF="#ref10-4">1957<I>b</I></A>) proposed. Each marker having normal viability in homozygotes should appear in one-half of the progeny in G3. 
+The absence of a marker class is evidence for a nearby induced recessive lethal mutation. The statistical problems of estimating mutation 
+rates from the collected data may be quite formidable. They arise from the uncertainty of detecting all recessive mutations, present or 
+induced in the G0 parents, through their failure to appear in litters of finite sizes three generations later. Falconer (
+<A HREF="#ref10-17">1949</A>) has dealt with this problem by introducing the idea of reducing the number of incompletely tested gametes to 
+the equivalent smaller number of completely tested gametes.
+
+<P><B><I>Cross-intercross method.</I></B> This method, the first used for detecting recessive mutations in mice, also requires three 
+generations. It is like the preceding method except that the outcross progeny in G2 are intercrossed instead of backcrossed, but its efficiency is less (
+<a href="javascript:windowf1001 = window.open('../figures/figure10-1.shtml', 'windowf1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowf1001.focus()">Figure 10-1<I>D</I></A>). 
+For this method also Falconer (
+<A HREF="#ref10-17">1949</A>) solved the problem of scoring the results to estimate the equivalent number of fully tested gametes.
+
+<P>Haldane (
+<A HREF="#ref10-23">1956</A>, 
+<A HREF="#ref10-24">1957</A>) proposed a breeding design using the cross-intercross method. Males or females or 
+both of a stock of mice homozygous for several known recessives are exposed  to radiation for one or more generations, ending 
+with a generation (G1) not itself exposed. Recessive lethal mutations may have accumulated in these mice. The objective of further 
+breeding is to detect the presence of such lethals by observing deficiencies in the recessive marker classes of an F<SUB>2</SUB> 
+(=G3) generation, indicating that a lethal mutation has been induced at or near each known locus whose recessive class is deficient. 
+Accordingly the G1 mice are outcrossed and their progeny are intercrossed to produce a multiply-segregating F<SUB>2</SUB> generation. 
+The method has been used by Carter (
+<A HREF="#ref10-6">1959</A>) and by Sugahara and his colleagues (
+<A HREF="#ref10-63">Sugahara, 1964</A> and earlier).
+
+<P>A related method is adapted to estimating recessive mutation rates within inbred lines being propagated for other purposes. 
+Following a cross and one generation of intercrossing, brother-sister matings are continued indefinitely. The articles by Snell (
+<A HREF="#ref10-59">1945</A>) and Woolf (
+<A HREF="#ref10-65">1954</A>) set forth the theory of this method.
+
+<P><B>Estimates of mutation rates</B>
+
+<P>Charles (
+<A HREF="#ref10-12">1950</A>) was the first to estimate the rate of induction of mutations by radiation, using fairly large 
+samples of mice. His estimate of 7 x 10<SUP>-5</SUP> per roentgen per gamete was for all types of mutations, chiefly dominants, 
+induced in sperm under repeated small doses of penetrating radiation. The very large scale studies at Oak Ridge and Harwell in 
+the ensuing years have established the importance of specifying the sex, cell stage, test system, radiation quality, dose rate, 
+and other variables in estimating mutation rates.
+
+<P>The results of numerous experiments are summarized in Tables 
+<a href="javascript:windowt1001 = window.open('../tables/table10-1.shtml', 'windowt1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1001.focus()">10-1</A>, 
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">10-2</A>, 
+<a href="javascript:windowt1003 = window.open('../tables/table10-3.shtml', 'windowt1003', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1003.focus()">10-3</A>, 
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">10-4</A>, 
+<a href="javascript:windowt1005 = window.open('../tables/table10-5.shtml', 'windowt1005', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1005.focus()">10-5</A>, 
+<a href="javascript:windowt1006 = window.open('../tables/table10-6.shtml', 'windowt1006', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1006.focus()">10-6</A>, 
+<a href="javascript:windowt1007 = window.open('../tables/table10-7.shtml', 'windowt1007', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1007.focus()">10-7</A>, 
+<a href="javascript:windowt1008 = window.open('../tables/table10-8.shtml', 'windowt1008', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1008.focus()">10-8</A>, and 
+<a href="javascript:windowt1009 = window.open('../tables/table10-9.shtml', 'windowt1009', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1009.focus()">10-9</A>. 
+The data for male cells exposed to single doses of radiation at high and low rates are given first. Data on 
+female cells are in the last two tables. The breeding methods and other distinctive features of each experiment are also given 
+in the tables. This arrangement does not reveal the sequence of completion of the various experiments and so masks the excitement 
+of the successive stages of discovery. This side of the story may be found in Russell's (
+<A HREF="#ref10-46">1963</A>) review paper.
+
+<P>The mutation rates given in Tables 
+<a href="javascript:windowt1001 = window.open('../tables/table10-1.shtml', 'windowt1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1001.focus()">10-1</A>, 
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">10-2</A>, 
+<a href="javascript:windowt1003 = window.open('../tables/table10-3.shtml', 'windowt1003', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1003.focus()">10-3</A>, 
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">10-4</A>, 
+<a href="javascript:windowt1005 = window.open('../tables/table10-5.shtml', 'windowt1005', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1005.focus()">10-5</A>, 
+<a href="javascript:windowt1006 = window.open('../tables/table10-6.shtml', 'windowt1006', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1006.focus()">10-6</A>, 
+<a href="javascript:windowt1007 = window.open('../tables/table10-7.shtml', 'windowt1007', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1007.focus()">10-7</A>, 
+<a href="javascript:windowt1008 = window.open('../tables/table10-8.shtml', 'windowt1008', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1008.focus()">10-8</A>, and 
+<a href="javascript:windowt1009 = window.open('../tables/table10-9.shtml', 'windowt1009', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1009.focus()">10-9</A>
+are given in two ways. First, if mutations of a designated type were detectable at all loci, the rate per 
+gamete is given for the radiation does employed. For example, in row 3 of 
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">Table 10-2</A>, 
+five dominant visible mutations in 31,253 gametes gives an overall rate of 16.0 x 10<SUP>-5</SUP> per gamete exposed to 
+200 R of acute X-rays. Dividing by 200 gives 80.0 x 10<SUP>-8</SUP>/R/gamete. This is called an overall dominant visible rate 
+because all loci were presumably at risk and dominant visible mutations at any loci were detectable. In this example the rate 
+also includes any spontaneous or natural dominant visible mutations and so must be adjusted to give an induced rate. Second, if 
+mutations only at certain specific loci were counted, the rate per locus is given for the radiation dose employed. For example, in row 4 of 
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">Table 10-2</A>, 
+nine recessive visible and lethal mutations in 31,253 gametes tested gives a rate of 28.8 x 10<SUP>-5</SUP> 
+for seven loci exposed to 200 R. Dividing by seven gives 4.1 X 10<SUP>-5</SUP>/locus. A further division by 200 gives 
+20.6 x 10<SUP>-8</SUP>/R/locus. If the spontaneous rate is independently estimated as 6.2 x 10<SUP>-5</SUP> for seven loci, 
+the adjusted or induced rate comes out at 16.2 x 10<SUP>-8</SUP>/R/locus. Leaving the rates on a per gamete or per locus basis, 
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">Table 10-4</A>. 
+In the text a few rates are given on a per roentgen basis.
+
+<P>The average mutation rate of seven specific loci to recessive visible and lethal alleles in postmeiotic male germ cells 
+irradiated with 300 R of X-rays was estimated as 13.6 x 10<SUP>-5</SUP> per locus or 45.3 x 10<SUP>-8</SUP> per roentgen per locus (
+<a href="javascript:windowt1001 = window.open('../tables/table10-1.shtml', 'windowt1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1001.focus()">Table 10-1</A>, 
+row 1). No extensive data are available for sex-linked lethals (
+<a href="javascript:windowt1001 = window.open('../tables/table10-1.shtml', 'windowt1001', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1001.focus()">Table 10-1</A>, 
+row 2). Irradiated fetal spermatogonia gave a rate of 80.0 x 10<SUP>-5</SUP>/R/gamete for dominant visible mutations at all loci (
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">Table 10-2</A>, 
+row 3) and a rate of 20.5 x 10<SUP>-8</SUP>/R/locus for recessive visibles and lethals at seven specific loci, 
+roughly one-half that of the postmeiotic rate (
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">Table 10-2</A>, 
+row 4). An earlier small-scale experiment had given a much smaller rate (
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">Table 10-2</A>, 
+row 5). A variety of experiments with all spermatogonial stages exposed to low dose rates and relatively 
+low total doses of &#947;-rays have yielded too few data to provide good estimates of mutation rates (
+<a href="javascript:windowt1003 = window.open('../tables/table10-3.shtml', 'windowt1003', 'width=800,height=800,resizable=yes,scrollbars=yes'); windowt1003.focus()">Table 10-3</A> 
+rows 6 to 10).
+
+<P>In the first large experiment, 48,007 progeny of males exposed to 600 R of acute X-rays and bred after the sterile period gave 
+an induced mutation rate of 25.0 x 10<SUP>-8</SUP>/R/locus for recessive visibles and lethals at seven specific loci. By 1962, with 
+a much larger sample, the improved estimate was very nearly the same: 22.1 x 10<SUP>-8</SUP>/R/locus (
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">Table 10-4</A>, 
+row 20, 600R). This is about the same as the rate for fetal spermatogonia and about one-half the rate for 
+postmeiotic stages. The spermatogonial mutation rates at 0, 300, and 600 R were satisfactorily fitted by a straight line, but the point 
+for 1,000 R fell significantly below the line (
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">Table 10-4</A>, 
+row 20). There is no obvious explanation of this result. It can be accounted for by supposing that spermatogonia 
+are differentially susceptible to the action of large acute doses of radiation so that the observed drop in mutation rate at 1,000 R is possibly 
+due to cell selection. Estimates of other rates for acute exposures of spermatogonia are also given in 
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">Table 10-4</A>, 
+rows 11 to 18 and 21.
+
+<P>While the results of exposures to acute doses were being accumulated, the results of exposure of males to chronic 
+radiation suggested that radiation at low dose rates (Table 
+<a href="javascript:windowt1005 = window.open('../tables/table10-5.shtml', 'windowt1005', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1005.focus()">10-5</A>, 
+rows 22 to 24). Further, mutation rates in oocytes also turned out to depend upon dose rate. Since nearly 
+all oocytes in young adult females, unlike spermatogonia in young adult males, appear to be in a single premeiotic stage, the 
+idea of cell selection as an explanation of the dose-rate effect was less satisfactory than a hypothesis of repair of a 
+premutational state induced by radiation at low dose rates.
+
+<P>To investigate further the low mutation rate at 1,000 R, Russell (
+<A HREF="#ref10-46">1963</A>) exposed samples of mice to total doses of 1,000 R of acute radiation in various fractions (
+<a href="javascript:windowt1006 = window.open('../tables/table10-6.shtml', 'windowt1006', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1006.focus()">Table 10-6</A>, 
+row 25). The mutation rates obtained with some of the fractions fell near the line extrapolated from the 
+0, 300, and 600 R points. Although the explanation is not clear, it appeared that some factor other than, or in addition to, cell selection 
+must be operative. Finally, two doses of 500 R of acute radiation given one day apart yielded the highest mutation rate so far found in 
+spermatogonia. This result suggests that the first dose imposes a synchronization and heightened mutability upon the cells and that the 
+second dose thus yields more mutations than otherwise expected. Obviously this phenomenon requires further study by variation of the 
+total doses, the sizes and numbers of the fractional doses, the intervals between the fractions, and the cell stage and type irradiated.
+
+<P>Snell and Aebersold (
+<A HREF="#ref10-60">1937</A>) first attempted to induce mutations in mice with neutrons and got evidence that neutrons are five to six times 
+as effective as X-rays in inducing dominant lethals in spermatozoa. Snell (
+<A HREF="#ref10-58">1939</A>) used the cross-backcross method of searching for recessive visible mutations but found none. Later studies by Batchelor <I>et al.</I> (
+<A HREF="#ref10-2">1964</A>), Searle and Phillips (
+<A HREF="#ref10-56">1964</A>) and Russell and Kelly (
+<A HREF="#ref10-49">1964<I>a</I></A>, 
+<A HREF="#ref10-50">1964<I>b</I></A>) have conformed the evidence that neutrons are five to six times more effective than X-rays for inducing 
+mutations in premeiotic as well as postmeiotic stages. Batchelor <I>et al.</I> (
+<A HREF="#ref10-2">1964</A>) found a mutation rate of 25.0 x 10<SUP>-5</SUP>/locus or about 110 x 10<SUP>-8</SUP>/rad/locus for spermatogonia 
+exposed to 215 rads of neutrons with 100 R of &#947;-contamination at a rate of 0.002 rads/min or less (
+<a href="javascript:windowt1007 = window.open('../tables/table10-7.shtml', 'windowt1007', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1007.focus()">Table 10-7</A>, 
+row 26). These authors suggested that high linear-energy-transfer radiation (neutrons) may have a 
+dose-rate effect opposite in direction from that of low linear-energy-transfer radiation (X-rays). Russell and Kelly (
+<A HREF="#ref10-50">1964<I>b</I></A>) did not find such an effect, however.
+
+<P>Investigations of mutation rates in female germ cells have been less extensive. The rates for recessive visibles and lethals at 
+seven specific loci in acutely irradiated fetal oogonia were about 10 to 14 x 10<SUP>-8</SUP>/R/locus, slightly more than one-half the spermatogonial rate (
+<a href="javascript:windowt1008 = window.open('../tables/table10-8.shtml', 'windowt1008', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1008.focus()">Table 10-8</A>, 
+rows 28 and 29). The mutation rates in oogonia also turned out to be dependent upon the dose rate. When 500 R of X rays 
+were given at a rate of 0.009 R/min, the specific locus rate was about 1.9 x 10<SUP>-8</SUP>/R/locus, whereas at 0.8 R/min it was 
+12 x 10<SUP>-8</SUP>/R/locus, or about six times higher (
+<a href="javascript:windowt1009 = window.open('../tables/table10-9.shtml', 'windowt1009', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1009.focus()">Table 10-9</A>, 
+row 31).
+
+<P>The estimation of somatic mutation rates presents special technical problems, chief of which is that breeding tests of the presumed 
+mutant cells are ruled out. Russell and Major (
+<A HREF="#ref10-39">1957</A>) used the specific locus method (P-cross) to estimate the average mutation rate of four loci. C57BL females, mated 
+with NB males, were irradiated on the 10.25 day of pregnancy. The zygotes should be 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A>/+ + 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A>/+ + and the offspring should be self-colored black. Spots of color 
+other than black anywhere in the coat may be taken to indicate a mutation at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>, or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856114" target="_blank"><I>p</I></A> locus. 
+This method gave a somatic rate of 70 x 10<SUP>-8</SUP>/R/locus for the same four loci exposed to the same amount of acute X-irradiation.
+
+<P>The preceding discussion has referred only to estimates of rates of mutation to recessive visible and lethal mutations in spermatogonia, 
+postspermatogonial cells, and oogonia, obtained in experiments using the specific locus method. The chief value of the specific locus method 
+lies in its usefulness in comparing mutation rates in different cell stages under exposures to various types of radiation given at various 
+rates and at various total doses. The method has relatively little value in predicting overall mutation rates, nor is any other method fully 
+satisfactory for doing so. Estimates of mutation rates to dominant visibles and dominant lethals, as steps toward estimating overall mutation 
+rates, are given for a variety of types of cells and of radiation in 
+<a href="javascript:windowt1002 = window.open('../tables/table10-2.shtml', 'windowt1002', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowt1002.focus()">Table 10-2</A> 
+(row 3), 
+<a href="javascript:windowt1004 = window.open('../tables/table10-4.shtml', 'windowt1004', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1004.focus()">Table 10-4</A> 
+(rows 11 to 13) and 
+<a href="javascript:windowt1008 = window.open('../tables/table10-8.shtml', 'windowt1008', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1008.focus()">Table 10-8</A> 
+(row 23). The estimates work out to 17.3 x 10<SUP>-8</SUP>/R/gamete for dominant visible mutations in spermatogonia 
+exposed to acute X-rays and 16.7 x 10<SUP>-8</SUP>/R/gamete in oogonia. In contrast Sugahara (
+<A HREF="#ref10-63">1964</A>) found a recessive lethal mutation rate of about 1.8 x 10<SUP>-4</SUP>/R/gamete, both using chromic &#947;-irradiation. 
+It is apparent that many more studies need to be done before we shall have a clear understanding of the mutability of mouse genes exposed to radiation.
+
+<P><B>Mutations at specific loci</B>
+
+<P>There are several notable features of mutations induced at specific loci which are briefly mentioned here. Further information will be 
+found in papers by Carter <I>et al.</I> (
+<A HREF="#ref10-10">1958</A>), Russell and Russell (
+<A HREF="#ref10-52">1959<I>b</I></A>), Phillips (
+<A HREF="#ref10-34">1961</A>), L.B. Russell (
+<A HREF="#ref10-38">1962</A>), and W.L. Russell (
+<A HREF="#ref10-47">1965</A>).
+
+<P>First, in spermatogonia the induced mutation rates show a 27-fold variation among the seven loci studied by the specific locus method. 
+In post-spermatogonial stages, however, the rates are much more uniform (
+<a href="javascript:windowt1010 = window.open('../tables/table10-10.shtml', 'windowt1010', 'width=800,height=300,resizable=yes,scrollbars=yes'); windowt1010.focus()">Table 10-10</A>). 
+Second, mutations recovered from irradiated spermatogonia are mostly point mutations, whereas those from 
+later stages contain a high proportion of chromosomal deficiencies. Specifically, only one deficiency at the closely linked 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A> loci was found in the irradiated spermatogonia, whereas five were found in later spermatogenic stages and six in oocytes. Third, 
+about 75 per cent of the induced mutations are lethal when homozygous, lethals have occurred at all loci, and the time of death is 
+frequently after birth. Fourth, in heterozygotes the induced mutations, although recessive by the usual criteria of their effects on 
+pigmentation, frequently affect body size and viability.
+
+<P>One question of considerable interest is not yet answerable. How do radiation-induced mutations in general compare, in the spectrum of 
+phenotypic effects, with natural mutations? An answer to this question will require the same careful search for and analysis of spontaneous 
+mutations that has been applied to radiation-induced mutations (
+<A HREF="#ref10-21">Green <I>et al.</I>, 1965</A>). The fact that lethal mutations at the seven loci used in the specific locus studies were not 
+known at the time the radiation studies were started may mean that natural mutations are less likely to be lethal when homozygous or it 
+may mean that the existing mutations are the viable survivors out of a very much larger group containing many lethals. Until better 
+information is available, we must withhold judgment about the comparability or noncomparability of induced and natural mutations in mice.
+
+<P><B>EFFECTS IN POPULATIONS</B>
+
+<P>The occurrence of radiation-induced mutations and chromosome aberrations implies that populations exposed to radiation will suffer 
+deleterious effects. The magnitude of the effect following specified radiation exposures can only be predicted after we have more 
+knowledge about the viability, fertility, and fecundity on nonirradiated descendants of irradiated ancestors. Several studies in 
+which populations of mice or selected members thereof have been irradiated for one or more generations will be summarized in this 
+section. For an introduction to the literature on other laboratory populations of mammals see Roderick (
+<A HREF="#ref10-37">1964</A>).
+
+<P>To understand the effects of ancestral irradiation on the genetic constitution of populations, it is necessary to control or 
+deliberately vary the important variables: dose level and dose rate of irradiation, stage of germ cells irradiated, the sex irradiated, 
+size of the breeding population, and genetic background of the population. The mouse is the only mammal for which a wide variety of genetically 
+independent inbred strains and mutant-bearing stocks are available. The foundation populations of long-term experiments can be of wide variety, 
+either hybrid or inbred, and each variety can be almost perfectly replicated genetically at another time or place.
+
+<P>The pioneer work of Snell and Hertwig (see review by 
+<A HREF="#ref10-42">Russell, 1954</A>) showed that the reduced number of animals born from irradiated postmeiotic germ cells of the sire was 
+primarily due to dominant mutations of the chromosomal type. From these and subsequent studies it is apparent that dominant lethals 
+and serious postnatal deleterious effects are easily detected among the zygotes formed from irradiated sperm and oocytes, but are 
+comparatively very uncommon in the zygotes formed from irradiated spermatogonia. In female mammals premeiotic germ cells are not 
+present after birth. In population studies, therefore, it is important to know the extent of the male's contribution to successive 
+generations by irradiated sperm and by irradiated spermatogonia.
+
+<P>The following discussion of experiments is arranged according to the germinal stage irradiated.
+
+<P><B>Irradiation of postgonial stages</B>
+
+<P>In a study Kalmus <I>et al.</I> (
+<A HREF="#ref10-25">1952</A>) paired mice and allowed each pair to produce two litters. Then they X-rayed 
+the gonads of males with 150 to 300 R and reconstituted the pairs. They found a reduction in litter size in the subsequent third litter 
+compared to the second preirradiation litter. Also the sex ratio changed in the direction of expectation (fewer females among the offspring 
+of irradiated males) in the third litter. The results are not clearly the consequence of irradiation because parity has effects on 
+litter size and sex ratio.
+
+<P>Spalding <I>et al.</I> (
+<A HREF="#ref10-62">1964</A> and earlier) have reported an irradiation experiment of many generations. All the animals originated from a single pair 
+of inbred RF mice. Two sublines were begun from the pair, one of which received no irradiation and functioned as a control line. The males 
+of the other line were given 200 rads of whole-body X-rays at 24 to 28 days of age and mated to unexposed sisters in each generation. Throughout 
+the experiment mice were conceived as early as 25 days and as late as 120 days after irradiation. The earliest animals conceived were probably 
+used for the parents of following generations, since the sublines average about four generations each year. Therefore, the postspermatogonial 
+germinal stages at the time of irradiation probably constitute most of the sires' genetic contribution to subsequent generations. Differences 
+between the lines were observed in the sixth generation. The irradiated line was found to be significantly lower than the control in weaning 
+weight, litter size at birth and weaning, and length of survival under protracted &#947;-ray and fractionated X-ray exposures. The irradiated 
+line also exhibited a greater number of litters eaten by their mothers, but no consistent differences were observed in sex ratio, 
+weaned-to-born ratio, or lifespan.
+
+<P>In their 1964 study they also showed values of some of these characteristics for a third line, an irradiated subline derived from the 
+irradiated line but propagated in parallel for a few generations without irradiation. In those traits showing significant differences between 
+irradiated and control lines, the values for the irradiated subline were not intermediate; sometimes the values fell beyond those of the 
+control and sometimes beyond those of the irradiated line. One would expect the irradiated subline to be intermediate or at least consistently 
+nearer one line or the other if the differences between the irradiated and control lines were due solely to the amount of ancestral irradiation.
+
+<P>Russell (
+<A HREF="#ref10-44">1957</A>) investigated the lifespan of offspring of (101 x C3H)F<SUB>1</SUB> males exposed to neutrons from a nuclear detonation. 
+The range of exposure was 0 to 186 rep, and the offspring were conceived in the presterile period. A general life shortening of 0.61 days for 
+each rep was calculated from the data over the entire range of doses. There was no evidence of nonlinearity of this mortality over the dose range.
+
+<P>In a similar study Spalding (
+<A HREF="#ref10-61">1964</A>) investigated the lifespan of male RF mice exposed to both fission neutrons and &#947;-rays and the lifespan of their first 
+and second generation offspring. He exposed five groups of males to various doses of whole-body fission neutrons ranging from 32 to 117 rads 
+and another group to whole-body Co<SUP>60</SUP> &#947;-rays over a range of 60 to 300 rads. A third major group, a control population of males, 
+received no irradiation. To obtain offspring from both pre- and postspermatogonial stages during the time of irradiation, he mated the males 
+immediately after irradiation and also 16 weeks after irradiation to two different samples of RF females. He was unable to demonstrate any 
+shortening of the life or any effect on the sex ratio.
+
+<P>Proshina (
+<A HREF="#ref10-36">1961</A>) studied the fitness of nonpedigreed white mice over five generations after a series of graded doses, 50 to 300 R of X-rays, 
+were given to 400 males of the initial generation. We do not know the time between irradiation and mating of the animals nor the germinal stage 
+irradiated. She found more deaths in the first month of life in the descendants of the irradiated males than in the control group. This effect 
+was apparent in all five generations. The weights of 1-month-old mice were also less than in the controls in all generations, and developmental 
+anomalies were noted in the descendants of the irradiated males in the first two generations.
+
+<P>From the summary of the experiment of Lindop and Rotblat (
+<A HREF="#ref10-28">1963</A>), it is not clear what stages of spermatogenesis at the time of irradiation contributed to subsequent generations. Offspring 
+from male mice irradiated with a whole-body dose of 350 R of X-rays at 4 weeks of age were compared with offspring of nonirradiated males. They 
+found no effect of three generations of such parental exposure on lifespan or radiation sensitivity.
+
+<P><B>Continuous irradiation exposure</B>
+
+<P>In some studies, populations of mice were either left continuously in a radiation field or males were periodically removed for irradiation and 
+then replaced with their nonirradiated mates. Fertilizing gametes, therefore, could come from all possible stages of gametogenesis at the time of 
+irradiation.
+
+<P>The early studies of Charles <I>et al.</I> (reported in 
+<A HREF="#ref10-13">1960</A> and 
+<A HREF="#ref10-15">1961</A>) were on males of strain DBA exposed to radiation of the gonads and mated to nonirradiated females of strain C57BL. The gonadal 
+doses were 0.1, 0.5, 1, and 10 R/day of X-rays given in a period of 1 to 1.5 hours each day except Sunday. The males remained with the females 
+throughout the period except for the short time each day necessary for the irradiation. Therefore, part and probably most of the fertilizing sperm 
+were irradiated in postspermatogonial stages. Charles <I>et al.</I> found increased juvenile mortality in the offspring of the males receiving 
+10 R/day or those receiving a total dose of 100 R or more. The effect was significantly expressed in larger litters but only suggestive in smaller 
+litters. These investigators thoroughly autopsied all of the male offspring of the irradiated and control sires. Examining mice in such detail in 
+a radiation-genetics experiment has never been attempted elsewhere. They observed a small but significant increase in rare external and internal 
+morphological abnormalities among the offspring of the irradiated males. The female offspring were mated to an albino tester stock for the analysis 
+of partial sterility. There were a greater number of partially sterile females whose fathers had been irradiated. About one-fifth of these females 
+were tested for another generation and proved to be semisterile; that is, their partial sterility could be explained as a consequence of a reciprocal 
+translocation induced by irradiation (
+<A HREF="chapter7.shtml">Chapter 7</A>).
+
+<P>Charles <I>et al.</I> were unable to find any differences between the groups in sex ratio at weaning. In the male offspring of the irradiated 
+and control sires they found no differences in body weight, tail length, body length, strength, and number of Peyer's patches on the small intestines. 
+In the female offspring they found no difference in age at time of their fourth litters nor in total offspring born in their first four litters.
+
+<P>In a long-term investigation Gowen and Stadler (
+<A HREF="#ref10-18">1964</A> and earlier) studied the fitness of 10 inbred strains exposed to continuous Co<SUP>60</SUP> &#947;-rays over many generations. 
+They exposed mice to doses ranging from 0.06 to 0.10 R/hour given during 22-hour days. Throughout the study the strains were propagated by 
+brother-sister matings. Mice receiving 3.0 R or more per day were sterile. Five strains did not survive five generations, and the other five 
+survived 12 generations. At least one strain reached the 24th generation. Gowen and Stadler believed that irradiation probably was not a 
+significant factor in extinguishing the five lines because these strains were less vigorous at the outset of the experiment. The surviving 
+strains appeared healthy and did not appear to differ from their respective nonirradiated controls in first-litter productivity or in sex ratio. 
+Lifespan data were collected on all the surviving strains over all the generations and analyzed through the sixth generation. Although there was 
+a significant decline in lifespan with succeeding generations, the authors said the decline could not be explained as a result of the increased 
+number of generations of ancestral irradiation. The average correlation of lifespan and ancestral irradiation within strains and within generations 
+was -0.17. These correlations differed between strains but not between generations.
+
+<P>In another long-term experiment Touchberry and Verley (
+<A HREF="#ref10-64">1964</A>) studied the effects of whole-body  X-rays given for successive generations to several hybrid populations derived from 
+B6DF<SUB>1</SUB>/J and several inbred populations derived from C57BL/6J. Males of the initial populations were divided into five groups and 
+given 0, 50, 100, 150, and 200 R, respectively. In the next generation, matings were made at random between the irradiated groups within the inbred 
+or within the hybrid populations. Mice were between 60 and 85 days old at the time of irradiation and were mated 14 days after irradiation. They were 
+permitted to raise two litters, from which parents of the subsequent generation were chosen randomly.
+
+<P>Data on six generations of the hybrid populations and four generations of the inbred populations were used for the analysis. In both the inbred 
+and hybrid populations they found a decrease in litter size with an increase in parental irradiation. Surprisingly they also found an increase in 
+32-day body weight and in growth rate from 2 to 38 days with an increase in parental irradiation. Touchberry and Verley believed the decrease in 
+litter size to be evidence of induced dominant mutations and the increase in 32-day body weight and growth rate to be evidence of heterotic effects 
+of the induced mutations. They pointed out that maternal irradiation produced both genetic and somatic effects, whereas paternal irradiation produced 
+genetic effects only. The supposition of a heterotic effect seems less probable than the possibility that 32-day weight and growth rate are negatively 
+correlated with and partially dependent upon litter size.
+
+<P>Sugahara (
+<A HREF="#ref10-63">1964</A>) and his colleagues raised and bred two populations of a tester stock of mice for three generations in a field of 
+Co<SUP>60</SUP> &#947;-rays. In the first experiment the mice were given about 5 to 8 R/22-hour day and in the second experiment 0.43 R/22-hour day. 
+In a third experiment they gave acute doses of 600 R of X-rays to the gonads of males of another population of the same stock. In a fourth experiment 
+they irradiated the adult males of one generation with 597.3 R of Co<SUP>60</SUP> &#947;-rays given at a dose rate of 9.3 R/22-hour day. Nonirradiated 
+but genetically similar mice were raised and maintained in a similar manner to serve as control populations. The fourth generation in the first two 
+experiments and the second generation in the third and fourth experiments, all nonirradiated, were crossed to strain CBA, according to Haldane's (
+<A HREF="#ref10-23">1956</A>, 
+<A HREF="#ref10-24">1957</A>) plan. From the F<SUB>1</SUB> population, siblings were intercrossed to produce an F<SUB>2</SUB> generation. In addition to the 
+data on suspected lethals induced in these populations (mentioned in the first part of this chapter), they collected data on mean litter size, 
+incidence of sterile pairs, sex ratio, and juvenile death (death before weaning). Only for juvenile death was there a clear effect of ancestral 
+irradiation in the second, third, and fourth experiments. This effect was found in the F<SUB>1</SUB> and F<SUB>2</SUB> generations following the outcross.
+
+<P>To determine whether irradiation would produce subline differentiation Searle (
+<A HREF="#ref10-54">1964<I>a</I></A>) studied the effect of continuous Co<SUP>60</SUP> &#947;-rays on 28 pairs of sublines of the inbred strain C3H/HeH. 
+One subline of each pair was exposed to 1R/night with a total dose of about 80 R/generation, whereas the other subline was set aside as a nonirradiated 
+control. All sublines were propagated by brother-sister matings. Data on fitness characteristics were analyzed through 24 generations. Searle found a 
+significant reduction in litter size in the irradiated sublines particularly apparent with greater parity, but he attributed the effect to damage of 
+irradiated somatic tissue and not to mutations in irradiated ancestral germ plasm. No differences were found between the irradiated and control lines 
+in complete sterility. Searle studied the genetic divergence of two pairs of sublines by comparing the lines with respect to 23 quasi-continuous 
+characteristics and four metrical characters of the skeletal system. The unexpected result was that the rate of divergence was somewhat greater for the 
+nonirradiated lines than for the irradiated lines.
+
+<P><B>Irradiation of spermatogonia</B>
+
+<P>Dominant mutations or chromosomal aberrations can be induced by irradiating spermatogonia, and occasionally such changes 
+do reach zygotes and are passed on to subsequent generations (
+<A HREF="#ref10-22">Griffen, 1964</A>; 
+<A HREF="#ref10-32">Lyon <I>et al.</I>, 1964</A>). However, they are far fewer than can be found among zygotes descended from irradiated postspermatogonial 
+stages. There is apparently no period after irradiation when the germ line can be assumed to be free from any kind of genetic damage. Irradiation 
+will apparently have some effect on the fitness of populations, no matter what stage of gametogenesis is irradiated. The problem still remains, 
+however, to show clearly in what ways <I>population fitness</I> is damaged by irradiating spermatogonia. The effect of spermatogonial irradiation on 
+population fitness is important, too, because it is this type of irradiation damage which may be most important to a human population.
+
+<P>Ehling and Randolph (
+<A HREF="#ref10-16">1962</A>) reported an experiment in which strain 101 males were exposed to different sources and conditions of radiation and then crossed 
+to C3H females so that both postspermatogonial and spermatogonial stages could be studied independently with respect to their effects on skeletal 
+abnormalities in the F<SUB>1</SUB> animals. The progeny were conceived during the presterile period after their fathers were irradiated with 600 rads 
+of X-rays or 80 to 200 rads of neutrons with varying intensities. Males mated after the poststerile period had received 600 rads. The litters from 
+the exposed sires were killed for examination between 26 and 28 days of age. Skeletons of 618 offspring from nonirradiated sires and 515 offspring 
+of irradiated sires were examined. The authors classified the abnormalities as either of two types depending upon their frequency: class I abnormalities 
+were those occurring only once in all the animals studied, and class II abnormalities were those occurring more than once. No differences between 
+irradiated and control groups were found in frequencies of class II abnormalities, nor in class I abnormalities when progeny were derived from irradiated 
+spermatogonial cells. A significant difference, however, was discovered between the irradiated and control groups in class I abnormalities when the 
+sires' contribution was derived from irradiated postgonial cells. The authors concluded that class I abnormalities were probably due to genetic effects 
+and class I to nongenetic effects.
+
+<P>In studies of general fitness Kohn (
+<A HREF="#ref10-26">1960</A>) irradiated CAF<SUB>1</SUB> males with X-rays over a range of 0 to 720 rads. During the poststerile period surviving males were 
+mated to nonirradiated BALB/cCrgl females and the offspring were studied for the characteristics: males per litter, females per litter, progeny per 
+litter, sex ratio at birth, and sex ratio at weaning. Regression lines were fitted to these characteristics plotted against the sires' irradiation 
+doses, but the slopes were not significant. Thus no effect of irradiation was demonstrated. Samples of the progeny were also studied for lifespan and 
+tolerance to 500 rads of X-rays per week, but no significant effect of paternal irradiation was observed (
+<A HREF="#ref10-27">Kohn <I>et al.</I>, 1965</A>).
+
+<P>However, Russell and Russell (
+<A HREF="#ref10-51">1959<I>a</I></A>) reported a reduction of mean litter size at 3 weeks of age among offspring derived from spermatogonia given 300 R of 
+X-rays in a single generation. The lower mean litter size at 3 weeks was consistently found in all 10 groups of animals studied over different periods of time.
+
+<P>In further studies of fertility Carter and Lyon (
+<A HREF="#ref10-8">1961</A>) gave 600 R of whole-body X-irradiation to (101 x C3H)F<SUB>1</SUB> males. 
+The males were mated 6 weeks after irradiation to females of the same F<SUB>1</SUB>. The females were allowed to bear four litters and were then 
+dissected during their fifth pregnancies for counts of corpora lutea, moles, and live and dead fetuses. The males from the liveborn litters were 
+crossbred to detect a possible reduction of their fertility, and their mates were dissected during their pregnancies for similar counts. The same 
+males were then mated to females of strain 101 to produce offspring to be backcrossed to the males to get an indication of the induction of recessive 
+lethals and visibles. There was no evidence of reduced fertility in the F<SUB>1</SUB> males. There was also no difference found in litter size at 
+birth when the F<SUB>1</SUB> males were crossed to strain 101 females. Nor was there any difference in the counts of corpora lutea, number of implantations, 
+moles, or live or dead embryos. But from backcross matings the granddaughters of the irradiated males had a significant reduction of corpora lutea per 
+pregnancy over that in the control granddaughters, <I>but</I> no differences were found in number born per litter. The authors concluded that there is 
+a compensating mechanism tending to equalize the litter sizes despite differences in the number of eggs ovulated.
+
+<P>Later experiments at Harwell have considerably clarified the mechanisms involved in reduced fertility following spermatogonial irradiation. Lyon <I>et al.</I> (
+<A HREF="#ref10-32">1964</A>) irradiated the males of a cross of strains C3H/HeH and 101/H with an acute gonadal dose of 1,200 R of X-rays in two fractions 8 
+weeks apart. Twelve weeks after the latter dose, the F<SUB>1</SUB> males were outcrossed to CBA/H females. Controls were propagated and manipulated 
+in the same manner but with no irradiation. The sizes of the litters of the irradiated sires were reduced 15 per cent at birth. The decrease in litter 
+size was mostly due to increased embryonic death just after implantation. Part of this lethality was due to semisterility caused by the induction of 
+reciprocal translocations at a rate of 3.3 per cent per gamete. Subsequent crosses also revealed a higher incidence of recessive lethal mutations induced 
+in the irradiated group. No differences were found in sex ratios.
+
+<P>In the same experiment Searle (
+<A HREF="#ref10-55">1964<I>b</I></A>) outcrossed the F<SUB>1</SUB> daughters and recorded the sizes of their first four litters. Their fifth litters were observed 
+at the 14-day fetal stage. The mean litter size was 5.5 per cent lower in the daughters of the irradiated males. This reduction in fertility was almost 
+wholly attributable to semisterility, present in 6.7 per cent of the daughters of the irradiated males. Searle estimated the rate of induction of 
+translocations in spermatogonia to be 6.4 x 10<SUP>-5</SUP>/R/genome. This rate is about one-sixth that of spermatozoa; he suggested that spermatogonial 
+stages are less sensitive to irradiation.
+
+<P>In a related study, Philips and Searle (
+<A HREF="#ref10-35">1964</A>) looked for a dose-rate effect by spreading the 1,200 R over 12 weeks at 100 R/week. The lethal effect was reduced to a 2 per cent 
+decrease in litter size, and the rate of induction of translocations to about 1 per cent. Neither of these effects was significant when compared with 
+the control values, but the fact that they were far less than the effects observed after an acute dose of 1,200 R is evidence for a dose-rate effect.
+
+<P>In long-term studies L&#252;ning and Sheridan (
+<A HREF="#ref10-30">1964</A> and earlier) irradiated the spermatogonia of males of a randomly mated population from strain CBA with 276 R of X-rays each 
+generation and compared their descendants with those of a parallel nonirradiated control population. The radiation was delivered to the gonads of 
+the males with the rest of the body shielded. In studying the reproductive performance of the fourth to sixth generations under irradiation, they 
+found a consistent reduction of litter size in the irradiated group independent of the number of litters the females produced. The females of the 
+irradiated group had a slightly greater frequency of losses of complete litters. L&#252;ning and Sheridan also found a decrease in the number of 
+corpora lutea in the first litters of the fourth generation in the irradiated group. These findings suggested that damage to this population is 
+through a lowered maternal fitness. There was no change in the sex ratio because of irradiation. Further studies of offspring of sib and nonsib matings 
+of these lines indicated that the major dominant effects of irradiation were on the immediate offspring of the irradiated males and not on future 
+generations. In other words, there was no evidence that dominant detrimental effects accumulated with increasing generations of irradiation. However 
+recessive lethals apparently did accumulate with successive generations of irradiation.
+
+<P>In other long-term studies Green and his colleague (
+<A HREF="#ref10-20">Green, <I>et al.</I>, 1964</A>; Roderick and Schlager, 1965, personal communication) propagated both genetically heterogeneous and genetically 
+homogeneous populations of mice under different levels of irradiation for several generations. The genetically heterogeneous populations were all descended 
+from a 4-way cross of genetically independent inbred strains. The genetically homogeneous populations were all descended from a single pair of mice 
+from strain C57BL/10Gn. The two major populations were subdivided at the outset of the experiment into several different subpopulations and propagated in 
+parallel with different amounts of inbreeding in order to study the possible effect of inbreeding in combination with the effect of irradiation. All 
+groups were further subdivided so that different levels of irradiation could be delivered to populations of each breeding size. Irradiation doses were 
+0, 50, and 100 R per generation. In the data collected from the mice in the first and second litters used to propagate the main lines, no differences 
+were found in age of dam at parturition, number born, number weaned, sex ratio, weaned-to-born ratio, or frequency of phenotypic deviations attributable 
+to differences in irradiation dose or breeding size of the population.
+
+<P>Samples of nonirradiated males from the 11th generation were mated to siblings as well as to females from strain C57BL/6J for a study of prenatal 
+mortality. The females were dissected before parturition, and data were taken on number of corpora lutea, moles, dead fetuses, and living fetuses. No 
+differences in prenatal mortality between the populations were found which could be attributed to ancestral radiation or inbreeding level.
+
+<P>Every three generations some nonirradiated animals of each dose and breeding size group were set aside to determine their lifespan reproductive performance. 
+In these studies a significant reduction in number of litters was found in the genetically homogeneous populations after nine generations, and this difference 
+could be attributed to the ancestral radiation exposure. The mean litter sizes, however, did not differ. These findings suggested that the animals with ancestral 
+irradiation perform just as well through most of their lives, but that they deteriorate sooner physiologically. The authors point out the value of studies of 
+lifetime performance, because these differences would not have been observed on data of first and second litters only. The effect was <I>not</I> observed in 
+the heterogeneous populations after nine generations, and no effects could be attributed to the inbreeding levels of the subpopulations.
+
+<P>Green and Les (
+<A HREF="#ref10-19">1964</A>) tried to bring about genetic extinction in a small hybrid mouse population by irradiating the spermatogonia (body shielded) with 
+a dose of 900 R of X-rays in each generation. After nine generations they found no differences in fertility, number of litters, number of offspring 
+born and weaned, and average litter size between the irradiated and nonirradiated control populations. It is not clear why this study and that of Kohn (
+<A HREF="#ref10-26">1960</A>) failed to show the reduced litter size reported in other studies with comparable radiation doses.
+
+<P><B>Conclusions</B>
+
+<P>
+<a href="javascript:windowt1011 = window.open('../tables/table10-11.shtml', 'windowt1011', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1011.focus()">Table 10-11</A> 
+gives an abridged summary of the methods and results of the papers discussed in this section of the chapter. Characteristics such 
+as viability and fertility are the principal components of population fitness. It appears that reduction in fitness of mouse populations as measured in these 
+characteristics can be shown to be a result of irradiation of doses as low as 100 to 300 R per generation. Furthermore, the data suggest that decreased fitness, 
+like chromosome abnormalities, can be more easily brought about and the damage more easily passed on to subsequent generation as a result of postspermatogonial 
+irradiation than of spermatogonial irradiation. Genetically heterogeneous populations of mice may be more resistant than inbred populations to radiation-induced 
+damage to fitness. Selection probably eliminates many mutations in each generation and thus reduces the damage to population fitness. There may be mechanisms of 
+physiological compensation, such as that reported by Carter and Lyon (
+<A HREF="#ref10-8">1961</A>), ameliorating the outward phenotypic manifestations of a fitness decrement. Certain fitness traits seem to express the genetic damage from 
+irradiation better than others in different experimental designs and under different conditions. Sex ratios apparently do not change in mouse populations under 
+the irradiation and conditions studied, even though it is the only characteristic which showed an apparent change after irradiation of a human population (
+<A HREF="#ref10-33">Neel, 1963</A>).
+
+<CENTER>
+<P><B>SUMMARY</B>
+</CENTER>
+
+<P>Several experiments, chiefly at the Oak Ridge National Laboratory and at the MRC Radiobiological Research Unit at Harwell, have yielded estimates 
+of induced mutation rates in various types of germinal cells of mice exposed to X-rays, &#947;-rays, and neutrons. These experiments have revealed 
+that mutation rates depend on many factors including: sex and cell stage irradiated, type of mutation scored, genotype or strain, and kind, amount, 
+and dose of radiation.
+
+<P>A number of other experiments have been initiated by the desire to predict the effect of irradiating one or more generations on the fitness of a 
+population. Measures of fitness include fertility, numbers and sizes of litters, reproductive life, and lifespan. No clear generalization emerges 
+from the experiments so far reported, except that irradiation of postgonial stages appears to be more detrimental to fitness than irradiation of 
+gonial stages. This does not necessarily mean that gonial stages are less sensitive to radiation damage; possibly the damage is compensated by 
+selection in favor of nonmutated cells.
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref10-1"></A>
+<P>Auerbach, C., D.S. Falconer, and J.H. Isaacson, 1962. 
+Test for sex-linked lethals in irradiated mice. 
+Genet. Res. <B>3:</B> 444-447.
+<!-- MGI:48755 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48755" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-2"></A>
+<P>Batchelor, A.L., R.J.S. Phillips, and A.G. Searle. 1964. 
+High effectiveness of chronic neutron exposures for the induction of specific locus mutations in mice. 
+Nature <B>201:</B> 207-208.
+<!-- 14118294 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14118294" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-3"></A>
+<P>Carter, T.C. 1957<I>a</I>. 
+Recessive lethal mutation induced in the mouse by chronic &#947;-irradiation. 
+Proc. Roy. Soc. B <B>147:</B> 402-411.
+<!-- 13484955 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13484955" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-4"></A>
+<P>Carter, T.C. 1957<I>b</I>. 
+The use of linked marker genes for detecting recessive autosomal lethals in the mouse. 
+J. Genet. <B>55:</B> 585-595.
+
+<A NAME="ref10-5"></A>
+<P>Carter, T.C. 1958. 
+Radiation-induced gene mutation in adult female and foetal male mice. 
+Brit J. Radiol. <B>31:</B> 407-411.
+<!-- 13560745 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13560745" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-6"></A>
+<P>Carter, T.C. 1959. 
+A pilot experiment with mice, using Haldane's method for detecting induced autosomal recessive lethal genes. 
+J. Genet. <B>56:</B> 353-362.
+
+<A NAME="ref10-7"></A>
+<P>Carter, T.C. 1960. 
+Mutation induced in germ cells of the foetal female mouse. 
+Genet. Res. <B>1:</B> 59-61.
+
+<A NAME="ref10-8"></A>
+<P>Carter, T.C., and M.F. Lyon. 1961. 
+An attempt to estimate the induction by X-rays of recessive lethal and visible mutations in mice. 
+Genet. Res. <B>2:</B> 296-305.
+
+<A NAME="ref10-9"></A>
+<P>Carter, T.C., M.F. Lyon, and R.J.S. Phillips. 1956. 
+Induction of mutations in mice by chronic gamma irradiation; interim report. 
+Brit J. Radiol. <B>29:</B> 106-108.
+<!-- 13284251 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13284251" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-10"></A>
+<P>Carter, T.C., M.F. Lyon, and R.J.S. Phillips. 1958. 
+Genetic hazard of ionizing radiation. 
+Nature <B>182:</B> 409.
+<!-- 13577864 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13577864" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-11"></A>
+<P>Carter, T.C., and R.J.S. Phillips. 1952. 
+An experimental attempt to investigate the induction of visible mutations in mice by chronic gamma irradiation, p. 73-81. 
+<I>In</I> A. Haddow [ed.] <I>Biological Hazards of Atomic Energy</I>. Clarendon Press, Oxford.
+
+<A NAME="ref10-12"></A>
+<P>Charles, D.R. 1950. 
+Radiation-induced mutations in mammals. 
+Radiology <B>55:</B> 579-581.
+<!-- 14781366 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14781366" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-13"></A>
+<P>Charles, D.R., J.A. Tihen, E.M. Otis, and A.B. Grobman. 1960. 
+<I>Genetic Effects of Chronic X-irradiation Exposure in Mice</I>. 
+Univ. of Rochester, Atomic Energy Project Rep., UR-565. 354 p.
+<!-- 17248034 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248034" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-15"></A>
+<P>Charles, D.R., J.A. Tihen, E.M. Otis, and A.B. Grobman. 1961. 
+Genetic effects of chronic X-irradiation exposure in mice. 
+Genetics <B>46:</B> 5-8.
+<!-- 17248034 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248034" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-16"></A>
+<P>Ehling, U.H., and M.L. Randolph. 1962. 
+Skeletal abnormalities in the F<SUB>1</SUB> generation of mice exposed to ionizing radiations. 
+Genetics <B>47:</B> 1543-1555.
+<!-- 17248136 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248136" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-17"></A>
+<P>Falconer, D.S. 1949. 
+The estimation of mutation rates from incompletely tested gametes, and the detection of mutations in mammals. 
+J. Genet. <B>49:</B> 226-234.
+
+<A NAME="ref10-18"></A>
+<P>Gowen, J.W., and J. Stadler. 1964. 
+Lifespans of mice as affected by continuing irradiation from Cobalt-60 accumulated ancestrally and under direct irradiation. 
+Genetics <B>50:</B> 1115-1142.
+<!-- MGI:73135 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73135" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-19"></A>
+<P>Green, E.L., and E.P. Les. 1964. 
+Persistence of populations of mice exposed to substerilizing doses of spermatogonial X-irradiation. 
+Genetics <B>50:</B> 497-507. 
+<!-- 14207710 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14207710" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-20"></A>
+<P>Green, E.L., T.H. Roderick, and G. Schlager. 1964. 
+Embryonic mortality in mouse populations after eleven generations of spermatogonial irradiation. 
+Genetics <B>50:</B> 1053-1063.
+<!-- 14234697 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14234697" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-21"></A>
+<P>Green, E.L., G. Schlager, and M.M. Dickie. 1965. 
+Natural mutation rates in the house mouse: plan of study and preliminary estimates. 
+Mutation Res. <B>2:</B> 457-465.
+<!-- 5878266 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->5878266" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-22"></A>
+<P>Griffen, A.B. 1964. The occurrence of chromosomal aberrations in pre-spermatocytic cells of irradiated male mice. 
+II. Cytological studies of sterile and semi-sterile F<SUB>1</SUB> individuals, p. 175-188. 
+<I>In</I> W.D. Carlson and F.X. Gassner [ed.] <I>Proc. Int. Symp. Effects of Ionizing Radiation on the Reproductive System</I>. Pergamon Press, New York.
+
+<A NAME="ref10-23"></A>
+<P>Haldane, J.B.S. 1956. 
+The detection of autosomal lethals in mice induced by mutagenic agents. 
+J. Genet. <B>54:</B> 327-342.
+
+<A NAME="ref10-24"></A>
+<P>Haldane, J.B.S. 1957. 
+Methods for the detection and enumeration of mutations produced by irradiation in mice, p. 35-39. 
+<I>Proc. Int. Genet. Symp. 1956</I>. Science Council of Japan, Ueno Park, Tokyo.
+
+<A NAME="ref10-25"></A>
+<P>Kalmus, H., J.D. Metrakos, and M. Silverberg. 1952. 
+Sex ratio of offspring from irradiated male mice. 
+Science <B>116:</B> 274-275.
+<!-- 12984096 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12984096" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-26"></A>
+<P>Kohn, H.I. 1960. 
+The effect of paternal X-ray exposure on the secondary sex ratio in mice (F<SUB>1</SUB> generation). 
+Genetics <B>45:</B> 771-778.
+<!-- 17247962 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247962" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-27"></A>
+<P>Kohn, H.I., M.L. Epling, P.H. Guttman, and D.W. Bailey. 1965. 
+Effect of paternal (spermatogonial) X-ray exposure in the mouse: Lifespan, X-ray tolerance, and tumor incidence of the progeny. 
+Radiat. Res. <B>25:</B> 423-434.
+<!-- 14295132 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14295132" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-28"></A>
+<P>Lindop, P.J., and J. Rotblat. 1963. 
+Study of the offspring of irradiated mice. Summarized by E.C. Amoroso, p. 408-429. 
+<I>In</I> M. Ebert and A. Howard [ed.] <I>Radiation Effects in Physics, Chemistry and Biology</I>. North-Holland, Amsterdam.
+
+<A NAME="ref10-29"></A>
+<P>Little, C.C., and H.J. Bagg. 1923. 
+The occurrence of two heritable types of abnormality among the descendants of X-rayed mice. 
+Amer. J. Roentgenol. Radiat. Therap. <B>10:</B> 975-989.
+<!-- MGI:63007 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63007" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-30"></A>
+<P>L&#252;ning, K.G., and W. Sheridan. 1964. 
+Dominant effects on productivity in offspring of irradiated mouse populations. 
+Genetics <B>50:</B> 1043-1052.
+
+<A NAME="ref10-31"></A>
+<P>Lyon, M.F. 1960. 
+Effect of X-rays on the mutation of <I>t</I>-alleles in the mouse. 
+Heredity <B>14:</B> 247-252.
+
+<A NAME="ref10-32"></A>
+<P>Lyon, M.F., R.J.S. Phillips, and A.G. Searle. 1964. 
+The overall rates of dominant and recessive lethal and visible mutation induced by spermatogonial X-irradiation of mice. 
+Genet. Res. <B>5:</B> 448-467.
+<!-- MGI:61161 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61161" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-33"></A>
+<P>Neel, J.V. 1963. 
+<I>Changing Perspectives on the Genetic Effects of Radiation</I>. 
+Charles C. Thomas, Springfield, Ill. 97 p.
+
+<A NAME="ref10-34"></A>
+<P>Phillips, R.J.S. 1961. 
+A companion of mutation induced by acute X and chronic gamma irradiation in mice. 
+Brit. J. Radiol. <B>34:</B> 261-264.
+
+<A NAME="ref10-35"></A>
+<P>Phillips, R.J.S., and A.G. Searle. 1964. 
+The effect of dose-rate on the yield of translocations and dominant lethals following spermatogonial irradiation of mice. 
+Genet. Res. <B>5:</B> 468-472.
+
+<A NAME="ref10-36"></A>
+<P>Proshina, A.D. 1961. 
+Comparative characteristics of the fertility of five generations of mice from irradiated males. [Transl. from Russian] 
+Med. Radiol. <B>6:</B> 41-48.
+<!-- 13738225 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13738225" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-37"></A>
+<P>Roderick, T.H. [ed.] 1964. 
+Proceedings of the symposium: The effects of radiation on the hereditary fitness of mammalian populations. 
+Genetics <B>50:</B> 1019-1217.
+
+<A NAME="ref10-38"></A>
+<P>Russell, L.B. 1962. 
+Chromosome aberrations in experimental mammals. 
+Prog. in Med. Genetics <B>2:</B> 230-294.
+
+<A NAME="ref10-39"></A>
+<P>Russell, L.B., and M.H. Major. 1957. 
+Radiation-induced presumed somatic mutations in the house mouse. 
+Genetics <B>42:</B> 161-175.
+<!-- 17247687 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247687" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-40"></A>
+<P>Russell, L.B., and W.L. Russell. 1956. 
+The sensitivity of different stages in oogenesis to the radiation induction of dominant lethals and other changes in the mouse, p. 187-192. 
+<I>In</I> J.S. Mitchell, B.E. Holmes, and C.L. Smith [ed.] <I>Progress in Radiobiology</I>. Proc. 4th Int. Conf. Radiobiol., Cambridge, August, 1955. Oliver and Boyd, London.
+
+<A NAME="ref10-41"></A>
+<P>Russell, W.L. 1951. 
+X-ray-induced mutations in mice. 
+Cold Spring Harbor Symp. Quant. Biol. <B>16:</B> 327-336.
+<!-- 14942747 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14942747" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-42"></A>
+<P>Russell, W.L. 1954. 
+Genetic effects of radiation in mammals, p. 825-859. 
+<I>In</I> A. Hollender [ed.] Radiation biology. Vol. 1, Part 2. McGraw-Hill, New York.
+
+<A NAME="ref10-43"></A>
+<P>Russell, W.L. 1956. 
+Radiation-induced mutations in the mouse, p. 25. 
+US AEC Report ORNL-2155, Oak Ridge National Laboratory.
+
+<A NAME="ref10-44"></A>
+<P>Russell, W.L. 1957. 
+Shortening of life in the offspring of male mice exposed to neutron radiation from an atomic bomb. 
+Proc. Nat. Acad. Sci. <B>43:</B> 324-329.
+<!-- 16578471 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16578471" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-45"></A>
+<P>Russell, W.L. 1962. 
+An augmenting effect of dose fractionation on radiation-induced mutation rate in mice. 
+Proc. Nat. Acad. Sci. <B>48:</B> 1724-1724.
+<!-- 13975654 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13975654" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-46"></A>
+<P>Russell, W.L. 1963. 
+The effect of radiation dose rate and fractionation on mutation in mice, p. 205-217. 
+<I>In</I> F. Sobels [ed.] <I>Repair from Genetic Radiation Damage</I>. 
+Pergamon Press, New York.
+
+<A NAME="ref10-47"></A>
+<P>Russell, W.L. 1965. Evidence from mice concerning the nature of the mutation process, p. 257-264. 
+<I>In</I> S.J. Geerts [ed.] Proc. XI Int. Congr. Genet. (The Hague, 1963) Vol. 2. Pergamon Press, New York.
+<!-- MGI:63098 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63098" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-48"></A>
+<P>Russell, W.L., J. W. Bangham, and J.S. Gower. 1958. 
+Comparison between mutations induced in spermatogonial and postspermatogonial stages in the mouse. 
+Proc. X Int. Congr. Genet. <B>2:</B> 245-246. (Abstr.)
+
+<A NAME="ref10-49"></A>
+<P>Russell, W.L., and E.M. Kelly. 1964<I>a</I>. 
+Relative biological effectiveness of neutron to X-ray induction of gene mutations in mouse postspermatogonial stages. 
+Semiannual Prog. Rep., Biol. Div., Oak Ridge Nat. Lab. <B>3601:</B> 83-85.
+
+<A NAME="ref10-50"></A>
+<P>Russell, W.L., and E.M. Kelly. 1964<I>b</I>. 
+Neutron-induced mutation in mouse spermatogonia. Lack of effect of dose rate. Relative biological effectiveness of neutrons. 
+Semiannual Prog. Rep., Biol. Div., Oak Ridge Nat. Lab. <B>3700:</B> 83-85.
+
+<A NAME="ref10-51"></A>
+<P>Russell, W.L., and L.B. Russell. 1959<I>a</I>. 
+Radiation-induced genetic damage in mice, p. 179-188. 
+<I>In</I> J.G. Bugher, J. Coursaget, and J.F. Loutit [ed.] <I>Prog. in Nuclear Energy, Ser. 6, Biol. Sci</I>. Pergamon Press, New York.
+
+<A NAME="ref10-52"></A>
+<P>Russell, W.L., and L.B. Russell. 1959<I>b</I>. 
+The genetic and phenotypic characteristics of radiation-induced mutations in mice. 
+Radiat. Res., Suppl. <B>1:</B> 296-305.
+
+<A NAME="ref10-53"></A>
+<P>Russell, W.L., L.B. Russell, and E.M. Kelly. 1960. 
+Dependence of mutation rate on radiation intensity, p. 311-320. 
+<I>In</I>: <I>Immediate and Low Level Effects of Ionizing Radiations: Conference held in Venice, June, 1959</I>. 
+Int. J. Radiat. Biol. Spec. Suppl.
+
+<A NAME="ref10-54"></A>
+<P>Searle, A.G. 1964<I>a</I>. 
+Effects of low-level irradiation on fitness and skeletal variation in an inbred mouse strain. 
+Genetics <B>50:</B> 1159-1178.
+<!-- 14234703 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14234703" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-55"></A>
+<P>Searle, A.G. 1964<I>b</I>. 
+Genetic effects of spermatogonial X-irradiation on productivity of F<SUB>1</SUB> female mice. 
+Mutation Res. <B>1:</B> 99-108.
+<!-- 14198535 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14198535" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-56"></A>
+<P>Searle, A.G., and R.J.S. Phillips, 1964. 
+Genetic effects of neutron irradiation in mice, p. 361-370. 
+<I>In</I> <I>Biological Effects of Neutron and Proton Irradiation. Vol 1</I>. Int. Atomic Energy Agency, Vienna.
+<!--  x  -->
+
+<A NAME="ref10-57"></A>
+<P>Snell, G.D. 1935. 
+The induction by X-rays of hereditary changes in mice. 
+Genetics <B>20:</B> 545-567.
+<!-- 17246776 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17246776" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-58"></A>
+<P>Snell, G.D. 1939. 
+The induction by irradiation with neutrons of hereditary changes in mice. 
+Proc. Nat. Acad. Sci. <B>25:</B> 11-14.
+<!-- 16577862 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16577862" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-59"></A>
+<P>Snell, G.D. 1945. 
+The detection of mutations. Relative efficiency of various systems of brother-sister inbreeding in mice. 
+J. Hered. <B>36:</B> 275-278.
+
+<A NAME="ref10-60"></A>
+<P>Snell, G.D., and P.C. Aebersold. 1937. 
+The production of sterility in male mice by irradiating with neutrons. 
+Proc. Nat. Acad. Sci. <B>23:</B> 374-378.
+<!-- 16588167 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16588167" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-61"></A>
+<P>Spalding, J.F. 1964. 
+Longevity of first and second generation offspring from male mice exposed to fission neutrons and gamma rays, p. 147-152. 
+<I>In</I> W.D. Carlson and F.X. Gassner [ed.] <I>Proc. Int. Symp. Effects of Ionizing Radiation on the Reproductive System</I>. Pergamon Press, New York.
+
+<A NAME="ref10-62"></A>
+<P>Spalding, J.F., M. Brooks, and P. McWilliams. 1964. 
+Observations on lifespan, radioresistance, and productivity in offspring from 5 to 25 generations of X-irradiated male mice. 
+Genetics <B>50:</B> 1179-1186.
+<!-- MGI:1346897 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1346897" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-63"></A>
+<P>Sugahara, T. 1964. 
+Genetic effects of chronic irradiation given to mice through three successive generations. 
+Genetics <B>50:</B> 1143-1158.
+<!-- 14234702 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14234702" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-64"></A>
+<P>Touchberry, R.W., and F.A. Verley. 1964. 
+Some effects of an inbred and a hybrid population of mice. 
+Genetics <B>50:</B> 1187-1209.
+
+<A NAME="ref10-65"></A>
+<P>Woolf, B. 1954. 
+Estimation of mutation rates. I. Visible recessive characters detected in inbred lines maintained by single sib-matings. 
+J. Genet. <B>52:</B> 332-353.
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter9.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter11.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

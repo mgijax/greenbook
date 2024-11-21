@@ -1,0 +1,524 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 16-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 16 -->
+
+<CENTER>
+
+<H3>Table 16-1. QUANTITATIVE SERUM CHARACTERISTICS</H3> 
+
+<P><TABLE>
+
+<TR><TD COLSPAN=17><HR></TD></TR>
+
+<TR>
+<TD COLSPAN=3 VALIGN=BOTTOM>Strain</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN=BOTTOM>Genotype</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN=BOTTOM>No.<BR>obs.</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD COLSPAN=5 VALIGN=BOTTOM ALIGN=CENTER>Total<BR>serum protein,<BR>g/100 ml<BR>(mean and S.E.)</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN=BOTTOM>Specific<BR>gravity</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN=BOTTOM ALIGN=CENTER>Reference</TD>
+</TR>
+
+<TR><TD COLSPAN=17><HR></TD></TR>
+
+<TR>
+<TD>Balb/Gw</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+
+
+<TD>6.22</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.07</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>CBA/Strong</TD>
+<TD COLSPAN=13>&nbsp;</TD>
+<TD>1.060</TD>
+<TD>&nbsp;</TD>
+<TD>Dougherty and White (
+<A HREF="#ref16-13">1944</A>)</TD>
+</TR>
+
+<TR>
+<TD>C3H</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>3.99</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>Gleason and Friedberg (
+<A HREF="#ref16-20">1953</A>)</TD>
+</TR>
+
+<TR>
+<TD>C3H</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>6.1</TD>
+<TD>&nbsp;</TD>
+<TD>to</TD>
+<TD>&nbsp;</TD>
+<TD>6.7</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Rask-Nielsen <I>et al.</I> (
+<A HREF="#ref16-49">1960</A>)</TD>
+</TR>
+
+<TR>
+<TD>E</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>6.83</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.07</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>K</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>6.19</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.04</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>LGW</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>6.20</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.05</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>pHH</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>4.94</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>Dolyak and Weir (
+<A HREF="#ref16-12">1956</A>)</TD>
+</TR>
+
+<TR>
+<TD>pHL</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>5.05</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>Dolyak and Weir (
+<A HREF="#ref16-12">1956</A>)</TD>
+</TR>
+
+<TR>
+<TD>RI</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>5.96</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.07</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>S</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>6.20</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.03</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>Z</TD>
+<TD COLSPAN=7>&nbsp;</TD>
+<TD>5.81</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.13</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD>Thompson <I>et al.</I> (
+<A HREF="#ref16-63">1954</A>)</TD>
+</TR>
+
+<TR>
+<TD>C57BL/6J</TD>
+<TD>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>24</TD>
+<TD>&nbsp;</TD>
+<TD>5.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0211</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>25</TD>
+<TD>&nbsp;</TD>
+<TD>5.2</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0219</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856378" target="_blank">ja</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>23</TD>
+<TD>&nbsp;</TD>
+<TD>4.8</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0205</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856378" target="_blank">ja</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>17</TD>
+<TD>&nbsp;</TD>
+<TD>5.4</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0222</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856181" target="_blank">ha</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>17</TD>
+<TD>&nbsp;</TD>
+<TD>5.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0225</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856181" target="_blank">ha</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>15</TD>
+<TD>&nbsp;</TD>
+<TD>5.3</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0221</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD>DBA/2J</TD>
+<TD>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>22</TD>
+<TD>&nbsp;</TD>
+<TD>5.4</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0223</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856181" target="_blank">ha</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>17</TD>
+<TD>&nbsp;</TD>
+<TD>5.3</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0221</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD>WC/Re</TD>
+<TD>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>24</TD>
+<TD>&nbsp;</TD>
+<TD>5.7</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0233</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+/+</TD>
+<TD>&nbsp;</TD>
+<TD>19</TD>
+<TD>&nbsp;</TD>
+<TD>6.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0239</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856266" target="_blank">W<SUP>v</SUP></A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>20</TD>
+<TD>&nbsp;</TD>
+<TD>4.8</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0205</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>female</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856161" target="_blank">Sl</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>23</TD>
+<TD>&nbsp;</TD>
+<TD>5.5</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0225</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD>male</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:1856161" target="_blank">Sl</A></I>/+</TD>
+<TD>&nbsp;</TD>
+<TD>22</TD>
+<TD>&nbsp;</TD>
+<TD>6.0</TD>
+<TD>&nbsp;</TD>
+<TD>+/-</TD>
+<TD>&nbsp;</TD>
+<TD>0.1</TD>
+<TD>&nbsp;</TD>
+<TD>1.0239</TD>
+<TD>&nbsp;</TD>
+<TD>Bernstein (original data)</TD>
+</TR>
+
+<TR><TD COLSPAN=17><HR></TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<A NAME="ref16-12"></A>
+<P>Dolyak, F., and J.A. Weir. 1956. 
+Electrophoretic analysis of the serum proteins of high and low blood-pH line of mice. 
+Trans. Kansas Acad. Sci. <B>59:</B> 346-350.
+
+<A NAME="ref16-13"></A>
+<P>Dougherty, T.F., and A. White. 1944. 
+Influence of hormones on lymphoid tissue structure and function. 
+Endocrinology <B>35:</B> 1-14.
+
+<A NAME="ref16-20"></A>
+<P>Gleason, T.L., and F. Friedberg. 1953. 
+Filter paper electrophoresis of serum proteins from small animals. 
+Physiol. Zool. <B>26:</B> 95-100.
+
+<A NAME="ref16-49"></A>
+<P>Rask-Nielsen, R., J. Clausen, and H.E. Christensen. 1960. 
+Biochemical changes in experimental amyloidosis. II. Paper electrophoretic investigations on serum and urine from mice with experimental amyloidosis, p. 190-195. 
+<I>In</I> <I>Protides of the Biological Fluids. Proc. 2nd Colloq. Bruges, 1959</I>. Elsevier, Amsterdam.
+
+<A NAME="ref16-63"></A>
+<P>Thompson, S., J.F. Foster, J.W. Gowen, and O.E. Tauber. 1954. 
+Hereditary differences in serum proteins of normal mice. 
+Proc. Soc. Exp. Biol. Med. <B>87:</B> 315-317.
+<!-- MGI:63158 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:63158" target="_blank">MGI</A></I>.
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

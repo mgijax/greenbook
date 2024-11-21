@@ -1,0 +1,2535 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 25 - Cell, Tissue, and Organ Culture</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, cell, tissue, organ culture, carcinogenesis, genetic variation">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter24.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter26.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>25</H1>
+<H2><I>Cell, Tissue, and Organ Culture</I></H2>
+<H3>Charity Waymouth</H3>
+
+<P>The principal purpose of cell, tissue and organ culture is to isolate, at each level of organization, the parts from the whole organism for study in 
+experimentally controlled environments. It is characteristic of intact organisms that a high degree of interrelationship exists and interaction occurs 
+between the component parts. Cultivation <I>in vitro</I> places cells beyond the effects of the organism as a whole and of the products of all cells other 
+than those introduced into the culture. Artificial environments may be designed to imitate the natural physiological one, or varied at will by the deliberate 
+introduction of particular variables and stresses.
+
+<P>Virtually all types of cells or aggregates of cells may be studied in culture. Living cells can be examined by cinephotomicrography, and by direct, 
+phase-contrast, interference, fluorescence, or ultraviolet microscopy. Fixed cells from culture are suitable for cytological, cytochemical, histological, 
+histochemical, and electron microscopical study. Populations of cells from monolayers or suspension cultures are used for nutritional, biochemical, and immunological work.
+
+<P>Organ culture, the cultivation of whole organs or parts thereof, is particularly suitable for studies of development, of inductive interactions, and 
+of the effects of chemical and physical agents upon the physiological functions of specific organs.
+
+<P>Both cell and organ culture have applications in pathology, <I>e.g.</I>, for comparative, developmental, and diagnostic studies of tissues from normal and 
+diseased donors, for investigations on carcinogenesis, somatic cell genetic variation, viral susceptibility, etc. Cell cultures are widely used in 
+microbiological studies, for investigations of the effects of radiation, and for screening drugs, especially carcinogenic, mutagenic, and radiomimetic agents.
+
+<P>Cell nutrition has been generally excluded from material selected for this chapter, since this topic has been fully reviewed elsewhere (Waymouth, 
+<A HREF="#ref25-265">1954</A>, 
+<A HREF="#ref25-266">1960</A>, 
+<A HREF="#ref25-267">1965</A>). The researchers to be referred to here have been chosen because they (1) contribute significantly to our understanding of the biology 
+of the mouse, as distinguished from observations of general interest in cell biology (<I>e.g.</I>, the use of mouse cells for testing or screening drugs or carcinogens), 
+(2) refer to cells obtained from inbred strains of mice or from mutants, or (3) suggest application to such cells.
+
+<P><B>CELL AND TISSUE CULTURES</B>
+
+<P><B>Techniques</B>
+
+<P>Tissues were first cultured before the turn of the century and since that time a multitude of techniques, each designed for the solution of a particular problem, 
+has been devised. Basic information on technical procedures and their numerous applications in mammalian biology may be found in the textbooks of Parker (
+<A HREF="#ref25-201">1961</A>), Paul (
+<A HREF="#ref25-204">1961</A>), White (
+<A HREF="#ref25-273">1963</A>), and Merchant <I>et. al. </I> (
+<A HREF="#ref25-185">1964</A>). Other reviews include those edited by White (
+<A HREF="#ref25-272">1957</A>) and Stevenson (
+<A HREF="#ref25-249">1962</A>); a number particularly emphasizing cell nutrition by Stewart and Kirk (
+<A HREF="#ref25-250">1954</A>), Waymouth (
+<A HREF="#ref25-265">1954</A>, 
+<A HREF="#ref25-266">1960</A>, 
+<A HREF="#ref25-267">1965</A>), Hanks (
+<A HREF="#ref25-116">1955</A>), Biggers <I>et al.</I> (
+<A HREF="#ref25-24">1957</A>), Geyer (
+<A HREF="#ref25-95">1958</A>), Morgan (
+<A HREF="#ref25-193">1958</A>), Swim (
+<A HREF="#ref25-251">1959</A>), Paul (
+<A HREF="#ref25-203">1960</A>); and one dealing principally with cell biochemistry by Levintow and Eagle (
+<A HREF="#ref25-165">1961</A>). The <I>Bibliography of the Research in Tissue Culture, 1884-1950</I> (
+<A HREF="#ref25-196">Murray and Kopech, 1953</A>) covers the literature of that period very completely, and keys to papers in tissue culture for the years 1961 onwards are 
+to be published (Murray and Kopech, 
+<A HREF="#ref25-197">1965</A>, 
+<A HREF="#ref25-198">1966</A>).
+
+<P><B>Principal cell types</B>
+
+<P>Although the chick embryo was the most generally used source of material for cultivation in the period 1910 to 1940, tissues of the embryonic and adult mouse 
+have gained favor spectacularly since 1940, particularly since the introduction of antibiotics, which have reduced the need for strictly aseptic techniques in some 
+types of experiment. The extensive cultivation of mouse cells owes much to the pioneering work of Earle, Evans, Sanford, and their colleagues at the National Cancer 
+Institute. Among the major contributions of this group have been the improvement and standardization of techniques, including mass-culture methods and nutrition by 
+chemically defined media, the development of cell lines and clones, the comparative study of the cytological and biochemical properties of long-established cell lines, 
+and the investigation of malignant transformation <I>in vitro</I>.
+
+<P>Each of the basic cell types (fibrocytes or mechanocytes, epitheliocytes, and amebocytes (Willmer, 
+<A HREF="#ref25-280">1960<I>a</I></A>, 
+<A HREF="#ref25-281">1960<I>b</I></A>)) has its special characteristics <I>in vitro</I>. Experience has shown that it is important, when describing cells grown <I>in vitro</I>, 
+to give details of the species, age, and sex of the source of the cells, the tissue of origin, and to state whether they are normal or neoplastic. Cells and tissues 
+freshly isolated from the animal are designated "primary cultures" (
+<A HREF="#ref25-69">Fedoroff, 1966</A>). A "primary cell line" refers to a population of cells derived by 
+direct isolation from an animal and is not necessarily capable of serial propagation indefinitely. An established cell line refers to a population of cells which has 
+been serially transplanted at least 60 time <I>in vitro</I>. Primary or established cell lines or cell strains should receive designations according to the principles 
+recommended by the 1957 International Tissue Culture Meeting (
+<A HREF="#ref25-3">Anon., 1958</A>; 
+<A HREF="#ref25-202">Paul, 1958</A>; 
+<A HREF="#ref25-69">Fedoroff, 1966</A>).
+
+<P><B>Applications of cell culture</B>
+
+<P>Only a few representative examples of the use of cell cultures in mouse biology can be cited.
+
+<P>The mitotic process and its modification by stimulants or suppressors have been studied in many cell types (
+<A HREF="#ref25-77">Fell and Hughes, 1949</A>). Exact chromosome counts, to establish the degree of divergence from diploidy, have been made on 
+10-day fetal mouse cells in culture by Hungerford (
+<A HREF="#ref25-133">1955</A>). The chromosome complements of newborn and adult mice can be counted, without killing the animals, in primary 
+tissue cultures of tail tips or ear fragments (
+<A HREF="#ref25-61">Edwards, 1961</A>). The mitotic cycle has been analyzed by Defendi and Manson (
+<A HREF="#ref25-52">1963</A>), actinomycin D-resistant and -sensitive systems or RNA synthesis identified by Paul and Struthers (
+<A HREF="#ref25-205">1963</A>), and the duration of the DNA synthetic period of mouse somatic cells shown to be probably constant (
+<A HREF="#ref25-32">Cameron, 1964</A>).
+
+<P>Visible light (Earle, 
+<A HREF="#ref25-55">1928<I>a</I></A>, 
+<A HREF="#ref25-56">1928<I>b</I></A>, 
+<A HREF="#ref25-57">1928<I>c</I></A>; 
+<A HREF="#ref25-86">Fr&#233;d&#233;ric, 1954</A>) has some inhibitory effects upon living cells. The lethal effects of X-irradiation can be quantified on mouse cells (
+<A HREF="#ref25-214">Reid and Gifford, 1952</A>), and the effects of radiation upon cell constituents (
+<A HREF="#ref25-277">Whitmore <I>et al.</I>, 1958</A>) and upon DNA and RNA synthesis (
+<A HREF="#ref25-274">Whitfield and Rixon, 1959</A>; 
+<A HREF="#ref25-257">Till, 1961<I>a</I></A>) can be studied. Also methods of chemical protection of irradiated cells (
+<A HREF="#ref25-276">Whitfield <I>et al.</I>, 1962</A>) can be applied. X-ray-induced chromosome aberrations can be analyzed (
+<A HREF="#ref25-39">Chu and Monesi, 1960</A>). Ultraviolet light, which inhibits cell division is strain L cells, does not significantly affect DNA synthesis (
+<A HREF="#ref25-275">Whitfield <I>et al.</I>, 1961</A>). The survival of irradiated cells can be compared <I>in vivo</I> and <I>in vitro</I>, 
+as has been done by McCulloch and Till (
+<A HREF="#ref25-182">1962</A>) for mouse bone marrow exposed to Co<SUP>60</SUP> &#947;-rays.
+
+<P>Differentiation at the cellular level has mostly been studied in organ, rather than cell, cultures. However, Ginsburg (
+<A HREF="#ref25-97">1963</A>) has seen the differentiation of mouse thymus lymphoid cells into mast cells, which can be produced in large numbers and grown in suspension (
+<A HREF="#ref25-98">Ginsburg and Sachs, 1963</A>). Muscle differentiation can also be followed in tissue culture, and the tissue culture technique has been applied by Pearce (
+<A HREF="#ref25-206">1963</A>) to the study of muscular dystrophy.
+
+<P>The uses of tissue culture in the study of cancer have been reviewed by Murray (
+<A HREF="#ref25-195">1959</A>). More recent work includes that of Mitsutani <I>et al.</I> (
+<A HREF="#ref25-191">1960</A>) on the development of a near-diploid cell strain from a smoke condensate-induced leiomyosarcoma 
+in a male C3H mouse and that of Fernandes and Koprowska (
+<A HREF="#ref25-80">1963</A>) on cell lines from normal cervix uteri of C3H mice and on cells from uteri treated for varying lengths of time with benzpyrene.
+
+<P>Comparison of enzyme activities in cells in culture with those from the mouse have been made (<I>e.g.</I>, of &#946;-galactosidase by 
+<A HREF="#ref25-175">Maio and Rickenberg, 1960</A>). Estimations of &#946;-glucuronidase in cell lines from C3H mice (which have a lower activity in respect 
+of this enzyme than most inbred mouse strains, especially in their livers) have demonstrated that most cell lines have activities many times higher than those 
+of the highest activity mouse livers (
+<A HREF="#ref25-143">Kuff and Evans, 1961</A>). On the other hand, mouse cell strains after long cultivation <I>in vitro</I> seem uniformly to have a very low catalase activity 
+in comparison with freshly isolated mouse tissue (
+<A HREF="#ref25-208">Peppers <I>et al.</I>, 1960</A>). Long-term cultures of fibroblasts seem to undergo greater 
+variations in enzyme content than, of example, liver cells. Westfall <I>et al.</I> (
+<A HREF="#ref25-271">1958</A>) found that the arginase and rhodanese activities in liver cell lines were high, as in the tissue of origin, but that fibroblast lines varied widely in 
+the activities of one or both of these enzymes. This variation may be related to Klein's (
+<A HREF="#ref25-139">1960</A>, 
+<A HREF="#ref25-140">1961</A>) experience that induction of arginase depends upon other factors than the substrate. In most cases arginase induction requires the presence of RNA 
+as well as arginase. The enzyme patterns of established cell strains are among the most useful traits for characterizing cells in culture (
+<A HREF="#ref25-270">Westfall, 1962</A>; 
+<A HREF="#ref25-42">Conklin <I>et al.</I>, 1962</A>).
+
+<P><B>Stable and unstable characters of cell cultures</B>
+
+<P><B><I>Cloning.</I></B> In certain respects cells cultivated <I>in vitro</I> exhibit considerable stability; in others they undergo extensive alterations from the 
+parent cells. Cloning &#151; the process of deriving a population of cells from a single cell &#151; has enabled cell lines of common origin to be followed and has given 
+many new insights into the potentialities of cells and into the circumstances under which they retain or lose characteristics derived from their parents (
+<A HREF="#ref25-228">Sanford <I>et al.</I>, 1948</A>; 
+<A HREF="#ref25-124">Hobbs <I>et al.</I>, 1957</A>; 
+<A HREF="#ref25-225">Sanford <I>et al.</I>, 1961<I>b</I></A>).
+
+<P><B><I>Variations within clones.</I></B> The many cell lines and clones established from C3H mice by Sanford <I>et al.</I> (
+<A HREF="#ref25-235">1961<I>e</I></A>) usually underwent morphological, biochemical, and chromosomal changes quite early in the culture history. But, once established, many of the 
+characteristics were of remarkable stability and persisted over many years of serial cultivation. A clone of sarcoma-producing cells (originating from normal C3H connective 
+tissue) gave rise to "high" and "low" sarcoma-producing lines (
+<A HREF="#ref25-231">Sanford <I>et al.</I>, 1954</A>; 
+<A HREF="#ref25-233">Sanford <I>et al.</I>, 1958</A>), and sublines of these were characterized by widely differing patterns of chromosome number and character (
+<A HREF="#ref25-40">Chu <I>et al.</I>, 1958</A>), of several enzyme activities (
+<A HREF="#ref25-222">Sanford, 1958</A>; 
+<A HREF="#ref25-271">Westfall <I>et al.</I>, 1958</A>; 
+<A HREF="#ref25-234">Sanford <I>et al.</I>, 1959</A>; 
+<A HREF="#ref25-238">Scott <I>et al.</I>, 1960</A>; 
+<A HREF="#ref25-208">Peppers <I>et al.</I>, 1960</A>; 
+<A HREF="#ref25-235">Sanford <I>et al.</I>, 1961<I>e</I></A>), and of glycolytic activity (
+<A HREF="#ref25-284">Woods <I>et al.</I>, 1959</A>).
+
+<P><B><I>Stable characteristics of cell lines.</I></B> Some functions persist over many transplant generations in culture. These include the production of melanin by a mouse melanoma (
+<A HREF="#ref25-232">Sanford <I>et al.</I>, 1952</A>) and of steroids by an adrenal tumor (
+<A HREF="#ref25-236">Sato and Buonassisi, 1961</A>) and the synthesis of 5-hydroxytyrptamine, histamine, and heparin by the mouse mast-cell tumor P-815 (
+<A HREF="#ref25-54">Dunn and Potter, 1957</A>; 
+<A HREF="#ref25-237">Schindler <I>et al.</I>, 1959</A>; 
+<A HREF="#ref25-101">Green and Day, 1960</A>; 
+<A HREF="#ref25-49">Day and Green, 1962</A>). The polynucleotide sequences of DNA characteristic of the mouse are retained in L cells after more than 20 years 
+<I>in vitro</I> in spite of the very abnormal karyotype exhibited (
+<A HREF="#ref25-181">McCarthy and Hoyer, 1964</A>).
+
+<P><B><I>Immunological characteristics.</I></B> Immunological specificity persists over very long periods of cultivation in homologous, heterologous, or chemically defined media, 
+particularly mouse-strain specificity in tumors cultivated <I>in vitro</I>. Immunological methods have been used for species identification of cells in culture (
+<A HREF="#ref25-44">Coombs <I>et al.</I>, 1961</A>; 
+<A HREF="#ref25-43">Coombs, 1962</A>; 
+<A HREF="#ref25-68">Fedoroff, 1962</A>; 
+<A HREF="#ref25-31">Brand and Syverton, 1962</A>), for studying antigenic differences between cell lines (
+<A HREF="#ref25-45">Coriell <I>et al.</I>, 1958</A>; 
+<A HREF="#ref25-138">Kite and Merchant, 1961</A>; 
+<A HREF="#ref25-183">McKenna and Blakemore, 1962</A>), and for identification of particular antigens, such as the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95894" target="_blank"><I>H-2</I></A> 
+transplantation antigen (Manson <I>et al.</I>, 
+<A HREF="#ref25-176">1962<I>a</I></A>, 
+<A HREF="#ref25-177">1962<I>b</I></A>; Cann and Herzenberg, 
+<A HREF="#ref25-33">1963<I>a</I></A>, 
+<A HREF="#ref25-34">1963<I>b</I></A>).
+
+<P><B><I>Neoplastic transformations.</I></B> It has been repeatedly observed that cells of normal origin undergo malignant change after more or less prolonged cultivation <I>in vitro</I> (
+<A HREF="#ref25-59">Earle and Nettleship, 1943</A>; 
+<A HREF="#ref25-229">Sanford <I>et al.</I>, 1950</A>; 
+<A HREF="#ref25-66">Evans <I>et al.</I>, 1958</A>; Sanford <I>et al.</I>, 
+<A HREF="#ref25-227">1961<I>d</I></A>, 
+<A HREF="#ref25-235">1961<I>e</I></A>). Neoplastic transformation of cells originating from normal tissues and the maintenance or loss of the capacity to produce tumors on transplantation into 
+suitable hosts have been intriguing problems illustrating the range of capabilities of the cell. Many of these transformations have been "spontaneous" (<I>i.e.</I>, unexplained) (
+<A HREF="#ref25-59">Earle and Nettleship, 1943</A>; Sanford, 
+<A HREF="#ref25-271">1958</A>, 
+<A HREF="#ref25-223">1962</A>; 
+<A HREF="#ref25-66">Evans <I>et al.</I>, 1958</A>; 
+<A HREF="#ref25-234">Sanford <I>et al.</I>, 1959</A>; 
+<A HREF="#ref25-242">Shelton <I>et al.</I>, 1963</A>). Others have been deliberately induced by chemical carcinogens (
+<A HREF="#ref25-58">Earle, 1943</A>; 
+<A HREF="#ref25-60">Earle <I>et al.</I>, 1950</A>; 
+<A HREF="#ref25-229">Sanford <I>et al.</I>, 1950</A>; 
+<A HREF="#ref25-241">Shelton and Earl, 1951</A>; 
+<A HREF="#ref25-19">Berwald and Sachs, 1963</A>) or by viruses (
+<A HREF="#ref25-48">Dawe and Law, 1959</A>; 
+<A HREF="#ref25-53">Dulbecco and Vogt, 1960</A>; 
+<A HREF="#ref25-264">Vogt and Dulbecco, 1960</A>; 
+<A HREF="#ref25-226">Sanford <I>et al.</I>, 1961<I>c</I></A>; 
+<A HREF="#ref25-220">Sachs and Medina, 1961</A>; 
+<A HREF="#ref25-207">Pearson, 1962</A>).
+
+<P>Tumors retain their capacity to grow in histocompatible hosts and in general do not acquire the ability to transcend histocompatibility barriers, except after being stored at -70&#176;C (
+<A HREF="#ref25-194">Morgan <I>et al.</I>, 1956</A>), though some degree of immunological incompatibility can develop in long-term cultures (Sanford <I>et al.</I>, 
+<A HREF="#ref25-231">1954</A>, 
+<A HREF="#ref25-230">1956</A>). Strains of cells, originating from normal cells and acquiring within one or two years the ability to produce tumors, may undergo a progressive reduction in 
+tumor-producing capacity after several more years <I>in vitro</I> (
+<A HREF="#ref25-60">Earle <I>et al.</I>, 1950</A>). The cells with reduced tumor-producing ability could, however, grow 
+in animals which had received X-irradiation (
+<A HREF="#ref25-230">Sanford <I>et al.</I>, 1956</A>). The strain L, for example, after 10 year <I>in vitro</I> could produce tumors in 15 per cent of unirradiated and in 64 per cent of irradiated C3H hosts. 
+This raises the question whether to progressive immunological incompatibility is due to changes in the cell line or to changes in the inbred strain over the period of 10 or more years since 
+the cell isolation. After 13 years the L cells retained their C3H specificity, <I>i.e.</I>, would not grow in any of several other strains of mice. The differences in the "high" and "low" 
+cancer-producing lines, both of which produce some immunity in C3H mice, and the fact that the "low" line will grow in irradiated C3H hosts, led to the conclusion (
+<A HREF="#ref25-230">Sanford <I>et al.</I>, 1958</A>) that the faster-growing "high" tumor line can establish a tumor before resistance develops in the host. Cell strains and derived single-cell clones, 
+established in culture from C3H carcinomas carrying mammary tumor agent, were found to vary in the persistence of the agent. In some cell strains the agent was demonstrable after 6 to 12 months 
+of rapid cell proliferation <I>in vitro</I>; in others the agent disappeared (
+<A HREF="#ref25-224">Sanford <I>et al.</I>, 1961<I>a</I></A>).
+
+<P><B><I>Experimental control of malignant change.</I></B> Attempts have been made to place the "spontaneous" transformation of normal to malignant cells 
+under experimental control. Evans <I>et al.</I> (
+<A HREF="#ref25-67">1964</A>) have followed the progressive changes in cultures initiated from minced C3H embryos by testing their ability to produce tumors on intraocular implantation. No tumors resulted 
+from a limited number of cultures grown for up to 211 days in a chemically defined medium. Cells grown in a medium supplemented with 10 per cent horse serum were able to produce tumors from about 120 days.
+
+<P>Barski and Cassigena (
+<A HREF="#ref25-14">1963</A>) aimed to produce parallel malignant and nonmalignant cell lines from adult female C57BL lung, analogous to 
+the spontaneously derived parallel C3H lines of Sanford <I>et al.</I> (
+<A HREF="#ref25-229">1950</A>), for use in their studies of cell hybridization (see below). Such pairs of lines were derived, one from a culture frequently subcultured with the aid of trypsin, the other from 
+a less frequently transferred culture, subcultured by mechanical dispersion and not exposed to trypsin. Both lines early became aneuploid (mean chromosome number in both cell lines at the 10th passage 
+of the trypsinized line and the sixth passage of the nontrypsinized line was 68). The trypsinized line (PT) was highly malignant from the 16th passage (184 days), whereas the nontrypsinized line (PG) 
+was not malignant up to the 37th passage (436 days). Further evidence is needed to determine whether the differences in morphology and malignancy are 
+causatively related to the trypsin treatment. Todaro and Green (
+<A HREF="#ref25-259">1963</A>) suggested that the process of establishment of cell lines may require a reduction in the "leakiness" of cells to small molecules, and trypsin treatment increases the "leakiness" (
+<A HREF="#ref25-209">Phillips and Terryberry, 1957</A>; 
+<A HREF="#ref25-174">Magee <I>et al.</I>, 1958</A>).
+
+<P><B><I>Sarcomatous change in carcinomas.</I></B> Tissue cultures have contributed to the elucidation of the well-known "sarcomatous change" frequently observed in transplanted carcinomas. In an 
+extensive study Sanford <I>et al.</I> (
+<A HREF="#ref25-227">1961<I>d</I></A>) examined 18 different cell strains derived from C3H mammary gland tumors. In general, tumors maintained in culture for up to 25 
+weeks grew as differentiated mammary carcinomas on retransplantation into mice. Cells transplanted after this time grew as sarcomalike tumors. It appeared that tumors which had been carried in 
+mouse serial passage were morphologically more stable than primary tumors put into culture. The "sarcomatous change" was apparently not a unitary process. In some instances, with hepatomas, melanomas, 
+and thyroid tumors (
+<A HREF="#ref25-232">Sanford <I>et al.</I>, 1952</A>), as well as with mammary tumors, the stroma may undergo malignant change. In other cases, the carcinoma cells themselves change morphologically and assume a 
+fibroblastic appearance. The opposite change (from fibroblastic to epithelioid cell types) has been studied in malignant origin by Ludovici <I>et al.</I> (
+<A HREF="#ref25-172">1962<I>a</I></A>, 
+<A HREF="#ref25-173">1962<I>b</I></A>), who produced a significantly higher (64 per cent) proportion of cultures showing this alteration by treatment with a trypsin-antibiotic mixture, than was seen in controls 
+not so treated (7 per cent).
+
+<P><B><I>Chromosomal variation and somatic cell genetics.</I></B> Nutrient-dependent and nutrient-independent, drug-resistant and drug-sensitive, radiation-resistant and radiation-sensitive clones (
+<A HREF="#ref25-122">Hauschka, 1957</A>; 
+<A HREF="#ref25-70">Fedoroff and Cook, 1959</A>; 
+<A HREF="#ref25-81">Fisher, 1959</A>; 
+<A HREF="#ref25-129">Hsu and Kellogg, 1959</A>; 
+<A HREF="#ref25-20">Biesele <I>et al.</I>, 1959</A>; 
+<A HREF="#ref25-218">Roosa and Herzenberg, 1959</A>; 
+<A HREF="#ref25-127">Hsu, 1961</A>; Cann and Herzenberg, 
+<A HREF="#ref25-33">1963<I>a</I></A>, 
+<A HREF="#ref25-34">1963<I>b</I></A>) are among the tools making possible the study of the genetics of mammalian cell and neoplastic cell population (
+<A HREF="#ref25-186">Merchant and Neel, 1962</A>; 
+<A HREF="#ref25-121">Harris, 1964</A>; 
+<A HREF="#ref25-142">Krooth, 1964</A>).
+
+<P>Rothfels and Parker (
+<A HREF="#ref25-219">1959</A>) reported, what is now a rather common experience, that freshly explanted tissues (in their case from CF<SUB>1</SUB> mice) grow rapidly at first, then pass into a long 
+(6 months or more) period of survival without growth, and finally, in some instances, enter a new phase of proliferation from which cell lines may be established. The chromosomes of such 
+cell lines are usually heteroploid and heterotypic (<I>i.e.</I>, contain chromosomes differing markedly from the normal 40 telocentrics of the mouse). Bimodal chromosome distributions are 
+not uncommon, as in the case of Rothfels and Parker's culture 23855-8 from CF<SUB>1</SUB> kidney, which contained approximately equal numbers of cells with around 38 and 70 chromosomes respectively, 
+a pattern which persisted through at least 14 subcultures (12 months). Hsu (
+<A HREF="#ref25-127">1961</A>) and Chu (
+<A HREF="#ref25-38">1962</A>) commented upon the rapid departure from diploidy observed even in primary cultures with mouse cells and contrast this with the greater karyotypic stability of man, rat, and 
+many other mammals. Todaro and Green (
+<A HREF="#ref25-259">1963</A>) developed established cell lines from trypsin-disaggregated 17- to 19-day mouse embryos using trypsin at each transfer. The usual decline in growth rate during early passages 
+was encountered but, at from 15 to 30 generations <I>in vitro</I>, the growth rate rose. At the beginning of the third phase which, under their conditions, was less than 3 months, the cells 
+responsible for the upturn in growth rate were diploid, but they shifted (often rapidly) to the tetraploid range. Marker chromosomes appeared later.
+
+<P>Long-established cell strains, like most cancers (which Hauschka (
+<A HREF="#ref25-123">1958</A>) describes as "multiclonal mosaics of altered karyotypes"), have characteristic and identifiable karyotypes, even though within a strain there may be considerable variation 
+of numbers and types of chromosomes. It is rare to find in cultures of mouse cells that the chromosomes are all, or even sometimes predominant, 
+telocentric. However, an analysis by Levan and Hsu (
+<A HREF="#ref25-164">1960</A>) of NCTC 2940 &#151; a cell line which originated from a C3H mammary carcinoma &#151; after being carried for about 2 years <I>in vitro</I>, showed only telocentrics in a stem line 
+number of <I>s</I> = 84 chromosomes. Another mammary tumor cell line, NCTC 2777, of hypertetraploid number (<I>s</I> = 73), contained only telocentrics, with the marked exception of one large, bizarre, 
+and multiform heterometacentric chromosome.
+
+<P>Five established strains of mouse cell (three of them sublines of NCTC clone 929, strain L) were found by Hsu and Klatt (
+<A HREF="#ref25-131">1958</A>) to exhibit karyotypic polymorphism and to contain "marker" chromosomes highly characteristic of 
+individual cell strains and wholly distinct from normal mouse chromosomes. In another study Hsu (
+<A HREF="#ref25-125">1959</A>) observed modal chromosome numbers of 67 to 73 in 12 mouse cell strains. Highly polyploid cells are not uncommon. Levan and Biesele (
+<A HREF="#ref25-163">1958</A>) observed a gradual increase in the number of polyploid cells in cultures of mouse embryo cells. Polyploid cells can usually be found early in the life of cultures, and their 
+proportion in the population can be increased by treatment with colchicine (
+<A HREF="#ref25-130">Hsu and Kellogg, 1960</A>). One subline (L-P59) of NCTC clone 929 strain L, studied by Hsu (
+<A HREF="#ref25-126">1960</A>), contained 63 to 65 chromosomes, including a very conspicuous long subtelocentric (chromosome D). Derived subline Amy from L-P59 had an average chromosome number of 128 
+(with two D chromosomes), and subline Barbara had 58 to 59 without the D marker but with a large metacentric chromosome known as Victoria. In mixed cultures the stem line L-P59 rapidly overgrew 
+Amy or Barbara. Moreover, the proportion of D chromosomes in L-P59 cultures was found to be variable according to the frequency of subculture. Old cultures, or cultures subdivided only every 2 weeks, 
+contained on an average more than 1.5 D chromosomes per cell. In cultures subdivided twice a week, the population changed to one with less than one D chromosome per cell. The D chromosome and a 
+probable isochromosome T were lost from one subline (L-M) (
+<A HREF="#ref25-132">Hsu and Merchant, 1961</A>) and new distinctive markers were reported 2 years after the first study. Hsu (
+<A HREF="#ref25-127">1961</A>) has reviewed the topic of chromosomal evolution in cell populations.
+
+<P>Occasionally mouse cell lines of diploid mode have been observed. Billen and Debrunner (
+<A HREF="#ref25-25">1960</A>) had cells from normal mouse bone marrow which remained diploid for more than 1 year. A line (H<SUB>2</SUB>), started from cells from the peritoneum of a C3H mouse, retained 
+its diploid character for at least 5 months before becoming predominantly tetraploid with a minority of hypodiploid (38) cells, which gradually diminished (
+<A HREF="#ref25-128">Hsu <I>et al.</I>, 1961</A>). Another series of intriguing hypodiploid cell lines are the MB III lymphoblasts which originated in 1935 from a spontaneous lymphosarcoma T86157 in a 286-day-old female mouse (
+<A HREF="#ref25-51">De Bruyn <I>et al.</I>, 1949</A>). The primary line (MB I) of lymphosarcoma cells contained a mixed population of tumor-producing lymphoblasts (<I>s</I> = 40 or 41) and tumor-negative 
+fibroblasts (<I>s</I> = 56). The MB III lines are sublines of lymphoblasts, free from fibroblasts, which have become tumor-negative and hypodiploid (<I>s</I> = 30 to 32). In contrast to many normal cells 
+which undergo "spontaneous" transformation <I>in vitro</I> into tumor-producing cells, neither MB III (lymphoblasts) nor MB II (fibroblasts), in spite of great morphological variability and 
+frequent mitotic disturbances, produces tumors <I>in vivo</I> after about 27 years of life <I>in vitro</I> (
+<A HREF="#ref25-50">De Bruyn and Hansen-Melander, 1962</A>).
+
+<P>The radiosensitivity of sublines of strain L mouse cells, as measured by their ability to form macroscopic colonies, was found to be independent of chromosome number in cell lines with mean 
+chromosome numbers between 53 and 109 (
+<A HREF="#ref25-258">Till, 1961<I>b</I></A>). Chromosomal anomalies acquired during <I>in vivo</I>, by injecting a teratogen during pregnancy, persisted in the fetal tissues during cell culture, 
+the treated cells showing 50 per cent polyploidy, and the controls only 2 per cent (
+<A HREF="#ref25-134">Ingalls <I>et al.</I>, 1963</A>).
+
+<P><B><I>Cell hybridization.</I></B> By making cultures of populations of two cell types, each containing conspicuous marker chromosomes, 
+cells can be produced containing both sets of chromosomes. Sorieul and Ephrussi (
+<A HREF="#ref25-248">1961</A>), Barski (
+<A HREF="#ref25-11">1961</A>), and Barski <I>et al.</I> (
+<A HREF="#ref25-13">1961<I>a</I></A>) found such "hybrid" cells in mixed cultures of cells from NCTC 2472 (a high-cancer line) and NCTC 2555 (a low-cancer line). Both of these lines took their ultimate 
+origin from a single clone of normal cells, which produced the original "high" and "low" lines (
+<A HREF="#ref25-231">Sanford <I>et al.</I>, 1954</A>) later designated NCTC 1742 and NCTC 2049 respectively. 
+NCTC 2472 was derived from NCTC 1742 (
+<A HREF="#ref25-235">Sanford <I>et al.</I>, 1961<I>e</I></A>) and NCTC 2555 from NCTC 2049 (
+<A HREF="#ref25-284">Woods <I>et al.</I>, 1959</A>). The high-cancer line NCTC 2472 (N1) has a modal chromosome number of 55 telocentrics, one being very long (Barski <I>et al.</I>, 
+<A HREF="#ref25-16">1961<I>b</I></A>). The low-cancer line NCTC 2555 (N2) has a modal chromosome number of 62, with from 9 to 19 two-armed chromosomes. By 104 days in mixed culture M type cells began 
+to appear, with 115 to 116 chromosomes, of which 9 to 15 were metacentric, and in which the extra-long telocentric chromosome could usually be identified. Cells of the M type were never found 
+in cultures of N1 or N2 cells alone (
+<A HREF="#ref25-15">Barski and Cornefert, 1962</A>) but M cells could be produced <I>in vivo</I> as well as <I>in vitro</I>, in tumors produced by inoculating C3H mice with mixed-cell populations. The 
+hybrid characteristics of cloned M lines remained stable for at least 1 year. Barski and Belehradek (
+<A HREF="#ref25-12">1963</A>) have demonstrated cinephotomicrographically that nuclear transfer can take place in mixed cultures of N1 cells with normal mouse embryo cells. This may occur repeatedly in 
+mixed cultures, or, as Ephrussi and Sorieul (
+<A HREF="#ref25-65">1962</A>) point out, it is not impossible that hybrid populations "arose from a single mating event involving modal cells of the two parental lines, followed by rapid segregation."
+
+<P><B>ORGAN CULTURES</B>
+
+<P><B>Techniques</B>
+
+<P>Techniques for culturing organs are described in the textbooks of Parker (
+<A HREF="#ref25-201">1961</A>), Paul (
+<A HREF="#ref25-204">1961</A>), White (
+<A HREF="#ref25-273">1963</A>), and Merchant <I>et al.</I> (
+<A HREF="#ref25-185">1964</A>), and are referred to in the major papers and review articles of the principal practitioners of the method, <I>e.g.</I>, Wolff (
+<A HREF="#ref25-282">1952</A>), Fell (
+<A HREF="#ref25-71">1953</A>, 
+<A HREF="#ref25-72">1954</A>, 
+<A HREF="#ref25-73">1955</A>, 
+<A HREF="#ref25-75">1958</A>, 
+<A HREF="#ref25-76">1964</A>), Gaillard (
+<A HREF="#ref25-87">1942</A>, 
+<A HREF="#ref25-88">1948</A>, 
+<A HREF="#ref25-89">1953</A>), Borghese (
+<A HREF="#ref25-28">1958</A>), Kahn (
+<A HREF="#ref25-137">1958</A>), Lasnitzki (
+<A HREF="#ref25-155">1958</A>, 
+<A HREF="#ref25-161">1965</A>), Trowell (
+<A HREF="#ref25-260">1959</A>, 
+<A HREF="#ref25-262">1961<I>b</I></A>), and Grobstein (
+<A HREF="#ref25-111">1962</A>).
+
+<P><B>Applications</B>
+
+<P>Organ culture is used principally for (1) the maintenance of structural organization in tissues which are to be subjected to experimentally varied environments 
+(<I>e.g.</I>, to hormones, drugs, or radiation); (2) the study of morphogenesis, differentiation, and function in excised organs or presumptive organs; and (3) for 
+comparison of the growth and behavior of explanted organs with the growth and behavior of similar organs <I>in sit</I>.
+
+<P>Almost every organ of the mouse has been cultivated <I>in vitro</I>. Some of the principal references to the cultivation of mouse organs are listed in 
+<a href="javascript:windowt2501 = window.open('../tables/table25-1.shtml', 'windowt2501', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2501.focus()">Table 25-1</A>.
+
+<P>The environmental variables studied by means of organ cultures include: radiation (
+<A HREF="#ref25-261">Trowell, 1961<I>a</I></A>; Lasnitzki, 
+<A HREF="#ref25-156">1961<I>a</I></A>, 
+<A HREF="#ref25-158">1961<I>c</I></A>, 
+<A HREF="#ref25-159">1961<I>d</I></A>; 
+<A HREF="#ref25-29">Borghese, 1961</A>), vitamins, mainly vitamin A (
+<A HREF="#ref25-79">Fell and Mellanby, 1952</A>, Lasnitzki 
+<A HREF="#ref25-155">1958</A>, 
+<A HREF="#ref25-157">1961<I>b</I></A>, 
+<A HREF="#ref25-158">1961<I>c</I></A>, 
+<A HREF="#ref25-160">1962</A>; 
+<A HREF="#ref25-199">New 1962</A>) and carcinogens (
+<A HREF="#ref25-155">Lasnitzki, 1958</A>; 
+<A HREF="#ref25-162">Lasnitzki and Lucy, 1961</A>). Organ culture is peculiarly suitable for the study of hormones (
+<A HREF="#ref25-76">Fell, 1964</A>) and provides an excellent way of distinguishing the effects of individual, or combinations of several, hormones on particular structures (
+<a href="javascript:windowt2502 = window.open('../tables/table25-2.shtml', 'windowt2502', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt2502.focus()">Table 25-2</A>).
+
+<P>The mammary gland has been one of the most commonly grown organs of the mouse and, besides its use for investigation of responses to hormones, has been studied 
+for its secretory activity (
+<A HREF="#ref25-145">Lasfargues, 1957<I>b</I></A>; 
+<A HREF="#ref25-149">Lasfargues and Feldman, 1963</A>) and as a vehicle for the mammary tumor agent (
+<A HREF="#ref25-150">Lasfargues <I>et al.</I>, 1958</A>). The toxic effects of steroid hormones on mammary adenocarcinomas of C3H mice in organ culture have been examined (
+<A HREF="#ref25-217">Rivera <I>et al.</I>, 1963</A>).
+
+<P>The cultivation of mouse ova (Whitten, 
+<A HREF="#ref25-278">1956</A>, 
+<A HREF="#ref25-279">1957</A>; Tarkowski, 
+<A HREF="#ref25-253">1959<I>a</I></A>, 
+<A HREF="#ref25-254">1959<I>b</I></A>) has made possible the production <I>in vitro</I> of genotypically mosaic embryos from fused eggs (Tarkowski, 
+<A HREF="#ref25-255">1961</A>, 
+<A HREF="#ref25-256">1963</A>; Mintz, 
+<A HREF="#ref25-189">1962<I>c</I></A>, 
+<A HREF="#ref25-190">1963</A>).
+
+<P>Organ culture has contributed significantly to our understanding of embryonic induction and of the control of morphogenesis by the juxtaposition of specific 
+cell types. The effects of specific mesenchymal elements upon epithelial structures has been elucidated, <I>e.g.</I>, by Borghese (
+<A HREF="#ref25-26">1950<I>a</I></A>, 
+<A HREF="#ref25-26">1950<I>b</I></A>), Grobstein (
+<A HREF="#ref25-103">1953<I>a</I></A>, 
+<A HREF="#ref25-104">1953<I>b</I></A>, 
+<A HREF="#ref25-105">1953<I>c</I></A>, 
+<A HREF="#ref25-106">1955<I>a</I></A>, 
+<A HREF="#ref25-107">1955<I>b</I></A>, 
+<A HREF="#ref25-108">1956</A>, 
+<A HREF="#ref25-109">1957</A>, 
+<A HREF="#ref25-110">1959</A>, 
+<A HREF="#ref25-111">1962</A>), Grobstein and Dalton (
+<A HREF="#ref25-112">1957</A>), Auerbach and Grobstein (
+<A HREF="#ref25-10">1958</A>), and Auerbach (
+<A HREF="#ref25-6">1960</A>, 
+<A HREF="#ref25-7">1961<I>a</I></A>, 
+<A HREF="#ref25-8">1961<I>b</I></A>). Cartilage induction has been studied in BALB/c x C3H embryos by Grobstein and Parker (
+<A HREF="#ref25-114">1954</A>) and Grobstein and Holtzer (
+<A HREF="#ref25-113">1955</A>) and in <I>T</I>/<I>T</I> embryos by Bennett (
+<A HREF="#ref25-17">1958</A>).
+
+<P>The pioneer work of Hardy (
+<A HREF="#ref25-117">1949</A>, 
+<A HREF="#ref25-118">1951</A>) in the growth of hair and hair follicles has been followed up by Cleffman (
+<A HREF="#ref25-119">1963</A>) with studies of pigment formation in the hair-follicle melanocytes of agouti mice.
+
+<P>Developmental anomalies and inherited diseases and defects have been less studied by means of organ culture than might be expected. Elegant examples of the 
+possibilities are shown in the growth of normal retinas of CBA (
+<A HREF="#ref25-171">Lucas and Trowell, 1958</A>) and BALB/c (
+<A HREF="#ref25-245">Sidman, 1961</A>) mice, in the analysis of the changes occurring in inherited retinal dystrophy in C3H animals by Lucas (
+<A HREF="#ref25-170">1958</A>) and by Sidman (
+<A HREF="#ref25-245">1961</A>, 1963</A>), and in the examinations by organ culture of the potentialities of the kidney rudiments of prospective kidneyless (<I>Sd</I>/<I>Sd</I>) mice (
+<A HREF="#ref25-99">Gluecksohn-Waelsch and Rota, 1963</A>).
+
+<P><B>SUMMARY</B>
+
+<P>The mouse has become one of the species of choice for furnishing tissue for cell and organ cultures. A fund of basic information on mouse 
+tissue culture is growing, much of it concerning work with tissues from inbred strains of mice. In so far as the genetic history of the cells 
+and organs cultivated, as well as their subsequent history under cultivation, is pertinent to their observed behavior, this information will 
+be valuable for future work on the characterization, function, and variation of somatic cells.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by a grant from The John A. Hartford Foundation.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref25-1"></A>
+<P>Alescio, T. 1960<I>a</I>. 
+Osservazioni su culture organotipiche di polmone embrionale di topo. 
+Arch. Ital. Anat. Rmbriol. <B>65:</B> 323-363.
+<!-- 13682291 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13682291" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-2"></A>
+<P>Alescio, T. 1960<I>b</I>. 
+La culture du poumon embryonnaire de souris. 
+Anat. Anz. <B>109:</B> 144-149.
+
+<A NAME="ref25-3"></A>
+<P>Anon. 1958. 
+Nomenclature of cell strains. 
+J. Nat. Cancer Inst. <B>20:</B> 439.
+
+<A NAME="ref25-4"></A>
+<P>Ansevin, K.D., and R. Buchsbaum. 1962. 
+Capacity for histological reconstruction by mouse kidney cells in relation to age. 
+J. Gerontol. <B>17:</B> 130-137.
+<!-- 13861729 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13861729" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-5"></A>
+<P>Asayama, S.I., and M. Furusawa. 1961. 
+Sex differentiation of primordial gonads of the mouse embryo after cultivation <I>in vitro</I>. 
+Jap. J. Exp. Morphol. <B>15:</B> 34-47.
+
+<A NAME="ref25-6"></A>
+<P>Auerbach, R. 1960. 
+Morphogenetic interactions in the development of the mouse thymus glands. 
+Develop. Biol. <B>2:</B> 271-284.
+<!-- 13795076 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13795076" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-7"></A>
+<P>Auerbach, R. 1961<I>a</I>. 
+Genetic control of thymus lymphoid differentiation. 
+Proc. Natl. Acad. Sci. <B>47:</B> 1175-1181.
+<!-- 13685082 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13685082" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-8"></A>
+<P>Auerbach, R. 1961<I>b</I>. 
+Experimental analysis of the origin of cell types in the development of the mouse thymus. 
+Develop. Biol. <B>3:</B> 336-354.
+<!-- 13685081 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13685081" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-9"></A>
+<P>Auerbach, R. 1963. 
+Developmental studies of mouse thymus and spleen. 
+Nat. Cancer Inst. Monogr. <B>11:</B> 23-33.
+<!-- 13965492 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13965492" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-10"></A>
+<P>Auerbach, R., and C. Grobstein. 1958. 
+Inductive interaction of embryonic tissues after dissociation and reaggregation. 
+Exp. Cell Res. <B>15:</B> 384-397.
+<!-- 13597896 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13597896" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-11"></A>
+<P>Barski, G. 1961. 
+Clones cellulaires "hybrids" isol&#233;s &#224; partir de cultures cellulaires mixtes. 
+Compt. Rend. Acad. Sci. <B>253:</B> 1186-1188.
+<!-- 13865347 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13865347" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-12"></A>
+<P>Barski, G., and J. Belehradek. 1963. 
+Transfert nucl&#233;aire intercellulaire en cultures mixtes. 
+Exp. Cell Res. <B>29:</B> 102-111.
+<!-- 13969609 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13969609" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-13"></A>
+<P>Barski, G., J.L. Biedler, and F. Cornefert. 1961<I>a</I>. 
+Modification of characteristics of an <I>in vitro</I> mouse cell line after an increase of its tumor-producing capacity. 
+J. Nat. Cancer Inst. <B>26:</B> 865-889.
+<!-- 13687366 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13687366" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-14"></A>
+<P>Barski, G., and R. Cassigena. 1963. 
+Malignant transformation <I>in vitro</I> of cells from C57BL mouse normal pulmonary tissue. 
+J. Nat. Cancer Inst. <B>30:</B> 865-883.
+<!-- 13969611 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13969611" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-15"></A>
+<P>Barski, G., and F. Cornefert. 1962. 
+Characteristics of "hybrid" type cloned cell lines obtained from mixed cultures <I>in vitro</I>. 
+J. Nat. Cancer Inst. <B>28:</B> 801-821.
+<!-- 13865344 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13865344" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-16"></A>
+<P>Barski, G., S. Sorieul, and F. Cornefert. 1961<I>b</I>. 
+"Hybrid" type cells in combined cultures of two different mammalian cell strains. 
+J. Nat. Cancer Inst. <B>26:</B> 1269-1291.
+<!-- 13687369 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13687369" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-17"></A>
+<P>Bennett, D. 1958. <I>In vitro</I> study of cartilage induction in <I>T</I>/<I>T</I> mice. 
+Nature <B>181:</B> 1286.
+<!-- MGI:61324 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61324" target="_blank">MGI</A></I>.
+
+<A NAME="ref25-18"></A>
+<P>Berman, I., and H.S. Kaplan. 1960. 
+The functional capacity of mouse bone marrow cells growing in diffusion chambers. 
+Exp. Cell Res. <B>20:</B> 238-239.
+<!-- 13799583 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13799583" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-19"></A>
+<P>Berwald, Y., and L. Sachs. 1963. 
+<I>In vitro</I> cell transformation with chemical carcinogens. 
+Nature <B>200:</B> 1182-1184.
+<!-- 14089903 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14089903" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-20"></A>
+<P>Biesele, J.J., J.L. Biedler, and D.J. Hutchison. 1959. 
+Chromosomal status of drug resistant sublines of mouse leukemia L1210, p. 295-307. 
+<I>In</I>: <I>Genetics and Cancer. 13th Symp. Fundamental Cancer Res.</I> University of Texas Press, Austin.
+
+<A NAME="ref25-21"></A>
+<P>Biggers, J.D., P.J. Claringbold, and M.H. Hardy. 1956. 
+The action of oestrogens on the vagina of the mouse in tissue culture. 
+J. Physiol. <B>131:</B> 497-515.
+<!-- 13320350 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13320350" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-22"></A>
+<P>Biggers, J.D., R.B.L. Gwatkin, and R.L. Brinster. 1962. 
+Development of mouse embryos in organ cultures of Fallopian tubes on a chemically defined medium. 
+Nature <B>194:</B> 747-749.
+<!-- 13869115 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13869115" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-23"></A>
+<P>Biggers, J.D., R.B.L. Gwatkin, and S. Heyner. 1961. 
+Growth of embryonic avian and mammalian tibiae on a relatively simple chemically defined medium. 
+Exp. Cell. Res. <B>25:</B> 41-58.
+<!-- 13869116 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13869116" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-24"></A>
+<P>Biggers, J.D., L.M. Rinaldini, and M. Webb. 1957. 
+The study of growth factors in tissue culture. 
+Symp. Soc. Exp. Biol. <B>11:</B> 264-297.
+<!-- 13486475 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13486475" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-25"></A>
+<P>Billen, D., and G.A. Debrunner. 1960. 
+Continuously propagating cells derived from normal mouse bone marrow. 
+J. Nat. Cancer Inst. <B>25:</B> 1127-1139.
+
+<A NAME="ref25-26"></A>
+<P>Borghese, E. 1950<I>a</I>. 
+The development <I>in vitro</I> of the submandibular and sublingual glands of <I>Mus musculus</I>. 
+J. Anat. <B>84:</B> 287-302.
+<!-- 15436333 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15436333" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-27"></A>
+<P>Borghese, E. 1950<I>b</I>. 
+Explantation experiments on the influence of the connective tissue capsule on the development of the epithelial part of the 
+submandibular gland of <I>Mus musculus</I>. 
+J. Anat. <B>84:</B> 303-318.
+<!-- 15436334 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15436334" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-28"></A>
+<P>Borghese, E. 1958. 
+Organ differentiation in culture, p. 704-773. 
+<I>In</I> W.D. McElroy and B. Glass [ed.] <I>A Symposium on the Chemical Basis of Development</I>. Johns Hopkins Press, Baltimore.
+
+<A NAME="ref25-29"></A>
+<P>Borghese, E. 1961. 
+The effect of ionizing radiations on mouse embryonic lungs developing <I>in vitro</I>. 
+Ann. N.Y. Acad. Sci. <B>95:</B> 866-872.
+<!-- 13871301 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13871301" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-30"></A>
+<P>Borghese, E., and M.A. Venini. 1956. 
+Culture <I>in vitro</I> di gonadi embrionale di <I>Mus musculus</I>. 
+Symp. Genet. (Pavia) <B>5:</B> 69-83.
+
+<A NAME="ref25-31"></A>
+<P>Brand, K.G., and J. Syverton. 1962. 
+Results of species-specific hemagglutination tests on "transformed," nontransformed, and primary cell cultures. 
+J. Nat. Cancer Inst. <B>28:</B> 147-157.
+<!-- 13872458 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13872458" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-32"></A>
+<P>Cameron, I.L. 1964. 
+Is the duration of DNA synthesis in somatic cells of mammals and birds a constant? 
+J. Cell Biol. <B>20:</B> 185-188.
+<!-- 14105210 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14105210" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-33"></A>
+<P>Cann, H.M., and L.A. Herzenberg. 1963<I>a</I>. 
+<I>In vitro</I> studies of mammalian somatic cell variation. I. Detection of <I>H-2</I> phenotype in cultures mouse cell lines. 
+J. Exp. Med. <B>117:</B> 259-265.
+<!-- 14018308 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14018308" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-34"></A>
+<P>Cann, H.M., and L.A. Herzenberg, 1963<I>b</I>. 
+<I>In vitro</I> studies of mammalian somatic cell variations. II. Iso-immune cytotoxicity with a cultured mouse lymphoma and selection of resistant variants. 
+J. Exp. Med. <B>117:</B> 267-283.
+<!-- 14018309 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14018309" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-35"></A>
+<P>Chen, J.M. 1952<I>a</I>. 
+Studies on the morphogenesis of the mouse sternum. I. Normal embryonic development. 
+J. Anat. <B>86:</B> 373-387.
+<!-- 12999640 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12999640" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-36"></A>
+<P>Chen, J.M. 1952<I>b</I>. 
+Studies on the morphogenesis of the mouse sternum. II. Experiments on the origin of the sternum and its capacity for self-differentiation <I>in vitro</I>. 
+J. Anat. <B>86:</B> 387-401.
+<!-- 12999641 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12999641" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-37"></A>
+<P>Chen, J.M. 1953. 
+Studies on the morphogenesis of the mouse sternum. III. Experiments on the closure and segmentation of the sternal bands. 
+J. Anat. <B>87:</B> 130-149.
+<!-- 13044725 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13044725" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-38"></A>
+<P>Chu, E.H.Y. 1962. 
+Chromosomal stabilization of cell strains. 
+Nat. Cancer Inst. Monogr. <B>7:</B> 55-62.
+<!-- 13879352 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13879352" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-39"></A>
+<P>Chu, E.H.Y., and V. Monesi. 1960. 
+Analysis of X-ray induced chromosome aberrations in mouse somatic cells <I>in vitro</I>. 
+Genetics <B>45:</B> 981.
+
+<A NAME="ref25-40"></A>
+<P>Chu, E.H.Y., K.K. Sanford, and W.R. Earle. 1958. 
+Comparative chromosomal studies on mammalian cells in culture. II. Mouse sarcoma-producing cell strains and their derivatives. 
+J. Nat. Cancer Inst. <B>21:</B> 729-751.
+<!-- 13588372 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13588372" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-41"></A>
+<P>Cleffmann, G. 1963. 
+Agouti pigment cells <I>in situ</I> and <I>in vitro</I>. 
+Ann. N.Y. Acad. Sci. <B>100:</B> 749-761.
+<!-- 14021659 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14021659" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-42"></A>
+<P>Conklin, J.L., M.M. Dewey, and R.H. Kahn. 1962. 
+Cytochemical localization of certain oxidative enzymes. 
+Amer. J. Anat. <B>110:</B> 19-27.
+<!-- 13880850 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13880850" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-43"></A>
+<P>Coombs, R.R.A. 1962. 
+Identification and characterization of cells by immunologic analysis with special reference to mixed agglutination. 
+Nat. Cancer Inst. Monogr. <B>7:</B> 91-98.
+<!-- 13881105 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13881105" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-44"></A>
+<P>Coombs, R.R.A., M.R. Daniel, B.W. Gurner, and A. Kelus. 1961. 
+Species-characterizing antigens of "L" and "ERK" cells. 
+Nature <B>189:</B> 503-504.
+<!-- 13695284 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13695284" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-45"></A>
+<P>Coriell, L.L., M.G. Tall, and H. Gaskill. 1958. 
+Common antigens in tissue culture cell lines. 
+Science <B>128:</B> 198-199.
+<!-- 13568761 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13568761" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-46"></A>
+<P>Davenport, H.W., V. Jensen, and L.A. Woodbury. 1948. 
+The secretion of acid by the mouse stomach <I>in vitro</I>. 
+Gastroenterology <B>11:</B> 227-239.
+
+<A NAME="ref25-47"></A>
+<P>Davidson, P., and M.H. Hardy. 1952. 
+The development of mouse vibrissae <I>in vivo</I> and <I>in vitro</I>.  
+J. Anat. <B>86:</B> 342-356.
+<!-- 12999638 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12999638" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-48"></A>
+<P>Dawe, C.J., and L.W. Law. 1959. 
+Morphologic changes in salivary-gland tissue of the newborn mouse exposed to parotid-tumor agent <I>in vitro</I>. 
+J. Nat. Cancer Inst. <B>23:</B> 1157-1177.
+<!-- 13814556 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13814556" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-49"></A>
+<P>Day, M., and J.P. Green. 1962. 
+The uptake of amino acids and the synthesis of amines by neoplastic mast cells in culture. 
+J. Physiol. <B>164:</B> 210-226.
+<!-- 14025621 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14025621" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-50"></A>
+<P>De Bruyn, W.M., and E. Hansen-Melander. 1962. 
+Chromosome studies in the MB mouse lymphosarcoma. 
+J. Nat. Cancer Inst. <B>28:</B> 1333-1354.
+<!-- 13884145 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13884145" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-51"></A>
+<P>De Bruyn, W.M., R. Korteweg, and E. Kits van Waveren. 1949. 
+Transplantable mouse lymphosarcoma T86157 (MB) studied <I>in vivo</I>, <I>in vitro</I> and at autopsy. 
+Cancer Res. <B>9:</B> 282-293.
+
+<A NAME="ref25-52"></A>
+<P>Defendi, V., and L.A. Manson. 1963. 
+Analysis of the life-cycle in mammalian cells. 
+Nature <B>198:</B> 359-361.
+
+<A NAME="ref25-53"></A>
+<P>Dulbecco, R., and M. Vogt. 1960. 
+Significance of continued virus production in tissue cultures rendered neoplastic by polyoma virus. 
+Proc. Natl. Acad. Sci. <B>46:</B> 1617-1623.
+<!-- 16590794 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16590794" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-54"></A>
+<P>Dunn, T.B., and M. Potter. 1957. 
+A transplantable mast-cell neoplasm in the mouse. 
+J. Nat. Cancer Inst. <B>18:</B> 587-596.
+<!-- MGI:1276454 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1276454" target="_blank">MGI</A></I>.
+
+<A NAME="ref25-55"></A>
+<P>Earle, W.R. 1928<I>a</I>. 
+Studies upon the effect of light on blood and tissue cells. I. The action of light on white blood cells <I>in vitro</I>. 
+J. Exp. Med. <B>48:</B> 457-474.
+
+<A NAME="ref25-56"></A>
+<P>Earle, W.R. 1928<I>b</I>. 
+Studies upon the effect of light on blood and tissue cells. II. The action of light on erythrocytes <I>in vitro</I>. 
+J. Exp. Med. <B>48:</B> 667-681.
+
+<A NAME="ref25-57"></A>
+<P>Earle, W.R. 1928<I>c</I>. 
+Studies upon the effect of light on blood and tissue cells. III. The action of light on fibroblasts <I>in vitro</I>. 
+J. Exp. Med. <B>48:</B> 683-694.
+
+<A NAME="ref25-58"></A>
+<P>Earle, W.R. 1943. 
+Production of malignancy <I>in vitro</I>. IV. The mouse fibroblast cultures and changes seen in the living cells. 
+J. Nat. Cancer Inst. <B>4:</B> 165-212.
+
+<A NAME="ref25-59"></A>
+<P>Earle, W.R., and A. Nettleship. 1943. 
+Production of malignancy <I>in vitro</I>. V. Results of injections of cultures into mice. 
+J. Nat. Cancer Inst. <B>4:</B> 213-227.
+
+<A NAME="ref25-60"></A>
+<P>Earle, W.R., E. Shelton, and E.L. Schilling. 1950. 
+Production of malignancy <I>in vitro</I>. XI. Further results from reinjection of <I>in vitro</I> cell strains into strain C3H mice. 
+J. Nat. Cancer Inst. <B>10:</B> 1105-1113. 
+<!-- 15437183 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15437183" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-61"></A>
+<P>Edwards, R.G. 1961. 
+Identification of the chromosome complements of new-born and adult living mice. 
+Nature <B>192:</B> 1316-1317.
+<!-- 13889311 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13889311" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-62"></A>
+<P>Elias, J.J. 1957. 
+Cultivation of adult mouse mammary gland in hormone-enriched synthetic medium. 
+Science <B>126:</B> 842-844.
+<!-- 13467288 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13467288" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-63"></A>
+<P>Elias, J.J. 1962. 
+Response of mouse mammary duct end-buds to insulin in organ culture. 
+Exp. Cell Res. <B>27:</B> 601-604.
+
+<A NAME="ref25-64"></A>
+<P>Elias, J.J., and E. Rivera. 1959. 
+Comparison of the responses of normal, precancerous and neoplastic mouse mammary tissues to hormones <I>in vitro</I>. 
+Cancer Res. <B>19:</B> 505-511.
+<!-- 13663038 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13663038" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-65"></A>
+<P>Ephrussi, B., and S. Sorieul. 1962. 
+Mating of somatic cells <I>in vitro</I>, p. 81-97. 
+<I>In</I> D.J. Merchant and J.V. Neel [ed.] <I>Approaches to the Genetic Analysis of Mammalian Cells</I>. The University of Michigan Press, Ann Arbor.
+
+<A NAME="ref25-66"></A>
+<P>Evans, V.J., N.M. Hawkins, B.B. Westfall, and W.R. Earle. 1958. 
+Studies on culture lines derived from mouse liver parenchymatous cells grown in long-term tissue culture. 
+Cancer Res. <B>18:</B> 261-266.
+<!-- 13523589 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13523589" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-67"></A>
+<P>Evans, V.J., G.A. Parker, and T.B. Dunn. 1964. 
+Neoplastic transformations in C3H mouse embryonic tissue <I>in vitro</I> determined by intraocular growth. 
+I. Cells from chemically defined medium with or without serum supplement. 
+J. Nat. Cancer inst. <B>32:</B> 89-121.
+<!-- 14114975 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14114975" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-68"></A>
+<P>Fedoroff, S. 1962. 
+Method for distinguishing between human and mouse cells in tissue culture. 
+Nature <B>196:</B> 394-395.
+<!-- 13944670 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13944670" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-69"></A>
+<P>Fedoroff, S. 1966. 
+Report on animal tissue culture nomenclature. Tissue Culture Assoc. Comm. on Nomenclature. 
+To be published.
+
+<A NAME="ref25-70"></A>
+<P>Fedoroff, S., and B. Cook. 1959. 
+Effects of human blood serum on tissue culture. II. Development of resistance to toxic human serum in fibroblast-like cells (Earle's L strain) obtained from a C3H mouse. 
+J. Exp. Med. <B>109:</B> 615-632.
+<!-- 13654632 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13654632" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-71"></A>
+<P>Fell, H.B. 1953. 
+Recent advances in organ culture. 
+Sci. Progr. <B>162:</B> 212-231.
+
+<A NAME="ref25-72"></A>
+<P>Fell, H.B. 1954. 
+The effect of hormones and vitamin A on organ cultures. 
+Ann. N.Y. Acad. Sci. <B>58:</B> 1183-1187.
+<!-- 14350509 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14350509" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-73"></A>
+<P>Fell, H.B. 1955. 
+The effect of hormones on differentiated tissues in culture, p. 138-148. 
+<I>In</I> R.W. Smith, O.H. Gaebler, and C.N.H. Long [ed.] <I>The Hypophyseal Growth Hormone, Nature and Actions</I>. McGraw-Hill, New York.
+
+<A NAME="ref25-74"></A>
+<P>Fell, H.B., 1956. 
+Effect of excess vitamin A on organized tissues cultivated <I>in vitro</I>. 
+Brit. Med. Bull. <B>12:</B> 35-37.
+<!-- 13284300 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13284300" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-75"></A>
+<P>Fell, H.B. 1958. 
+The physiology of skeletal tissue in culture. 
+Lect. Sci. Basis Med. <B>6:</B> 28-45.
+
+<A NAME="ref25-76"></A>
+<P>Fell, H.B. 1964. 
+The role of organ cultures in the study of vitamins and hormones. 
+Vit. Horm. <B>22:</B> 81-127.
+<!-- 14284132 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14284132" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-77"></A>
+<P>Fell, H.B., and A.F.W. Hughes. 1949. 
+Mitosis in the mouse: A study of living and fixed cells in tissue cultures. 
+Quart. J. Microscop. Sci. <B>90:</B> 355-380.
+
+<A NAME="ref25-78"></A>
+<P>Fell, H.B., and E. Mellanby. 1950. 
+Effects of hypervitaminosis A on foetal mouse bones cultivated <I>in vitro</I>; preliminary communication. 
+Brit. Med. J. <B>2:</B> 535-539.
+<!-- 15434451 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15434451" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-79"></A>
+<P>Fell, H.B., and E. Mellanby. 1952. 
+The effect of hypervitaminosis A on embryonic limb-bones cultivated <I>in vitro</I>. 
+J. Physiol. <B>116:</B> 320-349.
+<!-- 14939182 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14939182" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-80"></A>
+<P>Fernandes, M.A.R., and I. Koprowska. 1963. 
+Tissue culture studies on cells from mouse cervix subjected to carcinogenic treatment. 
+Acta Cytol. <B>7:</B> 215-223.
+<!-- 14058043 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14058043" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-81"></A>
+<P>Fisher, G.A. 1959. 
+Nutritional and amethopterin-resistant characteristics of leukemic clones. 
+Cancer Res. <B>19:</B> 372-376.
+
+<A NAME="ref25-82"></A>
+<P>Francke, C. 1946. 
+The effect of gonadotropins on explanted fragments of ovaries from immautre mice. 
+Endocrinology <B>39:</B> 430-431.
+
+<A NAME="ref25-83"></A>
+<P>Franks, L.M. 1959. 
+A factor in normal human serum that inhibits epithelial growth in organ cultures. 
+Exp. Cell Res. <B>17:</B> 579-581.
+<!-- 13672228 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13672228" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-84"></A>
+<P>Franks, L.M. 1961. 
+The growth of mouse prostate during culture <I>in vitro</I> in chemically defined and natural media, and after transplantation <I>in vivo</I>. 
+Exp. Cell Res. <B>22:</B> 56-72.
+<!-- 13701453 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13701453" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-85"></A>
+<P>Franks, L.M., and A.A. Barton. 1960. 
+The effects of testosterone on the ultrastructure of mouse prostate <I>in vivo</I> and in organ cultures. 
+Exp. Cell Res. <B>19:</B> 35-50.
+<!-- 13824584 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13824584" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-86"></A>
+<P>Fr&#233;d&#233;ric, J. 1954. 
+Effets de diff&#233;rentes longueurs d'onde du spectre visible sur des cellules vivantes cultiv&#233;es <I>in vitro</I>. 
+Compt. Rend. Soc. Biol. <B>148:</B> 1678-1682.
+<!-- 14364991 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14364991" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-87"></A>
+<P>Gaillard, P.J. 1942. 
+<I>Hormones Regulating Growth and Differentiation in Embryonic Explants</I>. Masson, Paris. 82 p.
+
+<A NAME="ref25-88"></A>
+<P>Gaillard, P.J. 1948. 
+Growth, differentiation, and function of explants of some endocrine glands. 
+Symp. Soc. Exp. Biol. <B>2:</B> 139-144.
+
+<A NAME="ref25-89"></A>
+<P>Gaillard, P.J. 1953. 
+Growth and differentiation of explanted tissues. 
+Int. Rev. Cytol. <B>2:</B> 331-401.
+
+<A NAME="ref25-90"></A>
+<P>Gaillard, P.J. 1961<I>a</I>. 
+The influence of parathyroid extract on the explanted radius of albino mouse embryos. 
+II. Proc. Koninkl. Ned. Akad. Wetensch. Ser. <B>C64:</B> 119-128.
+
+<A NAME="ref25-91"></A>
+<P>Gaillard, P.J. 1961<I>b</I>. 
+Parathyroid and bone in tissue culture, p. 20-45. 
+<I>In</I> R.O. Greep and R.V. Talmage [ed.] <I>The Parathyroids</I>. Charles C Thomas, Springfield, Ill.
+
+<A NAME="ref25-92"></A>
+<P>Gaillard, P.J. 1962. 
+A comparative study of the influence of thyroxine and of parathyroid extract on the histological structure of the explanted embryonic radius rudiment. 
+Acta Morphol. Neer.-Scand. <B>5:</B> 21-36.
+<!-- 13946140 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13946140" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-93"></A>
+<P>Gaillard, P.J. 1963. 
+Observations on the effect of thyroid and parathyroid secretions on explanted mouse radius rudiments. 
+Develop. Biol. <B>7:</B> 103-116.
+<!-- 13946138 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13946138" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-94"></A>
+<P>Gelfant, S. 1960. 
+A study of mitosis in mouse epidermis <I>in vitro</I>. III. Effects of glucolytic and Krebs' cycle intermediates. IV. Effects of metabolic inhibitors. 
+Exp. Cell Res. <B>19:</B> 65-82.
+<!-- 13827191 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13827191" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-95"></A>
+<P>Geyer, R.P. 1958. 
+Nutrition of mammalian cells in tissue culture. 
+Nutr. Rev. <B>16:</B> 321-323.
+<!-- 13590619 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13590619" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-96"></A>
+<P>Gillette, R.W., A. Findley, and H. Conway. 1961. 
+Effect of cortisone on skin maintained in organ culture. 
+J. Nat. Cancer Inst. <B>27:</B> 1285-1309.
+<!-- 13898648 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13898648" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-97"></A>
+<P>Ginsburg, H. 1963. 
+The <I>in vitro</I> differentiation and culture of normal mast cells from mouse thymus. 
+Ann. N.Y. Acad. Sci. <B>103:</B> 20-39.
+<!-- 13948040 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13948040" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-98"></A>
+<P>Ginsburg, H., and L. Sachs. 1963. 
+Formation of pure suspensions of mast cells in tissue culture by differentiation of lymphoid cells from the mouse thymus. 
+J. Nat. Cancer Inst. <B>31:</B> 1-39.
+<!-- 14043037 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14043037" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-99"></A>
+<P>Gluecksohn-Waelsch, S., and T.R. Rota, 1963. 
+Development in organ tissue culture of kidney rudiments from mouse embryos. 
+Develop. Biol. <B>7:</B> 432-444.
+<!-- MGI:60944 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60944" target="_blank">MGI</A></I>.
+
+<A NAME="ref25-100"></A>
+<P>Goldhaber, P. 1960. 
+Behavior of bone in tissue culture. 
+Pub. Amer. Ass. Adv. Sci. <B>64:</B> 349-372.
+
+
+<A NAME="ref25-101"></A>
+<P>Green, J.P., and M. Day. 1960. 
+Heparin, 5-hydroxytryptamine and histamine in neoplastic mast cells. 
+Biochem. Pharmacol. <B>3:</B> 190-205.
+<!-- 13851504 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13851504" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-102"></A>
+<P>Grobstein, C. 1950. 
+Behavior of the mouse embryonic shield in plasma clot cutures. 
+J. Exp. Zool. <B>115:</B> 297-314.
+
+<A NAME="ref25-103"></A>
+<P>Grobstein, C. 1953<I>a</I>. 
+Epithelio-mesenchymal specificity in the morphogenesis of mouse submandibular rudiments <I>in vitro</I>. 
+J. Exp. Zool. <B>124:</B> 383-413.
+
+<A NAME="ref25-104"></A>
+<P>Grobstein, C. 1953<I>b</I>. 
+Analysis <I>in vitro</I> of the early organization of the rudiments of the mouse submandibular gland. 
+J. Morphol. <B>93:</B> 19-44.
+
+<A NAME="ref25-105"></A>
+<P>Grobstein, C. 1953<I>c</I>. 
+Inductive epithelio-mesenchymal interaction in cultured organ rudiments of the mouse. 
+Science <B>118:</B> 52-55.
+<!-- 13076182 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13076182" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-106"></A>
+<P>Grobstein, C. 1955<I>a</I>. 
+Inductive interaction in the development of the mouse metanephros. 
+J. Exp. Zool. <B>130:</B> 319-339.
+
+<A NAME="ref25-107"></A>
+<P>Grobstein, C. 1955<I>b</I>. 
+Tissue interaction in the morphogenesis of mouse embryonic rudiments <I>in vitro</I>, p. 233-256. 
+<I>In</I> D. Rudnick [ed.] <I>Aspects of Synthesis and Order in Growth.</I> Princeton University Press, Princeton, N.J.
+
+<A NAME="ref25-108"></A>
+<P>Grobstein, C. 1956. 
+Trans-filter induction of tubules in mouse metanephrogenic mesenchyme. 
+Exp. Cell Res. <B>10:</B> 424-440.
+<!-- 13317909 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13317909" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-109"></A>
+<P>Grobstein, C. 1957. 
+Some transmission characteristics of the tubule-inducing influence of mouse metanephrogenic mesenchyme. 
+Exp. Cell Res. <B>13:</B> 575-587.
+<!-- 13490376 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13490376" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-110"></A>
+<P>Grobstein, C. 1959. 
+Autoradiography of the interzone between tissue in inductive interaction. 
+J. Exp. Zool. <B>142:</B> 203-213.
+<!-- 13708824 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13708824" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-111"></A>
+<P>Grobstein, C. 1962. 
+Interactive processes in cytodifferentiation. 
+J. Cell. Comp. Physiol. <B>60 (Suppl. 1):</B> 35-48.
+
+
+<A NAME="ref25-112"></A>
+<P>Grobstein, C., and A.J. Dalton. 1957. 
+Kidney tubule induction in mouse metanephrogenic mesenchyme without cytoplasmic contact. 
+J. Exp. Zool. <B>135:</B> 57-73.
+<!-- 13481289 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13481289" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-113"></A>
+<P>Grobstein, C. and H. Holtzer. 1955. 
+<I>In vitro</I> studies of cartilage induction in mouse somite mesoderm. 
+J. Exp. Zool. <B>128:</B> 333-358.
+
+<A NAME="ref25-114"></A>
+<P>Grobstein, C., and G. Parker. 1954. 
+<I>In vitro</I> induction of cartilage in mouse somite mesoderm by embryonic spinal card. 
+Proc. Soc. Exp. Biol. Med. <B>85:</B> 477-481.
+<!-- 13167111 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13167111" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-115"></A>
+<P>Guthrie, M.J. 1953. 
+Enhancement of growth in the explanted ovary of the newborn mouse by inorganic phosphate and adenine. 
+Anat. Rec. <B>115:</B> 314-315.
+
+<A NAME="ref25-116"></A>
+<P>Hanks, J.H. 1955. 
+Nutrition of cells <I>in vitro</I>, p. 74-82. 
+<I>In</I> <I>An Introduction to Cell and Tissue Culture</I>. Burgess, Minneapolis.
+
+<A NAME="ref25-117"></A>
+<P>Hardy, M.H. 1949. 
+The development of mouse hair <I>in vitro</I> with some observations on pigmentation. 
+J. Anat. <B>83:</B> 364-384.
+<!-- 15394398 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15394398" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-118"></A>
+<P>Hardy, M.H. 1950. 
+The development <I>in vitro</I> of the mammary glands of the mouse. 
+J. Anat. <B>84:</B> 388-393.
+<!-- 14794554 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14794554" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-119"></A>
+<P>Hardy, M.H. 1951. 
+The development of pelage hairs and vibrissae from skin in tissue culture. 
+Ann. N.Y. Acad. Sci. <B>53:</B> 546-561.
+<!-- 14819881 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14819881" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-120"></A>
+<P>Hardy, M.H., J.D. Biggers, and P.J. Claringbold. 1953. 
+Vaginal cornification of the mouse produced by oestrogens <I>in vitro</I>. 
+Nature <B>172:</B> 1196-1197.
+<!-- 13111292 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13111292" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-121"></A>
+<P>Harris, M. 1964. 
+<I>Cell Culture and Somatic Variation.</I> 
+Holt, New York, 547 p.
+
+<A NAME="ref25-122"></A>
+<P>Hauschka, T.S. 1957. 
+Tissue genetics of neoplastic cell populations. 
+Can. Cancer Res. Conf. <B>2 (1956):</B> 305-345.
+<!-- 13437177 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13437177" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-123"></A>
+<P>Hauschka, T.S. 1958. 
+Correlation of chromosomal and physiologic changes in tumors. 
+J. Cell. Comp. Physiol. <B>52:</B> 197-267.
+<!-- 13641349 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13641349" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-124"></A>
+<P>Hobbs, G.L., K.K. Sanford, V.J. Evans, and W.R. Earle. 1957. 
+Establishment of a clone of mouse liver cells from a single isolated cell. 
+J. Nat. Cancer Inst. <B>18:</B> 701-708.
+<!-- 13502690 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13502690" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-125"></A>
+<P>Hsu, T.C. 1959. 
+Mammalian chromosomes <I>in vitro</I>. XI. Variability among progenies of a single cell, p. 129-134. 
+<I>In</I>: <I>Biol. Contrib. No. 5914, Univ. Texas, Austin</I>.
+
+<A NAME="ref25-126"></A>
+<P>Hsu, T.C. 1960. 
+Mammalian chromosomes <I>in vitro</I>. XIII. Cyclic and directional changes of population strucutre. 
+J. Nat. Cancer Inst. <B>25:</B> 1339-1353.
+<!-- 13716387 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13716387" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-127"></A>
+<P>Hsu, T.C. 1961. 
+Chromosomal evolution in cell populations. 
+Int. Rev. Cytol. <B>12:</B> 69-161.
+<!-- 14449549 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14449549" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-128"></A>
+<P>Hsu, T.C., D. Billen, and A. Levan. 1961. 
+Mammalian chromosomes <I>in vitro</I>. XV. Patterns of transformation. 
+J. Nat Cancer Inst. <B>27:</B> 515-541.
+<!-- 13716384 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13716384" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-129"></A>
+<P>Hsu, T.C., and D.S. Kellogg. 1959. 
+Genetics of <I>in vitro</I> cells, p. 183-204. 
+<I>In</I> <I>Genetics and Cancer. 13th Symp. Fundamental Cancer Res.</I> University of Texas Press, Austin.
+
+<A NAME="ref25-130"></A>
+<P>Hsu, T.C., and D.S. Kellogg. 1960. 
+Mammalian chromosomes <I>in vitro</I>. XII. Experimental evolution of cell populations. 
+J. Nat. Cancer Inst. <B>24:</B> 1067-1093.
+<!-- 14403617 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14403617" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-131"></A>
+<P>Hsu, T.C., and O. Klatt. 1958. 
+Mammalian chromosomes <I>in vitro</I>. IX. On genetic polymorphism in cell populations. 
+J. Nat. Cancer Inst. <B>21:</B> 437-473.
+<!-- 13576100 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13576100" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-132"></A>
+<P>Hsu, T.C., and D.J. Merchant. 1961. 
+Mammalian chromosomes <I>in vitro</I>. XIV. Genotypic replacement in cell populations. 
+J. Nat. Cancer Inst. <B>26:</B> 1075-1083.
+<!-- 13716385 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13716385" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-133"></A>
+<P>Hungerford, D.A. 1955. 
+Chromosome numbers of ten day fetal mouse cells. 
+J. Morphol. <B>97:</B> 497-510.
+
+<A NAME="ref25-134"></A>
+<P>Ingalls, T.H., E.F. Ingenito, and F. J. Curley. 1963. 
+Acquired chromosomal anomalies induced in mice by injection of a teratogen in pregnancy. 
+Science <B>141:</B> 810-812.
+<!-- 14045134 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14045134" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-135"></A>
+<P>Ingram, R.L. 1962. 
+Maintenance of organized adult liver tissue <I>in vitro</I>. 
+Exp. Cell Res. <B>28:</B> 370-380.
+<!-- 13956539 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13956539" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-136"></A>
+<P>Jacobs, B.B. 1963. 
+<I>In vivo</I> assay of function of mouse ovaries following culture in hormone enriched medium. 
+Exp. Cell Res. <B>32:</B> 431-441.
+<!-- 14099814 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14099814" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-137"></A>
+<P>Kahn, R. H. 1958. 
+Organ culture in experimental biology. 
+Univ. Michigan Med. Bull. <B>24:</B> 242-252.
+<!-- 13569730 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13569730" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-138"></A>
+<P>Kite, J.H., and D.J. Merchant. 1961. 
+Studies of some antigens of the L-strain mouse fibroblast. 
+J. Nat. Cancer Inst. <B>26:</B> 419-434.
+<!-- 13756472 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13756472" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-139"></A>
+<P>Klein, E. 1960. 
+On substrate-induced enzyme formation in animal cells cultured <I>in vitro</I>. 
+Exp. Cell Res. <B>21</B>: 421-429.
+<!-- 13756644 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13756644" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-140"></A>
+<P>Klein, E. 1961. 
+Studies on the substrate-induced arginase synthesis in animals cell strains cultured <I>in vitro</I>. 
+Exp. Cell Res. <B>22:</B> 226-232.
+
+<A NAME="ref25-141"></A>
+<P>Koziorowska, J. 1962. 
+The influence of ovarian hormones and insulin on the mouse mammary glands cultivated <I>in vitro</I>. 
+Acta Med. Pol. <B>3:</B> 237-245.
+<!-- 14035308 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14035308" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-142"></A>
+<P>Krooth, R.S. [ed.] 1964. 
+<I>Somatic Cell Genetics</I>. 
+The University of Michigan Press, Ann Arbor.
+
+<A NAME="ref25-143"></A>
+<P>Kuff, E.L., and V.J. Evans. 1961. 
+&#946;-Glucuronidase activities of cultured cells derived from C3H mouse liver. 
+J. Nat. Cancer Inst. <B>27:</B> 667-678.
+<!-- 13754931 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13754931" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-144"></A>
+<P>Lasfargues, E.Y. 1957<I>a</I>. 
+Cultivation and behavior <I>in vitro</I> of the normal mammary epithelium of the adult mouse. 
+Anat. Rec. <B>127:</B> 117-129.
+<!-- 13411582 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13411582" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-145"></A>
+<P>Lasfargues, E.Y. 1957<I>b</I>. 
+Cultivation and behavior <I>in vitro</I> of the normal mammary epithelium of the adult mouse. II. Observations on the secretory activity. 
+Exp. Cell Res. <B>13:</B> 553-562.
+<!-- 13490374 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13490374" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-146"></A>
+<P>Lasfargues, E.Y. 1957<I>c</I>. 
+Compoarative behavior <I>in vitro</I> of the normal and neoplastic mammary epithelium of the mouse. 
+Proc. Amer. Ass. Cancer Res. <B>2:</B> 224.
+
+<A NAME="ref25-147"></A>
+<P>Lasfargues, E.Y. 1960. 
+Action de l'oestradiol et de la progest&#233;rone sure des cultures de glandes mammaires de jeunes souris. 
+Compt. Rend. Soc. Biol. <B>154:</B> 1720-1722.
+<!-- 13759265 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13759265" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-148"></A>
+<P>Lasfargues, E.Y. 1962. 
+Concerning the role of insulin in the differentiation and functional activity of mouse mammary tissues. 
+Exp. Cell Res. <B>28:</B> 531-542.
+
+<A NAME="ref25-149"></A>
+<P>Lasfargues, E.Y., and D.G. Feldman. 1963. 
+Hormonal and physiological background in the production of B particles by the mouse mammary epithelium in organ culture. 
+Cancer Res. <B>23:</B> 191-196.
+
+<A NAME="ref25-150"></A>
+<P>Lasfargues, E.Y., D.H. Moore, and M.R. Murray. 1958. 
+Maintenance of the milk factor in cultures of mouse mammary epithelium. 
+Cancer Res. <B>18:</B> 1281-1285.
+<!-- 13608434 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13608434" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-151"></A>
+<P>Lasfargues, E.Y., and M.R. Murray. 1959. 
+Hormonal influences on the differentiation and growth of embryonic mouse mammary gland in organ culture. 
+Develop. Biol. <B>1:</B> 413-435.
+
+<A NAME="ref25-152"></A>
+<P>Lasnitzki, I. 1954. 
+The effect of oestrone alone and combined with 20-methylcholanthrene on mouse prostate glands grown <I>in vitro</I>. 
+Cancer Res. <B>14:</B> 632-639.
+<!-- 13209535 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13209535" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-153"></A>
+<P>Lasnitzki, I. 1955<I>a</I>. 
+The effect of testosterone propionate on organ cultures of the mouse prostate. 
+J. Endocrinol. <B>12:</B> 236-240.
+<!-- 13252172 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13252172" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-154"></A>
+<P>Lasnitzki, I. 1955<I>b</I>. 
+The influence of A hypervitaminosis on the effect of 20-methylcholanthrene on mouse prostate glands grown <I>in vitro</I>. 
+Brit. J. Cancer <B>9:</B> 434-441.
+<!-- 13269641 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13269641" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-155"></A>
+<P>Lasnitzki, I. 1958. 
+The effect of carcinogens, hormones and vitamins on organ cutlures. 
+Int. Rev. Cytol. <B>7:</B> 79-121.
+
+<A NAME="ref25-156"></A>
+<P>Lasnitzki, I. 1961<I>a</I>. 
+The effect of radiation on the normal and oestrone-treated mouse vagina grown <I>in vitro</I>. 
+Brit J. Radiol. <B>34:</B> 356-361.
+<!-- 13759295 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13759295" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-157"></A>
+<P>Lasnitzki, I. 1961<I>b</I>. 
+Effect of excess vitamin A on the normal and oestrone-treated mouse vagina grown in chemically defined media. 
+Exp. Cell Res. <B>24:</B> 37-45.
+<!-- 13759294 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13759294" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-158"></A>
+<P>Lasnitzki, I. 1961<I>c</I>. 
+Action and interaction of radiation, oestrogen and vitamin A on the mouse vagina grown <I>in vitro</I>. 
+Colloq. Int. Centre Nat. Res. Sci. <B>101:</B> 73-84.
+
+<A NAME="ref25-159"></A>
+<P>Lasnitzki, I. 1961<I>d</I>. 
+The effect of X rays on cellular differentiation in organ culture. 
+Ann. N.Y. Acad. Sci. <B>95:</B> 873-881.
+<!-- 14462611 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14462611" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-160"></A>
+<P>Lasnitzki, I. 1962. 
+Hypovitaminosis-A in the mouse prostate gland cultured in chemically defined medium. 
+Exp. Cell Res. <B>28:</B> 40-51.
+
+<A NAME="ref25-161"></A>
+<P>Lasnitzki, I. 1965. 
+The action of hormones on cell and organ cultures, p. 591-658. 
+<I>In</I> E.N. Willmer [ed.] <I>Cells and Tissue in Culture. Vol 1.</I> Academic Press, New York.
+
+<A NAME="ref25-162"></A>
+<P>Lasnitzki, I., and J.A. Lucy. 1961. 
+Amino acid metabolism and arginase activity in mouse prostate glands grown <I>in vitro</I> with and without 20-methylcholanthrene. 
+Exp Cell Res. <B>24:</B> 379-392.
+<!-- 13759293 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13759293" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-163"></A>
+<P>Levan, A., and J.J. Biesele. 1958. 
+Role of chromosomes in cancerogenesis, as studied in serial tissue culture of mammalian cells. 
+Ann. N.Y. Acad. Sci. <B>71:</B> 1022-1053.
+<!-- 13583868 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13583868" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-164"></A>
+<P>Levan, A., and T.C. Hsu. 1960. 
+The chromosomes of two mouse strains from mammary carcinomas of the mouse. 
+Hereditas <B>46:</B> 231-240.
+
+<A NAME="ref25-165"></A>
+<P>Levintow, L., and H. Eagle. 1961. 
+Biochemistry of cultured mammalian cells. 
+Annu. Rev. Biochem. <B>30:</B> 605-640.
+
+<A NAME="ref25-166"></A>
+<P>Lieberman, M. 1958. 
+Cultivation of mouse thymus in diffusion chambers <I>in vivo</I>. 
+Proc. Amer. Ass. Cancer Res. <B>2:</B> 321.
+
+<A NAME="ref25-167"></A>
+<P>Lostroh, A.J. 1959. 
+The response of ovarian explants from post-natal mice to gonadotropins. 
+Endocrinology <B>65:</B> 124-132.
+<!-- 13663858 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13663858" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-168"></A>
+<P>Lostroh, A.J. 1960. 
+<I>In vitro</I> response of mouse testis to human chorionic gonadotropin. 
+Proc. Soc. Exp. Biol. Med. <B>103:</B> 25-27.
+<!-- 14418374 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14418374" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-169"></A>
+<P>Lostroh, A.J. 1963. 
+Effects of insulin and of DL-aldosterone on protein synthesis by mouse uteri in organ culture. 
+Exp. Cell Res. <B>32:</B> 327-332.
+<!-- 14080674 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14080674" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-170"></A>
+<P>Lucas, D.R. 1958. 
+Inherited retinal dystrophy in the mouse: its appearance in eyes and retinae cultured <I>in vitro</I>. 
+J. Embryol. Exp. Morphol. <B>6:</B> 589-592.
+<!-- 13611137 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13611137" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-171"></A>
+<P>Lucas, D.R., and O.A. Trowell. 1958. 
+<I>In vitro</I> culture of the eye and the retina of the mouse and rat. 
+J. Embryol. Exp. Morphol. <B>6:</B> 178-182.
+<!-- 13539279 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539279" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-172"></A>
+<P>Ludovici, P.P., C. Ashford, and N.F. Miller. 1962<I>a</I>. 
+Studies on chemically induced and "spontaneous" alterations of morphology and growth potential in human cell culture. 
+Cancer Res. <B>22:</B> 788-796.
+<!-- 14467181 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14467181" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-173"></A>
+<P>Ludovici, P.P., C. Ashford, and N.F. Miller. 1962<I>b</I>. 
+Studies on the chemicals required to induce alterations of morphology and growth potential in human cell culture. 
+Cancer Res. <B>22:</B> 797-803.
+<!-- 14467182 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14467182" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-174"></A>
+<P>Magee, W.E., M.R. Sheek, and B.P. Sagik. 1958. 
+Methods of harvesting mammalian cells grown in tissue culture. 
+Proc. Soc. Exp. Biol. Med. <B>99:</B> 390-392.
+<!-- 13601885 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13601885" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-175"></A>
+<P>Maio, J.J., and H.V. Rickenberg. 1960. 
+The &#946;-galactosidase of mouse strain L-cells and mouse organs. 
+Biochem. Biophys. Acta <B>37:</B> 101-106.
+<!-- 14420036 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14420036" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-176"></A>
+<P>Manson, L.A., G.V. Foschi, J.F. Duplan, and O.B. Zaalberg. 1962<I>a</I>. 
+Isolation of transplantation antigens from a leukemic cell grown "<I>in vitro</I>." 
+Ann. N.Y. Acad. Sci. <B>101:</B> 121-130.
+
+
+<A NAME="ref25-177"></A>
+<P>Manson, L.A., G.V. Foschi, and J. Palm. 1962<I>b</I>. 
+<I>In vivo</I> and <I>in vitro</I> studies of histocompatibility antigens isolated from a cultured mouse cell line. 
+Proc. Nat. Acad. Sci. <B>48:</B> 1816-1821.
+<!-- 16591010 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16591010" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-178"></A>
+<P>Martin, L. 1959. 
+Growth of the vaginal epithelium of the mouse in tissue culture. 
+J. Endocrinol. <B>18:</B> 334-342.
+<!-- 14421706 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14421706" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-179"></A>
+<P>Martinovitch, P.N. 1938. 
+The development <I>in vitro</I> of the mammalian gonad. Ovary and ovogenesis. 
+Proc. Roy. Soc. B <B>125:</B> 232-249.
+
+<A NAME="ref25-180"></A>
+<P>Martinovitch, P.N. 1939. 
+The effect of subnormal temperature on the differentiation and survival of cultivated <I>in vitro</I> embryonic and infantile rat and mouse ovaries. 
+Proc. Roy. Soc. B <B>128:</B> 138-143.
+
+<A NAME="ref25-181"></A>
+<P>McCarthy, B.J., and B.H. Hoyer. 1964. 
+Identity of DNA and diversity of messenger RNA molecules in normal mouse tissues. 
+Proc. Nat. Acad. Sci. <B>52:</B> 915-922.
+<!-- 14224396 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14224396" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-182"></A>
+<P>McCulloch, E.A., and J.E. Till. 1962. 
+The sensitivity of cells from normal mouse bone marrow to gamma radiation "<I>in vitro</I>" and "<I>in vivo</I>." 
+Radiat. Res. <B>16:</B> 822-832.
+<!-- 16722000 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16722000" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-183"></A>
+<P>McKenna, J.M., and W.S. Blakemore. 1962. 
+Serological comparisons among tissue culture cell lines. 
+Nature <B>195:</B> 1009-1010.
+
+<A NAME="ref25-184"></A>
+<P>McLaren, A., and J. D. Biggers. 1958. 
+Successful development and birth of mice cultivated <I>in vitro</I> as early embryos. 
+Nature <B>182:</B> 877-878.
+<!-- 13590153 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13590153" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-185"></A>
+<P>Merchant, D.J., R.H. Kahn, and W.H. Murphy. 1964. 
+<I>Handbook of Cell and Organ Culture, 2nd. ed</I>. 
+Burgess, Minneapolis. 263 p.
+
+<A NAME="ref25-186"></A>
+<P>Merchant, D.J., and J.V. Neel [ed.] 1962. 
+<I>Approaches to the Genetic Analysis of Mammalian Cells</I>. 
+The University of Michigan Press, Ann Arbor. 97 p.
+
+<A NAME="ref25-187"></A>
+<P>Mintz, B. 1962<I>a</I>. 
+Experimental study of the developing mammalian egg: removal of the zona pellucida. 
+Science <B>138:</B> 594-595.
+
+<A NAME="ref25-188"></A>
+<P>Mintz, B. 1962<I>b</I>. 
+Incorporation of nucleic acid and protein precursors by developing mouse eggs. 
+Amer. Zool. <B>2:</B> 432.
+
+<A NAME="ref25-189"></A>
+<P>Mintz, B. 1962<I>c</I>. 
+Formation of genotypically mosaic mouse embryos. 
+Amer. Zool. <B>2:</B> 432.
+
+<A NAME="ref25-190"></A>
+<P>Mintz, B. 1963. 
+Growth <I>in vitro</I> of <I>t<SUP>12</SUP></I>/<I>t<SUP>12</SUP></I> lethal mutant mouse eggs. 
+Amer. Zool. <B>2:</B> 432.
+
+<A NAME="ref25-191"></A>
+<P>Mitsutani, M., Y. Ohnuki, Y.H. Nakanishi, and C.M. Pomerat. 1960. 
+The development of a near-diploid <I>in vitro</I> strain from a smoke-condensate induced mouse tumor. 
+Texas Rep. Biol. Med. <B>18:</B> 455-469.
+
+<A NAME="ref25-192"></A> 
+<P>Moretti, R.L., and K.B. DeOme. 1962. 
+Effect of insulin on glucose uptake by normal and neoplastic mouse mammary tissues in organ culture. 
+J. Nat. Cancer Inst. <B>29:</B> 321-329.
+<!-- 14475932 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14475932" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-193"></A>
+<P>Morgan, J.F. 1958. 
+Tissue culture nutrition. 
+Bacteriol. Rev. <B>22:</B> 20-45.
+<!-- 13522508 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13522508" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-194"></A>
+<P>Morgan, J.F., L.F. Guerin, and H.J. Morton. 1956. 
+The effect of low temperature and storage on the viability and mouse strain specificity of ascitic tumor cells. 
+Cancer Res. <B>16:</B> 907-912.
+<!-- 13364925 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13364925" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-195"></A>
+<P>Murray, M.R. 1959. 
+Uses of tissue culture in the study of malignancy, p. 469-516. 
+<I>In</I> F. Homburger [ed.] <I>The Pathophysiology of Cancer, 2nd ed.</I> Hoeber-Harper, New York.
+
+<A NAME="ref25-196"></A>
+<P>Murray, M.R., and G. Kopech. 1953. 
+<I>A Bibliography of the Research in Tissue Culture, 1884-1950</I>. 
+Academic Press, New York. 2 vol.
+
+<A NAME="ref25-197"></A>
+<P>Murray, M.R., and G. Kopech. 1965. 
+<I>Current Tissue Culture Literature. Vol. 5</I>. 
+October House, New York.
+
+<A NAME="ref25-198"></A>
+<P>Murray, M.R., and G. Kopech. 1966. 
+<I>Current Tissue Culture Literature. [1961-64]. Vols. 1-4</I>. 
+October House, New York.
+
+<A NAME="ref25-199"></A>
+<P>New, D.A.T. 1962. 
+Action of vitamin A on rodent skin and buccal epithelium in organ culture, p. 20. 
+<I>Annu. Rep. Strangeways Res. Lab., Cambridge, England</I>.
+
+<A NAME="ref25-200"></A>
+<P>New, D.A.T., and K.F. Stein. 1963. 
+Cultivation of mouse embryos <I>in vitro</I>. 
+Nature <B>199:</B> 297-299.
+<!-- 14076704 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14076704" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-201"></A>
+<P>Parker, R.C. 1961. 
+<I>Methods of Tissue Culture, 3rd ed</I>. 
+Hoeber-Harper, New York. 358 p.
+
+<A NAME="ref25-202"></A>
+<P>Paul, J. 1958. 
+A note on nomenclature of cell strains. 
+Virology <B>5:</B> 175.
+
+<A NAME="ref25-203"></A>
+<P>Paul, J. 1960. 
+Environmental influences on the metabolism and composition of cultured cells. 
+J. Exp. Zool. <B>142:</B> 475-505.
+<!-- 13733437 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13733437" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-204"></A>
+<P>Paul, J. 1961. 
+<I>Cell and Tissue Culture, 2nd ed.</I> 
+Livingstone, Edinburgh and London. 312 p.
+
+<A NAME="ref25-205"></A>
+<P>Paul, J., and M.G. Struthers. 1963. 
+Actinomycin D-resistant RNA synthesis in animal cells. 
+Biochem. Biophys. Res. Commun. <B>11:</B> 135-139.
+
+<A NAME="ref25-206"></A>
+<P>Pearce, G.W. 1963. 
+Tissue culture in the study of muscular dstrophy, p. 178-191. 
+<I>In</I> G.H. Bourne and M.N. Golarz [ed.] <I>Muscular Dystrophy in Man and Animals</I>. Hafner, New York.
+
+<A NAME="ref25-207"></A>
+<P>Pearson, H.E. 1962. 
+Reaction of certain mouse and hamster tumor tissue cultures to polyoma virus. 
+Proc. Soc. Exp. Biol. Med. <B>111:</B> 332-334.
+<!-- 13942256 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13942256" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-208"></A>
+<P>Peppers, E.V., B.B. Westfall, H.A. Kerr, and W.R. Earle. 1960. 
+Note on the catalase activity of several mammalian cell strains after long cultivation <I>In vitor</I>. 
+J. Nat. Cancer Inst. <B>25:</B> 1065-1068.
+<!-- 13734183 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13734183" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-209"></A>
+<P>Phillips, H.J., and J.E. Terryberry. 1957. 
+Counting actively metabolizing tissue cultured cells. 
+Exp. Cell Res. <B>13:</B> 341-347.
+<!-- 13480301 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13480301" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-210"></A>
+<P>Pinkel, D. 1963. 
+Successful cultivation of spleen fragments in organ culture. 
+Proc. Soc. Exp. Biol. Med. <B>112:</B> 242-245.
+
+<A NAME="ref25-211"></A>
+<P>Prop, F.J.A. 1959. 
+Organ culture of total mammary gland of the mouse. 
+Nature <B>184:</B> 379-380.
+<!-- 14435065 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14435065" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-212"></A>
+<P>Prop, F.J.A. 1960. 
+Development of alveoli in organ cultures of total mammary glands of six weeks old virgin mice. 
+Exp. Cell Res. <B>20:</B> 256-258.
+<!-- 14435064 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14435064" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-213"></A>
+<P>Prop, F.J.A. 1961. 
+Sensitivity to prolactin of mouse mammary glands <I>in vitro</I>. 
+Exp. Cell Res. <B>24:</B> 629-631.
+<!-- 14488958 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14488958" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-214"></A>
+<P>Reid, T.R., and M.P. Gifford. 1952. 
+A quantitative study of the effects of X-radiation on cells <I>in vitro</I>. 
+J. Nat. Cancer Inst. <B>13:</B> 431-439.
+<!-- 12991050 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12991050" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-215"></A>
+<P>Rivera, E.M. 1963. 
+Hormonal requirements for survival and growth of mouse primary mammary ducts in organ culture. 
+Proc. Soc. Exp. Biol. Med. <B>114:</B> 735-738.
+<!-- 14120336 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14120336" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-216"></A>
+<P>Rivera, E.M., and H.A. Bern. 1961. 
+Influence of insulin on maintenance and secretory stimulation of mouse mammary tissues by hormones in organ culture. 
+Endocrinology <B>69:</B> 340-353.
+<!-- 13741937 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13741937" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-217"></A>
+<P>Rivera, E.M., J.J. Elias, H.A. Bern, N.P. Napalkov, and D. Pitelka. 1963. 
+Toxic effects of steroid hormones on organ cultures of mouse mammary tumors, with a comment on the occurrence of viral inclusion bodies. 
+J. Nat. Cancer Inst. <B>31:</B> 671-687.
+<!-- 14059010 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14059010" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-218"></A>
+<P>Roosa, R.A., and L.A. Herzenberg. 1959. 
+The selection of variants resistant to folic acid antagonists and 5-fluorouridine in cell cultures of a lymphocytic neoplasm. 
+Proc. Amer. Ass. Cancer Res. <B>3:</B> 58.
+
+<A NAME="ref25-219"></A>
+<P>Rothfels, K.H., and R.C. Parker. 1959. 
+The karyotypes of cell lines recently established from normal mouse tissues. 
+J. Exp. Zool. <B>142:</B> 507-520.
+<!-- 13743885 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13743885" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-220"></A>
+<P>Sachs, L., and D. Medina. 1961. 
+<I>In vitro</I> transformation of normal cells by polyoma virus. 
+Nature <B>189:</B> 457-460.
+<!-- 13745227 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13745227" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-221"></A>
+<P>Salzburger, B. 1962. 
+&#201tude du d&#233;veloppement de l'ovarie de souris greff&#233; dans l'embryon depoulet apr&#232;s culture <I>in vitro</I>. 
+Arch. Anat. Microscop. Morphol. Exp. <B>51:</B> 1-10.
+
+<A NAME="ref25-222"></A>
+<P>Sanford, K.K. 1958. 
+Clonal studies on normal cells and their neoplastic transformation <I>in vitro</I>. 
+Cancer Res. <B>18:</B> 747-752.
+<!-- 13573337 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13573337" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-223"></A>
+<P>Sanford, K.K. 1962. 
+Transformations in relation to malignancy. 
+Acta Cytol. <B>6:</B> 400-401.
+
+
+<A NAME="ref25-224"></A>
+<P>Sanford, K.K, H.B. Andervont, G.L. Hobbs, and W.R. Earle. 1961<I>a</I>. 
+Maintenance of the mammary tumor agent in long term cultures of mouse mammary carcinoma. 
+J. Nat. Cancer Inst. <B>26:</B> 1185-1191.
+<!-- 13746232 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13746232" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-225"></A>
+<P>Sanford, K.K., A.B. Covalesky, L.T. Dupree, and W.R. Earle. 1961<I>b</I>. 
+Cloning of mammalian cells by a simplified capillary technique. 
+Exp. Cell Res. <B>23:</B> 361-372.
+<!-- 13746233 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13746233" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-226"></A>
+<P>Sanford, K.K., T.B. Dunn, A.B. Covalesky, L.T. Dupree, and W.R. Earle. 1961<I>c</I>. 
+Polyoma virus and the production of malignancy <I>in vitro</I>. 
+J. Nat. Cancer Inst. <B>26:</B> 331-357.
+<!-- 13746234 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13746234" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-227"></A>
+<P>Sanford, K.K., T.B. Dunn, B.B. Westfall, A.P. Covalesky, L.T. Dupree, and W.R. Earle. 1961<I>d</I>. 
+Sarcomatous change and maintenance of differentiation in long term cultures of mouse mammary carcinoma. 
+J. Nat. Cancer Inst. <B>26:</B> 1139-1183.
+<!-- 13746235 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13746235" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-228"></A>
+<P>Sanford, K.K., W.R. Earle, and G.D. Likely. 1948. 
+The growth <I>in vitro</I> of single isolated tissue cells. 
+J. Nat. Cancer Inst. <B>9:</B> 229-246.
+
+
+<A NAME="ref25-229"></A>
+<P>Sanford, K.K., W.R. Earle, E. Shelton, E.I. Shilling, E.M. Duchesne, G.D. Likely, and M.M. Becker. 1950. 
+Production of malignancy <I>in vitro</I>. XII. Further transformations of mouse fibroblasts to sarcomatous cells. 
+J. Nat. Cancer Inst. <B>11:</B> 351-375.
+<!-- 14795191 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14795191" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-230"></A>
+<P>Sanford, K.K., G.L. Hobbs, and W.R. Earle. 1956. 
+The tumor-producing capacity of strain L mouse cells after 10 years <I>in vitro</I>. 
+Cancer Res. <B>15:</B> 162-166.
+<!-- 13293658 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13293658" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-231"></A>
+<P>Sanford, K.K., G.D. Likely, and W. R. Earle, 1954. 
+The development of variations in transplantability and morphology within a clone of mouse fibrobalsts transformed to sarcoma-producing cells <I>in vitro</I>. 
+J. Nat. Cancer Inst. <B>15:</B> 215-237.
+<!-- 13233880 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13233880" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-232"></A>
+<P>Sanford, K.K., G.D. Likely, V.J. Evans, C.J. Mackey, and W.R. Earle. 1952. 
+The production of sarcomas from cultured tissues of hepatoma, melanoma and thyroid tumors. 
+J. Nat. Cancer Inst. <B>12:</B> 1057-1077.
+<!-- 14928056 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14928056" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-233"></A>
+<P>Sanford, K.K., R.M. Merwin, G.L. Hobbs, M.C. Fioramonti, and W.R. Earle. 1958. 
+Studies on the difference in sarcoma-producing capacity of two lines of mouse cells derived <I>in vitro</I> from one cell. 
+J. Nat. Cancer Inst. <B>20:</B> 121-145.
+<!-- 13502776 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13502776" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-234"></A>
+<P>Sanford, K.K., R.M. Merwin, G.L. Hobbs, J.M. Young, and W.R. Earle. 1959. 
+Clonal analysis of variant cell lines transformed to malignant cells in tissue culture. 
+J. Nat. Cancer Inst. <B>23:</B> 1035-1059.
+<!-- 14441477 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14441477" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-235"></A>
+<P>Sanford, K.K., B.B. Westfall, E.H.. Chu, E.L. Kuff, A.B. Covalesky, L.T. Dupree, G.L. Hobbs, and W.R. Earle. 1961<I>e</I>. 
+Alterations in morphology, arginase and &#946-glucuronidase within a clone of mouse tumor cells <I>in vitro</I>. 
+J. Nat. Cancer Inst. <B>26:</B> 1193-1219.
+<!-- 13746236 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13746236" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-236"></A>
+<P>Sato, G., and V. Buonassisi. 1961. 
+The culture of differentiated tumors. 
+Abstr. 1st meeting Amer. Soc. Cell Biol. p. 189.
+
+
+<A NAME="ref25-237"></A>
+<P>Schindler, R., M. Day, and G.A. Fisher. 1959. 
+Culture of neoplastic mast cells and their synthesis of 5-hydroxytryptamin and histamine <I>in vitro</I>. 
+Cancer Res. <B>19:</B> 47-51.
+<!-- 13618883 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13618883" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-238"></A>
+<P>Scott, D.B.M., A.M. Pakoskey, and K.K. Sanford. 1960. 
+Analysis of enzymatic activities of clones derived from variant cell lines transformed to malignant cells in tissue culture. 
+J. Nat. Cancer Inst. <B>25:</B> 1365-1379.
+<!-- 13749340 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13749340" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-239"></A>
+<P>Seaman, A.R. 1956. 
+The <I>in vitro</I> cultivation of the prostate gland of the adult mouse in alkaline fluid medium. 
+Exp. Cell Res. <B>11:</B> 283-288.
+<!-- 13375649 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13375649" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-240"></A>
+<P>Seaman, A.R., and S. Stahl. 1956. 
+The uptake of I<SUP>131</SUP> by the thyroid gland of the adult mouse after <I>in vitro</I> cultivation. 
+Exp. Cell Res. <B>11:</B> 220-221.
+<!-- 13356846 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13356846" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-241"></A>
+<P>Shelton, E., and W.R. Earle. 1951. 
+Production of malignancy <I>in vitro</I>. XIII. Behavior of recovery cultures. 
+J. Nat. Cancer Inst. <B>11:</B> 817-837.
+<!-- 14841520 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14841520" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-242"></A>
+<P>Shelton, E., V.J. Evans, and G.A. Parker. 1963. 
+Malignant transoformation of mouse connective tissue grown in diffusion chambers. 
+J. Nat. Cancer Inst. <B>30:</B> 377-392.
+<!-- 13977105 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13977105" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-243"></A>
+<P>Sidman, R.L. 1956<I>a</I>. 
+Histogenesis of brown adipose tissue <I>in vivo</I> and in organ culture. 
+Anat. Rec. <B>124:</B> 581-595.
+<!-- 13314114 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13314114" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-244"></A>
+<P>Sidman, R.L. 1956<I>b</I>. 
+The direct effect of insulin on organ culture of brown fat. 
+Anat. Rec. <B>124:</B> 723-734.
+<!-- 13327280 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13327280" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-245"></A>
+<P>Sidman, R.L. 1961. 
+Tissue culture studies of inherited retinal dystrophy. 
+Dis. Nerv. Syst. (Monogr. Suppl.) <B>22(4):</B> 14-20.
+
+<A NAME="ref25-246"></A>
+<P>Sidman, R.L. 1963. 
+Organ culture analysis of inherited retinal dystrophy in rodents. 
+Nat. Cancer Inst. Monogr. <B>11:</B> 227-246.
+
+<A NAME="ref25-247"></A>
+<P>Sidman, R.L., and P. Mottla. 1961. 
+Cell division and migration in organ cultures of mouse retina. 
+Excerpta Med. (Sect. I) <B>15:</B> 558.
+
+<A NAME="ref25-248"></A>
+<P>Sorieul, S., and B. Ephrussi. 1961. 
+Karyological demonstration of hybridization of mammalian cells <I>in vitro</I>. 
+Nature <B>190:</B> 653-654.
+
+<A NAME="ref25-249"></A>
+<P>Stevenson, R.E. [ed.] 1962. 
+<I>Analytic Cell Culture</I>. 
+Nat. Cancer Inst. Monogr. 7. 290 p.
+
+<A NAME="ref25-250"></A>
+<P>Stewart, D.C., and P.L. Kirk. 1954. 
+The liquid medium in tissue culture. 
+Biol. Rev. <B>29:</B> 119-153.
+<!--  x -->
+
+<A NAME="ref25-251"></A>
+<P>Swim, H.E. 1959. 
+Microbiological aspects of tissue culture. 
+Annu. Rev. Microbiol. <B>13:</B> 141-176.
+
+<A NAME="ref25-252"></A>
+<P>Szab&#243;, G. 1954. 
+Studies on the cultivation of teeth <I>in vitro</I>. 
+J. Anat. <B>88:</B> 31-44.
+<!-- 13129169 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13129169" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-253"></A>
+<P>Tarkowski, A.K. 1959<I>a</I>. 
+Experiments on the development of isolated blastomeres of mouse eggs. 
+Nature <B>184:</B> 1286-1287.
+<!-- 13836947 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13836947" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-254"></A>
+<P>Tarkowski, A.K. 1959<I>b</I>. 
+Experimental studies on regulation in the development of isolated blastomeres of mouse eggs. 
+Acta Theriol. <B>3:</B> 191-267.
+
+<A NAME="ref25-255"></A>
+<P>Tarkowski, A.K. 1961. 
+Mouse chimaeras developed from fused eggs. 
+Nature <B>190:</B> 857-860.
+<!-- 13775333 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13775333" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-256"></A>
+<P>Tarkowski, A.K. 1963. 
+Studies on mouse chimaeras developed from eggs fused <I>in vitro</I>. 
+Nat. Cancer Inst. Monogr. <B>11:</B> 51-71.
+<!-- 13993346 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13993346" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-257"></A>
+<P>Till, J.E. 1961<I>a</I>. 
+Radiation effects on the division cycle of mammalian cells <I>in vitro</I>. 
+Ann. N.Y. Acad. Sci. <B>95:</B> 911-919.
+<!-- 13921237 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13921237" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-258"></A>
+<P>Till, J.E. 1961<I>b</I>. 
+Radiosensitivity and chromosome number in strain L mouse cells in tissue culture. 
+Radiat. Res. <B>15:</B> 400-409.
+<!-- 13776897 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13776897" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-259"></A>
+<P>Todaro, G.J., and H. Green. 1963. 
+Quantitative studies of the growth of mouse embryo cells in culture and their development into established cell lines. 
+J. Cell Biol. <B>17:</B> 299-313.
+<!-- 13985244 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13985244" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-260"></A>
+<P>Trowell, O.A. 1959. 
+The culture of mature organs in a synthetic medium. 
+Exp. Cell Res. <B>16:</B> 118-147.
+<!-- 13639945 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13639945" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-261"></A>
+<P>Trowell, O.A. 1961<I>a</I>. 
+Cytocidal effects of radiation on organ cultures. 
+Ann. N.Y. Acad. Sci. <B>95:</B> 849-865.
+<!-- 13922634 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13922634" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-262"></A>
+<P>Trowell, O.A. 1961<I>b</I>. 
+Problems in the maintenance of mature organs <I>in vitro</I>. 
+Colloq. Int. Centre Nat. Res. Sci. <B>101:</B> 237-254.
+
+<A NAME="ref25-263"></A>
+<P>Van de Kerckhove, D. 1958. 
+L'ovaire p&#233;rinatal de la souris blanche en culture organotypique. 
+Compt. Rend. Ass. Anat. <B>104:</B> 754-759.
+
+<A NAME="ref25-264"></A>
+<P>Vogt, M., and R. Dulbecco. 1960. 
+Virus-cell interaction with a tumor-producing virus. 
+Proc. Nat. Acad. Sci. <B>46:</B> 365-370.
+<!-- 16578494 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16578494" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-265"></A>
+<P>Waymouth, C. 1954. 
+The nutrition of animal cells. 
+Int. Rev. Cytol. <B>3:</B> 1-68.
+
+<A NAME="ref25-266"></A>
+<P>Waymouth, C. 1960. 
+Growth in tissue culture, p. 546-587. 
+<I>In</I> W.W. Nowinski [ed.] <I>Fundamental Aspects of Normal and Malignant Growth.</I> Elsevier, Amsterdam.
+
+<A NAME="ref25-267"></A>
+<P>Waymouth, C. 1965. 
+Construction and use of synthetic media, p. 99-142. 
+<I>In</I> E.N. Willmer [ed.] <I>Cells and Tissues in Culture, Vol. 1</I> Academic Press, New York.
+
+<A NAME="ref25-268"></A>
+<P>Wells, L.J., and E. Borghese. 1961. 
+Sviluppo embrionale <I>in vitro</I> del pancreas di topo. 
+Boll. Zool. <B>28:</B> 235-239.
+
+<A NAME="ref25-269"></A>
+<P>Wells, L.J., and E. Borghese. 1963. 
+Development of the pancreas of the mouse embryo <I>in vitro</I>: acini and islets. 
+Gen Comp. Endocrinol. <B>3:</B> 265-273.
+<!-- 13999884 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13999884" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-270"></A>
+<P>Westfall, B.B. 1962. 
+Characterization of cells in tissue culture. 
+Nat. Cancer Inst. Monogr. <B>7:</B> 147-157.
+<!-- 14006338 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14006338" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-271"></A>
+<P>Westfall, B.B., E.V. Peppers, V.J. Evans, K.K. Sanford, N.M. Hawkins, M.C. Fioramonti, H.A. Kerr, G.L. Hobbs, and W.R. Earle. 1958. 
+The arginase and rhodanese activities of certain cell strains after long cultivation <I>in vitro</I>. 
+J. Biophys. Biochem. Cytol. <B>4:</B> 567-570.
+<!-- 13587550 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13587550" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-272"></A>
+<P>White, P.R. [ed.] 1957. 
+Proceedings of the decennial review conference on tissue culture. 
+J. Nat. Cancer Inst. <B>19:</B> 467-843.
+
+<A NAME="ref25-273"></A>
+<P>White, P.R. 1963. 
+<I>The Cultivation of Animal and Plant Cells, 2nd. ed</I>. 
+Ronald, New York. 228 p.
+
+<A NAME="ref25-274"></A>
+<P>Whitfield, J.F., and R.H. Rixon. 1959. 
+Effects of X radiation on multiplication and nucleic acid synthesis in cultures of L strain mouse cells. 
+Exp. Cell Res. <B>18:</B> 126-137.
+<!-- 13844455 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13844455" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-275"></A>
+<P>Whitfield, J.F., R.H. Rixon, and T. Youdale. 1961. 
+Effects of ultraviolet light on multiplication and deoxyribonucleic acid synthessis in cultrues of L strain mouse cells. 
+Exp. Cell Res. <B>22:</B> 450-454.
+<!-- 13784901 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13784901" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-276"></A>
+<P>Whitfield, J.F., R.H. Rixon, and T. Youdale. 1962. 
+Prevention of mitotic decay in irradiated suspension cultures of L mouse cells by agmatine. 
+Exp. Cell Res. <B>27:</B> 143-147.
+<!-- 14006620 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14006620" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-277"></A>
+<P>Whitmore, G.F., J.E. Till, R.B.L. Gwatkin, L. Siminovitch, and A.F. Graham. 1958. 
+Increase of cellular constituents in X-irradiated mammalian cells. 
+Biochem. Biophys. Acta <B>30:</B> 583-590.
+<!-- 13618265 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13618265" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-278"></A>
+<P>Whitten, W.K. 1956. 
+Culture of tubal mouse ova. 
+Nature <B>177:</B> 96.
+<!-- 13288608 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13288608" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-279"></A>
+<P>Whitten, W.K. 1957. 
+The effect of progesterone on the development of mouse eggs <I>in vitro</I>. 
+J. Endocrinol. <B>16:</B> 80-85.
+<!-- 13491736 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13491736" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-280"></A>
+<P>Willmer, E.N. 1960<I>a</I>. 
+Tissues in culture and in the body. 
+Symp. Soc. Exp. Biol. <B>14:</B> 28-40.
+<!-- 13785589 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13785589" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-281"></A>
+<P>Willmer, E.N. 1960<I>b</I>. 
+<I>Cytology and Evolution</I>. 
+Academic Press, New York. 430 p.
+
+<A NAME="ref25-282"></A>
+<P>Wolff, E. 1952. 
+Sur la diff&#233;renciation sexuelle des gonades de souris explant&#233;es <I>in vitro</I>. 
+Compt. Rend. Acad. Sci. <B>234:</B> 1712-1714.
+<!-- 12979301 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12979301" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-283"></A>
+<P>Wolff, E., and J.P. Weniger. 1954. 
+Recherches pr&#233;liminaires sur les chim&#232;res d'organs embryonnaires d'oiseaux et de mammif&#232;res en culture <I>in vitro</I>. 
+J. Embryol. Exp. Morphol. <B>2:</B> 161-171.
+
+<A NAME="ref25-284"></A>
+<P>Woods, M.W., K.K. Sanford, D. Burk, and W.R. Earle. 1959. 
+Glycolytic properties of high and low sarcoma-producing lines and clones of mouse tissue culture cells. 
+J. Nat. Cancer Inst. <B>23:</B> 1079-1088.
+<!-- 13845891 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13845891" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref25-285"></A>
+<P>Yoshioka, W. 1960. 
+Studies on the isologous transplantation of tooth germs in mice. II. Effects of hormones on the isologous transplantations of tooth germs previously cultured <I>in vitro</I>. 
+Arch. Histol. Jap. <B>20:</B> 19-34.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter24.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter26.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

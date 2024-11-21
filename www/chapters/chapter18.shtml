@@ -1,0 +1,263 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 18 - Blood Coagulation</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, blood coagulation, clotting, thrombosis, prothrombin">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter17.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter19.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>18</H1>
+<H2><I>Blood Coagulation</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Hans Meier and Warren G. Hoag</H3>
+
+<P>This chapter summarizes what is known about normal and abnormal coagulation of blood in inbred mice. Until 1960 mouse blood had not 
+been studied with respect to the amounts of various clotting factors present normally in healthy mice and absent in a number of hemorrhagic syndromes.
+
+<P><B>NORMAL BLOOD CLOTTING</B>
+
+<P>Methods of assaying normal mouse blood for clotting factors and for the amounts of each component necessary for normal clotting are given by Meier <I>et al.</I> (
+<A HREF="#ref18-5">1960</A>, 
+<A HREF="#ref18-6">1962</A>) and Meier (
+<A HREF="#ref18-4">1963</A>). Knowledge of clotting factors extracted from mouse blood is of value in (1) the diagnosis of abnormal clotting in man, 
+(2) the study of the mechanism of clotting as a biological process, and (3) the assay of certain liver functions. Blood coagulation is a highly 
+complicated biological phenomenon. A tentative and oversimplified scheme of the clotting mechanism is shown in 
+<a href="javascript:windowf1801 = window.open('../figures/figure18-1.shtml', 'windowf1801', 'width=1050,height=600,resizable=yes,scrollbars=yes'); windowf1801.focus()">Figure 18-1</A>. 
+It is presented to familiarize the reader with the various synonyms in common use and to provide some understanding of 
+the different factorial interactions. A separate assay is available for the three stages, each consisting of several linked reactions.
+
+<P><B>ABNORMAL BLOOD CLOTTING</B>
+
+<P>Several disorders of the clotting mechanism including both excessive bleeding and hypercoagulability have been described in inbred mice.
+
+<P><B>Stuart-Prower factor deficiency</B>
+
+<P>A spontaneous bleeding or hemorrhagic diathesis occurred in certain inbred strains of mice at The Jackson Laboratory in 1960 (
+<A HREF="#ref18-6">Meier <I>et al.</I>, 1962</A>). About 80 per cent of males of the SWR/J strain and about 20 per cent of males of the DBA/2J strain died 
+with bilateral hemothorax and sometimes with multiple bleedings elsewhere in the body, either subcutaneous, perivesicular, or subdural. The mice 
+were anemic and jaundiced. The major histopathological findings were myocarditis and various degrees of hepatomegaly. Elevated lactic dehydrogenase 
+was associated with myocarditis. Anemia and icterus seemed to be consequences f extensive hemorrhage rather than of hepatic dysfunction since 
+alkaline and acid serumphosphatase and glutamic-oxalic transaminase were, except for lowered serum glutamic-pyruvic transaminase, within normal range or only slightly altered.
+
+<P>The affected mice had single or multiple "prothrombin complex" deficiencies, including deficiencies of the Stuart-Prower factor or factor X, 
+plasma thromboplastin component (PTC) or factor IX, serum prothrombin conversion factor or factor VIII, and prothrombin. Activities of the first three factors, 
+determined by specific assays using both human and normal mouse blood were less than 3 per cent of normal and the last was less than 10 per cent. Accelerator 
+globulin (Ac-G or factor V), Hageman factor, and fibrinogen were normal. The clotting abnormality which first appeared in the course of the disease was always 
+Stuart-Prower factor deficiency.
+
+<P>Two features were particularly noteworthy: (1) occurrence only in males of two strains and (2) consistency of the lesions both microscopically and biochemically. 
+Although myocarditis was the most severe histological alteration, liver dysfunction with respect to clotting factor(s) was the most important clinical consequence, 
+leading eventually to death from loss of blood. The simultaneous occurrence of the condition in two strains suggested that the disease was due to an environmental 
+agent rather than to a mutation and that these strains differed from the others in their genetic susceptibility. A search for possible agents implicated ethylene 
+oxide sterilization of wood shavings used as mouse-cage bedding. The presence of one or more glycols in shavings gassed with ethylene oxide was shown chromatographically. 
+Dilute solutions of ethylene glycol, administered by gavage, eliminated or greatly degreased the activity of factor X in less than 72 hours (
+<A HREF="#ref18-2">Allen <I>et al.</I>, 1962</A>). In addition, we had observed the spontaneous factor X deficiency only in those bleeding mice that had prolonged contact 
+with sterilized bedding. Mice not only touch shavings with parts of their bodies, but continually chew them. Discontinuing gas sterilization eliminated the hemorrhagic disease.
+
+<P>No explanation is available for the peculiar strain and sex distribution, other than the obvious genetic differences in response to a toxic agent.
+
+<P><B>Factor VII deficiency</B>
+
+<P>Clotting factor determinations in mice have been found to be extremely sensitive indicators of liver function. For example, clotting abnormalities associated 
+with liver damage caused by a variety of bacterial diseases and toxicities have appeared before other functional deficiencies of the liver were detected. An 
+example is factor X deficiency induced by ethylene glycol. However, liver damage usually affects several clotting factors. For instance, hypoprothrombinemia is 
+usually most severe in chloroform poisoning, but the accelerator globulin (factor V) is also greatly diminished.
+
+<P>Of all clotting factors, a factor VII deficiency occurs most often in association with impaired liver function. It readily results from hypovitaminosis K in most 
+animal species including man (
+<A HREF="#ref18-1">Alexander <I>et al.</I>, 1959</A>). However, in mice, a diet without any vitamin K complex did not induce a factor VII deficiency. 
+Coupled with other evidence this suggests that under ordinary conditions intestinal microorganisms are able to supply much, if not all, of the required vitamin K.
+
+<P>Signs of vitamin K deficiency in female mice may be induced by <I>dl</I>-&#947;-tocopherol quinone, a vitamin K and E analogue (
+<A HREF="#ref18-8">Woolley, 1945</A>). Hemorrhages presumably due to factor VII deficiency occur only in the reproductive system of pregnant mice. The compound is without effect 
+in males and nonpregnant females. However, pregnant females that received daily oral doses of 100 mg of the quinone had prothrombin times similar to the controls. Feeding of 
+3,3-methylene-bis-4-hydroxycoumarin, another antimetabolite of vitamin K, caused some signs of the vitamin K deficiency but did not produce resorption of fetuses and vaginal 
+hemorrhages in pregnant mice (
+<A HREF="#ref18-8">Woolley, 1945</A>).
+
+<P><B>Left auricular thrombosis</B>
+
+<P>Left auricular thrombosis occurs in high incidence (66 per cent) among older breeding females or inactive breeders of the BALB/cJ strain. The significance of repeated 
+pregnancies rather than age alone is indicated by the fact that BALB/cJ males and virgin or ovariectomized females never develop the condition. Although repeated pregnancies 
+in females of most strains do not affect coagulation or only irregularly cause some reduction in certain precoagulant factors, BALB/cJ mice suffer from severe deficiencies 
+of PTC or factor IX (about 40 per cent of normal), antihemophilic factor (AHF) or factor XIII (about 60 per cent of normal), Stuart-Prower factor or factor X (about 50 per 
+cent of normal), and prothrombin (about 33 per cent of normal). These deficiencies occur shortly before parturition. Hageman factor and Ac-G are always normal. These 
+prothrombin-complex abnormalities disappear a few days after birth; plasma prothrombin rebound may be 20 to 25 per cent above normal within 2 days of parturition. The rebound 
+phases are only moderately or not at all reflected in the "one-stage" prothrombin time. Attempts to measure fibrinolytic activity in blood from thrombotic mice fail because 
+of the very low activity found normally in mouse blood (
+<A HREF="#ref18-5">Meier <I>et al.</I>, 1960</A>).
+
+<P>We believe that the postpartum prothrombin-rebound, similar to that observed in man following Dicumerol and heparin therapy, may have clinical implications. The thrombus 
+probably forms rather quickly and is primary, whereas endocardial damage is probably secondary. The clinical condition associated with advanced stages of auricular thrombosis 
+consists of unthriftiness, labored breathing from lung congestion, and usually subcutaneous edema. At necropsy the left auricle is three to five times the normal size. Since 
+the disease can be diagnosed readily or at least suspected in breeders pregnant more than six times, it will be useful in studies of thrombosis formation, lysis, and potential 
+fibrinolytic compounds (
+<A HREF="#ref18-7">Meier and Hoag, 1962</A>).
+
+<P>A similar condition can be induced in young adult mice of a number of strains by feeding a hyperlipotropic diet containing 28 per cent fat as lard and 8 per cent protein 
+as casein. After about 7 weeks on this diet the mice develop atrial necrosis, resulting in formation of mural thrombi and reaching critical or terminal dimensions in 10 to 12 
+weeks. Betaine (hydrochloride, 2 mg/100 g of diet) does not prevent the lesions (
+<A HREF="#ref18-3">Ball, 1962</A>).
+
+<P><B>SUMMARY</B>
+
+<P>We have referred to the pertinent literature on aspects of normal blood clotting in mice. The papers cited give the methods for factorial assays and the normal 
+values of all factors involved in coagulation. A simplified scheme of the factors concerned in blood coagulation has been presented. The examples of single or multiple 
+factor deficiency syndromes discussed include the Stuart-Prower (factor X), factors VII and VIII, and the plasma thromboplastin component (factor IX). Each deficiency 
+depends upon a particular genetic susceptibility whether or not it occurs spontaneously or is induced.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by the National Hemophilia Foundation and in part by Public Health Service Grant CA 04691 
+from the National Cancer Institute.
+
+<P><B>LITERATURE CITED</B>
+
+<A NAME="ref18-1"></A>
+<P>Alexander, B., A. Kilma, R. Coleman, E. Scholtz, and A. DiFrancesco. 1959. 
+New "hemophiloid" defects: some clinico-laboratory and experimental abnormalities in thromboplastin generation, p. 137-157. 
+<I>In</I> K.M. Brinkhous and P. DeNichola [ed.] <I>Hemophilia and Other Hemorrhagic States</I>. 
+University of North Carolina Press, Chapel Hill.
+
+
+<A NAME="ref18-2"></A>
+<P>Allen, R.C., H. Meier, and W.C. Hoag. 1962. 
+Ethylene glycol produced by ethylene oxide sterilization and its effect on blood-clotting factors in an inbred strain of mice. 
+Nature <B>193:</B> 387-388.
+<!-- 13860568 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13860568" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref18-3"></A>
+<P>Ball, C.T. 1962. 
+Cardiac lesions in mice fed high fat, low protein diets. 
+Anat. Rec. <B>142:</B> 212.
+
+
+<A NAME="ref18-4"></A>
+<P>Meier, H. 1963. 
+<I>Experimental Pharmacogenetics</I>. 
+Academic Press, New York. 213 p.
+
+
+<A NAME="ref18-5"></A>
+<P>Meier, H., R.C. Allen, and W.G. Hoag. 1960. 
+Normal blood clotting of inbred mice. 
+Amer. J. Physiol. <B>201:</B> 375-378.
+<!-- 13769021 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13769021" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref18-6"></A>
+<P>Meier, H., R.C. Allen, and W.G. Hoag. 1962. 
+Spontaneous hemorrhagic diathesis in inbred mice due to single or multiple "prothrombin complex" deficiencies. 
+Blood <B>19:</B> 501-514.
+<!-- MGI:50982 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50982" target="_blank">MGI</A></I>.
+
+<A NAME="ref18-7"></A>
+<P>Meier, H., and W.G. Hoag. 1962. 
+Studies on left auricular thrombosis in mice. 
+Exp. Med. Surg. <B>19:</B> 317-322.
+<!-- 14472172 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14472172" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref18-8"></A>
+<P>Woolley, D.W. 1945. 
+Some biological effects produced by &#945-tocopherol quinone. 
+J. Biol. Chem. <B>159:</B> 59-66.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter17.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter19.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

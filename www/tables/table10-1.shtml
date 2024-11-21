@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 10-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 10 -->
+
+<CENTER>
+
+<H3>Table 10-1. MUTATION RATES IN POSTMEIOTIC MALE GERM CELLS EXPOSED<BR>TO SINGLE ACUTE DOSES OF X-IRRADIATION</H3>
+
+<P>
+<TABLE>
+
+<TR><TD COLSPAN=15><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Number of</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Mutation</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>gametes</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Number of</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>rate</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>Row</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Type of mutation</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Total dose</TD>
+<TD>&nbsp;</TD>
+<TD>Dose rate</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>tested</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>mutants</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>x 10<SUP>4</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>Source</TD>
+</TR>
+
+<TR><TD COLSPAN=15><HR></TD></TR>
+
+<TR><TD COLSPAN=15>(C3H x 101)F<SUB>1</SUB> males X-rayed (250 kvp), mated to test stock females (P-cross):</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Recessive visibles and<BR>lethals at 7 loci</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>300 R</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER><SUP><I>a</I></SUP></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=RIGHT>33,874</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER><SUP><I>b</I></SUP></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>13.6/locus<SUP><I>c</I></SUP></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><SUP><I>d</I></SUP></TD>
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=15><I>Ta</I> males X-rayed, mated with <I>Bn Mo<SUP>br</SUP></I> females; <I>Bn Ta Mo<SUP>br</SUP></I> F<SUB>1</SUB> males backcrossed to + + + females (F<SUB>1</SUB>-cross):</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Sex-linked lethals, all loci</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>500 R</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>154</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP ALIGN=CENTER>0</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP><SUP><I>e</I></SUP></TD>
+</TD>
+
+<TR><TD COLSPAN=15><HR></TD></TR>
+
+<TR><TD COLSPAN=15>
+
+<P><SUP><I>a</I></SUP>Dose rate not given; probably 90 R/min.
+
+<P><SUP><I>b</I></SUP>Not given for 33,874 gametes. There were 16 in 16,813 gametes (
+<A HREF="#ref10-43">Russell, 1956</A>).
+
+<P><SUP><I>c</I></SUP>Not given for 33,874 gametes; said to be about twice the rate in spermatogonia (
+<a href="javascript:windowt1004 = window.open('table10-4.shtml', 'windowt1004', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1004.focus()">Table 10-4</A>, 
+line 20).<BR>Rate quoted is from 16,813 gametes (
+<A HREF="#ref10-43">Russell, 1956</A>).
+
+<P><SUP><I>d</I></SUP>Russell <I>et al.</I> (
+<A HREF="#ref10-48">1958</A>).
+
+<P><SUP><I>e</I></SUP>Auerback <I>et al.</I> (
+<A HREF="#ref10-1">1962</A>).
+
+<A NAME="ref10-1"></A>
+<P>Auerbach, C., D.S. Falconer, and J.H. Isaacson, 1962. 
+Test for sex-linked lethals in irradiated mice. 
+Genet. Res. <B>3:</B> 444-447.
+<!-- MGI:48755 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:48755" target="_blank">MGI</A></I>.
+
+<A NAME="ref10-43"></A>
+<P>Russell, W.L. 1956. 
+Radiation-induced mutations in the mouse, p. 25. 
+US AEC Report ORNL-2155, Oak Ridge National Laboratory.
+
+<A NAME="ref10-48"></A>
+<P>Russell, W.L., J. W. Bangham, and J.S. Gower. 1958. 
+Comparison between mutations induced in spermatogonial and postspermatogonial stages in the mouse. 
+Proc. X Int. Congr. Genet. <B>2:</B> 245-246. (Abstr.)
+
+</TD></TR>
+
+</TABLE>
+</CENTER>
+
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

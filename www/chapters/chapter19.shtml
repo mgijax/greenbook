@@ -1,0 +1,1205 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 19 - Inherited Metabolic Variations</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, inherited metabolic variations, metabolism, inbred, mutant, protein, amino acid, obesity, cholesterol">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter18.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter20.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>19</H1>
+<H2><I>Inherited Metabolic Variations</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>Andrew A. Kandutsch and Douglas L. Coleman</H3>
+
+<P>Since every heritable difference between two mouse strains must involve a quantitative or qualitative difference in metabolism, a 
+number of chapters in this book deal either directly or indirectly with metabolism. Especially pertinent are chapters dealing with pigmentation (
+<A HREF="chapter21.shtml">Chapter 21</A>), nutrition (
+<A HREF="chapter5.shtml">Chapter 5</A>), endocrinology (
+<A HREF="chapter20.shtml">Chapter 20</A>), physiology (Chapters 
+<A HREF="chapter15.shtml">15</A>, 
+<A HREF="chapter16.shtml">16</A>, 
+<A HREF="chapter17.shtml">17</A>, 
+<A HREF="chapter18.shtml">18</A>), and pathology (Chapters 
+<A HREF="chapter29.shtml">29</A>, 
+<A HREF="chapter30.shtml">30</A>). The subject matter discussed in this chapter is, therefore, not a complete survey of heritable metabolic characteristics 
+but is a selective presentation of some established differences between inbred and mutant strains not discussed in detail in other chapters.
+
+<P><B>PROTEIN AND AMINO ACID METABOLISM</B>
+
+<P>The existence of serum and tissue isoantigens (
+<A HREF="chapter24.shtml">Chapter 24</A>) and of strain-dependent differences in electrophoretic patterns of urinary and serum proteins (
+<A HREF="#ref19-75">Thompson <I>et al.</I>, 1954</A>; 
+<A HREF="#ref19-25">Finlayson <I>et al.</I>, 1963</A>) imply variations in protein metabolism. Such differences in protein structure cannot yet be explained 
+in metabolic terms. Hereditary differences in the excretion and utilization of amino acids have been reported. The amount of taurine excreted in the 
+urine of C57BL strain mice is approximately 10 times that excreted by strains A and CBA (
+<A HREF="#ref19-35">Harris and Searle, 1953</A>). Although mice and rats are able to utilize both D and L forms of certain amino acids, mice bearing the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> gene are unable to utilize the D forms (Goodman, 
+<A HREF="#ref19-29">1955</A>, 
+<A HREF="#ref19-30">1958</A>). Nutrition studies provide some evidence for the existence of differences in the rates of protein turnover in different strains (
+<A HREF="#ref19-23">Fenton and Marsh, 1956</A>; 
+<A HREF="#ref19-19">Fenton, 1957</A>). Those strains found to exhibit the most marked differences in protein turnover also exhibited marked differences in 
+carbohydrate metabolism and in their susceptibility to obesity.
+
+<P><B>METABOLIC PATTERNS ASSOCIATED WITH OBESITY</B>
+
+<P>The major pathways of carbohydrate, protein, and lipid metabolism are intricately interrelated and, in mammals, are regulated by a complicated 
+interplay of hormonal factors. It is, therefore, not unexpected to find that in every instance of extensive study an alteration in the metabolism 
+of one class of compounds is accompanied by disturbances in the metabolism of one or both of the other classes and by evidence for altered rates of 
+secretion of, or sensitivity to, endocrine hormones.
+
+<P><B>Obesity in inbred strains</B>
+
+<P>An interest in the metabolic factors underlying the development of obesity has been a major stimulus for the investigation of metabolic differences 
+between inbred strains of mice. Inbred strains range in their tendency toward obesity from extremely resistant to highly susceptible. Since the 
+occurrence and degree of obesity in mice of a particular strain is to a large extent dependent upon the nature of the diet (
+<A HREF="#ref19-21">Fenton and Dowling, 1953</A>), reports of mouse strains as resistant or susceptible to obesity are sometimes at variance. Genetic divergence 
+of sublines of the same strain may also contribute to discrepancies between the observations of different workers. Thus, Fenton and Dowling (
+<A HREF="#ref19-21">1953</A>) classify strain A/Fn as severely obese, whereas Yamamoto <I>et al.</I> (
+<A HREF="#ref19-81">1963</A>) refer to DBA/2JN and A/LN (now designated AL/N) as lean and STR/1N as obese.
+
+<P>With the exception of the obese conditions determined by the single genes, obese (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>), adipose (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A>), and the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A> 
+allele at the agouti locus, little is known of the number or nature of genes that influence the development of obesity. On the basis 
+of a single study, inconclusive in this respect, Yamamoto <I>et al.</I> (
+<A HREF="#ref19-81">1963</A>) suggested that inheritance of obesity in the STR/1N strain is polygenic with some evidence for 
+dominance of greater body weight or heterosis.
+
+<P>Serum and plasma levels of total lipids, phospholipids, and cholesterol are elevated in obese mice but there is no simple relationship between the 
+degree of obesity and plasma lipid levels (
+<A HREF="#ref19-81">Yamamoto <I>et al.</I>, 1963</A>; 
+<A HREF="#ref19-84">Zomzely and Mayer, 1958</A>). Although the number of genes regulating plasma levels of total lipid, phospholipids, and cholesterol has not 
+been determined, the over-all behavior is additive (
+<A HREF="#ref19-81">Yamamoto <I>et al.</I>, 1963</A>). Studies of serum cholesterol levels among six inbred strains selected at random indicated wide variation 
+ranging from 128 mg per 100 ml for C57BL/6 to 208 mg per 100 ml for C3H. Levels in males were consistently higher than in females. Levels in F<SUB>1</SUB> 
+hybrids were found to be a linear function of the cholesterol level of the dam, the cholesterol level of the sire, and the sex of the subject. The three 
+factors do not interact (
+<A HREF="#ref19-6">Bruell <I>et al.</I>, 1962</A>; 
+<A HREF="#ref19-5">Bruell, 1963</A>).
+
+<P>Six strains of mice can be grouped into three categories on the basis of the tendency to become obese. Strain I/Fn is completely resistant to obesity; 
+LT and C57BL/Fn are moderately obese; A/Fn, C3H/Fn, and BUB are severely obese (
+<A HREF="#ref19-21">Fenton and Dowling, 1953</A>; 
+<A HREF="#ref19-50">Lyon, 1957</A>). Strain I has a relatively high rate of protein turnover (
+<A HREF="#ref19-21">Fenton and Dowling, 1953</A>; 
+<A HREF="#ref19-19">Fenton, 1957</A>). Glycogen levels in the muscle of the lean strain I are elevated, whereas glycogen levels in the liver are depressed relative 
+to levels found in more obese animals (
+<A HREF="#ref19-50">Lyon, 1957</A>). Results of studies aimed at providing an explanation for the abnormal distribution of carbohydrate in strain I appear to 
+implicate muscle phosphorylase. Strain C57BL has a lower nutritional requirement for vitamin B<SUB>6</SUB> (a cofactor for phosphorylase) than does strain I (
+<A HREF="#ref19-54">Lyon <I>et al.</I>, 1958</A>). Total concentration of vitamin B<SUB>6</SUB> in the livers of the two strains are similar, but the level of pyridoxal 
+5'-phosphate is greater in the C57BL strain and the level of pyridoxine 5'-phosphate is higher in the I strain (
+<A HREF="#ref19-51">Lyon <I>et al.</I>, 1962</A>), Muscle phosphorylase levels in the two strains are similar, but there is a striking difference in the levels of the 
+active (<I>a</I>) form of the enzyme. The amount of the active form found in I strain mice ranged from 0 to 5 per cent of the total phosphorylase, while in 
+C57BL mice the amount of active form averaged 60 per cent of the total. The amount of the active form of phosphorylase in the muscle of the C57BL strain is 
+elevated by dietary restrictions and by treatment with epinephrine, but these experimental procedures have no effect on the amount of active form present in I 
+strain muscle. The failure of these procedures to induce an increase in the amount of active phosphorylase in strain I muscle appears to be explained by the 
+finding that phosphorylase <I>b</I>-kinase is essentially absent from the muscle of I strain mice. Phosphorylase <I>b</I>-kinase is present in heart muscle 
+from both strains and the increase in the amount of active phosphorylase in this organ following dietary restriction or treatment with epinephrine is similar 
+in both strain I and C57BL. Although these observations are of much interest and seem to be involved in the development of the abnormal metabolic picture 
+presented by strain I mice, their significance in relation to the observed differences in glycogen storage and utilization is not clear. Glycogenolysis in 
+strain I proceeds with facility even when amounts of phosphorylase <I>a</I> are too low to detect (Lyon and Porter, 
+<A HREF="#ref19-52">1962</A>, 
+<A HREF="#ref19-53">1963</A>). A possible role of endocrine hormones in the development of the metabolic patterns characteristic of strain I has been suggested (
+<A HREF="#ref19-20">Fenton, 1960</A>; 
+<A HREF="#ref19-22">Fenton and Duguid, 1962</A>).
+
+<P>The results of other studies concerned with elucidating the metabolic basis for obesity in inbred strains indicate that the obese C3H/Fn strain has a 
+higher glucose tolerance than the relatively lean C57BL/Fn (
+<A HREF="#ref19-4">Bloom and Fenton, 1956</A>), and the obese A/Fn strain is able to mobilize fat to the 
+liver more rapidly than the I strain (
+<A HREF="#ref19-20">Fenton, 1960</A>). An association of altered carbohydrate metabolism with the development of obesity appears 
+to be a uniform finding. This relationship and the nature of other metabolic changes associated with obesity have been extensively studied in obese (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>) mice and to a lesser extent in yellow (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/-) mice.
+
+<P><B>Obesity determined by single genes</B>
+
+<P><B><I>Obesity in ob/ob mice</I></B>. Obese (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>) 
+mice do not mate unless the diet is restricted and the lines are usually maintained by breeding animals heterozygous for the gene (
+<A HREF="#ref19-42">Ingalls <I>et al.</I>, 1950</A>). The obesity is classified as "metabolic," indicating that the primary lesion is a defect in the metabolism 
+of tissues. Characteristics of this class of obesities, as exemplified by the obese mouse, have been extensively reviewed and compared with those of the 
+"regulatory" type in which the primary impairment is of the central mechanism regulating food intake (Mayer, 
+<A HREF="#ref19-57">1953</A>, 
+<A HREF="#ref19-58">1960</A>; 
+<A HREF="#ref19-59">Meier, 1963</A>). Obese mice often attain weights of 80 g and approximately 90 per cent of the excess weight is due to fat. Obesity is accompanied 
+by high levels of blood glucose and the syndrome is characterized as obese-hyperglycemic. Blood levels of total lipid and cholesterol are also elevated.
+
+<P>The energetics of the obese condition in mice bearing the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> 
+gene is explained by an increased food intake, by a diminished rate of oxygen consumption, and by greatly diminished activity. Fasting reduces 
+blood glucose levels to normal, but body composition remains obese when weight  is reduced to normal or below normal. Both hormonal and metabolic disturbances 
+have been found and it is still not clear whether the primary defect is hormonal or enzymatic (see 
+<A HREF="chapter20.shtml">Chapter 20</A>). The size and number of islets of Langerhans and the ratio of beta to alpha cells are increased in obese-hyperglycemic mice (
+<A HREF="#ref19-58">Mayer, 1960</A>; 
+<A HREF="#ref19-39">Hellerstr&#246;m and Hellman, 1963</A>). Despite the apparent hypersecretion of insulin, there is a progressive development of 
+hyperglycemia and glucosuria. Blood levels of glucose are abnormally resistant to alteration by administered insulin, whereas the hyperglycemia is increased 
+by treatment with growth hormone, ACTH, of glucagon. Hyperplasia of the cortical layers of the adrenals has been detected and cortisone production is elevated 
+in obese mice (
+<A HREF="#ref19-8">Carstensen <I>et al.</I>, 1961</A>).
+
+<P>The major metabolic factors responsible for the development of obesity appear to be an increased rate of lipogenesis from acetate and glucose and an imbalance 
+between rates of fatty acid esterification and lipolysis. Metabolism of acetate to carbon dioxide <I>in vivo</I> is diminished, whereas lipogenesis from acetate 
+and glucose is greatly increased (
+<A HREF="#ref19-41">Hughes and Tolbert, 1958</A>; 
+<A HREF="#ref19-71">Shigeta and Shreeve, 1964</A>). Studies of acetate metabolism by liver and adipose tissue <I>in vitro</I> are in general 
+agreement with results obtained <I>in vivo</I> (
+<A HREF="#ref19-40">Hollifield <I>et al.</I>, 1960</A>; 
+<A HREF="#ref19-10">Christophe <I>et al.</I>, 1961<I>b</I></A>; 
+<A HREF="#ref19-38">Hellman <I>et al.</I>, 1962<I>a</I></A>). Since citrate is the main precursor of acetate for the extramitochondrial synthesis of fatty acids, the 
+observation that the specific activity of the citrate cleavage enzyme is elevated in obese mice may be correlated with the increased rate of lipogenesis 
+from glucose and acetate <I>in vivo</I> (
+<A HREF="#ref19-45">Kornacker and Lowenstein, 1964</A>). For reasons that are not clear, studies of glucose metabolism by liver, adipose tissue, and diaphragm <I>in vitro</I> 
+are not in agreement with findings <I>in vivo</I>. Metabolism of glucose to carbon dioxide, glycogen, glycerol-glyceride, and fatty acids is depressed in 
+tissues of obese mice (
+<A HREF="#ref19-10">Christophe <I>et al.</I>, 1961<I>b</I></A>; 
+<A HREF="#ref19-47">Leboeuf <I>et al.</I>, 1961</A>; 
+<A HREF="#ref19-49">Lochaya <I>et al.</I>, 1961</A>; Hellman <I>et al.</I>, 
+<A HREF="#ref19-36">1961</A>, 
+<A HREF="#ref19-38">1962<I>b</I></A>). Unlike the response to insulin or growth hormone <I>in vivo</I> the effects of these hormones on the metabolism of acetate and 
+glucose <I>in vitro</I> are normal.
+
+<P>Studies <I>in vitro</I> indicate the presence of a variety of other changes in metabolic rates and enzyme levels. In keeping with the hyperglycemic state of 
+the animal, liver glycogen turnover is increased and levels of liver phosphorylase are elevated (
+<A HREF="#ref19-58">Mayer, 1960</A>). Although the rate of conversion of glucose to glycerol-glyceride by adipose tissue from obese mice is low, the rate at which glycerol 
+is incorporated into glycerides is much increased (
+<A HREF="#ref19-48">Lochaya <I>et al.</I>, 1963</A>). Levels of glycerol kinase in adipose tissue of non-obese littermates (
+<A HREF="#ref19-76">Treble and Mayer, 1963</A>). The rate at which free fatty acids are released from adipose tissue of obese mice <I>in vitro</I> is similar to that of 
+normal controls, but there is a diminished ability of insulin to inhibit and epinephrine to augment the rate (
+<A HREF="#ref19-56">Marshall and Engle, 1960</A>; 
+<A HREF="#ref19-47">Leboeuf <I>et al.</I>, 1961</A>). The altered balance between fatty acid esterification and lipolysis indicated by these studies may be of primary 
+importance to the development of the obese condition.
+
+<P><B><I>Obesity in other genotypes.</I></B> Another gene, adipose (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A>), 
+determines an obese condition superficially similar to that determined by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> gene. Like 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> mice, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A> mice do not breed successfully. A double homozygote for adipose and pituitary dwarf (<I>dw</I>) 
+has been produced. The dwarfism does not interfere with the adiposity nor does the adiposity affect the skeletal growth of the dwarf (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856024" target="_blank"><I>dw</I></A>) has been produced. 
+The dwarfism does not interfere with the adiposity nor does the adiposity affect the skeletal growth of the dwarf (
+<A HREF="#ref19-16">Falconer and Isaacson, 1959</A>; 
+<A HREF="#ref19-2">Batt and Harrison, 1960</A>). The metabolism of adipose 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A> mice has not yet been compared with the metabolism of obese 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> mice.
+
+<P>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>, 
+a dominant gene determining yellow coat color, also results in the development of obesity. Animals homozygous for the gene die before birth 
+and all yellows are heterozygous. Weights attained by yellow obese mice may be two to three times those of normal controls. The development of obesity is influenced 
+by the genetic background and the amount of activity that the mice are permitted. Apparently some yellow mice do not become obese. There is a pronounced sex effect, 
+females being more obese than males (
+<A HREF="#ref19-32">Gr&#252;neberg, 1952</A>; 
+<A HREF="#ref19-15">Dickie and Woolley, 1946</A>). The metabolic characteristics of the obese condition determined by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A> 
+gene have not been so well studied as those of the obesity determined by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> gene. 
+In general, metabolic lesions identified appear to be similar in the two obesities, but are less pronounced in mice bearing the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A> gene (
+<A HREF="#ref19-85">Zomzely and Mayer, 1959</A>; 
+<A HREF="#ref19-7">Carpenter and Mayer, 1958</A>; 
+<A HREF="#ref19-58">Mayer, 1960</A>; 
+<A HREF="#ref19-80">Wolff, 1963</A>).
+
+<P>The genetics of an obese condition present in the NZO strain of mice developed in New Zealand has not been studied sufficiently to determine whether this condition 
+is determined by one or more genes, but the characteristics of the obesity have been to some extent compared with those of obesity determined by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> gene. 
+NZO obese mice attain weights of 50 to 70 g and are able to breed. As in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> mice, the islets of Langerhans are enlarged and there is evidence for 
+hypersecretion of insulin (
+<A HREF="#ref19-73">Sneyd, 1964</A>). NZO mice are moderately hyperglycemic and resistant to insulin. (
+<A HREF="#ref19-3">Bielschowsky and Bielschowsky, 1956</A>; 
+<A HREF="chapter20.shtml">Chapter 20</A>). Metabolic characteristics of the strain have not been studied extensively, but they appear to differ in some respects from those of 
+the obese-hyperglycemic syndrome determined by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> 
+gene. The rate of oxygen consumption and the rate at which acetate is metabolized to carbon dioxide are normal. As in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A> 
+mice, the rate at which glucose is converted to lipid is increased, suggesting increased lipogenesis from carbohydrate (
+<A HREF="#ref19-74">Subrahmanyam, 1960</A>).
+
+<P><B>CREATINE METABOLISM IN MICE WITH HEREDITARY MUSCULAR DYSTROPHY</B>
+
+<P>A disease analogous to human muscular dystrophy arose by mutation in an inbred strain of mice (129/Re) and is inherited as an autosomal recessive (symbol 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856026" target="_blank"><I>dy</I></A>) (
+<A HREF="#ref19-61">Michelson <I>et al.</I>, 1955</A>; 
+<A HREF="chapter29.shtml">Chapter 29</A>). The biochemistry of this mutant is complex and many seemingly unrelated 
+biochemical abnormalities have been found associated with the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856026" target="_blank"><I>dy</I></A> 
+locus. Although most aspects of this type of dystrophy have been reviewed (
+<A HREF="#ref19-34">Harman <I>et al.</I>, 1963</A>; 
+<A HREF="#ref19-59">Meier, 1963</A>), information dealing with creatine metabolism has been considered only briefly and is discussed more fully below.
+
+<P>Abnormalities in the pattern of storage and excretion of creatine invariably accompany muscular wasting and have been studied extensively in the dystrophic mouse. 
+Although the amount of creatine in the liver and kidney of homozygous dystrophic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856026" target="_blank"><I>dy</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856026" target="_blank"><I>dy</I></A>) 
+mice is normal, decreased amounts are found in serum and muscle (
+<A HREF="#ref19-44">Kandutsch and Russell, 1958</A>). A creatinuria is also observed, the significance of which is difficult to evaluate since all mice normally excrete 
+approximately equal amounts of creatine and creatinine in the urine (
+<A HREF="#ref19-55">Madison, 1952</A>). Most mammals excrete little or no creatine but only its anhydride, creatinine. If dystrophic mice are maintained on a commercial 
+laboratory chow, both creatine and creatinine are excreted at nearly normal levels. When the animals are placed on a semisynthetic ration of more nearly optimal 
+nutritional quality the creatine excretion increases markedly, whereas the creatinine excretion remains normal. Concurrent with the increased excretion of total 
+creatine in dystrophic mice, the activity of glycine transamidase increases from 50 per cent of normal on the chow ration to 150 per cent of normal on the semisynthetic ration (
+<A HREF="#ref19-12">Coleman and Ashworth, 1960</A>). Since this enzyme controls the production of guanidoacetic acid, the immediate precursor to creatine, this implies 
+that a changed rate of creatine synthesis may be involved in the change from one ration to the other. A lessening of the muscle lesions and an improvement in over-all 
+health of the dystrophic mouse is also associated with rations that lead to increased transamidinase activity (
+<A HREF="#ref19-13">Coleman and West, 1961</A>).
+
+<P>Dietary creatine greatly represses the activity of glycine transamidinase in the kidneys of both mammals and birds (Walker, 
+<A HREF="#ref19-78">1960</A>, 
+<A HREF="#ref19-79">1961</A>) and this mechanism has been suggested as an effective and sensitive means of control of creatine biosynthesis. The addition of the enzyme 
+substrate, glycine, to creatine-containing rations completely prevents the repression of this enzyme (
+<A HREF="#ref19-11">Coleman, 1961</A>; 
+<A HREF="#ref19-77">Van Pilsum, 1961</A>; 
+<A HREF="#ref19-27">Fitch <I>et al.</I>, 1961<I>a</I></A>). Coleman (
+<A HREF="#ref19-11">1961</A>) found that as little as 0.25 per cent of creatine in the diet was sufficient to lower the transamidinase activity significantly in dystrophic 
+mice, whereas the enzyme in normal mice was much more stable, requiring at least 1 per cent of creatine before significant repression of the enzyme occurred. The 
+addition of glycine to the diet at a level about 10 times that of creatine restored levels of transamidinase activity to those normally found in mice maintained 
+on diets devoid of creatine. The marked fluctuations in kidney transamidinase activity in dystrophic mice when compared with those seen in normal mice demonstrate 
+an unusual degree of metabolic instability. The elevated transamidinase activities present in dystrophic mice maintained on diets devoid of creatine indicate an 
+important difference between the hereditary dystrophy and that caused by a deficiency of vitamin E, which is characterized by markedly decreased levels of kidney 
+transamidase. The decrease in vitamin E-deficient animals is thought to be due to the repression of kidney transamidinase caused by increased leakage of creatine 
+from muscle into the blood stream (
+<A HREF="#ref19-28">Fitch <I>et al.</I>, 1961<I>b</I></A>). In the dystrophic mouse the increase in the total excreted creatine and creatinine is proportional to the 
+increase in transamidinase activity and for some reason the increased level of endogenous creatine does not trigger the repression mechanism, even though these 
+mice are more sensitive to dietary creatine. These findings suggest that the mechanism of transamidinase repression in dystrophic mice may be more complicated than 
+that in vitamin E-deficient animals.
+
+<P><B>ENZYME ACTIVITIES CONTROLLED BY SINGLE GENES</B>
+
+<P>A number of enzyme activities under the control of single genes have been identified in mice. As yet, abnormal levels of these activities have not been associated 
+with any pathological or other abnormal conditions, suggesting that reduced levels of the enzymes are normally adequate and that any selective value of high or low 
+levels may be in response of the animal to unusual environmental conditions.
+
+<P><B>&#946;-Glucuronidase</B>
+
+<P>Interest in the genetic factors controlling tissue &#946;-glucuronidase in inbred mice began with the studies of Morrow <I>et al.</I> (
+<A HREF="#ref19-63">1950</A>) who found that C3H mice exhibited markedly less &#946;-glucuronidase activity than did those of the DBA, C57BL, and A strains. Subsequent 
+investigations on the inheritance of low and high tissue &#946;-glucuronidase (
+<A HREF="#ref19-46">Law <I>et al.</I>, 1952</A>) demonstrated that the activity of this enzyme is controlled by alleles at a single locus. The allele (+) determining high 
+&#946;-glucuronidase activity was shown to be dominant to the allele (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>) responsible for low enzyme activity. This locus affects the &#946;-glucuronidase 
+activity differently in various tissues. For example, spleens from low strains (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>) contain much more &#946;-glucuronidase activity than do the 
+liver and kidney (1.6 vs. 0.36 and 0.34 units respectively), whereas in high strains (+/+) the spleen activity (3.6 units) is equal to the liver activity (3.5 units) 
+and about twice as high as that in kidneys (1.7 units). Investigations reveal a marked sex difference in the activity of kidney &#946;-glucuronidase in adults. 
+Kidneys from males contain about twice the &#946;-glucuronidase activity seen in females regardless of whether the genotype is +/+ or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>. No sex 
+differences are seen in immature mice (
+<A HREF="#ref19-62">Morrow <I>et al.</I>, 1951</A>). Fishman and Farmelant (
+<A HREF="#ref19-26">1953</A>) have amplified these findings using mice of 129/J (+/+) and C3H (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>) strains. Testosterone propionate produces marked increases 
+in kidney &#946;-glucuronidase in intact or castrated mice of both sexes in both high and low strains. In high strains (+/+) this androgen sometimes increases the 
+activity of the liver and spleen enzyme slightly, but this increase was never seen in mutant (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>) mice. Estrogen did not affect the kidney enzyme 
+but rather increased the liver and spleen enzyme in both sexes. It is important to note that these treatments never increased the level of &#946;-glucuronidase 
+activity in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> mice 
+to that seen in untreated wild-type (+/+) mice, suggesting that the control exerted by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> locus is independent of that exerted by hormones.
+
+<P>Comparisons of certain properties (pH optima, Michaelis constants, and activation by DNA) of the &#946;-glucuronidases isolated from two high strains 
+(129/J and DBA) and two low strains (C3H and AKR) suggested that both the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> locus and hormones affect only the amount and not the structure of the protein (
+<A HREF="#ref19-72">Sie and Fishman, 1953</A>). In probing this problem still further Paigen (
+<A HREF="#ref19-64">1961<I>a</I></A>) found that the &#946;-glucuronidase from mutant 
+mice was more sensitive to heat and alkali and concluded that the enzyme structure is, indeed, altered in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> mice. Also, he established that this 
+enzyme is located in both the lysosomal and microsomal fraction of tissue homogenates. The relative amounts of the enzyme at the two sites were different in the 
+two genotypes, and this shift in intracellular location was controlled by a single genetic factor which is identical to or closely linked with the <I>g</I> locus 
+which controls the structure of the enzyme. Paigen concluded that the changes in structure and relative concentration of the enzyme are reflected in changes in 
+the structure of the cytoplasmic particles carrying the enzyme, a situation which could arise, most simply, if the changes in particle structure were a consequence 
+of the alteration in the structure of the enzyme protein. In a study of the development of enzyme levels in various tissues it was found that the decreased activity 
+in the livers from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> mice was due to two effects, lower initial activity at birth followed by a failure of subsequent normal development after 11 days (
+<A HREF="#ref19-65">Paigen, 1961<I>b</I></A>). In contrast, &#946;-glucuronidase activity in the spleen is only slightly lower at birth in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> mice and 
+subsequently increases normally until maturity. The thymus presents an intermediate case in that normal activity in both genotypes is seen at birth but that later 
+development is slower in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> than in normal mice. Genetic analysis again indicates that the gene controlling these developmental sequences in all these 
+tissues is identical to or closely linked to the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> locus. Thus the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95872" target="_blank"><I>g</I></A> locus controls the differentiation of tissues with respect to &#946;-glucuronidase 
+and determines the structure of the enzyme and its intracellular location. This developmental difference seems to be related to the responsiveness of the normal and 
+mutant types of &#946;-glucuronidase to some stimulus, either genetic or environmental, which normally regulates enzyme production. Critical studies such as these 
+illustrate the complexities which develop when attempts are made to analyze the mechanism or mechanisms whereby genes control enzymes in mammalian systems.
+
+<P><B>Catalase</B>
+
+<P>The low levels of catalase found in most tumors and in livers from mice bearing tumors prompted many investigations into the activity of this enzyme in various 
+organs from different inbred strains of mice. Greenstein and Andervont (
+<A HREF="#ref19-31">1942</A>) found that catalase activity was nearly the same for all strains with the exception of C57BL which had about 50 per cent of the normal level of 
+liver catalase activity while maintaining normal catalase activity in other tissues. Rechcigl and Heston (
+<A HREF="#ref19-68">1963</A>) found two closely related C57BL sublines that have liver catalase values similar to those seen in other strains whereas all the other C57BL 
+sublines studied have the low level of liver catalase originally reported. Genetic analysis revealed that the activity of liver catalase is controlled by a single 
+gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:88271" target="_blank"><I>Ce</I></A>; Heston, 1964, personal communication) and that the presence 
+of high liver catalase in the C57BL/6He and C57BL/6An sublines represents a reverse mutation to the wild-type allele.
+
+<P>Catalase in most tissues exists both in particulate and soluble forms (
+<A HREF="#ref19-1">Adams and Burgess, 1959</A>), and the enzyme activity found in whole tissue homogenates varies greatly depending on the degree of disruption of the 
+subcellular particles. Feinstein (
+<A HREF="#ref19-17">1959</A>) observed species differences in the amount of supernatant and particulate catalases. In pig liver 89 per cent of the catalase activity was found 
+in the supernatant while in mouse liver only 27 per cent was in the supernatant with the other 73 per cent bound rather tightly to the particulate fraction. Feinstein 
+found that the nonionic detergent Triton X 100 released all the catalase from the particulate material and suggested its routine use in catalase assays where total 
+activity is desired. Thus the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:88271" target="_blank"><I>Ce</I></A> 
+locus could act either by causing the particulate catalase to be bound more tightly to the binding particles of mouse liver 
+or by increasing the proportion of catalase in association with the particles, rather than decreasing the total amount of catalase actually present in the whole liver.
+
+<P>Feinstein <I>et al.</I> (
+<A HREF="#ref19-18">1964</A>) screened 12,000 progeny from irradiated male mice for blood catalase. One male and one female had blood catalase levels which were about one-half 
+that observed for the rest of the group. Breeding of these two mice established that the trait was inherited, probably as a recessive. Further genetic and biochemical 
+tests will be required to determine whether one or more genes are involved in producing this enzyme reduction and whether these genes also control the catalase levels 
+of other tissues.
+
+<P><B>&#948;-Aminolevulinate dehydratase</B>
+
+<P>Strain differences in the hepatic activity of &#948;-aminolevulinate dehydratase were found to be under the control of a single genetic locus (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv</I></A>) (
+<A HREF="#ref19-70">Russell and Coleman, 1963</A>). In all mice the enzyme activity is relatively high in fetal liver, falls to a low level shortly after birth, and then 
+increases to the adult value. Mice with the low adult enzyme level (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv<SUP>b</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv<SUP>b</SUP></I></A>) have activities predictably lower than those of 
+mice with high adult activity (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv<SUP>a</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv<SUP>a</SUP></I></A>) 
+at all stages of development. Although this enzyme is involved in porphyrin synthesis 
+and is extremely low in fetal livers from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv<SUP>b</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv<SUP>b</SUP></I></A> 
+homozygotes, no anemias or other blood dyscrasias are characteristic of these mice. A study on porphyrin synthesis by mouse harderian gland (
+<A HREF="#ref19-24">Figge and Davidheiser, 1957</A>) showed similar patterns of high and low enzyme activity 
+in the various strains studied. Presumably the enzyme activity in this organ could also be controlled by this locus. Unpublished results (Coleman) suggest that 
+the dehydratase activity in kidney and spleen is also under the control of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv</I></A> locus.
+
+<P>Another gene, flexed (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>), linked or allelic with the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96853" target="_blank"><I>Lv</I></A> locus, influences the amount of &#948;-aminolevulinate dehydratase in mouse tissues and 
+is also responsible for a transitory anemia (
+<A HREF="chapter17.shtml">Chapter 17</A>).
+
+<P><B>Pyrimidine degrading sequence</B>
+
+<P>Pyrimidine degradation in mice has been shown to be under genetic control (
+<A HREF="#ref19-14">Dagg <I>et al.</I>, 1964</A>). Catabolism of uracil and thymine involves their breakdown in three steps to CO<SUB>2</SUB>, ammonia, and &#946;-alanine. 
+Certain strains (SJL/J and RF/J) have rapid rates of degradation <I>in vivo</I>, whereas most other strains have relatively slow rates. Genetic analysis of the 
+F<SUB>1</SUB>, F<SUB>2</SUB>, BC<SUB>1</SUB>, and BC<SUB>2</SUB> generations indicated that this biochemical trait is inherited as a single factor (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd</I></A>) 
+showing no dominance. Studies <I>in vitro</I> indicate that homozygous mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>b</SUP></I></A>) having a high rate of over-all 
+degradation have a high level of all three enzyme activities, whereas homozygous 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>a</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>a</SUP></I></A> mice having a low rate of degradation 
+<I>in vivo</I> have much less of all three enzyme activities. The F<SUB>1</SUB> hybrids have intermediate activities for these enzymes. Since the activities of all 
+three enzymes segregate together, it appears that the three enzymes are controlled by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd</I></A> locus. A study of the development of the activity of the first 
+enzyme in the sequence revealed that there was a finite but small amount of enzyme present at birth in both genotypes. The amount increased in both strains until 
+normal adult values were reached (6 days for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>a</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>a</SUP></I></A> and 21 days for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>b</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>b</SUP></I></A>). The 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd</I></A> 
+gene does not appear to control the structure of this enzyme but rather acts as a regulator which at 6 days, in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>a</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>a</SUP></I></A> 
+mice, affects the rate of accumulation of the pyrimidine degrading enzymes, resulting in an equilibrium concentration much lower than is seen in the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>b</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd<SUP>b</SUP></I></A> 
+genotype. One gene controlling the activity of three enzymes simultaneously is unusual but not impossible. It may be that 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd</I></A> 
+is an operator gene which controls the amount of synthesis determined by three linked structural genes in a manner similar to that proposed in bacterial systems (
+<A HREF="#ref19-43">Jacob and Monod, 1961</A>). 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97522" target="_blank"><I>Pd</I></A> 
+might also be a regulator gene which determines the production of a repressor substance which acts upon the operator to control amount of synthesis. 
+There is, however, no evidence at this time to rule out the possibility that this gene affects an unknown metabolic reaction which controls the three enzyme systems in some indirect fashion.
+
+
+<P><B>Esterases</B>
+
+<P>The development of various electrophoretic techniques, coupled with rapid histochemical techniques for enzyme analysis, has greatly facilitated studies of 
+protein types and concentrations in various mouse tissue. Abnormalities in cholinesterases (
+<A HREF="#ref19-33">Hamburgh, 1958</A>; 
+<A HREF="#ref19-82">Yoon and Harris, 1962</A>) have been observed in neurological mutants. Differences in other nonspecific esterases have been found in different inbred 
+strains and in mutant mice within an inbred strain (
+<A HREF="#ref19-60">Meier <I>et al.</I>, 1962</A>; 
+<A HREF="#ref19-67">Popp and Popp, 1962</A>; 
+<A HREF="#ref19-66">Petras, 1963</A>; 
+<A HREF="#ref19-69">Ruddle and Roderick, 1965</A>), single gene differences have been found associated with these different electrophoretic profiles, whereas in other 
+cases adequate genetic studies have not been carried out to determine whether one or many genes are involved. For a more detailed discussion of these changes 
+in esterase activity, the reader is referred to discussions by Meier (
+<A HREF="#ref19-59">1963</A>) and Ruddle and Roderick (
+<A HREF="#ref19-69">1965</A>).
+
+<P><B>SUMMARY</B>
+
+<P>Heritable characteristics such as obesity, leanness, high levels of cholesterol, lipid and carbohydrate in the serum, and muscular dystrophy are 
+of major interest in relation to human health problems, and a relatively large effort has been devoted to their study. Elucidation of the basic metabolic 
+factors that are involved in the development of these characteristics is, however, extremely difficult. The characteristic may be well defined but 
+influenced by a number of genes, as are levels of serum lipid and cholesterol, implying that a number of metabolic changes are involved in the production 
+of the phenotype, or the characteristic may be determined by a single gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856011" target="_blank"><I>ad</I></A>, obesities; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856026" target="_blank"><I>dy</I></A> muscular dystrophy). Determination by a single gene implies that the primary metabolic change is at the level of a single protein or reaction, 
+but major metabolic pathways are interwoven and governed by hormonal and feedback mechanisms to such an extent that numerous secondary changes in 
+metabolism appear, and the observed phenotype may result from the combined effects of a number of these. Studies of hereditary obesities, indicate the 
+presence of alterations in carbohydrate and lipid metabolism and in the secretion of, and sensitivity to, hormones. The dystrophic mouse exhibits alteration 
+in carbohydrate, lipid, nucleic acid, and creatine metabolism. Lean strain I mice differ biochemically from other strains in a number of ways, most 
+strikingly, in the almost complete loss of phosphorylase <I>b</I>-kinase.
+
+<P>In contrast to studies aimed at defining the metabolic causes of complex heritable physical characteristics, identification of genes that alter 
+single enzymes has, in general, resulted from a search for the gene after the alteration had been defined. Single genes that control the enzymes, 
+&#946;-glucuronidase, catalase, &#948;-aminolevulinate dehydratase and pyrimidine-degrading enzymes have been identified. The observation that three 
+enzymes functioning in pyrimidine degradation are controlled by a single gene is of especial interest. Further studies of this type should clarify the 
+extent to which genetic models derived from studies with bacteria are applicable to mammals.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grants CA 01329, CA 02758, CA 05873, and CA 07976 from 
+the National Cancer Institute and AM 06871 from the National Institute for Arthritis and Metabolic Diseases.
+<HR>
+
+<P><B>LITERATURE CITED</B>
+
+<A NAME="ref19-1"></A>
+<P>Adams, D.H., and E.A. Burgess. 1957. 
+The effect of the degree of homogenization on the catalase activity of liver "homogenates." 
+Brit. J. Cancer <B>11:</B> 310-325.
+<!-- 13460155 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13460155" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-2"></A>
+<P>Batt, R.A.L., and G.A. Harrison. 1960. 
+Features of the "adipose" mouse. 
+Heredity <B>15:</B> 335.
+
+
+<A NAME="ref19-3"></A>
+<P>Bielschowsky, M., and F. Bielschowsky. 1956. 
+The New Zealand strain of obese mice: their response to stilboestrol and insulin. 
+Austral. J. Exp. Biol. Med. Sci. <B>34:</B> 181-198.
+<!-- MGI:75319 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75319" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-4"></A>
+<P>Bloom, R.A., and P.F. Fenton. 1956. 
+Glucose tolerance in relation to obesity and food intake. 
+Amer. J. Physiol. <B>184:</B> 438-440.
+<!-- 13302440 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13302440" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-5"></A>
+<P>Bruell, J.H. 1963. 
+Additive inheritance of serum cholesterol level in mice. 
+Science <B>142:</B> 1664-1666.
+<!-- 14075696 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14075696" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-6"></A>
+<P>Bruell, J.H., A.F. Daroczy, and H.K. Hellerstein. 1962. 
+Strain and sex differences in serum cholesterol levels in mice. 
+Science <B>135:</B> 1071-1072.
+<!-- MGI:72508 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72508" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-7"></A>
+<P>Carpenter, K.J., and J. Mayer, 1958. 
+Physiologic observations on yellow obesity in the mouse. 
+Amer. J. Physiol. <B>193:</B> 499-504.
+<!-- 13533582 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13533582" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-8"></A>
+<P>Carstensen, H., B. Hellman, and S. Larsson. 1961. 
+Biosynthesis of steroids in the adrenals or normal and obese-hyperglycemic mice. 
+Acta Soc. Med. Upsal. <B>64:</B> 139-151.
+<!-- 13876932 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13876932" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-9"></A>
+<P>Christophe, J., B. Jeanrenaud, J. Mayer, and A.E. Renold. 1961<I>a</I>. 
+Metabolism <I>in vitro</I> of adipose tissue in obese-hyperglycemic and goldthioglucose-treated mice. I. Metabolism of glucose. 
+J. Biol. Chem. <B>236:</B> 642-647.
+<!-- 13693439 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13693439" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-10"></A>
+<P>Christophe, J., B. Jeanrenaud, J. Mayer, and A.E. Renold. 1961<I>b</I>. 
+Metabolism <I>in vitro</I> of adipose tissue in obese-hyperglycemic and goldthioglucose-treated mice. II. Metabolism of pyruvate and acetate. 
+J. Biol. Chem. <B>236:</B> 648-652.
+<!-- 13693440 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13693440" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-11"></A>
+<P>Coleman, D.L. 1961. 
+Effects of dietary creatine and glycine on transamidinase activity in dystrophic mice. 
+Arch. Biochem. Biophys. <B>94:</B> 183-186.
+<!-- 13694596 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13694596" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-12"></A>
+<P>Coleman, D.L., and M.E. Ashworth. 1960. 
+Influence of diet on transamidase activity in dystrophic mice. 
+Amer. J. Physiol. <B>199:</B> 927-930.
+<!-- 13694595 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13694595" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-13"></A>
+<P>Coleman, D.L., and W.T. West. 1961. 
+Effects of nutrition on growth, lifespan, and histopathology of mice with hereditary muscular dystrophy. 
+J. Nutr. <B>73:</B> 273-281.
+
+
+<A NAME="ref19-14"></A>
+<P>Dagg, C.P., D.L. Coleman, and G.M. Fraser. 1964. 
+A gene affecting the rate of pyrimidine degradation in mice. 
+Genetics <B>49:</B> 979-989.
+<!-- MGI:48773 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48773" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-15"></A>
+<P>Dickie, M.M., and G.W. Woolley. 1946. 
+The age factor in weight of yellow mice. 
+J. Hered. <B>37:</B> 365-368.
+
+
+<A NAME="ref19-16"></A>
+<P>Falconer, D.S., and J. H Isaacson. 1959. 
+Adipose, a new inherited obesity of the mouse. 
+J. Hered. <B>37:</B> 365-368.
+<!-- MGI:79195 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:79195" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-17"></A>
+<P>Feinstein, R.N. 1959. 
+Solubilization of particulate catalase with nonionic detergent. 
+Arch. Biochem. Biophys. <B>79:</B> 399-400.
+
+
+<A NAME="ref19-18"></A>
+<P>Feinstein, R.N., J.E. Seaholm, J.B. Howard and W.L. Russell. 1964. 
+Acatalasemic mice. 
+Proc. Nat. Acad. Sci. <B>52:</B> 661-662.
+<!-- 14212539 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14212539" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-19"></A>
+<P>Fenton, P.F. 1957. 
+Hereditary factors in protein nutrition. 
+Amer. J. Clin. Nutr. <B>5:</B> 663-665.
+<!-- 13487533 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13487533" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-20"></A>
+<P>Fenton, P.F. 1960. 
+Studies on genetically determined metabolic patterns. 
+Amer. J. Clin. Nutr. <B>8:</B> 748-751.
+
+
+<A NAME="ref19-21"></A>
+<P>Fenton, P.F., and M.T. Dowling. 1953. 
+Studies on obesity. I. Nutritional obesity in mice. 
+J. Nutr. <B>49:</B> 319-331.
+<!-- MGI:71243 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71243" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-22"></A>
+<P>Fenton, P.F., and J.R. Duguid. 1962. 
+Growth hormone and cardiac glycogen: influence of environmental and genetic factors. 
+Can. J. Biochem. Physiol. <B>40:</B> 337-341.
+<!-- 13892295 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13892295" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-23"></A>
+<P>Fenton, P.F., and J.M. Marsh. 1956. 
+Inherited metabolic patterns in mice. Caloric requirements for protein utilization and determination of protein minima. 
+J. Nutr. <B>60:</B> 465-472.
+<!-- 13385713 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13385713" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-24"></A>
+<P>Figge, F.H.J., and R.H. Davidheiser. 1957. 
+Porphyrin synthesis by mouse harderian glan extracts, sex, age, and strain variations. 
+Proc. Soc. Exp. Biol. Med. <B>96:</B> 437-439.
+<!-- 13485126 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13485126" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-25"></A>
+<P>Finlayson, J.S., M. Potter, and C.R. Runner. 1963. 
+Electrophoretic variation and sex dimorphism of the major urinary protein complex in inbred mice: a new genetic marker. 
+J. Nat. Cancer Inst. <B>31:</B> 91-107.
+<!-- MGI:61309 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61309" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-26"></A>
+<P>Fishman, W.H., and M.H. Farmelant. 1953. 
+Effects of androgens and estrogens on &#946;-glucuronidase in inbred mice. 
+Endocrinology <B>52:</B> 536-545.
+
+
+<A NAME="ref19-27"></A>
+<P>Fitch, C.D., C. Hsu, and J.S. Dinning. 1961<I>a</I>. 
+Partial reversal of creatine inhibition of transamidinase by dietary glycine. 
+Biochem. Biophys. Acta <B>52:</B> 194-195.
+<!-- 13893324 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13893324" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-28"></A>
+<P>Fitch, C.D., C. Hsu, and J.S. Dinning. 1961<I>b</I>. 
+The mechanism of kidney transamidinase reduction in vitamin E-deficient rabbits. 
+J. Biol. Chem. <B>236:</B> 490-492.
+<!-- 13700027 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13700027" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-29"></A>
+<P>Goodman, R.M. 1955. 
+Effect of <I>W<SUP>v</SUP></I> locus in the mouse on differential excretion of isomers of several amino avids. 
+Proc. Soc. Exp. Biol. Med. <B>88:</B> 283-287.
+<!-- 14357415 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14357415" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-30"></A>
+<P>Goodman, R.M. 1958.
+<I>In vitro</I> amino acid metabolism of tissues from a mouse mutant showing differential patterns of amino acid excretion. 
+Fed. Proc. <B>17:</B> 57. (Abstr.)
+
+
+<A NAME="ref19-31"></A>
+<P>Greenstein, J.P., and H.B. Andervont. 1942. 
+The liver catalase activity of tumor-bearing mice and the effect of spontaneous regression and of removal of certain tumors. 
+J. Nat. Cancer Inst. <B>2:</B> 345-355.
+
+
+<A NAME="ref19-32"></A>
+<P>Gr&#252;neberg, H. 1952. 
+<I>The Genetics of the Mouse, 2nd. ed.</I>, p. 40-42. Nijhoff, The Hague.
+<!-- MGI:78359 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78359" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-33"></A>
+<P>Hamburgh, M. 1958. 
+The distribution of acetylcholinesterase in the mouse brain. 
+Anat. Rec. <B>130:</B> 311. (Abstr.)
+
+
+<A NAME="ref19-34"></A>
+<P>Harman, P.J., J.P. Tassoni, R.L. Curtis, and M.B. Hollinshead. 1963. 
+Muscular dystrophy in the mouse, p. 407-456. 
+<I>In</I> G.H. Bourne and M.N. Golarz [ed.] <I>Muscular Dystrophy in Man and Animals</I>. Karger, New York.
+
+
+<A NAME="ref19-35"></A>
+<P>Harris, H., and A.G. Searle. 1953. 
+Urinary aminoacids in mice of different genotypes. 
+Ann. Eugen. <B>17:</B> 165-167.
+<!-- 13031386 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13031386" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-36"></A>
+<P>Hellman, B., S. Larsson, and S. Westman. 1961. 
+Aspects of the glucose and amino acid metabolism in the liver and the diaphragm of normal and obese-hyperglycaemic mice. 
+Acta Physiol. Scand. <B>53:</B> 330-338.
+<!-- 13906271 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13906271" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-37"></A>
+<P>Hellman, B., S. Larsson, and S. Westman. 1962<I>a</I>. 
+Acetate metabolism in isolated epididymal adipose tissue from obese-hyperglycaemic mice of different ages. 
+Acta Physiol. Scand. <B>56:</B> 189-198.
+<!-- 13953610 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13953610" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-38"></A>
+<P>Hellman, B., S. Larsson, and S. Westman. 1962<I>b</I>. 
+The metabolism of variously labelled glucose in fatty livers from mice with congenital hyperglycaemia and obesitas. 
+Acta Endocrinol. <B>39:</B> 457-464.
+<!-- 13906272 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13906272" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-39"></A>
+<P>Hellerstr&#246;m, C., and B. Hellman. 1963. 
+Quantitative studies on isolated pancreatic islets of mammals. I. Peptidase activity in normal and obese-hyperglycemic mice. 
+Acta Endocrinol. <B>42:</B> 615-624.
+
+
+<A NAME="ref19-40"></A>
+<P>Hollifield, G., W. Parson, and C.R. Ayers. 1960. 
+<I>In vitro</I> synthesis of lipids from C-14 acetate by adipose tissue from four types of obese mice. 
+Amer. J. Physiol. <B>198:</B> 37-38.
+<!-- 14402686 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14402686" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-41"></A>
+<P>Hughes, A.M., and B.M. Tolbert. 1958. 
+Oxidation of acetate, glucose, or glycine to carbon dioxide in mice exhibiting the hereditary obesity syndrome. 
+J. Biol. Chem. <B>231:</B> 339-345.
+<!-- 13538973 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13538973" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-42"></A>
+<P>Ingalls, A.M., M.M. Dickie, and G.D. Snell. 1950. 
+Obese, a new mutation in the house mouse. 
+J. Hered. <B>41:</B> 317-318.
+<!-- MGI:61275 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61275" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-43"></A>
+<P>Jacob, F., and J. Monod. 1961. 
+Genetic regulatory mechanisms in the synthesis of proteins. 
+J. Mol. Biol. <B>3:</B> 318-356.
+<!-- 13718526 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13718526" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-44"></A>
+<P>Kandutsch, A.A., and A.E. Russell. 1958. 
+Creatine and creatinine in tissues and urine of mice with hereditary muscular dystrophy. 
+Amer. J. Physiol. <B>194:</B> 553-556.
+<!-- 13571426 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13571426" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-45"></A>
+<P>Kornacker, M.S., and J.M. Lowenstein. 1964. 
+Citrate cleavage enzyme in livers of obese and nonobese mice. 
+Science <B>144:</B> 1027-1028.
+<!-- 14137941 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14137941" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-46"></A>
+<P>Law, L.W., A.G. Morrow, and E.M. Greenspan. 1952. 
+Inheritance of low liver glucuronidase activity in them mouse. 
+J. Nat. Cancer Inst. <B>12:</B> 909-916.
+<!-- 14908554 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14908554" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-47"></A>
+<P>Leboeuf, B., S. Lochaya, N. Leboeuf, F.C. Wood, Jr., J. Mayer, and G.F. Cahill, Jr. 1961. 
+Glucose metabolism and mobilization of fatty acids by adipose tissue from obese mice. 
+Amer. J. Physiol. <B>201:</B> 19-22.
+<!-- 13760034 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13760034" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-48"></A>
+<P>Lochaya, S., J.C. Hamilton, and J. Mayer. 1963. 
+Lipase and glycerokinase activities in the adipose tissue of obese-hyperglycaemic mice. 
+Nature <B>197:</B> 182-183.
+<!-- 13931168 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13931168" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-49"></A>
+<P>Lochaya, S., N. Leboeuf, J. Mayer, and B. Leboeuf. 1961. 
+Adipose tissue metabolism of obese mice on standard and high fat diets. 
+Amer. J. Physiol. <B>201:</B> 23-26.
+<!-- 13762964 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13762964" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-50"></A>
+<P>Lyon, J.B., Jr. 1957. 
+Muscle and liver glycogen levels in lean and obese strains of mice. 
+Amer. J. Physiol. <B>190:</B> 434-438.
+<!-- 13470067 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13470067" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-51"></A>
+<P>Lyon, J.B., Jr., J.A. Bain, and H.L. Williams. 1962. 
+The distribution of vitamin B6 in the tissues of two inbred strains of mice fed complete and vitamin B6-deficient rations. 
+J. Biol. Chem. <B>237:</B> 1989-1991.
+<!-- 14467625 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14467625" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-52"></A>
+<P>Lyon, J.B., Jr., and J. Porter. 1962. 
+The effect of pyridoxine deficiency on muscle and liver phosphorylase of two inbred strains of mice. 
+Biochem. Biophys. Acta <B>58:</B> 248-254.
+
+
+<A NAME="ref19-53"></A>
+<P>Lyon, J.B., Jr., and J. Porter. 1963. 
+The relation of phosphorylase to glycogenolysis in skeletal muscle and heart of mice. 
+J. Biol. Chem. <B>238:</B> 1-11.
+<!-- MGI:85317 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:85317" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-54"></A>
+<P>Lyon, J.B., Jr., H.L. Williams, and E.A. Arnold. 1958. 
+The pyridoxine-deficient state in two strains of inbred mice. 
+J. Nutr. <B>66:</B> 261-275.
+
+
+<A NAME="ref19-55"></A>
+<P>Madison, C.R. 1952. 
+A search for quantitative differences in the normal constituents of the urine of short ear and normal mice. 
+J. Exp. Zool. <B>120:</B> 457-468.
+
+
+<A NAME="ref19-56"></A>
+<P>Marshall, N.B., and F.L. Engel. 1960. 
+The influence of epinephrine and fasting on adipose tissue content and release of free fatty acids in obese-hyperglycemic and lean mice. 
+J. Lipid Res. <B>1:</B> 339-342.
+
+
+<A NAME="ref19-57"></A>
+<P>Mayer, J. 1953. 
+Genetic, traumatic and environmental factors in the etiology of obesity. 
+Physiol. Rev. <B>33:</B> 472-508.
+<!-- 13100066 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13100066" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-58"></A>
+<P>Mayer, J. 1960. 
+The obese hyperglycemic syndrome of mice as an example of "metabolic" obesity. 
+Amer. J. Clin. Nutr. <B>8:</B> 712-718.
+
+
+<A NAME="ref19-59"></A>
+<P>Meier, H. 1963. 
+<I>Experimental Pharmacogenetics</I>, p. 11-78. 
+Academic Press, New York.
+
+
+<A NAME="ref19-60"></A>
+<P>Meier, H., E. Jordan, and W.G. Hoag. 1962. 
+The zymogram technique as a tool for study of genetic differences. 
+J. Histochem. Cytochem. <B>10:</B> 103-104.
+
+
+<A NAME="ref19-61"></A>
+<P>Michelson, A.M., E.S. Russell, and P.J. Harman. 1955. 
+Dystrophia muscularis: a hereditary primary myopathy in the house mouse. 
+Proc. Nat. Acad. Sci. <B>41:</B> 1079-1084.
+<!-- MGI:61333 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61333" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-62"></A>
+<P>Morrow, A.G., D.M. Carroll, and E.M. Greenspan. 1951. 
+A sex difference in the kidney glucuronidase activity of inbred mice. 
+J. Nat. Cancer Inst. <B>11:</B> 663-669.
+<!-- 14841509 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14841509" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-63"></A>
+<P>Morrow, A.G., E.M. Greenspan, and D.M. Carroll. 1950. 
+Comparative studies of liver glucuronidase activity in inbred mice. 
+J. Nat. Cancer Inst. <B>10:</B> 1199-1203.
+<!-- 15437189 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15437189" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-64"></A>
+<P>Paigen, K. 1961<I>a</I>. 
+The effect of mutation on the intracellular location of &#946;-glucuronidase. 
+Exp. Cell Res. <B>25:</B> 286-301.
+<!-- 14483210 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14483210" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-65"></A>
+<P>Paigen, K. 1961<I>b</I>. 
+The genetic control of enzyme activity during differentiation. 
+Proc. Natl. Acad. Sci. <B>47:</B> 1641-1649.
+<!-- MGI:48824 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48824" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-66"></A>
+<P>Petras, M.L. 1963. 
+Genetic control of a serum esterase component in <I>Mus musculus</I>. 
+Proc. Nat. Acad. Sci. <B>50:</B> 112-116.
+<!-- MGI:61337 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61337" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-67"></A>
+<P>Popp, R.A., and D.M. Popp. 1962. 
+Inheritance of serum esterases having different electrophoretic patterns. 
+J. Hered. <B>53:</B> 111-114.
+<!-- MGI:61290 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61290" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-68"></A>
+<P>Rechcigl, M., Jr., and W.E. Heston. 1963. 
+Tissue catalase activity in several C57BL substrains and in other strains of inbred mice. 
+J. Nat. Cancer Inst. <B>30:</B> 855-864.
+<!-- MGI:48830 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48830" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-69"></A>
+<P>Ruddle, F.H., and T.H. Roderick. 1965. 
+The genetic control of three kidney esterases in C57BL/6J and RF/J mice. 
+Genetics <B>51:</B> 445-454.
+<!-- 17248247 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248247" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-70"></A>
+<P>Russell, R.L., and D.L. Coleman. 1963. 
+Genetic control of hepatic &#948;-amino levulinate dehydratase in mice. 
+Genetics <B>48:</B> 1033-1039.
+<!-- MGI:63121 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63121" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-71"></A>
+<P>Shigeta, Y., and W.W. Shreeve. 1964. 
+Fatty acid synthesis from glucose-l-H<SUP>3</SUP> and glucose-l-C<SUP>14</SUP> in obese-hyperglycemic mice. 
+Amer. J. Physiol. <B>206:</B> 1085-1090.
+<!-- 14208946 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14208946" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-72"></A>
+<P>Sie, H., and W.H. Fishman. 1953. 
+A comparative study of certain properties of liver &#946;-glucuronidase of inbred mice. 
+Cancer Res. <B>13:</B> 590-592.
+<!-- 13082493 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13082493" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-73"></A>
+<P>Sneyd, J.G.T. 1964. 
+Pancreatic and serum insulin in the New Zealand strain of obese mice. 
+J. Endocrinol. <B>28:</B> 163-172.
+
+
+<A NAME="ref19-74"></A>
+<P>Subrahmanyam, K. 1960. 
+Metabolism in the New Zealand strain of obese mice. 
+Biochem. J. <B>76:</B> 548-556.
+<!-- 16748835 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16748835" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-75"></A>
+<P>Thompson, S., J.F. Foster, J.W. Gowen, and O.E. Tauber. 1954. 
+Hereditary differences in serum proteins of normal mice. 
+Proc. Soc. Exp. Biol. Med. <B>87:</B> 315-317.
+<!-- MGI:63158 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63158" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-76"></A>
+<P>Treble, D.H., and J. Mayer. 1963. 
+Glycerolkinase activity in white adipose tissue of obese-hyperglycaemic mice. 
+Nature <B>200:</B> 363-364.
+<!-- 14087889 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14087889" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-77"></A>
+<P>Van Pilsum, J.F. 1961. 
+Dietary control of kidney transamidinase. 
+Fed. Proc. <B>20:</B> 225 (Abstr.)
+
+
+<A NAME="ref19-78"></A>
+<P>Walker, J.B. 1960. 
+Metabolic control of creatine biosynthesis. I. Effect of dietary creatine. 
+J. Biol. Chem. <B>235:</B> 2357-2361.
+<!-- 13842518 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13842518" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-79"></A>
+<P>Walker, J.B. 1961. 
+Metabolic control of creatine biosynthesis. II. Restoration of transamidinase activity following creatine repression. 
+J. Biol. Chem. <B>236:</B> 493-498.
+<!-- 13782725 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13782725" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-80"></A>
+<P>Wolff, G.L. 1963. 
+Growth of inbred yellow (<I>A<SUP>y</SUP>a</I>) and non-yellow (<I>aa</I>) mice in parabiosis. 
+Genetics <B>48:</B> 1041-1058.
+<!-- 14050800 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14050800" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-81"></A>
+<P>Yamamoto, R.S., L.B. Crittenden, L. Sokoloff, and G.E. Jay, Jr. 1963. 
+Genetic variations in plasma lipid content in mice. 
+J. Lipid Res. <B>4:</B> 413-418.
+<!-- MGI:73107 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73107" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-82"></A>
+<P>Yoon, C.H., and S.R. Harris. 1962. 
+Cholinesterase studies of neurologic mutant in mice. I. Alterations in serum cholesterase levels. 
+Neurology <B>12:</B> 423-426.
+<!-- MGI:63053 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63053" target="_blank">MGI</A></I>.
+
+<A NAME="ref19-84"></A>
+<P>Zomzely, C., and J. Mayer. 1958. 
+Levels of serum cholesterol in obese mice. 
+Nature <B>182:</B> 1738-1739.
+<!-- 13622640 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13622640" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref19-85"></A>
+<P>Zomzely, C., and J. Mayer. 1959. 
+Fat metabolism in experimental obesities. IX. Lipogenesis and cholesterogenesis in yellow obese mice. 
+Amer. J. Physiol. <B>196:</B> 611-613.
+<!-- 13627234 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13627234" target="_blank">PubMed</A>.</I>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter18.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter20.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

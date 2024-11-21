@@ -1,0 +1,1629 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 32 - Neural, Sensory, and Motor Functions</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, neural, sensory, motor, inbred strains, brain, eye, retina">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter31.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter33.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>32</H1>
+<H2><I>Neural, Sensory, and Motor Functions</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>John L. Fuller and Richard E. Wimer</H3>
+
+<P>The existence of numerous inbred strains and mutant types has made the mouse particularly useful to research workers interested in behavior genetics. 
+Inbred strains of mice are also suitable for research on environmental sources of behavioral differences, since genetic variance within such strains can 
+be safely neglected. A complete research design may vary genotype and environmental treatment simultaneously in order to study heredity-environment interactions.
+
+<P>This chapter deals with the biological systems most directly involved in behavior. Following discussion of the normal nervous, sensory, and motor systems, 
+consideration is given to genetic anomalies of behavior and to audiogenic seizures which are characteristic of many strains of laboratory mice.
+
+<P><B>NERVOUS SYSTEM</B>
+
+<P><B>Brain</B>
+
+<P>A stereotaxic atlas of the mouse brain has been reported in abstract form only (
+<A HREF="#ref32-96">Slotnick and Essman, 1964</A>). The brain of the mouse is in many respects a smaller edition of the most widely studied rat brain. Guides to the rat brain (
+<A HREF="#ref32-117">Zeman and Innes, 1963</A>; 
+<A HREF="#ref32-63">K&#246;nig and Klippel, 1963</A>) can be used for general orientation with appropriate changes in scale, but these are not accurate for stereotaxic placement 
+of lesions or electrodes. The histological regions of the mouse cortex have been described (
+<A HREF="#ref32-89">Rose, 1929</A>) and detailed accounts have been given of the cellular arrangement in the entorhinal cortex and the hippocampus (Lorente de N&#243;, 
+<A HREF="#ref32-66">1933</A>, 
+<A HREF="#ref32-67">1934</A>).
+
+<P>Although all normal mouse brains look similar to the naked eye and even under the microscope, it is possible that some of the observed variation in behavior is directly 
+associated with characteristics of the nervous system. A truly quantitative neurology suitable for studying the genetics of neural characteristics has not yet been developed. 
+Brains of inbred mice differ greatly in size, as is demonstrated in the next section, but the psychological significance of these variations is unknown. Inherited major 
+anomalies of the central nervous system exist in great variety, however, and some are described in a section of this chapter on Inherited Neurological Defects.
+
+<P><B>Brain size</B>
+
+<P>From birth to about 15 days, brain and body weight increase proportionally (
+<A HREF="#ref32-60">Kobayashi, 1963</A>). After 15 days body weight continues to rise, but brain growth is abruptly slowed down and brain weight may actually drop slightly between 
+16 and 23 days, presumably because of loss of water (
+<A HREF="#ref32-107">Uzman and Rumley, 1958</A>). 
+<a href="javascript:windowf3201 = window.open('../figures/figure32-1.shtml', 'windowf3201', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3201.focus()">Figure 32-1</A> 
+shows the relationship of brain and body weights over a major portion of the lifespan in Swiss albino mice. The region of inflection of the curve of brain growth corresponds 
+to the time of attainment of an adult electrocorticogram and full differentiation of dendrites of cerebral neurons.
+
+<P>Brain size varies widely among inbred strains as shown in 
+<a href="javascript:windowf3202 = window.open('../figures/figure32-2.shtml', 'windowf3202', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3202.focus()">Figure 32-2</A>. 
+Two major principles are apparent: (1) Mean brain weights and body weights of strains are uncorrelated; (2) within most strains females have heavier brains in proportion 
+to body weight (and often in absolute units). The ratio of between-strain variance to total variance of brain weight in 16 strains of diverse origins was 0.70 
+(Schwatzkroin, 1964, personal communication). This ratio is evidence for high heritability of brain size. The behavioral significance of 
+these marked variations in brain size is not known.
+
+<P><B>Chemical constituents</B>
+
+<P>Mouse brain like others is primarily water, protein, and lipids. Analyses of whole brain at several ages are set forth in 
+<a href="javascript:windowt3201 = window.open('../tables/table32-1.shtml', 'windowt3201', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt3201.focus()">Table 32-1</A>. 
+Proteins and strandin, a type of ganglioside, accumulate rather steadily up to 15 days. Phosphatides and cholesterol increase at a slightly 
+slower rate up to about 25 days. Proteolipid proteins and cerebrosides are first found in significant amounts at 7 days and continue to increase slowly into maturity. 
+These two classes of compounds appear to be associated with the process of myelinization.
+
+<P>Gamma-amino-butyric acid, believed to exert inhibitory effect upon neural transmission, is present at birth in amounts of 10 mg per 100 g of brain and rises to an adult 
+level of 35 mg per 100 g at 30 days. The rate of increment is similar in the Goodale small, large, and CBA strain (
+<A HREF="#ref32-88">Roberts <I>et al.</I>, 1951</A>).
+
+<P><B>Enzyme activity</B>
+
+<P>Alkaline phosphatase, almost absent in adult brain, is present in large amounts in young fetuses (
+<A HREF="#ref32-15">Chiquoine, 1954</A>). Peaks of enzyme activity correspond to periods of morphological change as observed under the microscope. By 14 days of fetal age, alkaline 
+phosphatase is low except in the telencephalon. Glutamic acid decarboxylase is present at birth and increases steadily up to 30 days with slow changes thereafter (
+<A HREF="#ref32-88">Roberts <I>et al.</I>, 1951</A>). Thus maturation involves shifts in enzyme activity which presumably are related to morphological and functional changes.
+
+<P>The kinetic constants of the known enzymes of the glycolytic pathway have been determined in 10-day-old and adult mice (
+<A HREF="#ref32-69">Lowry <I>et al.</I>, 1964</A>; 
+<A HREF="#ref32-68">Lowry and Passoneau, 1964</A>). The initial rates of change of the substrates in this pathway were used to compute the metabolic turnover of high energy phosphorus 
+for adults (25 mmoles per kg of brain per minute) and for 10-day-old mice (10 mmoles per kg of brain per minute).
+
+<P>The chemical changes in mouse brain during development are like those described for the rat and similar species. The blood-brain barrier is less well developed in young mice 
+than in adults. For example, injected glutamic acid enters the brain freely until about 21 days after birth (
+<A HREF="#ref32-47">Himwich, 1962</A>). Taking both chemical and structural features into consideration, it appears that the "critical period" for 
+neuronal maturation falls within 10 to 15 
+days postpartum.
+
+<P><B>Biochemistry and behavior</B>
+
+<P>To behaviorists the most interesting aspects of brain chemistry are the neural transmitters and modulators, for differences between strains in these substances 
+might be rather closely related to variations in behavior. Maas (
+<A HREF="#ref32-74">1962</A>) found that the serotonin content of these substances might be rather closely related to variations in behavior. Maas (
+<A HREF="#ref32-74">1962</A>) found that the serotonin content of the brain stem (diencephalon, mesencephalon, and pons) was higher in BALB/c than in C57BL/10 mice and suggested 
+that this substance might be related to behavioral differences between the strains. When brain serotonin in both strains was depleted by reserpine, their behavior 
+became much more similar. Experiments with drugs led to the conclusion that the neurochemical difference was a function of binding mechanisms for serotonin rather 
+than of its production (
+<A HREF="#ref32-75">Maas, 1963</A>).
+
+<P>Associations between behavior and specific biochemical events in two or three strains do not by themselves prove any functional genetic relationship between 
+two kinds of phenotypes. Surveys of wide scope involving many strains or correlations based on data from segregating generations are necessary to ensure that 
+the association stems from common dependence upon particular genes, and not to the fixation of unrelated genes within a strain.
+
+<P><B>Electrical activity</B>
+
+<P>The electrocorticogram (ECoG) recorded with implanted electrodes from unanesthetized healthy adult mice shows four distinct patterns (
+<a href="javascript:windowf3203 = window.open('../figures/figure32-3.shtml', 'windowf3203', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3203.focus()">Figure 32-3</A>). 
+During sleep high voltage waves (200 to 300 &#956;v) at 3 to 5 cycles per second are characteristic. The ECoG of drowsy mice shows intermittent spindles of 
+15 &#956;v at 12 to 14 cycles per second and irregular variations in frequency and amplitude. During wakefulness the ECoG consists of 20 to 30 cycles per second 
+waves up to 100 &#956;v. Seizure patterns are seen following pentylene-tetrazol administration and presumably occur in other convulsive states.
+
+<P>Changes of ECoG with age correspond to other indices of maturation. Before 5 to 6 days no clear records of coordinated electrical activity have been obtained. 
+From this age on activity is found, at first irregular, but gradually assuming essentially adult form at about 16 days of age (
+<A HREF="#ref32-61">Kobayashi <I>et al.</I>, 1963</A>).
+
+<P><B>EYE AND VISUAL CAPACITY</B>
+
+<P><B>Anatomy and function</B> A cross-section of the mouse eye is presented in 
+<a href="javascript:windowf3204 = window.open('../figures/figure32-4.shtml', 'windowf3204', 'width=900,height=500,resizable=yes,scrollbars=yes'); windowf3204.focus()">Figure 32-4</A>. 
+Note that the lens nearly fills the globe and is almost spherical; the optical effect is to project a small, relatively undetailed, bright image upon the retina. Br&#252;ckner (
+<A HREF="#ref32-10">1951</A>) reported that he could not detect the image of a 1-cm<SUP>2</SUP> figure at a distance of 30 cm when viewing with a microscope focused on the 
+retina from behind the eyeball. The cornea covers about half the surface of the eyeball. The head of the optic nerve is extremely small. Indeed, Lashley (
+<A HREF="#ref32-65">1932</A>) reported estimates of ratio of receptor cells to ganglion cells in the mouse retina varying between 63 and 89. There is disagreement as to whether 
+the mouse's receptors are all rods, or whether there are some cones as well. Karli (
+<A HREF="#ref32-52">1952</A>) reported having found a considerable number of cones and discussed observations by others both favoring and opposing his.
+
+<P>According to Walls (
+<A HREF="#ref32-111">1942</A>) the angle between the optic axis and body axis is about 60&#176;, and the binocular field is probably about 40&#176;. Bonaventure (
+<A HREF="#ref32-7">1961</A>) studied the spectral sensitivity curve of the mouse retina and found maximum sensitivity to be around 500 m&#956;.
+
+<P>At birth the retina is composed of a ganglion cell layer, an inner fiber layer, and a thick layer of undifferentiated cells. Between 7 and 10 days the inner 
+and outer limbs of the rods appear (
+<A HREF="#ref32-103">Tansley, 1951</A>). The general structure of the adult retina is established by the 12th day, and the eye typically opens about the 14th day (
+<A HREF="#ref32-98">Sorsby <I>et al.</I>, 1954</A>). The eye of the young mouse is not fully mature at this time, for the hyaloid artery which supplies the embryonic 
+lens is present until about 3 weeks after birth (
+<A HREF="#ref32-40">Gr&#252;neberg, 1952</A>), and the internal organization of the rods is not complete until about 4 weeks of age (
+<A HREF="#ref32-98">Sorsby <I>et al.</I>, 1954</A>).
+
+<P><B><I>Visual capacity.</I></B> It is possible to create a situation for inferring the visual capacity of an animal from its behavior in the presence of 
+visual clues of brightness, hue, or form. Though simple in principle, the technique is difficult to apply, for possible extraneous clues must be rigidly 
+controlled. In addition, failure to perform satisfactorily may be due to excessive difficulty of the task rather than limited receptor capacity of the organism.
+
+<P>This section will, with few exceptions, be limited to a review of the results obtained with a device, shown in 
+<a href="javascript:windowf3205 = window.open('../figures/figure32-5.shtml', 'windowf3205', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf3205.focus()">Figure 32-5</A>, 
+originally devised by Yerkes (
+<A HREF="#ref32-116">1907</A>) for use with the dancing mouse. The mouse leaves its nest box (A) and enters the choice area (B) through gate I. It must now choose between 
+entry of the left and right chambers on the basis of visual cues provided by the experimenter. If the animal chooses correctly, it may return to its home cage 
+and food by passing through (E) and (O). On the incorrect side, the exit (E) is blocked by glass and the animal receives a shock to its feet. The animal must then 
+retrace and leave by the correct side. A cardboard is used in chamber (B) on occasion to force laggardly animals to choose rapidly. Location of the correct side 
+should be varied from trial to trial by use of a table of random numbers or specially devised schedules (
+<A HREF="#ref32-46">Hilgard, 1951</A>). Common practice has been to give the animals 10 trials per day. Mice typically show ability to discrimate brightness differences 
+after 100 to 200 trials. Consult Munn (
+<A HREF="#ref32-82">1950</A>) and Sutherland (
+<A HREF="#ref32-100">1962</A>) for an evaluation and discussion of techniques in this area.
+
+<P><B><I>Brightness discrimination.</I></B> There is ample evidence that the mouse has sufficient visual capacity to learn brightness discrimination, <I>i.e.</I>, 
+to select the brighter or darker of two sides. For example, Bonaventure (
+<A HREF="#ref32-7">1961</A>) used brightness discrimination to determine the spectral sensitivity 
+curve for the mouse eye under photopic and scotopic conditions of illumination. Threshold for light at each wavelength tested was defined as the lowest level of 
+illumination producing choice behavior above chance levels. The resulting photopic and scotopic curves are shown in 
+<a href="javascript:windowf3206 = window.open('../figures/figure32-6.shtml', 'windowf3206', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf3206.focus()">Figure 32-6</A>. 
+Maximum sensitivity occurs at 505 m&#956;, which is very close to the maximum absorption point for rhodopsin (500 m&#956;). Photopic and scoptic curves are very 
+similar. This failure to obtain the Purkinje phenomenon &#151; a shift in spectral sensitivity associated with change from cone to rod vision as illumination 
+decreases &#151; suggests that cones cannot play a very important part in mouse vision.
+
+<P><B><I>Color vision.</I></B> Yerkes (
+<A HREF="#ref32-116">1907</A>) attempted to train dancing mice to discriminate green from blue, red from green, and blue from red lights. Physical brightness was varied 
+over an extremely wide range to eliminate the factor of differential spectral sensitivity. He found no evidence for successful discrimination between green and 
+blue, but some for discrimination between red and green and between red and blue. Waugh (
+<A HREF="#ref32-112">1910</A>) also tested for color vision and obtained some evidence for successful discrimination of red from green.
+
+<P>Hopkins (
+<A HREF="#ref32-49">1927<I>a</I></A>, 
+<A HREF="#ref32-50">1927<I>b</I></A>), reasoning that mice apparently discriminating between the hues might actually be responding to differences in brightness, attempted 
+to find a gray paper of appropriate brightness which could not be discriminated from red or blue papers. Animals trained to go to blue also went to a specific 
+light gray, but correctly discriminated between the blue and both darker and lighter grays. Mice trained to go to red confused it with a very dark gray. In a 
+second experiment using light sources as stimuli, he found one animal which appeared to be able to discriminate red.
+
+<P>It is suspicious that red has always been the hue which mice have been reported to discriminate, for rods are particularly insensitive to red. The extreme 
+variations in brightness used by experimenters to avoid this difficulty may not have been sufficient. Thus, neither the behavioral nor the anatomical literature 
+on color vision is unequivocal.
+
+<P><B><I>Pattern discrimination.</I></B> In studies on pattern vision, as on other visual capacities, Yerkes (
+<A HREF="#ref32-116">1907</A>) was the pioneer. He attempted to train mice to discriminate between a circle and a cross-shaped figure equated in brightness. Finding no 
+evidence of ability to discriminate, he concluded that mice do not see very clearly and do not have very accurate perception of form. Waugh (
+<A HREF="#ref32-112">1910</A>), using similar stimuli and procedures, found some evidence for ability to discriminate.
+
+<P>Failure or poor performance may not necessarily indicate lack of capacity, for the task may be unnecessarily difficult. Boxberger (cited by 
+<A HREF="#ref32-53">Karli, 1954</A>) has suggested a distance of 10 cm as the maximum for clear vision in the mouse. Both Yerkes and Waugh probably placed the forms to be 
+discriminated considerably farther than that distance from the choice point. Karli (
+<A HREF="#ref32-53">1954</A>) circumvented this difficulty by forcing animals to each 
+side 50 per cent of the time and allowing the animals to retrace. He found that mice discriminated between two rectangles differing only in orientation, one 
+horizontal and the other vertical.
+
+<P>Other experimenters have successfully studied rather difficult discriminations using devices which permitted the 
+animal to approach the stimuli closely. Rowley and Bolles (
+<A HREF="#ref32-90">1935</A>) placed the different stimuli to be discriminated on the choice doors and were able to study figure discrimination and transfer. Zimmerling (
+<A HREF="#ref32-118">1934</A>) placed mice in a circular enclosure having four openings located around its periphery. The animals were presented on each trial with four 
+differently shaped openings such as circles, stars, triangles, or diamonds. Mice deprived of food for 12 to 15 hours learned to choose the correct openings on 
+the basis of its visual characteristics and could then follow a U-shaped course to food. Runways behind incorrect openings were electrified to punish errors.
+
+<P>W&#246;rner (
+<A HREF="#ref32-115">1936</A>) used the Zimmerling multiple-choice apparatus to study discrimination of form. Initially subjects were trained to select a circle presented 
+with three triangles. When this problem was mastered the triangles were modified either by bulging the edges or rounding the corners to approximate the circle. 
+Some mice were capable of rather fine discriminations. A similar series of experiments used ellipses which were made closer and closer to circles. Judging from 
+the figures shown, it appears that mice can discriminate circles from ellipses with axes in a ratio of about 5:6. Some mice could transfer from discrimination 
+of the cut-out openings to discrimination of painted figures surrounding uniformly shaped holes.
+
+<P>Boxberger (
+<A HREF="#ref32-8">1953</A>) compared visual discrimination in 10 white rats with that of 10 white mice. Stimulus cards were placed on swinging doors. The positive door 
+opened easily, whereas pushing the negative door made an electrical contact and a bulb glowed as the locked door was encountered. Rats attained the criterion 
+sooner on the initial three single-discrimination problems, but mice required fewer trials or the last three. There was little saving from problem to problem 
+in the rats, but striking interproblem improvement was found in the mice. Multiple discrimination was also studied. After passing through one discrimination, a 
+second was added, and so forth, until all six problems were included in one trial run. The arrangements of the correct stimuli varied from trial to trial for 
+the 10 trials given per day. Over the 20 days mice consistently performed better than the rats on the six-stimulus test. Reetz (
+<A HREF="#ref32-87">1957</A>) also compared the learning performance of rats and mice. Using the Lashley jumping stand (
+<A HREF="#ref32-82">Munn, 1950</A>), he found that rats could be more easily trained on all tasks. However, differences in performance were relatively small, and the 
+better performing mice were not notably inferior to the better rats. The results clearly failed to justify the frequent assumption that mice are much poorer 
+subjects for learning experiments than rats.
+
+<P><B>Genetic anomalies of vision</B>
+
+<P>A number of genetic anomalies of the eye occur in mice, and some have become fixed in widely used inbred strains. It is important that an experimenter 
+observing behavior be aware of these anomalies as sources of variation. They also may have special value for investigators interested in receptor function. 
+Genes known to affect the eye are ectopic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856853" target="_blank"><I>ec</I></A>), eyeless-1 (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856862" target="_blank"><I>ey-1</I></A>), eyeless-2 (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856863" target="_blank"><I>ey-2</I></A>), fidget (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856870" target="_blank"><I>fi</I></A>), lens rupture (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856942" target="_blank"><I>lr</I></A>), microphthalmia (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856085" target="_blank"><I>mi</I></A>), white (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>), ocular retardation (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856111" target="_blank"><I>or</I></A>), rodless retina (<I>r</I>), retinal degeneration (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856373" target="_blank"><I>rd</I></A>), and cataract (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856474" target="_blank"><I>Cat</I></A>). For further information about these genes see 
+<A HREF="chapter8.shtml">Chapter 8</A>. The findings on stocks examined for retinal anomalies are presented in 
+<a href="javascript:windowt3202 = window.open('../tables/table32-2.shtml', 'windowt3202', 'width=900,height=800,resizable=yes,scrollbars=yes'); windowt3202.focus()">Table 32-2</A>.
+
+<P><B><I>Rodless retina.</I></B> Keeler (
+<A HREF="#ref32-54">1924</A>) was the first to find and investigate behaviorally a retinal defect which he called "rodless." The retina of the adult rodless mouse, according to Keeler (
+<A HREF="#ref32-55">1927</A>), was characterized histologically by (1) complete of nearly complete absence of the rod layer, (2) great reduction of the number of rows 
+of nuclei in the adjacent external layer, and (3) lesser changes in other parts of the retina. Visual purple was said to be absent. The optic nerve, mitochondria 
+of pigment epithelium, vascularization of the retina, and the ganglion cells and internal nuclei were all reported normal (
+<A HREF="#ref32-57">Keeler, 1930</A>). Differences between normal and rodless animals were not apparent until about 6 days after birth. Keeler (
+<A HREF="#ref32-55">1927</A>) believed that the condition was due to failure of the rods to develop rather than to their degeneration.
+
+<P>Since superficial observation of behavior gave no indication of blindness (an experience shared by others who have watched mice with retinal anomalies), Keeler (
+<A HREF="#ref32-55">1927</A>) tested rodless and control mice both in the Yerkes discrimination apparatus and in one of his own devising described in detail in 
+<A HREF="chapter33.shtml">Chapter 33</A>. Neither these nor other tasks indicated that rodless mice could see (
+<A HREF="#ref32-56">Keeler, 1928</A>). Keeler <I>et al.</I> (
+<A HREF="#ref32-58">1928</A>) recorded the electroretinogram following photic stimulation in normal and rodless mice. They reported that rodless mice showed no electrical 
+response to stimulation, concluding that if this were a necessary concomitant of vision, rodless mice were clearly blind. One disturbing note in Keeler's (
+<A HREF="#ref32-57">1930</A>) observations was that the pupil of the rodless eye exhibits "quasinormal" contractions in response to light. Hopkins (
+<A HREF="#ref32-51">1927<I>c</I></A>) tested the ability of mice anatomically very similar to Keeler's rodless to discriminate red and gray papers in a Yerkes discrimination 
+apparatus. The mice showed clear evidence of ability to do so. One eye was removed prior to training in order to classify animals. Subsequently the other eye was 
+removed. Performance then dropped to chance and remained there over a very long series of trials.
+
+<P><B><I>Retinal degeneration.</I></B> An abnormality phenotypically quite similar to that produced by rodless but probably caused by a different gene (
+<A HREF="#ref32-20">DiPaolo and Noell, 1962</A>; 
+<A HREF="#ref32-94">Sidman and Green, 1965</A>) has recently been investigated very extensively both anatomically and behaviorally. Discovered by Br&#252;ckner (
+<A HREF="#ref32-10">1951</A>) in Germany, its effects have been described in detail by Tansley (
+<A HREF="#ref32-103">1951</A>, 
+<A HREF="#ref32-104">1954</A>) and by Noell (
+<A HREF="#ref32-83">1958</A>). According to Tansley, the retina appears to develop normally until 13 to 14 days of age. By day 16, most of the cells in the outer nuclear 
+layer are dead, and nothing remains of the rods or their nuclei by 28 days. Later, the outer layers of the retina are lost and there is degeneration of the 
+pigment epithelium. A cross of P/J with Tansley's animals is reported to have resulted in progeny all having affected retinas. A similar report has been made by 
+Sorsby <I>et al.</I> (
+<A HREF="#ref32-98">1954</A>).
+
+<P>Karli (
+<A HREF="#ref32-52">1952</A>) examined mice supplied by Br&#252;ckner and found that in many animals the degenerative process was interrupted after the rods disappeared, 
+leaving a retina with bipolar cells and ganglion cells apparently normal. Further degeneration of these elements occurred between the ages of 3 and 8 months. 
+Karli tested the residual visual capacity of animals without rods or cones, but with the remainder of their retinas intact.
+
+<P>Karli (
+<A HREF="#ref32-52">1952</A>) found quasinormal pupillar contraction, similar to that described by Keeler (
+<A HREF="#ref32-55">1927</A>), and failed to find an electrical response from the retina of the Br&#252;ckner mice. However, failure to obtain an ERG may not be crucial 
+evidence for blindness. For according to Karli (
+<A HREF="#ref32-53">1954</A>) the ERG may be absent in both dogs and humans with satisfactory vision.
+
+<P>Using the Yerkes discrimination apparatus, Karli (
+<A HREF="#ref32-52">1952</A>) found no evidence for discrimination with a brightness difference of 50 meter-candles between the alternatives (a discrimination easily 
+made by normal mice). However, he found clear evidence of discrimination learning when a difference of 500 meter-candles was used. Turning out the lights 
+disrupted discriminative behavior. Controls for infrared emission appear adequate.
+
+<P>To demonstrate that the retina is somehow involved in successful performance of the task, Karli (
+<A HREF="#ref32-53">1954</A>) anesthetized the cornea with Buteline and the iris with homatropine and found that discrimination was unaffected. Surprisingly, he also 
+showed that animals with the retinal anomaly could be trained to discriminate between rectangles in different orientations, an ability which was lost 
+when the eyes were removed.
+
+<P>Bonaventure and Karli (
+<A HREF="#ref32-7a">1961</A>) compared the spectral sensitivity curves for his presumptive 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856373" target="_blank"><I>rd</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856373" target="_blank"><I>rd</I></A> mice with one previously obtained for normal mice (
+<A HREF="#ref32-7">Bonaventure, 1961</A>). Both are presented in 
+<a href="javascript:windowf3207 = window.open('../figures/figure32-7.shtml', 'windowf3207', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf3207.focus()">Figure 32-7</A>. 
+A major difference, not apparent in the figure, is that the threshold for the abnormal mice was 10<SUP>5</SUP> higher than that for normal mice.
+
+<P>Where previously the total evidence favored Keeler's conclusion that mice without rods or cones cannot see, it now seems to vindicate Hopkins' assertion 
+that some vision is possible.
+
+<P><B>OTHER SENSES</B>
+
+<P><B>Ear and hearing</B>
+
+<P>The Terkes discrimination device has been used to test for deafness as well as blindness (
+<A HREF="#ref32-116">Yerkes, 1907</A>). However, simpler and more rapid techniques have been devised which work quite well. Yerkes himself also tested for deafness by 
+producing loud noises: clapping his hands, shouting, whistling, exploding pistol caps, striking tuning forks, ringing an electric bell, using Galton whistles, 
+making another mouse squeak. Reportedly, normal mice started violently and froze, and small wonder! Similarly, though less spectacularly, Deol and Kocher (
+<A HREF="#ref32-19">1958</A>) and Alford and Ruben (
+<A HREF="#ref32-2">1963</A>) used the "Pryer reflex," a twitching of the pinna to a sound stimulus, in making their assessments. It is claimed that this reflex is 
+quite unambiguous in normal adult animals. Its occurrence has been shown to correlate reliably with the existence of cochlear potentials and acoustic nerve activity (
+<A HREF="#ref32-2">Alford and Ruben, 1963</A>).
+
+<P>Several investigators have studied the normal development of the ear and hearing in the mouse, and the picture is moderately detailed and quite consistent. 
+According to Deol (
+<A HREF="#ref32-17">1954</A>, 
+<A HREF="#ref32-18">1956</A>), the vestibular part of the labyrinth is well developed at birth with generally adult proportions, though the cristae and maculae are 
+still definitely immature. The cochlea, on the other hand, is still in initial stages of development, and though the hair cells are easily recognizable, there 
+is as yet no trace of the tunnel of Corti. The cochlea is not completely developed until about the 14th day, at which time the normal mouse begins to hear. Alford and Ruben (
+<A HREF="#ref32-2">1963</A>), using both the Pryer reflex and electrical recording from the round window, reported that the modal time for appearance of the Pryer reflex 
+is 12 days and the mean time for appearance of the cochlear potential is 11.6 days in a rather large sample of CBA/J mice.
+
+<P>Berlin (
+<A HREF="#ref32-5">1963</A>) reported acuity thresholds for hearing over a wide range of sound frequencies using the conditioned galvanic skin response as an index of hearing. 
+He attached shocking electrodes to the forepaws and recording electrodes to the hind paws of CBA/J mice immobilized with bulbocapnine. Tones varying in frequency from 
+1 to 40 kc were presented prior to shock onset and change in body resistance was recorded. A modified method of limits was used to determine the minimum sound intensity 
+required at each frequency to elicit three successive resistance changes to the tone. Berlin and Finck (1964, personal communication) obtained curves comparing frequency 
+thresholds determined by both the GSR technique (solid line) and by microelectrode recording from auditory units (dotted line, 
+<a href="javascript:windowf3208 = window.open('../figures/figure32-8.shtml', 'windowf3208', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf3208.focus()">Figure 32-8</A>). 
+Commenting on the GSR technique, they state that simply presenting tone without shock and measuring resistance changes produced still more 
+orderly and reproducible responses. Later work (Berlin, 1964, personal communication) continued to show maximum sensitivity to be between 10 and 20 kc, but peak frequency 
+response appeared to be closer to 10 kc. Gr&#252;neberg <I>et al.</I> (
+<A HREF="#ref32-41">1940</A>) presented less extensive data on the frequency response of the mouse ear.
+
+<P>Genes which are known to affect hearing are Ames' waltzer (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856467" target="_blank"><I>av</I></A>), deaf (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856229" target="_blank"><I>v<SUP>df</SUP></I></A>), deafness (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856845" target="_blank"><I>dn</I></A>), dreher (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856494" target="_blank"><I>dr</I></A>), jerker (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856573" target="_blank"><I>je</I></A>), kreisler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856419" target="_blank"><I>kr</I></A>), pirouette (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856991" target="_blank"><I>pi</I></A>), shaker-1 (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856716" target="_blank"><I>sh-1</I></A>), shaker-2 (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857036" target="_blank"><I>sh-2</I></A>), spinner (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857053" target="_blank"><I>sr</I></A>), surdescens (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857060" target="_blank"><I>su</I></A>), Snell's waltzer (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856555" target="_blank"><I>sv</I></A>), shaker-with-syndactylism (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856182" target="_blank"><I>sy</I></A>), waltzer (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856228" target="_blank"><I>v</I></A>), varitint-waddler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A>), and whirler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857090" target="_blank"><I>wi</I></A>). Mikaelian and Ruben (
+<A HREF="#ref32-78">1964</A>) compared developmental changes in eighth nerve activity and cochlear potentials of shaker-1 mice with those of normal CBA/J mice. For further 
+information on these genes see 
+<A HREF="chapter8.shtml">Chapter 8</A> and Inherited Neurological Defects.
+
+<P><B>Chemical and tactile senses</B>
+
+<P>It is generally thought that the primary receptors for the mouse are tactile and olfactory. The olfactory system has not been studied, though there is a 
+literature on the role of olfactory stimuli in producing pregnancy blocking (
+<A HREF="chapter11.shtml">Chapter 11</A>).
+
+<P>The paucity of experiments on the chemical senses reflects the relatively inadequate state of knowledge in this area, a deficiency attributable to 
+technical difficulties. Several studies on taste preference described in 
+<A HREF="chapter23.shtml">Chapter 33</A> may involve differential functioning of taste receptors, but the relative importance of central and peripheral factors in 
+determining preferences has not been established. The mouse is known to have one taste bud in each of 50 to 70 fungiform papillae found in irregular 
+rows just lateral to the median sulcus of the tongue (
+<A HREF="#ref32-64">Kutuzov and Sicher, 1953</A>).
+
+<P>Schaff (
+<A HREF="#ref32-91">1933</A>) observed what appears to be tactile discrimination. Mice lived in long runways with food at one end and housing at the other. 
+Following a habituation period, a dividing wall of plaster of paris with slits 2 cm high and 1 to 7 mm wide was inserted. Mice always chose the largest 
+slit to break through &#151; distinguishing differences of 0.2 mm. Discrimination was as good in blinded mice as in sighted ones. Furthermore, the 
+sinus played no part, or a very small part, for dewhiskered mice were as competent as intact ones. Schaff believes that tactile receptors on the snout were involved.
+
+<P>Vestibular functions of the mouse have been studied largely in connection with inherited anomalies of this organ. As in the case of the eye, lesions produced 
+by genes have resulted in natural experiments which contribute to physiology.
+
+<P><B>SENSORIMOTOR DEVELOPMENT</B>
+
+<P>The behavior of mice changes rapidly during the first 2 weeks of life while the nervous system is maturing. Almost every day sees a new pattern appearing or 
+an infantile one disappearing. The exact timing differs among individuals; the heavier infants may be a day or so ahead of more poorly nourished ones. However, 
+no important or consistent differences between strains were reported by Williams and Scott (
+<A HREF="#ref32-113">1953</A>), Hertz (1964, personal communication), or Fox (
+<A HREF="#ref32-27">1965</A>), whose essentially similar accounts are the basis of the following section.
+
+<P>Locomotion at birth is limited to crawling sideways; by day 3 or 4 the young mouse can pivot. At day 6 or 7 it can stand and walk, at 9 days run unsteadily, 
+and at 15 days move essentially as an adult. Up to 12 days the members of a litter usually remain in contact even when out of the nest, and they tend to stay 
+close together up to about 20 days of age when some dispersion is seen. Young mice characteristically take long hops during the third week of life, earning 
+them the name of "popcorn mice."
+
+<P>The usual mammalian trunk and limb reflexes can be demonstrated in infant mice. Crossed extension ( a pinch on one hind foot leads to extension of the opposite 
+limb) is strong at birth, weak by day 9, and gone by day 12. Forelimb and hind limb placing responses are weak or absent at birth but clearly seen from day 3 or 4 
+when the pup is brought in contact with a surface. A mouse is first able to right itself when placed on its back at 3 days; righting is accomplished with ease by 7 
+days. Upward pointing on a slope (negative geotropism) is seen when walking begins and is strongest at about 15 days. Baby mice will fall off an elevated surface 
+before day 7, but between this age and 13 days they gradually develop an aversion to edges and avoid falling.
+
+<P>At birth, receptor capacities as judged by reflex responses appear limited to noxious and thermal stimuli. A generalized response to foot pinch in the neonate 
+increases in strength and duration during the first week. In the second week the response becomes more discrete and may be limited to the stimulated limb if the 
+stimulus is moderate. Auditory startle is reported to begin from the 10th to the 12th days and is strong at day 15. Eyes open between the 12th and 14th days. Mice 
+nurse up to 16 or 24 days if not artificially weaned. A rooting reflex (forward pushing in response to contact on the side of the head) can be demonstrated during 
+the early nursing period, but it weakens and usually disappears by day 15. Chewing movements are observable by 14 days and solid food is usually taken about day 16.
+
+<P>Grooming develops apparently out of rudimentary scratch reflexes by day 7 and is conspicuous by about the 12th day. Other mice are groomed from about day 21 
+and the pattern then becomes a part of social behavior. Thus by 3 weeks, when less than half the eventual body weight is attained, the fundamental patterns of 
+behavior have appeared except for fighting and sexual behavior. Deviations from the schedule of development are indicative of illness, trauma, or inherited defects.
+
+<P><B>MOTOR CAPACITY</B>
+
+<P>Quantitative measurements of motor coordination and endurance are useful in studies of development, genetic differences, and drug effects. The rotarod, widely 
+used in pharmacological laboratories, is an excellent device for evaluating coordination. Mice are placed on a slightly roughened rod about 2.5 cm in diameter 
+which is rotated at constant speed by a motor. A speed of 1 rpm is used in our laboratory to detect gross aberrations of control. Adult mice after a few training 
+trials can remain on the rod indefinitely at this speed and falling off indicates immaturity, structural defect, or intoxication. The task is more difficult at 6 
+rpm and individual variation is seen even among "normal" mice. At the faster speed one can detect motor effects of genes not generally considered to produce 
+neuromuscular incoordination.
+
+<P>Swimming is frequently used as a test of vestibular function. Many of the waltzer-shaker mutants cannot maintain orientation to gravity when out of contact with 
+a solid surface. Forced swimming has also been used as a test of endurance or as a stressor (
+<A HREF="#ref32-97">Soltan, 1962</A>). The walls of Soltan's apparatus were made of smooth material to prevent the animal from supporting its weight by resting its forefeet 
+on the edges of the swimming tank, and air was bubbled through the water to keep the surface agitated. At 35&#176;C laboratory mice can swim continuously for an hour 
+or more. Endurance falls off in colder water.
+
+<P>There are many tests of "spontaneous" activity. The most commonly used are an open field, in which the amount of locomotion is measured by observation or by 
+sensing devices, and rotating wheels which turn as the animal runs along the inner circumference. Vibration sensors can also be used to measure activity 
+semiquantitatively in home cages or in special activity chambers. Since the animal is not forced to respond in these devices, they provide measures of motivation 
+rather than of motor capacity alone and are treated in 
+<A HREF="chapter33.shtml">Chapter 33</A>.
+
+<P><B>INHERITED NEUROLOGICAL DEFECTS</B>
+
+<P>A large number of inherited defects of motor function have been described, many attributable to specific mutations. Brief descriptions of the mutant phenotypes 
+with neurological defects are found in 
+<A HREF="chapter8.shtml">Chapter 8</A>. The early literature was critically summarized by Gr&#252;neberg (
+<A HREF="#ref32-40">1952</A>). In this section we are concerned primarily with processes intervening between the genes and the behavioral phenotypes, more especially with 
+those deviations compatible with a lifespan of at least several months. The treatment is not exhaustive but we have included examples of each of the 
+major classes of phenotypes.
+
+<P><B>Genetics and classification</B>
+
+<P>The most common finding in the mouse when single loci are involved is that the defect is dependent upon homozygosity for the mutant allele; that is, the mutant 
+is recessive. A few mutations, for example waltzer-type (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861234" target="_blank"><I>Wt</I></A>) and trembler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856216" target="_blank"><I>Tr</I></A>), 
+produce marked effects when heterozygous and are called dominants. This appellation applies in the classic sense to trembler since 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856216" target="_blank"><I>Tr</I></A>/+ and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856216" target="_blank"><I>Tr</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856216" target="_blank"><I>Tr</I></A> individuals are practically identical (
+<A HREF="#ref32-40">Gr&#252;neberg, 1952</A>), but is less precisely applied to waltzer-type since 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861234" target="_blank"><I>Wt</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861234" target="_blank"><I>Wt</I></A> mice die at the 11th day of gestation.
+
+<P>A few syndromes phenotypically very similar to mutant types have been shown by breeding tests to be multifactorial (<I>e.g.</I>, careener, 
+<A HREF="#ref32-13">Chai and Chiang, 1962</A>; zigzag, 
+<A HREF="#ref32-73">Lyon, 1960</A>). These conditions seem to involve developmental thresholds. The genotype of the affected lines exerts precarious control over the differentiation 
+of certain parts of the nervous system, resulting in a proportion of defective individuals.
+
+<P>Various attempts have been made to classify the neuromuscular mutants. Searle (
+<A HREF="#ref32-92">1961</A>) recognized three groups: (1) a waltzer-shaker group characterized by turning in circles, head shaking, and deafness; (2) a convulsive group 
+characterized typically by spasticity and motor seizures under stress; and (3) an incoordinated group extending in more severe states to ataxia. A classification 
+based upon observable behavior may not always correlate with one based upon neuropathological or biochemical findings. We may learn eventually that genes producing 
+circling have very diverse metabolic effects or, conversely, that genes affecting the chemistry of myelin have different effects depending upon the period of 
+development during which they are most active. For the purposes of this chapter, Searle's three-way classification is adequate, though it should be remembered 
+that detailed investigations of individual genes will surely change the groupings, particularly if classification is based upon genetic control of chemical 
+processes rather than the behavior phenotype (see 
+<A HREF="chapter29.shtml">Chapter 29</A> for further discussion).
+
+<P><B>Waltzer-shaker mutants</B>
+
+<P>Mutants of this class have been known for centuries (
+<A HREF="#ref32-40">Gr&#252;neberg, 1952</A>, p.179). Their prime triad of symptoms &#151; circling, head shaking, and deafness &#151; can all be caused by anomalies of the 
+inner ear. Kocher (
+<A HREF="#ref32-62">1960</A>) studied eight mutants (deafness, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856845" target="_blank"><I>dn</I></A>; shaker-1, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856716" target="_blank"><I>sh-1</I></A>; shaker-2, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857036" target="_blank"><I>sh-2</I></A>; pirouette, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856991" target="_blank"><I>pi</I></A>; jerker, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856573" target="_blank"><I>je</I></A>; waltzer, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856228" target="_blank"><I>v</I></A>; deaf, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856229" target="_blank"><I>v<SUP>df</SUP></I></A>; and varitint-waddler, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A>). In all the homozygotes (and in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A> heterozygotes) he found regressive degeneration of the stria 
+vascularis, neuroepithelium, and spiral ganglion, though the morphology of the bony labyrinth was unaffected. Damage is restricted primarily to the organ of Corti 
+in two of the labyrinthine mutants 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856229" target="_blank"><I>v<SUP>df</SUP></I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856845" target="_blank"><I>dn</A></I>; and these mice, though deaf, do not circle or shake their heads.
+
+<P>Each mutant has a distinctive pattern of neuroepithelial degeneration. Some of them have temporary hearing, and the onset of deafness occurs among homozygotes 
+as follows: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856716" target="_blank"><I>sh-1</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857036" target="_blank"><I>sh-2</I></A>, 5 to 6 weeks; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856991" target="_blank"><I>pi</I></A>, 8 to 17 weeks; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856228" target="_blank"><I>v</I></A>, under 2 weeks (
+<A HREF="#ref32-62">Kocher, 1960</A>). A number of mutants show anomalies of the semicircular canals which produce waltzing movements, but they retain hearing because the 
+cochlea does not degenerate. Examples are figit (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856870" target="_blank"><I>fi</I></A>) (
+<A HREF="#ref32-106">Truslove, 1956</A>); twirler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861230" target="_blank"><I>Tw</I></A>) (
+<A HREF="#ref32-72">Lyon, 1958</A>); and waltzer-type (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861234" target="_blank"><I>Wt</I></A>) (
+<A HREF="#ref32-99">Stein and Huber, 1960</A>). Zigzag is a polygenic character characterized by a reduction or absence of the horizontal canals, the remainder of the inner 
+ear being essentially normal (
+<A HREF="#ref32-73">Lyon, 1960</A>). In some mutants, notably pallid (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856982" target="_blank"><I>pa</I></A>), absence of the otoliths in the vestibules impairs position responses (
+<A HREF="#ref32-71">Lyon, 1953</A>).
+
+<P>In summary, the labyrinthine mutants provide a relatively straightforward example of structural anomalies mediating particular behavioral defects. 
+<a href="javascript:windowt3203 = window.open('../tables/table32-3.shtml', 'windowt3203', 'width=750,height=400,resizable=yes,scrollbars=yes'); windowt3203.focus()">Table 32-3</A> 
+illustrates this point. The unsolved problems in this group lie in the area of developmental rather than behavioral genetics. There is as yet no good explanation 
+for the individualistic patterns of degenerative changes and failures of induction shown by this large group of genetically independent factors.
+
+<P><B>Convulsive syndromes</B>
+
+<P>Mutants included here are a heterogeneous group with varying locomotor symptoms associated with exaggerated reflex responses and the occurrence of seizures 
+following relatively mild stimulation. The lack of mutual exclusiveness between groups is illustrated by varitint-waddler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A></I>) (
+<A HREF="#ref32-16">Cloudman and Bunker, 1945</A>). Included in Kocher's (
+<A HREF="#ref32-62">1960</A>) list of labyrinthine mutants, it could equally well be classed as a convulsive mutant on the basis of its susceptibility to seizures during early life.
+
+<P>Trembler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856216" target="_blank"><I>Tr</I></A>) is a dominant mutation manifested in heterozygotes by a triad of symptoms: 
+spastic paralysis, action tremor, and frequent convulsions, particularly in young mice (
+<A HREF="#ref32-24">Falconer, 1951</A>). The electrocorticogram of trembler mice is normal (
+<A HREF="#ref32-9">Braverman, 1953</A>). The symptoms resemble myotonia gravis, but anticholinesterases, found helpful in this disease, are ineffective in restoring 
+trembler mice to normality. Spastic mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856363" target="_blank"><I>spa</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856363" target="_blank"><I>spa</I></A>) have similar symptoms but are more viable. Amino-oxyacetic acid, a &#947;-aminobutyrate transaminase 
+inhibitor, has ameliorative effects on spastic mice (
+<A HREF="#ref32-14">Chai <I>et al.</I>, 1962</A>). The authors suggest that spasticity results from an imbalance of excitatory and inhibitory factors in the central nervous 
+system, which is rectified when &#947;-aminobutyric acid is allowed to accumulate. Tottering (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856209" target="_blank"><I>tg</I></A>) is another recessive mutation which causes convulsions in homozygotes (
+<A HREF="#ref32-39">Green and Sidman, 1962</A>). It could equally well be classed as a defect of coordination, since the gait is abnormal. No histological anomalies were 
+detected in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856209" target="_blank"><I>tg</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856209" target="_blank"><I>tg</I></A> mice by routine observation.
+
+<P>The dilute lethal gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>) 
+produces major effects on the nervous system as well as on pigment and phenylalanine metabolism. The biochemical 
+aspects of the action of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:105976" target="_blank"><I>d</I></A> locus alleles are discussed in 
+<A HREF="chapter21.shtml">Chapter 21</A>. At about 10 days of age 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A> mice fall over while walking; clonic-tonic seizures with 
+opisthotonus follow and death usually occurs by 18 to 20 days. Myelin degeneration in spinal tracts is the major neuropathological finding. Myelin appears on schedule 
+but disintegrates within a few days (
+<A HREF="#ref32-59">Kelton and Rauch, 1962</A>).
+
+<P><B>Incoordination syndromes</B>
+
+<P>Myelin is generally believed to play a major role in the nervous system because functional activation of tracts is associated with the process of myelinization. 
+The severe symptoms and the eventual lethality of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A> 
+genotype are readily attributable to the loss of function in tracts connecting integrative centers in the brain stem with spinal motor neurons. 
+Some mutants, however, with greatly reduced myelin display relatively mild clinical signs. Quaking mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856539" target="_blank"><I>qk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856539" target="_blank"><I>qk</I></A>) 
+eat, swim, breed, and nurse well even though their entire central nervous system is very low in myelin by both chemical and histological criteria (
+<A HREF="#ref32-93">Sidman <I>et al.</I>, 1964</A>). The defect appears to lie in synthesis since no signs of degeneration are seen. A marked tremor of the hind quarters is 
+present but is compatible with life and reproduction under laboratory conditions. Jimpy (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856065" target="_blank"><I>jp</I></A>), 
+a sex-linked recessive, produces similar but more severe symptoms and is usually lethal by 30 days of age (
+<A HREF="#ref32-93">Sidman <I>et al.</I>, 1964</A>).
+
+<P>A number of inherited syndromes with major effects on the cerebellum are known. Reeler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856398" target="_blank"><I>rl</I></A>) has been most thoroughly studied. Falconer (
+<A HREF="#ref32-24">1951</A>) hypothesized that the homozygotes were "mentally deficient" because of their inept behavior. Myelin formation is apparently normal, but there are 
+cytoarchitechtonic anomalies in cerebral cortex, hippocampus, and particularly in the cerebellum, which is reduced in size (Hamburgh, 
+<A HREF="#ref32-43">1960</A>, 
+<A HREF="#ref32-44">1963</A>; 
+<A HREF="#ref32-76">Meier and Hoag, 1962</A>). Agitans (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856653" target="_blank"><I>ag</I></A>) (
+<A HREF="#ref32-48">Hoecker <I>et al.</I>, 1954</A>) and staggerer (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857035" target="_blank"><I>sg</I></A>) mice (
+<A HREF="#ref32-95">Sidman <I>et al.</I>, 1962</A>) also have defective cerebellums. Still another mechanism producing faulty locomotion is found in dystonia musculorum (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856019" target="_blank"><I>dt</I></A>), a neuropathy which mainly affects the dorsal root ganglia of spinal nerves (
+<A HREF="#ref32-21">Duchen <I>et al.</I>, 1962</A>; 
+<A HREF="#ref32-22">Duchen and Strich, 1964</A>). The number of identified neuromuscular mutants increases steadily and the neuropathological descriptions 
+of many are yet to be published. This account can only suggest the variety of conditions subsumed under this heading. The final word on their classification 
+must await the completion of thorough studies of each genetic entity. At least four kinds of analysis are possible: genetic, behavioral, neuropathological, and 
+biochemical. For no one condition, save possibly dilute lethal (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>), have all these levels been integrated. It seems particularly desirable 
+to search for biochemical differences between the mutants as possible keys to the nature of genetic control over growth and differentiation. Behavioral methods 
+of greater sophistication may also prove useful. While there may be little psychological interest in testing the learning of the more severely handicapped individuals, 
+it would be interesting to know if quaking, for example, has peculiarities of learning associated with its deficient supply of myelin.
+
+<P><B>AUDIOGENIC SEIZURES</B>
+
+<P>Laboratory mice of many strains convulse when subjected to intense sound stimulation. A susceptible subject ordinarily exhibits the following sequence of responses: 
+startle, brief freezing or agitated walking, running at a more and more rapid pace, and finally a convulsion, which may be as mild as a standing spasm. More typically 
+the mouse falls on its side and kicks rhythmically (clonic phase). Many mice go into tonic extension with fixation of trunk muscles in the inspiratory position. Death 
+frequently results from such seizures unless the animal is given artificial respiration. Maximal audiogenic seizures have components similar to pentylenetetrazol or 
+electroshock seizures, but the patterning is different (
+<A HREF="#ref32-101">Swinyard <I>et al.</I>, 1963</A>).
+
+<P><B>Effects of age</B>
+
+<P>Susceptibility varies with age. Seizures are rare before 15 days of age in DBA/2 mice, reach a peak of severity and incidence at 20 to 35 days, and become very 
+infrequent after 70 days of age (
+<A HREF="#ref32-109">Vicari, 1951<I>b</I></A>). Strain A mice, in contrast, are moderately susceptible (incidence 10 to 30 per cent) over a long period up to 245 days of age (
+<A HREF="#ref32-110">Vicari, 1957</A>). The O'Grady susceptible selected strain maintains nearly 100 per cent susceptibility between 20 and 60 days, but the proportion of 
+maximal seizures is much less at older ages (
+<A HREF="#ref32-101">Swinyard <I>et al.</I>, 1963</A>). The interstrain variations in age distribution suggest that susceptibility is a function of developmental patterns.
+
+<P><B>Factors affecting susceptibility</B>
+
+<P>Prestimulation by subconvulsive doses of sound enhances or reduces susceptibility depending upon the temporal parameters of the treatment (
+<A HREF="#ref32-35">Fuller and Williams, 1951</A>; 
+<A HREF="#ref32-34">Fuller and Smith, 1953</A>; 
+<A HREF="#ref32-37">Ginsburg and Fuller, 1954</A>). Chilled mice are less susceptible (
+<A HREF="#ref32-33">Fuller and Rappaport, 1952</A>). In fact, seizure susceptibility is affected by such a variety of factors that is difficult to replicate experiments 
+quantitatively. This leads to some doubt regarding the hypothesis of Miller (
+<A HREF="#ref32-79">1962</A>) that very low radiation levels (0.2 mR per hour) were responsible for susceptibility changes in her colony. Indeed, Tacker and Furchtgott (
+<A HREF="#ref32-102">1962</A>) were unable to obtain an effect with 10 R of whole-body radiation.
+
+<P>The most effective sound frequencies for inducing seizures lie between 12,000 and 25,000 cycles per second (
+<A HREF="#ref32-28">Frings and Frings, 1952</A>). Sound pressures between 86 and 104 db above 0.002 dynes per cm<SUP>2</SUP> have been employed by most investigators. Although 
+pure tone oscillators and white noise generators have been used, an ordinary doorbell suspended over a washtub or placed near a cage is perhaps the most common 
+source of sound. Provided the stimulus is intense enough and in the proper frequency range, its physical dimensions do not appear to be critical 
+determinants of variations in susceptibility.
+
+<P><B>Strain variation</B>
+
+<P>Seizure susceptibility is apparently found in randombred Swiss albino stocks, in which selection for high and low susceptibility has been successful (
+<A HREF="#ref32-29">Frings and Frings, 1953</A>). Several inbred strains and hybrids have been investigated, but in only a few have the populations been large enough for accurate 
+estimate of seizure risk (
+<A HREF="#ref32-42">Hall, 1947</A>; 
+<A HREF="#ref32-35">Fuller and Williams, 1951</A>; 
+<A HREF="#ref32-36">Ginsburg, 1954</A>; Vicari, 
+<A HREF="#ref32-109">1951<I>b</I></A>, 
+<A HREF="#ref32-110">1957</A>).
+
+<P>Another source of difficulty in comparing susceptibility arises from differences in statistical treatment of data. Several workers (for example, 
+<A HREF="#ref32-114">Witt and Hall, 1949</A>; 
+<A HREF="#ref32-36">Ginsburg, 1954</A>) have characterized genetic groups by their proportion of convulsers, defined as animals which have a seizure on one or more of a fixed 
+number of trials (usually four or five). Fuller <I>et al.</I> (
+<A HREF="#ref32-31">1950</A>) used seizure risk on a specified trial (usually the first) as an index of susceptibility. The methods yield quite different values. For example, 
+if the one-trial risk is as low as 0.6, the risk of convulsing on one or more of five trials is 0.99 ( = 1 - 0.4<SUP>5</SUP>).
+
+<P>The death rate following maximal audiogenic convulsions can be as high as 80 per cent. Resuscitation is not always effective. Hybrids of strain DBA/2J with either 
+strains AKR/J or A/J have been found highly susceptible to audiogenic seizures, but survive better than the parent strains.
+
+<P><B>Physiological basis</B>
+
+<P>Swinyard <I>et al.</I> (
+<A HREF="#ref32-101">1963</A>) have adopted the view that the occurrence of a seizure is evidence of sustained activity in an "oscillator" group of neurons. They cite their 
+results with low frequency electrical induction of seizures in resistant (CF#1) and susceptible (O'Grady) mice as evidence that maximal-seizure mice are more prone 
+to oscillator discharge and spread than are minimal-seizure and resistant mice. Fuller and Smith (
+<A HREF="#ref32-34">1953</A>) hypothesized that occurrence of convulsions depended upon the relative rates of recruitment and blocking of motor circuits, these parameters 
+presumably varying from strain to strain. They pointed out that seizure latencies were bimodally distributed and suggested either that different groups of neurons 
+were involved in the fast and slow seizures, or that some humeral factor requiring about 30 seconds to become effective potentiated the late seizures. Direct 
+confirmation of these theories by electrophysiological or neurochemical means is lacking.
+
+<P>Audiogenic seizures have served as phenotypes for a number have served as phenotypes for a number of physiological investigations directed primarily at defining 
+the gene-behavior relationship in biochemical terms. Ginsburg (
+<A HREF="#ref32-36">1954</A>) reported that glutamic acid and a number of other substances involved in the tricarboxylic acid energy cycle reduced seizure susceptibility; 
+other substances increased it. He was unable to find any single principle for predicting enhancement or inhibitory effects. Particular genetic interest attaches to 
+glutamic acid, which protected strain DBA/1 but not strain HS. Thus, similar behavioral phenotypes may have different physiological substrates and be genotypically 
+unrelated. The glutamic acid effect is apparently not mediated through the adrenal glands, a mechanism once thought likely (
+<A HREF="#ref32-32">Fuller and Ginsburg, 1954</A>).
+
+<P>The metabolism of brains of audiogenic-seizure-susceptible DBA/1 and nonsusceptible C57BL/6 mice was studied by Abood and Gerard (
+<A HREF="#ref32-1">1955</A>). The brains did not differ in rate of glycolysis, activity of cytochrome oxidase, malic dehydrogenase, DPN cytochrome reductase, succinic 
+dehydrogenase, and alkaline phosphatase. At 30 days, the age of maximum susceptibility to seizures, DBA mice were significantly lower in adenosine triphosphatase 
+activity, a difference which disappeared at 45 to 50 days when the mice became resistant to convulsions. The rate of oxidative phosphorylation fell in DBA mice 
+during the period of susceptibility. The authors concluded that vulnerability was related to a defect in the phosphorylating system.
+
+<P>The endocrine system is also involved in seizure susceptibility. The thyroid inhibitor 6n-propythiouracil protected DBA/2 effectively against convulsive death 
+and decreased the risk of seizures (
+<A HREF="#ref32-108">Vicari, 1951<I>a</I></A>). Insulin provided protection but castration increased susceptibility in DBA/1 and DBA/2 (
+<A HREF="#ref32-80">Miller and Potas, 1956</A>). Triiodothyrone administered to young mice did not alter seizure incidence except to advance the age at which seizures 
+could be elicited in DBA/2 mice (
+<A HREF="#ref32-45">Hamburgh and Vicari, 1960</A>).
+
+<P><B>Pharmacology of seizures</B>
+
+<P>Plotnikoff (
+<A HREF="#ref32-85">1958</A>) and Plotnikoff and Green (
+<A HREF="#ref32-86">1957</A>) demonstrated that tranquilizers such as chlorpromazine, meprobamate, and reserpine decrease seizure susceptibility. These and other pertinent 
+studies are summarized in 
+<a href="javascript:windowt3204 = window.open('../tables/table32-4.shtml', 'windowt3204', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt3204.focus()">Table 32-4</A>. 
+In general, audiogenic-seizure-susceptible strains have a lower electroshock threshold and require less of a 
+convulsant drug to produce a seizure, though Metrazol appears to be an exception. However, strain differences in effective drug levels are not simple functions of 
+seizure susceptibility as shown by the tabulated data on anticonvulsant action of chlorpromazine, reserpine, and meprobamate.
+
+<P><B>SUMMARY</B>
+
+<P>Contrary to popular belief as well as to our own when we started to assemble materials for this chapter, there <I>is</I> a substantial body of 
+behaviorally relevant information on the biology of the mouse. Something is known of the mouse brain, its anatomy, chemical constituents, electrical 
+activity, and development. The structure and visual capacity of the mouse eye have been studied is some depth. A good beginning has been made on 
+hearing. Limited normative data on sensorimotor development and capacity exist as well. Knowledge is uneven, as is shown by the scanty information 
+on such subjects as olfaction, taste, and electrophysiological characteristics of neurological mutants. No atlas of the mouse brain is generally available. 
+These are a few of the gaps which must be filled.
+
+<P>The nervous and sensory systems of the laboratory mouse have attracted scientific interest primarily because it is the mammal whose genetics is the 
+best known and best controlled. A major part of the past research concerned mutant animals possessing defects of the brain, eye, and ear. The number of 
+genes known already and the variety of their effects is impressive. We have mentioned 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856853,MGI:1856862,MGI:1856863,MGI:1856870,MGI:1856942,MGI:1856085,MGI:1856088,MGI:1856111,MGI:1856373,MGI:1856474" target="_blank">11 genes affecting the eye</A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856467,MGI:1856229,MGI:1856845,MGI:1856494,MGI:1856573,MGI:1856419,MGI:1856991,MGI:1856716,MGI:1857036,MGI:1857053,MGI:1857060,MGI:1856555,MGI:1856182,MGI:1856228,MGI:1856230,MGI:1857090" target="_blank">16 affecting hearing</A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861234,MGI:1856216,MGI:1856716,MGI:1857036,MGI:1856991,MGI:1856573,MGI:1856228,MGI:1856230,MGI:1856870,MGI:1861230,MGI:1856982,MGI:1856209,MGI:1856005,MGI:1856539,MGI:1856065,MGI:1856398,MGI:1856653,MGI:1856363" target="_blank">18 affecting motor function</A>. 
+Among the variety of genes producing a gross syndrome there is a diversity of specific effect. For example, the incoordination syndrome 
+can result from deficiencies in myelinization (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856539" target="_blank">quaking</A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856065" target="_blank">jimpy</A>), anatomical anomalies of the cerebellum (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856653" target="_blank">agitans</A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857035" target="_blank">staggerer</A>), and anomalies of dorsal root ganglia (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856019" target="_blank">dystonia musculorum</A>). These gene-produced lesions have resulted in natural experiments which can contribute substantially to psychology as 
+well as to physiology and biochemistry.
+
+<P>Genetical studies need not be restricted to single-gene effects. Quantitative traits, the effect of many genes of small individual effect acting together, 
+are also very important. For example, variation in the brain to body weight ratio among inbred lines is so great, and so also may be the variability in size 
+of specific brain structures. The genetic diversity of the mouse makes it excellent material for research in this area. There is much to be done both with 
+continuous and discrete traits. Both physiological and psychological differences between inbred strains and stocks segregating at a single locus need to be 
+traced backward toward their origins.
+
+<P>Audiogenic seizures have been widely studied in mice as a model of maladaptive behavior in which response to an environmental trigger is modified by 
+genetic background. Research has concentrated on elucidation of the mechanisms by which genes might control susceptibility and on chemical modification of susceptibility.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grant MH 01775 from the National Institute of Mental Health.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref32-1"></A>
+<P>Abood, L.G., and R.W. Gerard. 1955. 
+Phosphorylation defect in the brains of mice susceptible to audiogenic seizure, p. 467-472. 
+<I>In</I> H. Waelsch [ed.] <I>Biochemistry of the Developing Nervous System</I>. Academic Press, New York.
+
+<A NAME="ref32-2"></A>
+<P>Alford, B.R., and R.J. Ruben. 1963. 
+Physiological, behavioral, and anatomical correlates of the development of hearing in the mouse. 
+Ann. Otol. Rhinol. Laryngol. <B>72:</B> 237-247.
+<!-- 14012000 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14012000" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-3"></A>
+<P>Baumg&#228;rtner, M., and O.E. Paget. 1955. 
+Histologishe Untersuchung eines rezessive erblichen Retinamerkmals bei der Hausmaus. 
+&#214;sterreich Zool. Z. <B>6:</B> 7-10.
+
+<A NAME="ref32-4"></A>
+<P>Bein, H.J. 1947. 
+&#220;ber vererbliche Aplasie des Sehnerven bei der Maus. 
+Ophthalmologia <B>113:</B> 12-37.
+
+<A NAME="ref32-5"></A>
+<P>Berlin, C.I. 1963. 
+Hearing in mice via GSR audiometry. 
+J. Speech Hearing Res. <B>6:</B> 359-368.
+<!-- 14071873 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14071873" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-6"></A>
+<P>Bielec, S. 1959. 
+Influence of reserpine on the behavior of mice susceptible to audiogenic seizures. 
+Arch Int. Pharmacodyn. <B>119:</B> 352-358.
+<!-- 13650726 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13650726" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-7"></A>
+<P>Bonaventure, N. 1961. 
+Sur la sensibilit&#233; spectrale de l'appariel visuel chez la souris. 
+Compt. Rend. Soc. Biol. <B>155:</B> 918-921.
+<!-- 13870909 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13870909" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-7a"></A>
+<P>Bonaventure, N., and P. Karli. 1961. 
+Sensibiliti&#233; visuelle spectrale chez des souris &#244; r&#233;tine enti&#232;rement d&#233;pourvue de cellules visuelles photor&#233;ceptrices. 
+Compt. Rend. Soc. Biol. <B>155:</B> 2015-2018.
+<!-- MGI:63023 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63023" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-8"></A>
+<P>Boxberger, F. von. 1953. 
+Vergleichende Untersuchen &#252;ber das visuelle Lernverm&#246;gen bei weissen Ratten und wessen M&#228;usen. 
+Z. Tierpsychol. <B>9:</B> 433-451.
+
+<A NAME="ref32-9"></A>
+<P>Braverman, I.M. 1953. 
+Neurological actions caused by the mutant gene "trembler" in the house mouse (<I>Mus musculus</I>, L.). An investigation. 
+J. Neuropathol. Exp. Neurol. <B>12:</B> 64-72.
+<!-- 13000456 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13000456" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-10"></A>
+<P>Br&#252;ckner, R. 1951. 
+Spaltlampenmikroscopie und Ophthalmoskopie am Auge von Ratte und Maus. 
+Doc. Ophthalmol. <B>5-6:</B> 452-554.
+<!-- MGI:73302 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73302" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-11"></A>
+<P>Busnel, R.G., and A. Lehman. 1961. 
+Action de convulsivants chimiques sur les souris de ligne&#233;s sensible et r&#233;sistante &#224; la crise audiog&#232;ne. Part III. Cafeine. 
+J. Physiol. <B>53:</B> 285-286.
+<!-- 13689377 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13689377" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-12"></A>
+<P>Busnel, R.G., A. Lehmann, and M.C. Busnel. 1958. 
+&#201;tude de la crise audiog&#232;ne de la souris comme test psycho-pharmacologique: Son application aux substances de type "tranquiliseur." 
+Pathol. Biol. <B>34:</B> 749-762.
+
+<A NAME="ref32-13"></A>
+<P>Chai, C.K., and M.S.M. Chiang. 1962. 
+The inheritance of careener, unbalanced locomotion in mice. 
+Genetics <B>47:</B> 435-441.
+<!-- 17248095 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248095" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-14"></A>
+<P>Chai, C.K., E. Roberts, and R.L. Sidman. 1962. 
+Influence of aminooxyacetic acid, a &#947;-aminobutyrate transaminase inhibitor, on hereditary spastic defect in the mouse. 
+Proc. Soc. Exp. Biol. Med. <B>109:</B> 491-495.
+<!-- MGI:61343 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61343" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-15"></A>
+<P>Chiquoine, A.D. 1954. 
+Distribution of alkaline phosphomonesterase in the central nervous system of the mouse embryo. 
+J. Comp. Neurol. <B>100:</B> 415-439.
+<!-- 13163238 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13163238" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-16"></A>
+<P>Cloudman, A.M., and L.E. Bunker, Jr. 1945. 
+The varitint-waddler mouse. 
+J. Hered. <B>36:</B> 259-263.
+<!-- MGI:61341 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61341" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-17"></A>
+<P>Deol, M.S. 1954. 
+The anomalies of the labyrinth of the mutants varitint-waddler, shaker-2, and jerker in the mouse. 
+J. Genet. <B>52:</B> 562-588.
+<!-- MGI:61255 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61255" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-18"></A>
+<P>Deol, M.S., 1956. 
+A gene for uncomplicated deafness in the mouse. 
+J. Embryol. Exp. Morphol. <B>4:</B> 190-195.
+<!-- MGI:61210 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61210" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-19"></A>
+<P>Deol, M.S., and W. Kocher. 1958. 
+A new gene for deafness in the mouse. 
+Hereditary <B>12:</B> 463-466.
+<!-- MGI:48774 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48774" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-20"></A>
+<P>DiPaolo, J.A., and W.K. Noell. 1962. 
+Some genetic aspects of visual cell degeneration in mice. 
+Exp. Eye Res. <B>1:</B> 215-220.
+<!-- 13886541 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13886541" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-21"></A>
+<P>Duchen, L.W., D.S. Falconer, and S.J. Strich. 1962. 
+Dystonia musculorum. A hereditary neuropathy of mice affecting mainly sensory pathways. 
+J. Physiol. <B>165:</B> 7P-9P.
+
+<A NAME="ref32-22"></A>
+<P>Duchen, L.W., and S.J. Strich. 1964. 
+Clinical and pathological studies of an hereditary neuropathy in mice (dystonia musculorum). 
+Brain <B>87:</B> 367-378.
+<!-- MGI:63450 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63450" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-23"></A>
+<P>Dunn, T.B., and H.B. Andervont. 1963. 
+Histology of some neoplasms and non-neoplastic lesions found in wild mice maintained under laboratory conditions. 
+J. Nat. Cancer Inst. <B>31:</B> 873-901.
+<!-- 14173606 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14173606" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-24"></A>
+<P>Falconer, D.S. 1951. 
+Two new mutants, "trembler" and "reeler," with neurological actions in the house mouse (<I>Mus musculus</I> L.) 
+J. Genet. <B>50:</B> 192-201.
+<!-- MGI:61247 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61247" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-25"></A>
+<P>Fisher, H. 1959. 
+Mikroskopische Untersuchungen an der Retina von M&#228;usen mit erblichen Augenaffektionen. 
+Acta Biol. Med. Ger. <B>2:</B> 231-251.
+
+<A NAME="ref32-26"></A>
+<P>Folch-Pi, J. 1955. 
+Composition of the brain in relation to maturation, p. 121-133. 
+<I>In</I> H. Waelsch [ed.] <I>Biochemistry of the Developing Nervous System</I>. Academic Press, New York.
+
+<A NAME="ref32-27"></A>
+<P>Fox, M.W. 1965. 
+Reflex ontogeny and behavioral devlopment of the mouse. 
+Anim. Behav. <B>8:</B> 234-241.
+
+<A NAME="ref32-28"></A>
+<P>Frings, H., and M. Frings. 1952. 
+Acoustical determinants of audiogenic seizures in laboratory mice. 
+J. Acoust. Soc. Amer. <B>24:</B> 163-169.
+
+<A NAME="ref32-29"></A>
+<P>Frings, H. and M. Frings. 1953. 
+The production of stocks of albino mice with predictable susceptibilities to audiogenic seizures. 
+Behavior <B>5:</B> 305-319.
+<!-- MGI:73070 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73070" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-30"></A>
+<P>Frings, H., and A. Kivert. 1953. 
+Nicotine facilitation of audiogenic seizures in laboratory mice. 
+J. Mammal. <B>34:</B> 391-393.
+
+<A NAME="ref32-31"></A>
+<P>Fuller, J.L., C. Easler, and M.E. Smith. 1950. 
+Inheritance of audiogenic seizure susceptibility in the mouse. 
+Genetics <B>35:</B> 622-632.
+<!-- 14793707 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14793707" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-32"></A>
+<P>Fuller, J.L., and B.E. Ginsburg. 1954. 
+Effect of adrenalectomy on the anticonvulsant action of glutamic acid in mice. 
+Amer. J. Physiol. <B>176:</B> 367-370.
+<!-- 13138722 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13138722" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-33"></A>
+<P>Fuller, J.L., and A. Rappaport. 1952. 
+The effect of wetting on sound-induced convulsions in mice. 
+J. Comp. Physiol. Psychol. <B>45:</B> 246-249.
+<!-- MGI:74901 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74901" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-34"></A>
+<P>Fuller, J.L., and M.E. Smith. 1953. 
+Kinetics of sound induced convulsions on some inbred mouse strains. 
+Amer. J. Physiol. <B>172:</B> 661-670.
+<!-- 13030800 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13030800" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-35"></A>
+<P>Fuller, J.L., and E. Williams. 1951. 
+Gene-controlled time constants in convulsive behavior. 
+Proc. Nat. Acad. Sci. <B>37:</B> 349-356.
+<!-- 14853951 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14853951" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-36"></A>
+<P>Ginsburg, B.E. 1954. 
+Genetics and the physiology of the nervous system. 
+Proc. Ass. Nerv. Ment. Dis. <B>33:</B> 39-56.
+<!-- 13246069 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13246069" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-37"></A>
+<P>Ginsburg, B.E., and J.L. Fuller. 1954. 
+A comparison of chemical and mechanical alterations of seizure patterns in mice. 
+J. Comp. Physiol. Psychol. <B>47:</B> 344-348.
+<!-- MGI:74904 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74904" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-38"></A>
+<P>Goodsell, J.S. 1955. 
+Properties of audiogenic seizures in mice and the effect of anticonvulsant drugs. 
+Fed. Proc. <B>14:</B> 345. (Abstr.)
+
+<A NAME="ref32-39"></A>
+<P>Green, M.C., and R.L. Sidman. 1962. 
+Tottering &#151; a neuromuscular mutation in the mouse. 
+J. Hered. <B>53:</B> 233-237.
+<!-- MGI:48800 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48800" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-40"></A>
+<P>Gr&#252;neberg, H. 1952. 
+<I>The Genetics of the Mouse, 2nd. ed</I>. Nijhoff, The Hague. 650 p.
+<!-- MGI:78359 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78359" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-41"></A>
+<P>Gr&#252;neberg, H., C.S. Hallpike, and A. Ledoux. 1940. 
+Observations on the structure, development, and electrical reactions of the internal ear of the shaker-1 mouse (<I>Mus musculus</I>). 
+Proc. Roy. Soc. B <B>129:</B> 154-173.
+
+<A NAME="ref32-42"></A>
+<P>Hall, C.S. 1947. 
+Genetic difference in fatal audiogenic seizures. 
+J. Hered. <B>38:</B> 3-6.
+
+<A NAME="ref32-43"></A>
+<P>Hamburgh, M. 1960. 
+Observations on the neuropathology of "reeler," a neurological mutation in mice. 
+Experientia <B>16:</B> 460.
+
+<A NAME="ref32-44"></A>
+<P>Hamburgh, M. 1963. 
+Analysis of the postnatal developmental effects of "reeler," a neurological mutation in mice. A study in developmental genetics. 
+Develop. Biol. <B>8:</B> 165-185.
+<!-- 14069672 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14069672" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-45"></A>
+<P>Hamburgh, M., and E. Vicari. 1960. 
+A study of some physiological mechanisms underlying susceptibility to audiogenic seizures in mice. 
+J. Neuropathol. Exp. Neurol. <B>19:</B> 461-472.
+<!-- 14399226 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14399226" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-46"></A>
+<P>Hilgard, E.R. 1951. 
+Methods and procedures in the study of learning, p. 517-567. 
+<I>In</I> S.S. Stevens [ed.] <I>Handbook of Experimental Psychology</I>. Wiley, New York.
+
+<A NAME="ref32-47"></A>
+<P>Himwich, W.A. 1962. 
+Biochemical and neurophysiological development of the brain in the neonatal period. 
+Int. Rev. Neurobiol. <B>4:</B> 117-158.
+
+<A NAME="ref32-48"></A>
+<P>Hoecker, G., S. Martinez, A. Markovic, and O. Pizarro. 1954. 
+Agitans, a new mutation in the house mouse with neurological effects. 
+J. Hered. <B>45:</B> 10-14.
+<!-- MGI:48804 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48804" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-49"></A>
+<P>Hopkins, A.E. 1927<I>a</I>. 
+Vision and retinal structure in mice. 
+Proc. Nat. Acad. Sci. <B>13:</B> 488-492.
+<!-- 16587204 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16587204" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-50"></A>
+<P>Hopkins, A.E. 1927<I>b</I>. 
+Experiments on color vision in mice in relation to the duplicity theory. 
+Z. Vergl. Physiol. <B>6:</B> 300-344.
+
+<A NAME="ref32-51"></A>
+<P>Hopkins, A.E. 1927<I>c</I>. 
+Vision in mice with "rodless" retinae. 
+Z. Vergl. Physiol. <B>6:</B> 345-360.
+
+<A NAME="ref32-52"></A>
+<P>Karli, P. 1952. 
+R&#233;tines sans cellules visulles &#151; recherches morphologiques, physiologiques, et physiopathologiqiues chez les rongers. 
+Arch. Anat. Histol. Embryol. <B>35:</B> 1-76.
+<!-- 13031578 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13031578" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-53"></A>
+<P>Karli, P. 1954. 
+&#201;tude de la valeur fonctionnelle d'une r&#233;tine d&#233;pourvue de cellules visuelles photo-r&#233;ceptrices. 
+Arch. Sci. Physiol. <B>8:</B> 305-328.
+<!-- 13218884 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13218884" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-54"></A>
+<P>Keeler, C.E. 1924. 
+The inheritance of a retinal abnormality in white mice. 
+Proc. Nat. Acad. Sci. <B>10:</B> 329-333.
+<!-- MGI:72715 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72715" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-55"></A>
+<P>Keeler, C.E. 1927. 
+Rodless retina, an ophthalmic mutation in the house mouse, <I>Mus musculus</I>. 
+J. Exp. Zool. <B>46:</B> 355-407.
+
+<A NAME="ref32-56"></A>
+<P>Keeler, C.E. 1928. 
+Blind mice. 
+J. Exp. Zool. <B>51:</B> 495-508.
+
+<A NAME="ref32-57"></A>
+<P>Keeler, C.E. 1930. 
+Hereditary blindness in the house mouse with special reference to its linkage relationships. 
+<I>In</I>: <I>Bulletin No. 3, Howe Laboratory of Ophthalmology, Harvard Medical School, January</I>. 11 p.
+
+<A NAME="ref32-58"></A>
+<P>Keeler, C.E., E. Sutcliffe, and E.L. Chaffee. 1928. 
+Normal and "rodless" retinase of the house mouse with respect to the electromotive force generated through stimulation by light. 
+Proc. Nat. Acad. Sci. <B>14:</B> 477-484.
+<!-- 16577134 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16577134" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-59"></A>
+<P>Kelton, D.E., and H. Rauch. 1962. 
+Myelination and myelin degeneration in the central nervous system of dilute-lethal mice. 
+Exp. Neurol. <B>6:</B> 252-262.
+<!-- 14031850 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14031850" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-60"></A>
+<P>Kobayashi, T. 1963. 
+Brain-to-body ratios and time of maturation of the mouse brain. 
+Amer. J. Physiol. <B>204:</B> 343-346.
+<!-- 14033949 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14033949" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-61"></A>
+<P>Kobayashi, T., O. Inman, Bu&#241;o, and H.E. Himwich. 1963. 
+A multidisciplinary study of changes in mouse brain with age. 
+Recent Adv. Biol. Psychiat. <B>5:</B> 293-308.
+
+<A NAME="ref32-62"></A>
+<P>Kocher, W. 1960. 
+Untersuchungen zur Genetik und Pathologie der Entwicklung von 8 Labyrinthmutanten (deaf-waltzer-shaker Mutanten) der Maus (<I>Mus musculus</I>). 
+Z. Vererb. <B>91:</B> 114-140.
+<!-- MGI:63299 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63299" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-63"></A>
+<P>K&#246;nig, J.F.R., and R.A. Klippel. 1963. 
+<I>The Rat Brain</I>. Williams & Wilkins, Baltimore. 168 p.
+
+<A NAME="ref32-64"></A>
+<P>Kutuzov, H., and H. Sicher. 1953. 
+Comparative anatomy of the mucosa of the tongue and the palate of the laboratory mouse. 
+Anat. Rec. <B>116:</B> 409-425.
+<!-- 13080686 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13080686" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-65"></A>
+<P>Lashley, K.S. 1932. 
+The mechanism of vision. V. The structure and image-forming power of the rat's eye. 
+J. Comp. Psychol. <B>13:</B> 173-200.
+<!-- 17755301 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17755301" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-66"></A>
+<P>Lorente de N&#243;, R. 1933. 
+Studies on the structure of the cerebral cortex. II. Continuation of the study of the ammonic system. 
+J. Psychol. Neurol. <B>46:</B> 113-177.
+
+<A NAME="ref32-67"></A>
+<P>Lorente de N&#243;, R. 1934. 
+Studies on the structure of the cerebral cortex. II. Continuation of the study of the ammonic system. 
+J. Psychol. Neurol. <B>46:</B> 113-177.
+
+<A NAME="ref32-68"></A>
+<P>Lowry, O.H., and J.V. Passoneau. 1964. 
+The relationships between substrates and enzymes of glycolysis in brain. 
+J. Biol. Chem. <B>239:</B> 31-42.
+<!-- 14114860 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14114860" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-69"></A>
+<P>Lowry, O.H., J.V. Passoneau, F.X. Hasselberger, and D.W. Schultz. 1964. 
+Effect of ischemia on known substrates and cofactors of the glycolytic pathway in brain. 
+J. Biol. Chem. <B>239:</B> 18-30.
+<!-- 14114842 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14114842" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-70"></A>
+<P>Lucas, D.R. 1958. 
+Retinal dystrophy strains. 
+Mouse News Letter <B>19:</B> 43.
+
+<A NAME="ref32-71"></A>
+<P>Lyon, M.F. 1953. 
+Absence of otoliths in the mouse: an effect of the pallid mutant. 
+J. Genet. <B>51:</B> 638-650.
+<!-- MGI:68075 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:68075" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-72"></A>
+<P>Lyon, M.F. 1958. 
+Twirler: a mutant affecting the inner ear of the house mouse. 
+J. Embryol. Exp. Morphol. <B>6:</B> 105-116.
+<!-- MGI:48812 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48812" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-73"></A>
+<P>Lyon, M.F. 1960. 
+Zigzag: a genetic defect of the horizontal canals in the mouse. 
+Genet Res. <B>1:</B> 189-195.
+
+<A NAME="ref32-74"></A>
+<P>Maas, J.W. 1962. 
+Neurochemical difference between two strains of mice. 
+Science <B>137:</B> 621-622.
+<!-- 14467694 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14467694" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-75"></A>
+<P>Maas, J.W. 1963. 
+Neurochemical difference between two strains of mice. 
+Nature <B>197:</B> 255-257.
+<!-- 13932005 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13932005" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-76"></A>
+<P>Meier, H., and W.G. Hoag. 1962. 
+The neuropathology of "reeler," a neuro-muscular mutation in mice. 
+J. Neuropathol. Exp. Neurol. <B>21:</B> 649-654.
+
+<A NAME="ref32-77"></A>
+<P>Meier, H., E. Jordan, and W.G. Hoag. 1962. 
+The zymogram technique as a tool for the study of genotypic difference. 
+J. Histochem. Cytochem. <B>10:</B> 103-104.
+
+<A NAME="ref32-78"></A>
+<P>Mikaelian, D.O., and R.J. Ruben. 1964. 
+Hearing degeneration in shaker-1 mouse. 
+Arch. Ontolaryngol. <B>80:</B> 418-430.
+<!-- 14198707 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14198707" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-79"></A>
+<P>Miller, D.S. 1962. 
+Effects of low level radiation on audiogenic convulsive seizures in mice, p. 513-531. 
+<I>In</I> T.J. Haley and R.S. Snider [ed.] <I>Response of the Nervous System to Ionizing Radiation</I>. Academic Press, New York.
+
+<A NAME="ref32-80"></A>
+<P>Miller, D.S., and M.Z. Potas. 1956. 
+The influence of castration on susceptibility to audiogenic seizures in DBA mice. 
+Anat. Rec. <B>124:</B> 336. (Abstr.)
+
+<A NAME="ref32-81"></A>
+<P>Moffat, E., R.F. Krueger, R.O. Pfeiffer, and D.M. Green. 1960. 
+Effects of analgesics on audiogenic seizures in mice. 
+Fed. Proc. <B>19:</B> 271. (Abstr.)
+
+<A NAME="ref32-82"></A>
+<P>Munn, N.L. 1950. 
+<I>Handbook of Psychological Research on the Rat</I>. 
+Houghton Mifflin, Boston. 598 p.
+
+<A NAME="ref32-83"></A>
+<P>Noell, W.K. 1958. 
+Studies on visual cell viability and differentiation. 
+Ann. N.Y. Acad. Sci. <B>74:</B> 337-361.
+<!-- 13627863 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13627863" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-84"></A>
+<P>Paigen, K., and W.K. Noell. 1961. Two linked genes showing a similar timing of expression in mice. 
+Nature <B>190:</B> 148-150.
+<!-- MGI:48825 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48825" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-85"></A>
+<P>Plotnikoff, N.P. 1958. 
+Bioassay of potential tranquilizers and sedatives against audiogenic seizures in mice. 
+Arch. int. Pharmacodyn. <B>116:</B> 130-135.
+<!-- 13584044 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13584044" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-85a"></A>
+<P>Plotnikoff, N.P. 1960. 
+Ataractics and strain differences in audiogenic seizures in mice. 
+Psychopharmacologia <B>1:</B> 429-432. 
+
+<A NAME="ref32-86"></A>
+<P>Plotnikoff, N.P., and D.M. Green. 1957. 
+Bioassay of potential ataraxic agents against audiogenic seizures in mice. 
+J. Pharmacol. Exp. Therap. <B>119:</B> 294-298.
+<!-- 13417081 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13417081" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-87"></A>
+<P>Reetz, W. 1957. 
+Unterschiedliches visuelles Lernverm&#246;gen von Ratten und M&#228;usen. 
+Z. Tierpsychol. <B>14:</B> 347-361.
+
+<A NAME="ref32-88"></A>
+<P>Roberts, E., P.J. Harman, and S. Frankel. 1951. 
+&#915;-aminobutyric acid content and glutamic decarboxylase activity in developing mouse brain. 
+Proc. Soc. Exp. Biol. Med. <B>78:</B> 799-803.
+<!-- 14912036 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14912036" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-89"></A>
+<P>Rose, M. 1929. 
+Cytoarchitektonisher Atlas der Grosshirnrinde der Maus. 
+J. Psychol. Neurol. <B>41:</B> 1-51.
+
+<A NAME="ref32-90"></A>
+<P>Rowley, J.B., and M.M. Bolles. 1935. 
+Form discrimination in white mice. 
+J. Comp. Physiol. Psychol. <B>20:</B> 205-210.
+
+<A NAME="ref32-91"></A>
+<P>Schaff, W. 1933. 
+Raum- und Materialunterscheidung bei der grauen Hausmaus. 
+Z. Vergl. Physiol. <B>18:</B> 622-653.
+
+<A NAME="ref32-92"></A>
+<P>Searle, A.G. 1961. 
+Tipsy, a new mutant in linkage group VII of the mouse. 
+Genet Res. <B>2:</B> 122-126.
+<!-- MGI:48833 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48833" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-93"></A>
+<P>Sidman, R.L., M.M. Dickie, and S.H. Appel. 1964. 
+Mutant mice, <I>quaking</I> and <I>jimpy</I>, with deficient myelination in the central nervous system. 
+Science <B>144:</B> 309-311.
+<!-- MGI:61349 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61349" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-94"></A>
+<P>Sidman, R.L., and M.C. Green. 1965. 
+Retinal degeneration in the mouse; location of the <I>rd</I> locus in linkage group XVII. 
+J. Hered. <B>56:</B> 23-29.
+<!-- MGI:48654 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48654" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-95"></A>
+<P>Sidman, R.L., P.W. Lane, and M.M. Dickie. 1962. 
+Staggerer, a new mutation in the mouse affecting the cerebellum. 
+Science <B>137:</B> 610-612.
+<!-- MGI:61348 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61348" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-96"></A>
+<P>Slotnick, B.M., and W.B. Essman. 1964. 
+A stereotaxic atlas of the mouse brain. 
+Amer. Zool. <B>4:</B> 344. (Abstr.)
+
+<A NAME="ref32-97"></A>
+<P>Soltan, H.C. 1962. 
+Swimming stress and adaptation by dystrophic and normal mice. 
+Amer. J. Physiol. <B>203:</B> 91-94.
+<!-- 13915049 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13915049" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-98"></A>
+<P>Sorsby, A., P.C. Koller, M. Attfield, J.B. Davey, and D.R. Lucas. 1954. 
+Retinal dystrophy in the mouse: histological and genetic aspects. 
+J. Exp. Zool. <B>125:</B> 171-198.
+
+<A NAME="ref32-99"></A>
+<P>Stein, K.F., and S.A. Huber. 1960. 
+Morphology and behavior of waltzer-type mice. 
+J. Morphol. <B>106:</B> 197-203.
+<!-- MGI:48842 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48842" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-100"></A>
+<P>Sutherland, N.S. 1962. 
+<I>The Methods and Findings of Experiments on the Visual Discrimination of Shape by Animals</I>. 
+Experimental Psychology Society Monograph No. 1. Heffner, Cambridge. 68 p.
+
+<A NAME="ref32-101"></A>
+<P>Swinyard, E.A., A.W. Castellion, G.B. Fink, and L.S. Goodman. 1963. 
+Some neurophysiological and neuropharmacological characteristics of audiogenic-seizure-susceptible mice. 
+J. Pharmacol. Exp. Therap. <B>140:</B> 375-384.
+<!-- 13979734 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13979734" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-102"></A>
+<P>Tacker, R., S. Furchtgott, and E. Furchtgott. 1962. 
+Low-level gamma irradiation and audiogenic seizures. 
+Radiat. Res. <B>17:</B> 614-618.
+<!-- 13980125 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13980125" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-103"></A>
+<P>Tansley, K. 1951. 
+Hereditary degeneration of the mouse retina. 
+Brit. J. Ophthalmol. <B>35:</B> 573-582.
+<!-- 14886547 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14886547" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-104"></A>
+<P>Tansley, K. 1954. 
+An inherited retinal degeneration in the mouse. 
+J. Hered. <B>45:</B> 123-127.
+<!-- MGI:63460 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63460" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-105"></A>
+<P>Theiler, K., and B. Cagianut. 1963. 
+Zur erblichen Netzhautdegeneration der Maus. 
+Graefes Arch. Ophthalmol. <B>166:</B> 387-396.
+<!-- 14112124 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14112124" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-106"></A>
+<P>Truslove, G.M., 1956. 
+The anatomy and development of the fidget mouse. 
+J. Genet. <B>54:</B> 64-86.
+<!-- MGI:61257 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61257" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-107"></A>
+<P>Uzman, L.L., and M.K. Rumley. 1958. 
+Changes in the composition of the developing mouse brain during early myelinization. 
+J. Neurochem. <B>3:</B> 170-184.
+<!-- 13621239 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13621239" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-108"></A>
+<P>Vicari, E.M. 1951<I>a</I>. 
+Effect of 6n-propylthiouracil on lethal seizures in mice. 
+Proc. Soc. Exp. Biol. Med. <B>78:</B> 744-746.
+<!-- 14912015 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14912015" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref32-109"></A>
+<P>Vicari, E.M. 1951<I>b</I>. 
+Fatal convulsive seizures in the DNA mouse strain. 
+J. Psychol. <B>32:</B> 79-97.
+<!-- MGI:51011 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51011" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-110"></A>
+<P>Vicari, E.M. 1957. 
+Audiogenic seizures and the A/Jax mouse. 
+J. Psychol. <B>43:</B> 111-116.
+<!-- MGI:51012 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51012" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-111"></A>
+<P>Walls, G.L. 1942. 
+<I>The Vertebrate Eye and Its Adaptive Radiation</I>. 
+Cranbook Press, Bloomfield Hills, Mich. 785 p.
+
+<A NAME="ref32-112"></A>
+<P>Waugh, K.T. 1910. 
+The role of vision in the mental life of the mouse. 
+J. Comp. Neurol. Psychol. <B>20:</B> 549-599.
+
+<A NAME="ref32-113"></A>
+<P>Williams, E., and J.P. Scott. 1953. 
+The development of social behavior patterns in the mouse, in relation to natural peiods. 
+Behaviour <B>6:</B> 35-65.
+<!-- MGI:74848 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74848" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-114"></A>
+<P>Witt, G., and C.S. Hall. 1949. 
+The genetics of audiogenic seizures in the house mouse. 
+J. Comp. Physiol. Psychol. <B>42:</B> 58-63.
+<!-- MGI:51014 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51014" target="_blank">MGI</A></I>.
+
+<A NAME="ref32-115"></A>
+<P>W&#246;rner, R. 1936. 
+&#220;ber die Leistungsgrenze beim Auffassen figuraler Gestalten durch M&#228;use. 
+Biol. Zentralbl. <B>56:</B> 2-27.
+
+
+<A NAME="ref32-116"></A>
+<P>Yerkes, R.M. 1907. 
+<I>The Dancing Mouse</I>. 
+Macmillan, New York. 290 p.
+
+
+<A NAME="ref32-117"></A>
+<P>Zeman, W., and J.R.M. Innes. 1963. 
+<I>Craigie's Neuroanatomy of the Rat. Revised and Expanded ed.</I> 
+Academic Press, New York. 230 p.
+
+
+<A NAME="ref32-118"></A>
+<P>Zimmerling, H. 1934. 
+Die Orientierung von M&#228;usen durch unselbt&#228;ndige transponierte Teilinhalte des optischen Wahrnehmungsfeldes. 
+Biol. Zentralbl. <B>54:</B> 226-250.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter31.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter33.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

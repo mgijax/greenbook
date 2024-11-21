@@ -1,0 +1,1347 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 20 - Endocrine Variations</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, endocrine variations, mutations, polygenes, genetic, pituitary, hormone, hybrids">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter19.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter21.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>20</H1>
+<H2><I>Endocrine Variations</I></H2>
+<H3>Chen K. Chai and Margaret M. Dickie</H3>
+
+<P>There is abundant evidence documenting genetic variation in the endocrine physiology of mammals. In this chapter we will not attempt to describe 
+the basic endocrinology of the mouse but will discuss some of the heritable differences of mice in hormone levels, responses to hormone treatment, 
+results of organ ablation and transplantation, and hormonal imbalance.
+
+<P>Some endocrine variations are the result of single-gene mutations but most are due to multiple factors or polygenes. Systematic genetic approaches 
+to the problem of endocrine variation are lacking but the many differences between genetically different groups of mice justify the statement that 
+endocrine variations are under genetic control. For descriptions of the anatomy and pathology of endocrine glands and their target organs, see Chapters 
+<A HREF="chapter13.shtml">13</A> and 
+<A HREF="chapter27.shtml">27</A>.
+
+<P><B>VARIATIONS IN STRAINS OR STOCKS</B>
+
+<P>In this section we discuss some of the variations of endocrine glands and target organs among different types of mice, including age groups, and we 
+describe the sexual dimorphism of some of the tissues that provide sensitive indices of sex steroidal activity. It should be noted that in comparing 
+the effects of experimental endocrine manipulations with the untreated condition, the untreated baseline must be ascertained for each strain or stock. 
+These differences are presumed to be polygenic in contrast to single-gene effects which are described in the next section.
+
+<P><B>Pituitary</B>
+
+<P>The hypophysis shows fewer aging changes either grossly or microscopically, but cysts, cholesterol clefts, and chromophobic or basophilic tumors 
+are found in some animals. The gland has a wet weight of about 1 to 2 mg and a dry weight of about 0.30 to 0.85 mg. The pituitary is consistently 
+heavier in the female than in the male and there are also strain differences in the gland weights (Dickie, unpublished data) (
+<a href="javascript:windowf2001 = window.open('../figures/figure20-1.shtml', 'windowf2001', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf2001.focus()">Figure 20-1</A>).
+
+<P>The hormone content of the pituitary gland has been estimated by using various pituitary-ovary-uterine relationships. Uterine weight shows 
+a correlation with gonadotropin content (
+<A HREF="#ref20-86">Runner, 1953</A>). The feeble ovulatory response in prepuberal animals shows the low gonadotropin content of obese female pituitaries (
+<A HREF="#ref20-85">Runner, 1952</A>). The effect of hormone administration on organ weights in intact and hypophysectomized mice of five strains led M&#252;hlbock <I>et al.</I> (
+<A HREF="#ref20-77">1952</A>) to conclude that strain DBA pituitaries have the highest gonadotropin content, C57BL and CBA an intermediate, and strains 020 and A the lowest content.
+
+<P><B>Thyroid</B>
+
+<P>Few aging changes are observed in the thyroid, but thyroid hormone activity is relatively reduced by 16 months of age (
+<A HREF="#ref20-19">Chai <I>et al.</I>, 1964</A>). Strains C57BL/6J and C57BR/cdJ and their hybrids (B6BRF<SUB>1</SUB>) have a significantly higher turnover 
+rate and lower I<SUP>131</SUP> uptake than strains BALB/cJ and A/J and their CAF<SUB>1</SUB> hybrids (
+<A HREF="#ref20-18">Chai <I>et al.</I>, 1957</A>). Thyroid activity as measured by secretion rates is different in females and males. The average thyroid secretion 
+rates, expressed as micrograms of L-thyroxine per 100 g of body weight per day indicate that strains BALB/cJ and A/J and the CAF<SUB>1</SUB> hybrid have 
+a significantly lower secretion rate than strains C57BL/6J and C57BR/cdJ and the B6BRF<SUB>1</SUB> hybrid. Strain C57BL/6J has the highest secretion rate, 
+and the B6BRF<SUB>1</SUB> hybrid has a rate intermediate between the parental strains. These results suggest that thyroid activity is under polygenic control 
+and that different genetic factors may control the discharge of thyrotropic hormone and thyroid hormone (
+<A HREF="#ref20-1">Amin <I>et al.</I>, 1957</A>). Thyroid-secretion rates can also be measured using thyroid weight and follicular cell height (
+<A HREF="#ref20-15">Chai, 1958</A>). Although values may be higher, perhaps because of the older ages of the animals, the order and magnitude of differences of secretion 
+rate using this latter method generally agree with the estimates using I<SUP>131</SUP> (
+<a href="javascript:windowt2001 = window.open('../tables/table20-1.shtml', 'windowt2001', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowt2001.focus()">Table 20-1</A>), 
+Chai (
+<A HREF="#ref20-16">1960<I>a</I></A>) estimated heritability for I<SUP>131</SUP> uptake to be about 10 per cent in a hybrid mouse population crossbred from six inbred strains.
+
+<P>Silverstein <I>et al.</I> (
+<A HREF="#ref20-92">1960<I>a</I></A>, 
+<A HREF="#ref20-93">1960<I>b</I></A>) studied the ratio of I<SUP>131</SUP> count in the thyroid to that in serum (T/S) and the amount of protein-bound iodine (PBI) as 
+indices of thyroid activity in several inbred strains of mice and their F<SUB>1</SUB> hybrids from 7 to 16 months of age. They found that there is an inverse 
+relationship between the T/S ratio and gland weight, that gland weight does not change significantly with a change in body weight, and that PBI is not associated with gland weight (
+<a href="javascript:windowt2002 = window.open('../tables/table20-2.shtml', 'windowt2002', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt2002.focus()">Table 20-2</A>).
+
+<P><B>Adrenal</B>
+
+<P>Aging changes in the adrenal cortex include an increase in the number of subcapsular cells, rearrangement of fasciculata cells, degeneration of the X-zone, 
+and appearance of foci of heterochromatic cells and brown fat or ceroid pigment in the juxtamedullary area (
+<A HREF="#ref20-108">Woolley <I>et al.</I>, 1953</A>). In strain A the adrenals of old animals have amyloid deposits in the cortex (
+<A HREF="#ref20-52">Heston <I>et al.</I>, 1945</A>). In strain NH the adrenals develop cortical hypertrophy as a result of early spontaneous gonadal atrophy (
+<A HREF="#ref20-64">Kirschbaum <I>et al.</I>, 1946</A>). In old BALB/cHuDi females and males there are severe cortical changes which include some "A" cell type carcinomas 
+(Dickie, unpublished data). Adrenals are always smaller and dark red in males in contrast to the light pinkish (more opaque) large adrenals of females, and there 
+are strain differences in average weights of the glands (Dickie, unpublished data) (
+<a href="javascript:windowf2002 = window.open('../figures/figure20-2.shtml', 'windowf2002', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf2002.focus()">Figure 20-2</A>).
+
+<P>There are few reports concerning the adrenal medulla in mice, but some tumors such as pheochromocytomas have been observed (
+<A HREF="#ref20-94">Smith <I>et al.</I>, 1949</A>; 
+<A HREF="#ref20-25">Dickie, 1954</A>). Microscopic medullary tumors have been found in the adrenals of old D2CEF<SUB>1</SUB> mice and in offspring of these F<SUB>1</SUB> 
+animals backcrossed to strain CE (
+<A HREF="#ref20-26">Dickie, 1958</A>).
+
+<P><B>Ovary</B>
+
+<P>Strain differences are apparent in the morphology and in the weight of ovaries ranging from 2 to 3 mg in strain NH to 25 to 65 mg in strain DBA/2WyDi (Dickie, 
+unpublished data). In strain C57BL/6J there is an increasing amount of ceroid pigment in the senile ovary but morphological changes follow an orderly pattern of development and aging (
+<A HREF="#ref20-34">Fekete, 1953</A>). In DBA, however, corpora lutea are retained and may persist over many estrous cycles. As aging advances the corpora lutea become hyalinized 
+and calcified and there are many atretic follicles and follicular cysts (
+<A HREF="#ref20-34">Fekete, 1953</A>). Strain C58/J ovaries are distinguishable by the presence of many polyovular follicles (
+<A HREF="#ref20-34">Fekete, 1953</A>). Strains A and RIII ovaries have highest number of oocytes (15,000) postpartum, and CBA ovaries the lowest (10,000) among strains examined.
+
+<P>There is a gradual decline in the number of oocytes as age advances, CBA ovaries losing 28 per cent of their remaining oocytes every 20 days while strains A and RIII 
+ovaries lose only 10 to 13 per cent in the same time. At 437 days of age there are few or no oocytes in the CBA ovaries, about 365 in A, and around 540 in RIII ovaries. 
+The decline in number of oocytes is not affected by bearing young. The decline in number of oocytes is not affected by bearing young. The decline in fertility of the 
+strains is probably due to defects in hormonal control of the ovary and uterine environment rather than in loss of oocytes (
+<A HREF="#ref20-60">Jones and Kroh, 1961</A>)> Other strains such as C3HeB/FeJ (Hummel, 1965, personal communication) and CE/J develop granulosa cell tumors. In crosses of DBA/2 
+with strain CE, ovarian weight in the F<SUB>1</SUB> hybrids (D2CEF<SUB>1</SUB> and CED2F<SUB>1</SUB>) is slightly more than that in the two parental strains, morphology 
+resembles that of the DBA/2 ovary, and tumor incidence parallels that of strain CE. In backcrosses of these F<SUB>1</SUB> animals to strain CE, the ovarian tumor incidence 
+is double that observed in strain CE. The morphology of the nontumorous ovaries is often similar to that of strain DBA/2 (
+<A HREF="#ref20-26">Dickie, 1958</A>).
+
+<P><B>Related target organs</B>
+
+<P>The uteri of virgin D2CEF<SUB>1</SUB> and CED2F<SUB>1</SUB> hybrids spontaneously develop a hyperestrogenic syndrome characterized by cystic glandular hyperplasia, 
+adenomyosis, and adenomatous hyperplasia of the endometrium. Neonatally gonadectomized hybrids develop the same syndrome (
+<A HREF="#ref20-21">Christy <I>et al.</I>, 1951</A>). Investigation with these animals reveal that the uteri are extremely sensitive to exogenous estrogen and that adrenalectomy 
+has no effect on the syndrome, but breeding or hypophysectomy prevents its development. After the syndrome is established at about 9 months of age, the animals remain in 
+constant estrus. Few senile changes occur, there is no decrease in weight, and no tumors develop. The syndrome does not interfere with pregnancy, since all virgin females 
+at 12, 15, and 18 months of age become pregnant when mated (
+<A HREF="#ref20-27">Dickie <I>et al.</I>, 1957</A>). Study of the ovaries of these animals, with a morphology like that of strain DBA and a tumor incidence like that of strain CE, 
+suggests that although the uterus appears to be under a hyperestrogenic influence the retention and maintenance of many generations of corpora lutea indicates a 
+hyperprogestational condition (
+<A HREF="#ref20-3">Atkinson <I>et al.</I>, 1954</A>).
+
+<P>The time of opening of the vagina and the initiation of estrous cycling vary among strains. Vaginal opening occurs at 28 days in BALB/cJ mice and at 37 days in C57BL/6J 
+and A/J mice and B6AF<SUB>1</SUB> hybrids. Cycling begins about 10 days after the vagina opens (
+<A HREF="#ref20-69">Liu and Chai, 1961</A>). Environmental factors such as diet and number of animals per pen may also affect the time of the vaginal opening and initiation of cycling.
+
+<P>The sexually dimorphic submandibular gland, dark in females and almost white in males, shows few changes with advancing age. The male glands are consistently heavier (
+<a href="javascript:windowf2003 = window.open('../figures/figure20-3.shtml', 'windowf2003', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf2003.focus()">Figure 20-3</A>). 
+Raynaud's (
+<A HREF="#ref20-81">1960</A>) studies indicate that, although hormones of the testis and thyroid govern the development of the tubules in males, those of the thyroid and adrenal 
+govern the development in females. The secretion of the tubules contains a ninhydrin-positive material suggesting the presence of amyloid, but does not contain glycogen, 
+cholesterol, lipids, mucopolysaccharides, or mucoproteins. There may be a hitherto unidentified component in the tubular portion of the gland promoting growth and 
+differentiation of the sympathetic ganglia. This factor is found in higher concentration in males and androgen injections increase the yield in females (
+<A HREF="#ref20-12">Caramia <I>et al.</I>, 1962</A>).
+
+<P>The dimorphic nature of Bowman's capsule of the kidney was described by Crabtree (
+<A HREF="#ref20-24">1940</A>). Since then either the structure of Bowman's capsule or kidney weight has been used as an index of androgenic activity. Analysis of variance of kidney 
+weights in backcrosses of D2CEF<SUB>1</SUB> and CED2F<SUB>1</SUB> hybrids to strain CE show that male kidneys are always heavier than those of females, and after 12 months 
+the weight decreases slightly in males and increases in females (
+<A HREF="#ref20-26">Dickie, 1958</A>). The rate of change in alkaline phosphatase activity in the proximal and distal segments of the convoluted tubule between birth and 36 days of age 
+varies among strains or stocks. C57 differentiates most rapidly, DBA is slowest, and C, NIH, C3H, and CFW are intermediate. The differentiation of these regions of intense 
+alkaline phosphatase activity can be accelerated by either estrogen or testosterone and is retarded in males following castration (
+<A HREF="#ref20-70">Longley and Fisher, 1956</A>). The weights of both the submandibular gland and the kidney are sensitive indices of androgenic activity. The prostates reflect 
+estrogenic as well as androgenic stimulation.
+
+<P>Female mice have five pairs of mammary glands and male mice have some gland rudiments with no nipples (
+<A HREF="chapter13.shtml">Chapter 13</A>). The presence of rudiments in males is a strain-controlled characteristic that responds to varying hormonal conditions (
+<A HREF="#ref20-84">Richardson and Cloudman, 1947</A>; Richardson, 
+<A HREF="#ref20-82">1951</A>, 
+<A HREF="#ref20-83">1953</A>). Extensive investigations of the mammae indicate that the genome, hormonal balance, and extrachromosomal agents all affect the etiology of mammary cancer in mice (
+<A HREF="#ref20-10">Bittner, 1945</A>; 
+<A HREF="#ref20-7">Bern, 1960</A>).
+
+<P><B>VARIATIONS DUE TO SINGLE GENES</B>
+
+<P>Many point mutations cause secondary endocrine changes, but few mutations appear to cause primary endocrine defects. Some examples of mutations with endocrine effects are given, 
+and where possible they are contrasted with endocrinopathies under polygenic control.
+
+<P><B>Snell's dwarf (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856024" target="_blank">dw</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856024" target="_blank">dw</A></I>)</B>
+
+<P>The classic case of primary endocrine defects caused by a single-gene mutation is Snell's dwarf, discovered in 1929. Dwarf mice have juvenile body proportions, myxedema, 
+some accumulation of fat, and attain a size only about one-fourth to one-third that of normal littermates (
+<a href="javascript:windowf2004 = window.open('../figures/figure20-4.shtml', 'windowf2004', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf2004.focus()">Figure 20-4</A>; 
+<A HREF="#ref20-44">Gr&#252;neberg, 1952</A>). Elftman and Wegelius (
+<A HREF="#ref20-33">1959</A>) confirmed previous findings and provided cytological evidence that there is also a deficiency of thyrotropic basophiles in the anterior lobe of the 
+pituitary of dwarf mice.
+
+<P>The concentration of protein-bound iodine in the serum of dwarf mice is about 1.3 g/100 ml compared to 7.3 g/100 ml in serum of normal siblings. The thyroid glands of 
+untreated dwarf mice do not accumulate radioactive iodine, but injection of thyrotropin significantly increases the iodine uptake in the glands (
+<A HREF="#ref20-104">Wegelius, 1959</A>). This confirms the idea that the defective thyroids and myxedema are secondary and suggests that the primary defect may be lack of thyrotropic 
+hormone in the pituitary.
+
+<P>A combination of thyroxine and growth hormone exerts a pronounced growth-promoting effect and causes an increase in body length and weight (
+<A HREF="#ref20-79">Nielsen, 1953</A>). Growth hormone alone gives a lesser effect, and thyroxine alone the least effect.
+
+<P>Secondary effects of the <I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856024" target="_blank">dw</A></I> gene have been observed in other organs including the thymus, 
+adrenal cortex, and gonads. Both sexes are sterile but some males become 
+fertile and increase in size when given daily injections of pituitary from a normal mouse the same age as the dwarf (
+<A HREF="#ref20-44">Gr&#252;neberg, 1952</A>).
+
+<P>Carbohydrate metabolism is atypical, resembling that of hypophysectomized normal mice. Dwarf mice have prolonged hypoglycemia after fasting and are extremely sensitive to 
+insulin, reacting to a dose only 3 per cent of that needed to cause shock in normally sensitive mice. When dwarfs are given growth hormone, adrenocorticotropic hormone, and 
+cortisone in combination, these compounds act as anti-insulin agents preventing convulsions and allowing the mice to withstand a dose four times greater than that causing 
+shock in untreated dwarf mice (
+<A HREF="#ref20-73">Mirand, 1953</A>).
+
+<P><B>Ames dwarf (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856842" target="_blank">df</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856842" target="_blank">df</A></I>)</B>
+
+<P>Another mutant, Ames dwarf, phenotypically similar to Snell's dwarf, has been discovered in an irradiated stock (
+<A HREF="#ref20-87">Schaible and Gowen, 1961</A>). The body weight of Ames dwarf mice averages 12 g at 2 months. Treatment with growth hormone increases weight in males to 22 to 24 g 
+and allows them to sire young, whereas females reach 18 to 21 g and remain infertile. Growth hormone alone appears to be more effective in Ames dwarf mice than in Snell's dwarf mice (
+<A HREF="#ref20-5">Bartke, 1963</A>).
+
+<P><B>Obese (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>)</B>
+
+<P>In this recessive mutant (
+<A HREF="#ref20-58">Ingalls <I>et al.</I>, 1950</A>), the islets of Langerhans are greatly enlarged, the &#946;-cells being hypertrophied and very active. Obese mice have attained a 
+maximum weight of 128 g but most weigh between 80 and 100 g and have lifespans of about 14 to 16 months. There is increased glucose 6-phosphatase activity in the &#946;-cells, 
+and studies of distribution of enzymes in islet tissue suggest the existence of an active hexose monophosphate shunt (
+<A HREF="#ref20-51">Hellman and Hellerstr&#246;m, 1962</A>). Obese mice have high blood sugar levels (150 to 400 mg/100 ml of blood) and are insulin resistant. Obese mice of both sexes 
+are infertile but under long-term diet restriction some males will mate (
+<A HREF="#ref20-66">Lane and Dickie, 1954</A>). They become insensitive to insulin, the islet cells become normal, 
+and lifespan is greatly increased (
+<A HREF="#ref20-67">Lane and Dickie, 1958</A>).
+
+<P>Parabiosis using intact or castrated obese and nonobese siblings in all possible combinations showed that the pituitaries of obese mice can produce more gonadotropin than 
+they normally do, but are less competent to do this than the nonobese pituitaries. Obese male pituitaries appeared to have a slightly higher gonadotropin content than obese 
+female pituitaries (
+<A HREF="#ref20-65">Lane, 1959</A>). Small does of estrogen produce constant estrus in obese females (
+<A HREF="#ref20-31">Drasher <I>et al.</I>, 1955</A>).
+
+<P>The frequency of silver-positive A<SUB>1</SUB> cells in obese (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>) mice is one-half that found in normal mice, but in normal heterozygous (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank">ob</A></I>/+) or 
+homozygous (+/+) littermates made obese with goldthioglucose no significant decrease in the frequency of the silver-positive (A<SUB>1</SUB>) cells is observed, although there 
+is a more than 100 per cent increase in islet volume (
+<A HREF="#ref20-50">Hellman, 1961</A>; 
+<A HREF="#ref20-80">Petersson and Hellman, 1962</A>). Alloxan treatment of obese mice lowers the blood glucose level and causes an increase in granulation of the &#946;-cells, but produces 
+a degranulation in normal siblings (
+<A HREF="#ref20-96">Solomon and Mayer, 1962</A>). Methods of isolating pure islet material, devised by Hellerstr&#246;m (
+<A HREF="#ref20-49">1964</A>), show that the mean weight of islets from normal mice is 1.2 &#956;g (range 0.2 to 3.7 &#956;g) and from obese mice is 11.3 &#956;g (range 2.8 to 79.7 &#956;g).
+
+<P>Endocrinopathies similar to that in the obese mice, not caused by mutations, are found in other types of mice. An obese strain has been developed by selection of obese animals 
+from a mixed colony (
+<A HREF="#ref20-9">Bielschowsky and Bielschowsky, 1956</A>). Although there were some obese animals in the first ten generations, they appeared regularly after the 12th. This syndrome 
+is not due to a single gene but appears to have a polygenic basis. NZO (obese strain) females and males are fertile, attain a weight of 50 to 60 g, and have a blood glucose level 
+over 200 mg/100 ml after 12 months. They have a greater oxygen consumption and carbon dioxide output per gram of body weight than normal (NZC strain), are resistant to insulin, 
+and have hypertrophied islets of Langerhans comprised of enlarged &#946;-cells and few &#945;-cells. Adrenals of NZO mice are larger than those of NZC and have less lipid. NZO 
+and NZC animals oxidize acetate-1-C<SUP>14</SUP> and acetate-2-C<SUP>14</SUP> at the same rate but the oxidation of both glucose-6-C<SUP>14</SUP> and glucose-1-C<SUP>14</SUP> 
+is about 12 per cent lower in NZO (
+<A HREF="#ref20-99">Subrahmanyam, 1960</A>).
+
+<P>Similar islet hypertrophy and concomitant obesity are also observed in the following types of mice: those treated with corticosteroids; those bearing ACTH-secreting pituitary 
+tumors; genetically yellow mice (carrying <I>A<SUP>y</SUP></I>); strain NH with early gonadal atrophy and cortical hypertrophy; and LAF<SUB>1</SUB> mice after castration. 
+Adrenalectomy prevents such changes in these animals but it is not effective in animals made obese with hypothalamic lesions or in the genetically obese (
+<A HREF="#ref20-48">Hausberger and Ramsey, 1959</A>; 
+<A HREF="#ref20-46">Hausberger, 1960</A>). If total food intake is restricted in LAF<SUB>1</SUB> mice bearing ACTH-secreting tumors and in CBA mice made obese with goldthioglucose, there 
+is no fat deposition or islet hypertrophy (
+<A HREF="#ref20-47">Hausberger, 1961</A>).
+
+<P><B>Grey-lethal (<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856885" target="_blank">gl</A></I>/<I>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856885" target="_blank">gl</A></I>)</B>
+
+<P>A major defect in grey-lethal mice appears to be lack of secondary bone absorption but it is suggested that the primary defect involves the parathyroid gland. When parathyroids 
+from grey-lethal mice are grown in tissue culture or in intracerebral grafts, they can initiate osteoclastic resorption of normal bone as well as grey-lethal bone (
+<A HREF="#ref20-53">Hirsch, 1962</A>). Gr&#252;neberg (
+<A HREF="#ref20-45">1963</A>) concluded that parathormone is inactivated or destroyed too rapidly in grey-lethal mice.
+
+<P><B>Polydypsic mutation</B>
+
+<P>The adrenals of mice of strain DE/J become enlarged and opalescent after 12 to 14 months of age. Their wet weight increases from 6 mg in females and 3 mg in males up to 25 mg. 
+Large areas of the cortex are replaced by a cellular homogeneous material. Coincident with these adrenal changes, water intake is increased from an average of 4 to 8 ml/day to 30 
+to 70 ml/day and excretion of urine is increased from 2 to 5 ml/day to 25 to 65 ml/day. Tolerance to water deprivation is greatly impaired in these animals. Specific gravity of 
+the urine measures 1.055 (normal mice, 1.36 to 1.78) and total solids 1.6 per cent (normal mice, 18 to 20 per cent); tests of the urine for sugar, acetone, albumin, and heme were 
+negative. The adrenals, liver, and testes have heavy deposits of an acellular material. Some kidney changes are found in older animals.
+
+<P>Measurement of water intake in (DE x DBA/2WyDi)F<SUB>1</SUB> and F<SUB>2</SUB> hybrids and in backcrosses of the F<SUB>1</SUB> hybrids to DE indicate that the polydypsia of DE 
+mice is due to a recessive gene (Dickie, unpublished data).
+
+<P><B>VARIATIONS IN RESPONSE TO HORMONE ADMINISTRATION</B>
+
+<P>Different organs of an individual, as well as individuals of different strains of mice, vary in their sensitivities to exogenous hormones. This sensitivity is an 
+important factor in tumorigenesis.
+
+<P>Many hormones emanating from the pituitary gland were used to test the sensitivity and competence of tissues. These include growth hormone or somatotropin (GH or STH), 
+adrenocorticotropic hormone (ACTH), thyrotropic or thyroid stimulating hormone (TSH), the gonadotropins (follicle stimulating hormone, FSH, and luteinizing or interstitial cell 
+stimulating hormone, LH or ICSH), and lactogenic or mammotropic hormone (LTH or MH). Other compounds such as pregnant mare serum gonadotropin (PMS or PMSG) containing both FSH 
+and LH and human chorionic gonadotropin (HCG) containing primarily LH, are also used.
+
+<P>Steinetz and Beach (
+<A HREF="#ref20-98">1963</A>) observed that, although injection of estradiol cyclopentylpropionate (ECP) and relaxin promote interpubic ligament formation in intact female mice, the 
+hormones are less effective in hypophysectomized animals. Addition of powdered thyroid to the diet increased the response in the hypophysectomized animals, but only by addition 
+of STH was a response obtained indistinguishable from ECP action in intact mice.
+
+<P>Response to growth hormones, as measured by body length and weight increment, is greater in C3H than in A and C57BL mice, and females of all three strains are more sensitive 
+than males, but all responses are slight. Growth hormone produced no increase in tumor incidence in these strains (
+<A HREF="#ref20-74">Moon <I>et al.</I>, 1952</A>).
+
+<P>Human chorionic gonadotropin (HCG) causes hemorrhagic follicular development in the ovaries of prepuberal mice. The ovaries of strain A mice are unresponsive to HCG, but other 
+strains are sensitive to this hormone (
+<A HREF="#ref20-54">Hummel, 1942</A>). Carr (
+<A HREF="#ref20-13">1949</A>) confirmed this finding, noting that strain A mice are unresponsive and other strains, such as C57, are responsive. He suggested that this response is inherited 
+as a single dominant gene with incomplete penetrance. Genetic studies of this response using strains BALB/cJ, A/J, and the hybrid CAF<SUB>1</SUB>, indicate that BALB/c ovaries are 
+sensitive, A/J ovaries are not, and the F<SUB>1</SUB> hybrid response falls between the parental responses but is closer to that of strain A/J (
+<A HREF="#ref20-17">Chai, 1960<I>b</I></A>). There are slight differences in the ovarian responses of DBA/1J and DBA/2J, and both are sensitive.
+
+<P>PMS has been used to study the competence of the C57BL/6J ovary at various ages. Prior to 14 months of age the ovary as a fairly uniform weight increase during PMS treatment; 
+after 14 months the response gradually decreases. After 17 months the ovary does not become heavier following PMS injections, suggesting that the ovary is not then competent to 
+respond to exogenous gonadotropin (
+<A HREF="#ref20-43">Green, 1957</A>).
+
+<P>Lactogenesis occurs only when somatotropin and mammotropin are used in combination with cortisol or cortisone in strain BALB/c (
+<A HREF="#ref20-78">Nandi and Bern, 1961</A>). Rivera (1964, personal communication) indicated that many times more somatotropin is required to induce lactogenesis 
+in strain A than in strain C3H mice.
+
+<P>Inbred strains vary in response to insulin injection. Zr stock mice can tolerate only minute doses of insulin, C57BL mice tolerate about four times as much insulin, and 
+strain KL mice survive insulin dosages 310 times greater than that which kills Zr, or 91 times that which kills C57BL (
+<A HREF="#ref20-20">Chase <I>et al.</I>, 1948</A>). Adrenalectomy increases sensitivity to insulin; all dosages are fatal to C57BL and strain KL mice convulse when given more than 8 units (
+<A HREF="#ref20-61">Katsh, 1953</A>). Beyer (
+<A HREF="#ref20-8">1955</A>) demonstrated and insulinase in the liver of KL mice that degrades insulin very rapidly. Using strains A2G, C57BR/cd, CBA, and DBA/1, five hybrids, and a 
+randombred stock, Brown (
+<A HREF="#ref20-11">1961</A>) found that the strains with the smaller body weight have greater sensitivity to insulin than strains with greater body weight.
+
+<P>More than 40 hormonal compounds have been isolated from adrenal glands. These include corticoids, aldosterone, and sex steroids (
+<A HREF="#ref20-42">Grant, 1960</A>; 
+<A HREF="#ref20-90">Short, 1960</A>). Most of these compounds have been used in species other than the mouse, but a few examples are given of cortical hormone activity in the mouse.
+
+<P>One response of an animal to stress is a rapid decrease in the eosinophiles in the blood. Strain differences in response to cortical hormones 
+can be shown using the eosinopenic response (
+<A HREF="#ref20-111">Wragg and Speirs, 1952</A>). C57BL/6J, C57BR/cdJ, B6BRF<SUB>1</SUB> and 129 BRF<SUB>1</SUB> have a maximum eosinopenic response after injection of 6 &#956;g of 
+cortisone but 96 &#956;g of cortisone are needed to produce a maximum eosinopenic response in strains 129/Rr, DBA/1J, and BALB/cJ. The response in males is 
+more reliable than that in females.
+
+<P>Cortical hormones may potentiate leukemogenesis in some inbred strains, or suppress or delay development of spontaneous or carcinogen-induced leukemia, depending upon 
+age and experimental conditions (
+<A HREF="#ref20-63">Kirschbaum, 1957</A>). Adrenal androgens injected into immature NMRI females resulted in absence of preovulatory follicles 
+and corpora lutea, in follicular atresia, and in involution of the adrenal X-zone and made the mice less sensitive to superovulatory doses of PMS and HCG (
+<A HREF="#ref20-103">Varon and Christian, 1963</A>).
+
+<P>Prolonged estrogen treatment produces pituitary tumors in strain C57BL (
+<A HREF="#ref20-41">Gardner and Strong, 1940</A>). In neonatally castrated CE mice this treatment not only produces pituitary tumors but prevents postcastrational adrenal changes (
+<A HREF="#ref20-110">Woolley and Little, 1946</A>). Interstitial cell tumors of the testes are produced following estrogen treatment in strains A, BALB, and CE, but not in C3H, I, or C57BL (
+<A HREF="#ref20-88">Shimkin and Grady, 1942</A>). Balb/c males develop interstitial cell testicular tumors after 180 days of estrogen treatment, but in similarly treated C3H 
+males the testes atrophy and no other changes are found (
+<A HREF="#ref20-89">Shimkin <I>et al.</I>, 1963</A>). Implantation of estrogen pellets causes urinary bladder dilatation 
+and increased water intake in C57BL, A, and CE, but not in C3H males. Regulation of water intake in the three sensitive strains reduces the severity of the dilatation and 
+increases the survival rate (
+<A HREF="#ref20-101">Thompson, 1955</A>).
+
+<P>Leukemia can be induced in certain strains by treatment with estrogens, carcinogens, radiation, or combinations of these (Kirschbaum, 
+<A HREF="#ref20-62">1956</A>, 
+<A HREF="#ref20-63">1957</A>). In strains A, C3H, CBA, C12I, JK, C57, and PM, leukemia is induced as a result of estrogenic treatment. The amount of hormone injected and the length of 
+treatment influence the incidence of the disease. Addition of testosterone reduces the incidence to control levels. Intact mice of strain DBA/2 are resistant to induction of 
+leukemia by methylcholanthrene but are susceptible to the action of the carcinogen when castrated. Castrated animals become resistant when given testosterone. In C57BL mice, 
+castration does not alter susceptibility to leukemogenesis unless the animals are X-irradiated. If the thymus is shielded during irradiation, estrogen will not produce leukemia.
+
+<P>In high mammary cancer lines estrogen treatment of males causes mammary tumor development, but large does of estradiol benzoate (EB) may inhibit mammary gland growth. 
+Smaller doses of EB and addition of corticoids give responses like a large dose of EB (
+<A HREF="#ref20-29">Dierwichter, 1962</A>). Female mice of the Riet strain need 10 times more estrogen than C57BL or DBA to stimulate lobule alveolar mammary development (
+<A HREF="#ref20-76">M&#252;hlbock, 1948</A>).
+
+<P>The relative response of the uterus in females of various strains to short-term estrogen administration as measured by wet weights, DNA, RNA, and protein nitrogen content is: 
+129 &#062; DBA/1J &#062; C3HeB/FeJ &#062; C57BL/6J &#062; C3H/HeJ (
+<A HREF="#ref20-30">Drasher, 1955</A>). Uteri of females of strains C3H/HeJ, C3HeB/FeJ, and DBA/1J show a rapid regression rate, but those of strains 129 and C57BL/6J regress slowly. 
+These results indicate that the intact animals of C3HeB/FeJ, C3H/HeJ, and DBA/1J either have a higher level of ovarian hormone secretion than 129 or C57BL/6J, or the uterine 
+tissue is more sensitive to hormone withdrawal. Direct application of estrogen to the vaginal epithelium elicits a greater response than subcutaneous injection of the hormone (
+<A HREF="#ref20-75">M&#252;hlbock, 1947</A>). The amount of estrogen required to produce vaginal cornification in 50 per cent of injected subjects varies approximately fivefold among the 
+strains tested by Trentin (
+<A HREF="#ref20-102">1950</A>; 
+<a href="javascript:windowt2003 = window.open('../tables/table20-3.shtml', 'windowt2003', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt2003.focus()">Table 20-3</A>). 
+Here is no increase in vaginal sensitivity to estrogen at puberty, contrary to findings in rats (
+<A HREF="#ref20-69">Liu and Chai, 1961</A>).
+
+<P>In intravaginal tests (<I>i.e.</I>, direct application of hormone to the vagina) the median effective dose of estrogen is the same in strains C57 and CBA but is less for the 
+F<SUB>1</SUB> hybrid. However, when estrogen is given subcutaneously the median effective dose is less in C57 than in CBA and is lower in the F<SUB>1</SUB> hybrid than in either 
+parental strain (
+<A HREF="#ref20-22">Claringbold and Biggers, 1955</A>). The vagina and endometrium of C57BL mice appear to be most sensitive to doses of &#945;-estradiol, DBA less sensitive (
+<A HREF="#ref20-76">M&#252;hlbock, 1948</A>) and A least sensitive, whereas the reverse is true for sensitivity of the mammary glands of these strains to estrogen (
+<A HREF="#ref20-91">Silberberg and Silberberg, 1951</A>). The results suggest that there are differences in sensitivity of the target organs of inbred strains to a given dose of hormone.
+
+<P>Testosterone injections in females cause an increase in submandibular gland weight and change the structure from female to male type (
+<A HREF="chapter13.shtml">Chapter 13</A>). Swigart <I>et al.</I> (
+<A HREF="#ref20-100">1963</A>) used the presence of amyloid in the tubules of the submandibular gland to measure the response of strain C57BL/6J mice to varying doses of estrogens and 
+androgens and found that the gland is extremely sensitive to minute doses of androgens and to some doses of estrogens. Androgen administration causes a gain in both water 
+content and dry tissue residue in both sexes (
+<A HREF="#ref20-4">Atkinson <I>et al.</I>, 1959</A>).
+
+<P>Testosterone propionate injections cause a four- to fivefold increase in kidney &#946;-glucuronidase concentration in strains 129 and DBA and a 95- to 125-fold increase 
+in C3H, AKR, CAF<SUB>1</SUB>, and B6AF<SUB>1</SUB> (
+<A HREF="chapter19.shtml">Chapter 19</A>; 
+<A HREF="#ref20-35">Fishman and Farmelant, 1953</A>).
+
+<P>Increase in seminal vesicle weight was used as the index of response to testosterone propionate in two inbred strains of mice, BALB/cJ and A/J, and their hybrid CAF<SUB>1</SUB> (
+<A HREF="#ref20-14">Chai, 1956</A>). The mean responses of BALB/c are greater than the mean responses of A and the mean response of the hybrids falls between those of the parental strains. 
+Typical sigmoid dose-response curves for the three kinds of mice are plotted in 
+<a href="javascript:windowf2005 = window.open('../figures/figure20-5.shtml', 'windowf2005', 'width=700,height=800,resizable=yes,scrollbars=yes'); windowf2005.focus()">Figure 20-5</A>. 
+On the basis of the dose-response relationship and the seminal vesicle weights of the controls, A/J mice appear to secrete about one-third more testicular androgen than BALB/c. 
+The F<SUB>1</SUB> hybrids secrete more than BALB/c but less than A. These estimates are approximations since they are estimated graphically, but the consistency of the dose-response 
+in the various groups is noticeable.
+
+<P><B>OTHER TYPES OF ENDOCRINE IMBALANCE</B>
+
+<P>Another method of studying the physiology of the endocrine system and its target organs is to create artificial imbalances by ablation or addition of an endocrine gland or by 
+its transplantation to another site. This section provides examples of some of the strain differences in response to various kinds of imbalance.
+
+<P>Hypophysectomy has been used to create an assay animal that can provide answers to many questions. The mortality rate for the operation in mice is high and depends upon the age, 
+strain, and skeletal and vascular variations. A mouse that is completely hypophysectomized does not gain any weight in the postoperative months. When pituitary remnants remian, 
+the body and organ weights become normal for the age of the mouse (Dickie, unpublished data; 
+<a href="javascript:windowt2004 = window.open('../tables/table20-4.shtml', 'windowt2004', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowt2004.focus()">Table 20-4</A>).
+
+<P>Thyroidectomy, by radiation, by surgical procedures, or by treatment with goitrogens, produces thyrotropic pituitary tumors in most strains investigated (
+<A HREF="#ref20-36">Furth, 1955</A>; 
+<A HREF="#ref20-23">Clifton, 1959</A>), but in C57BL males such tumors develop only when the mice are castrated as well as X-irradiated (
+<A HREF="#ref20-32">Edelman and Gorbman, 1955</A>). When thyrotropic pituitary tumors are transplanted into C57BL mice, the hosts have a blood serum concentration of thyroid stimulating 
+hormone (TSH) of about 1 unit per ml, or about 2,000 times normal. The concentration decreases slightly in each transplant generation. There is a concomitant increase in ovarian 
+weight suggesting that some gonadotropins may also be present, but there is no evidence of any adrenocorticotropic hormone (ACTH) secretion (
+<A HREF="#ref20-6"">Bates <I>et al.</I>, 1957</A>). Adrenocorticotropic pituitary tumors (basophilic) arise as a result of ionizing radiation, and their growth is 
+enhanced in adrenalectomized animals. Animals bearing these tumors are obese and have elevated liver glycogen and mared lymphocytopenia. Mammotropic pituitary tumors 
+(eosinophilic), also produced after whole-body ionizing radiation, are similar to tumors found in C57BL after prolonged estrogen treatment (
+<A HREF="#ref20-38">Furth and Clifton, 1957</A>). Pituitary tumors, probably gonadotropic (
+<A HREF="#ref20-37">Furth, 1957</A>), arise inneonatally gonadectomized hybrids between DE and DBA/2 
+subsequent to the development of adrenal cortical carcinomas (
+<A HREF="#ref20-28">Dickie and Lane, 1956</A>).
+
+<P>The endocrine alteration used in many experiments is gonadectomy. We have learned that the response to this operation is strain-controlled. Strain DBA responds to neonatal 
+gonadectomy by development of adrenal cortical hyperplasia with comcomitant feminizing stimulation of the accesory reproductive organs of both sexes. Strain CE develops adrenal 
+cortical carcinoma and there is evidence of both androgenic and estrogenic stimulation of the accessory reproductive organs of both sexes (
+<A HREF="#ref20-109">Woolley and Little, 1945</A>). Certain strains such as C57BR (
+<A HREF="#ref20-109">Woolley and Dickie, 1947</A>), A/WyDi, LP/J, C57BL/10, and DE/J have no major postcastrational 
+adrenal changes (Dickie, unpublished). Strain NH undergoes early spontaneous goandal atrophy and develops cortical hypertrophy (
+<A HREF="#ref20-64">Kirschbaum <I>et al.</I>, 1946</A>). The response of the adrenal must depend upon the genic complement of the adrenal glands themselves, because the response is not 
+altered by transplantation to a host with a different adrenal postcastrational response (
+<A HREF="#ref20-57">Huseby and Bittner, 1951</A>).
+
+<P>The postcastrational response in F<SUB>1</SUB> reciprocal hybrid mice studied by Woolley <I>et al.</I> (
+<A HREF="#ref20-107">1952</A>, 
+<A HREF="#ref20-108">1953</A>) and by Dickie and Lane (
+<A HREF="#ref20-28">1956</A>) is always formation of adrenal cortical carcinoma rather than the nodular hyperplasia response or absence of response. The incidence of the changes in the 
+F<SUB>1</SUB> generation and in the backcrosses to the parental strains provides additional evidence that postcastrational adrenal changes are under genetic control (
+<A HREF="#ref20-26">Dickie, 1958</A>).
+
+<P>The postcastrational response has been used to study endocrine tumors, effects of hormones on the adrenals, hormonal effects on other systems, and effects of gene substitutions 
+in various stocks of mice. Thirty days after castration adrenals of female BALB/c mice decrease in size, those of strains C3H, A, and C57BL, and of AC3F<SUB>1</SUB> hybrids do 
+not change, and strain CE adrenals increase in size. Administration of estradiol benzoate to castrated mice for 30 days causes an increase in adrenal size in strains BALB/c, C3H, 
+and Ac3F<SUB>1</SUB> hybrids, no change in C57BL and A, and a decrease in CE adrenal size (
+<A HREF="#ref20-72">Martinez and Smith, 1958</A>).
+
+<P>Implantation of biologically potent sex-steroid pellets into gonadectomized CE mice prevents postcastrational development of adrenal cortical carcinoma (
+<A HREF="#ref20-105">Woolley, 1950</A>). When neonatally gonadectomized D2CEF<SUB>1</SUB> and CED2F<SUB>1</SUB> hybrid mice are hypophysectomized and observed up to 10 months of age, 
+long after adrenal cortical carcinomas appear in nonhypophysectomized castrated mice, no postcastrational changes are evident (
+<A HREF="#ref20-2">Atkinson and Dickie, 1958</A>). C3H mice unilaterally adrenalectomized at the time of castration have some hyperplastic changes in the remaining adrenal, but 
+there is little evidence of hormonal stimulation of the accessory reproductive organs (
+<A HREF="#ref20-71">Martinez and Bittner, 1955</A>).
+
+<P>The lipid content of the adrenals of intact D2CEF<SUB>1</SUB> and CED2F<SUB>1</SUB> hybrid mice is about 50 per cent in females and about 20 per cent in males throughout life. 
+The lipid content of the adrenals of gonadectomized hybrids decreases to about 25 to 30 per cent in females and increases to 35 to 40 per cent in males even though cortical 
+carcinomas are present. When other strains and hybrids are castrated and the lipid content of the adrenals is measured 35 days later, the response observed in the D2CEF<SUB>1</SUB> 
+and CED2F<SUB>1</SUB> hybrids, <I>i.e.</I>, the decrease in adrenal lipid in females and an increase in males, occurs in all the other strains tested with the exception of AKR/J and 
+C57BL/6J males and LP/J, D2DEF<SUB>1</SUB>, and DED2F<SUB>1</SUB> females (
+<a href="javascript:windowf2006 = window.open('../figures/figure20-6.shtml', 'windowf2006', 'width=900,height=650,resizable=yes,scrollbars=yes'); windowf2006.focus()">Figure 20-6</A>). 
+These observations suggest that the lipid concentration is not a factor of tumorigenesis but a response to castration itself (Swigart and Hilton, 1963, 1964, personal communication).
+
+<P>Histological changes in the terminal tubules of the submandibular gland due to androgenic secretion appear before any changes are evident in the adrenals of these 
+castrated strains and hybrids (Swigert and Hilton, 1964, personal communication).
+
+<P>Although abnormalities arising in the adrenal cortex as a result of castration appear to secrete sex hormones, these changes found in intact animals in old age result in no 
+unusual stimulation of the target organs. In aged animals the capability to produce hormones has diminished and the accessory reproductive organs are probably no longer capable of 
+response to hormonal stimulation.
+
+<P>Ovaries transplanted into the spleens of gonadectomized animals, removed before 2 months residence in the spleen and reimplanted into an ovarian capsule, will release 
+fertilizable ova that produce live young. After 2 months of residence in the spleen the ovary is incapable of producing ova when reimplanted in an ovarian capsule. Tumorigenesis 
+of intrasplenic ovarian grafts occurs at 3 months in strain A, 5 months in strains C57BL and BALB/c, and at 7 months in DBA (
+<A HREF="#ref20-56">Hummel <I>et al.</I>, 1953</A>; 
+<A HREF="#ref20-55">Hummel, 1954</A>). The rapid destruction by hepatic tissue of the gonadal hormones from these ovarian grafts entering into the portal circulation and the concomitant 
+increase in gonadotropin level is believed to be the cause of tumorigenesis of these grafts (
+<A HREF="#ref20-39">Gardner, 1953</A>). However, transplantation per se is also an important factor in tumorigenesis of the grafts, because ovaries transplanted directly from one ovarian 
+capsule to another ovarian capsule become tumorous 12 to 21 months after transplantation. Invariably the hosts develop adrenal tumors as well as the ovarian tumors, presumably 
+because of the imbalance created by the presence of an abnormal ovary (
+<A HREF="#ref20-56">Hummel <I>et al.</I>, 1953</A>; 
+<A HREF="#ref20-55">Hummel, 1954</A>).
+
+<P>A comparison of intersplenic grafts with subcutaneous and intratesticular grafts of ovarian tissue showed that only the intrasplenic grafts were tumorous in the strains used (
+<A HREF="#ref20-40">Gardner, 1955</A>). Similarly, a comparison of intrasplenic grafts with intrarenal and intrahepatic grafts of ovarian tissue showed that only the intrasplenic grafts became 
+tumorous, but when grafts at other sites were made simulataneously with intrasplenic grafts, microscopic tumors were found in the ovarian tissue at both sites (
+<A HREF="#ref20-68">Lipschutz and Cerisola, 1962</A>). Jett <I>et al.</I> (
+<A HREF="#ref20-59">1961</A>) found that only 19 per cent of intrasplenic ovarian grafts in CnHF<SUB>1</SUB> weanling mice become tumorous, but 97 per cent become tumorous when placed in 
+castrated weanling mice, and 74 per cent become tumorous in adults which had adrenal adenomas. Therefore, the site of transplantation, age, hormonal status, and the genetic 
+constitution of the hosts are also important in the devlopment of these tumors.
+
+<P>We think that reproductive performance, normal and pathological aging changes in the endocrine system and its related target organs, and responses to hormonal manipulation, <I>i.e.</I>, 
+the total life history, all contribute to a characterization of the capabilities or potentials of the endocrine system of an inbred strain. It is not possible here to develop a 
+detailed analysis of any inbred strain, but we have seen that some strains have many tissues which are sensitive to hormonal changes and other strains have few such tissues which 
+are sensitive to hormonal manipulation. The extremes of response to hormonal imbalance also contribute to the characterization of the strain. It appears that inbred strains vary 
+not only in the sensitivity of the tissues within the strain, but the strains vary in their over-all capability to compensate for hormonal imbalance.
+
+<P><B>SUMMARY</B>
+
+<P>In this chapter we have described the effects of five single-gene mutations on the endocrine system, Snell's dwarf, Ames dwarf, obese, grey-lethal, and a 
+polydypsic mutation; the dwarfs have defects in the pituitary, the obese in the islets of Langerhans, grey-lethal probably in the parathyroid, and the 
+polydypsic mutant probably in the adrenal. We have cited some of the characteristic hormone levels and aging phenomena in many inbred strains and hybrids, 
+the responses of tissues of such animals to exogenous hromones, and to other hormonal manipulation such as ablation and transplantation. There are great 
+variations in responses to endocrine alterations among genetically different groups of mice. It is evident that the differences between inbred strains indicate 
+that the responses to hormones, rate of secretion, and tissue sensitivity, <I>i.e.</I>, endocrine variations, are quantitative genetic characters affected by multiple factors or polygenes.
+
+<P>Inbred strains of mice, with genetically fixed characteristics, are perhaps the best research animals available for study of the genetics of endocrine variation 
+and endocrine relationships.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Grant CA 03108 from the National Cancer Institute 
+and by Contract AT(30-1)-3249 with the U.S. Atomic Energy Commission.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+
+<A NAME="ref20-1"></A>
+<P>Amin, A., C.K. Chai, and E.P. Reineke. 1957. 
+Differences in thyroid activity of several strains of mice and F<SUB>1</SUB> hybrids. 
+Amer. J. Physiol. <B>191:</B> 34-36.
+<!-- 13478679 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13478679" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-2"></A>
+<P>Atkinson, W.B., and M.M. Dickie. 1958. 
+Essential role of the hypophysis in hypercorticism and hyperovarianism in DBA x CE and reciprocal mice. 
+Proc. Soc. Exp. Biol. Med. <B>99:</B> 267-269.
+<!-- 13601838 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13601838" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-3"></A>
+<P>Atkinson, W.B., M.M. Dickie, and E. Fekete. 1954. 
+Effects of breeding on the development of ovarian, adrenal and uterine lesions in DBA x CE and reciprocal hybrid mice. 
+Endocrinology <B>55:</B> 316-325.
+<!-- MGI:75347 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75347" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-4"></A>
+<P>Atkinson, W.B., F. Wilson, and S. Coates. 1959. 
+The nature of the sexual dimorphism of the submandibular gland of the mouse. 
+Endocrinology <B>65:</B> 114-117.
+<!-- 13663856 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13663856" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-5"></A>
+<P>Bartke, A. 1963. 
+The response of two genetically different types of dwarf mice to growth hormone. 
+Genetics <B>48:</B> 882. (Abstr.)
+
+<A NAME="ref20-6"></A>
+<P>Bates, R.W., E. Anderson, and J. Furth. 1957. 
+Thyrotrophin potency of transplantable pituitary tumors of mice through four transfers. 
+Endocrinology <B>61:</B> 549-554.
+<!-- 13480265 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13480265" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-7"></A>
+<P>Bern, H.A. 1960. 
+Nature of the hormonal influence in mouse mammary cancer. 
+Science <B>131:</B> 1039-1040.
+<!-- 13799605 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13799605" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-8"></A>
+<P>Beyer, R.E. 1955. 
+A study of insulin metabolism in an insulin tolerant strain of mice. 
+Acta Endocrinol. <B>19:</B> 309-332.
+<!-- 13258119 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13258119" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-9"></A>
+<P>Bielschowsky, M., and F. Bielschowsky. 1956. 
+The New Zealand strain of obese mice; their response to stilbesterol and insulin. 
+Austral. J. Exp. Biol. Med. Sci. <B>34:</B> 181-198.
+<!-- MGI:75319 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75319" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-10"></A>
+<P>Bittner, J.J. 1945. 
+Inciting influences in the etiology of mammary cancer in mice, p. 63-98. <I>In</I> F.R. Moulton [ed.] <I>A.A.A.S. Research Conference on Cancer</I>. 
+American Association for the Advancement of Science, Washington, D.C.
+
+<A NAME="ref20-11"></A>
+<P>Brown, A.M. 1961. 
+The pattern, sensitivity and precision of the response to insulin in random bred, inbred and hybrid strains of mice. 
+J. Pharm. Pharmacol. <B>13:</B> 670-678.
+<!-- 13873580 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13873580" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-12"></A>
+<P>Caramia, F., P.U. Angeletti, and R. Levi-Montalcini. 1962. 
+Experimental analysis of the mouse submaxillary salivary gland in relationship to its nerve-growth facto content. 
+Endocrinology <B>70:</B> 915-922.
+<!-- 13876428 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13876428" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-13"></A>
+<P>Carr, J.G. 1949. 
+Inheritance of a differential response to gonadotrophic hormone in mice. 
+Heredity <B>3:</B> 262.
+
+<A NAME="ref20-14"></A>
+<P>Chai, C.K. 1956. 
+Comparison of two inbred strains of mice and their F<SUB>1</SUB> hybrids in response to androgen. 
+Anat. Rec. <B>126:</B> 269-282.
+<!-- 13394941 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13394941" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-15"></A>
+<P>Chai, C.K. 1958. 
+Endocrine variation. 
+J. Hered. <B>49:</B> 143-148.
+
+<A NAME="ref20-16"></A>
+<P>Chai, C.K. 1960<I>a</I>. 
+Endocrine variation: heritability of iodine metabolism in the thyroids of mice, p. 215-224. 
+<I>In</I> O. Kempthorne [ed.] <I>Biometrical Genetics</I>. Pergamon Press, New York and London.
+
+<A NAME="ref20-17"></A>
+<P>Chai, C.K. 1960<I>b</I>. 
+Response of inbred and F<SUB>1</SUB> hybrid mice to hormones. 
+Nature <B>185:</B> 514-518.
+
+<A NAME="ref20-18"></A>
+<P>Chai, C.K., A. Amin, and E.P. Reineke. 1957. 
+Thyroidal iodine metabolism in inbred and F<SUB>1</SUB> hybrid mice. 
+Amer. J. Physiol. <B>188:</B> 499-502.
+<!-- MGI:72319 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72319" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-19"></A>
+<P>Chai, C.K., J.L. Morrison, and J.L. Lenz. 1964. 
+Changes in thyroid gland during lifespan of mice. Thyroid I<SUP>131</SUP> retention and tunrover rate. 
+J. Hered. <B>55:</B> 270-275.
+<!-- MGI:83109 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83109" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-20"></A>
+<P>Chase, H.B., M.S. Gunther, J. Miller, and D. Wolffson. 1948. 
+High insulin tolerance in an inbred strain of mice. 
+Science <B>107:</B> 297-299.
+
+<A NAME="ref20-21"></A>
+<P>Christy, N.P., M.M. Dickie, W.B. Atkinson, and G.W. Woolley. 1951. 
+The pathogenesis of uterine lesions in virgin mice and in gonadectomized mice bearing adrenal cortical and pituitary tumors. 
+Cancer Res. <B>6:</B> 413-422.
+<!-- 14839632 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14839632" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-22"></A>
+<P>Claringbold, P.J., and J.D. Biggers. 1955. 
+The response of inbred mice to oestrogens. 
+J. Endocrinol. <B>12:</B> 9-14.
+<!-- 14354099 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14354099" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-23"></A>
+<P>Clifton, K.H. 1959. 
+Problems in experimental tumorigenesis of the pituitary gland, gonads, adrenal cortices, and mammary glands: a review. 
+Cancer Res. <B>19:</B> 2-22.
+<!-- 13618878 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13618878" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-24"></A>
+<P>Crabtree, C. 1940. 
+Sex difference in the structure of Bowman's capsule in the mouse. 
+Science <B>91:</B> 299.
+
+<A NAME="ref20-25"></A>
+<P>Dickie, M.M. 1954. 
+The use of F<SUB>1</SUB> hybrid and backcross generations to reveal new and/or uncommon tumor types. 
+J. Nat. Cancer Inst. <B>15:</B> 791-799.
+<!-- 13233926 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13233926" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-26"></A>
+<P>Dickie, M.M. 1958. 
+Adrenal tumors and other pathological changes in reciprocal backcross mice. I. Backcrosses to strain CE. 
+Ph.D. Thesis, Brown University, Providence, R.I. 84 p.
+
+<A NAME="ref20-27"></A>
+<P>Dickie, M.M., W.B. Atkinson, and E. Fekete. 1957. 
+The ovary, estrous cycle and fecundity of DBA x CE and reciprocal hybrid mice in relation to age and the hyperovarian syndrome. 
+Anat. Rec. <B>127:</B> 187-200.
+<!-- 13411587 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13411587" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-28"></A>
+<P>Dickie, M.M., and P.W. Lane. 1956. 
+Adrenal tumors, pituitary tumors and other pathological changes in F<SUB>1</SUB> hybrids of strain DE x strain DBA. 
+Cancer Res. <B>16:</B> 48-52.
+<!-- MGI:75336 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75336" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-29"></A>
+<P>Dierwichter, R.A. 1962. 
+Inhibition of mammary growth by high doses of estrogen. 
+Yale J. Biol. Med. <B>34:</B> 608-619.
+
+<A NAME="ref20-30"></A>
+<P>Drasher, M.L. 1955. 
+Strain differences in the response of the mouse uterus to estrogens. 
+J. Hered. <B>46:</B> 190-192.
+<!-- MGI:70465 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70465" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-31"></A>
+<P>Drasher, M.L., M.M. Dickie, and P.W. Lane. 1955. 
+Physiological differences in uteri of obese stock mice. 
+J. Hered. <B>46:</B> 209-212.
+
+<A NAME="ref20-32"></A>
+<P>Edelman, A., and A. Gorbman. 1955. 
+Endocrine factors influencing the development of hypophyseal tumors in mice. 
+Proc. Amer. Ass. Cancer Res. <B>2:</B> 13-14. (Abstr.)
+
+
+<A NAME="ref20-33"></A>
+<P>Elftman, H., and O. Wegelius. 1959. 
+Anterior pituitary cytology of the dwarf mouse. 
+Anat. Rec. <B>135:</B> 43-49.
+<!-- MGI:60411 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60411" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-34"></A>
+<P>Fekete, E. 1953. 
+A morphological study of the ovaries of virgin mice of eight inbred strains showing quantitative differences in their hormone producing components. 
+Anat. Rec. <B>117:</B> 93-114.
+<!-- MGI:70576 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70576" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-35"></A>
+<P>Fishman, W.H., and M.H. Farmelant. 1953. 
+Effects of androgens and estrogens on &#946;-glucuronidase in inbred mice. 
+Endocrinology <B>52:</B> 536-545.
+<!-- 13060259 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13060259" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-36"></A>
+<P>Furth, J. 1955. 
+Experimental pituitary tumors. 
+Recent Progr. Hormone Res. <B>11:</B> 221-249.
+
+<A NAME="ref20-37"></A>
+<P>Furth, J. 1957. 
+Discussion of problems related to hormonal factors in initiating and maintaining tumor growth. 
+Cancer Res. <B>17:</B> 454-463.
+
+<A NAME="ref20-38"></A>
+<P>Furth, J., and K.H. Clifton. 1957. 
+Experimental pituitary tumors, p. 3-17. 
+<I>In</I> G.E.W. Wolstenholme and M. O'Conner [ed.] <I>Ciba Foundation Colloquia on Endocrinology Vol. XII.</I> Little, Brown, Boston.
+
+<A NAME="ref20-39"></A>
+<P>Gardner, W.U. 1953. 
+Hormonal aspects of experimental tumorigenesis. 
+Adv. Cancer Res. <B>1:</B> 173-232.
+<!-- 13057705 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13057705" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-40"></A>
+<P>Gardner, W.U. 1955. 
+Development and growth of tumors in ovaries transplanted into the spleen. 
+Cancer Res. <B>15:</B> 109-117.
+<!-- 14352197 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14352197" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-41"></A>
+<P>Gardner, W.U., and L.C. Strong. 1940. 
+Strain-limited development of tumors of the pituitary gland in mice receiving estrogens. 
+Yale J. Biol. Med. <B>12:</B> 543-548.
+
+<A NAME="ref20-42"></A>
+<P>Grant, J.K. 1960. 
+The biosynthesis of the adrenocortical steroids, p. 24-39. 
+<I>In</I> F. Clark and J.K. Grant [ed.] <I>The Biosynthesis and Secretion of Adrenocortical Steroids</I>. Cambridge University Press, Cambridge.
+<!-- 13828966 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13828966" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-43"></A>
+<P>Green, J.A. 1957. 
+Some effects of advancing age on the histology and reactivity of the mouse ovary. 
+Anat. Rec. <B>129:</B> 333-348.
+<!-- 13521362 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13521362" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-44"></A>
+<P>Gr&#252neberg, H. 1952. 
+Endocrine organs, p. 122-129. 
+<I>In</I> H. Gr&#252;neberg, <I>The Genetics of the Mouse</I>. Nijhoff, The Hague.
+<!-- MGI:78359 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78359" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-45"></A>
+<P>Gr&#252;neberg, H. 1963. 
+Section on grey-lethal, p. 77-84. 
+<I>In</I> H. Gr&#252;neberg, <I>The Pathology of Development; a Study of Inherited Skeletal Disorders in Animals.</I> Wiley, New York.
+
+<A NAME="ref20-46"></A>
+<P>Hausberger, F.X. 1960. 
+Changes in adrenal and pancreatic histology related to obesity after castration. 
+Anat. Rec. <B>136:</B> 208. (Abstr.)
+
+<A NAME="ref20-47"></A>
+<P>Hausberger, F.X. 1961. 
+Effect of food restriction on body composition and islet hypertrophy of mice bearing corticotrophin-secreting tumors. 
+Acat Endocrinol. <B>37:</B> 336-342.
+<!-- 13712317 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13712317" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-48"></A>
+<P>Hausberger, F.X., and A.J. Ramsay. 1959. 
+Islet hypertrophy in obesity of mice bearing ACTH-secreting tumors. 
+Endocrinology <B>65:</B> 165-171.
+<!-- 13672138 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13672138" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-49"></A>
+<P>Hellerstr&#246;m, C. 1964. 
+A method for microdissection of intact pancreatic islets of mammals. 
+Acta Endocrinol. <B>45:</B> 122-132.
+
+<A NAME="ref20-50"></A>
+<P>Hellman, B. 1961. 
+The occurrence of argyrophil cells in the Islets of Langerhans of American Obese-hyperglycemic mice. 
+Acta Endocrinol. <B>36:</B> 596-602.
+
+<A NAME="ref20-51"></A>
+<P>Hellman, B., and C. Hellerstr&#246;m. 1962. 
+Oxidative enzymes in the pancreatic islets of normal and obese-hyperglycemic mice. 
+Z. Zellerforsch. <B>56:</B> 97-106.
+<!-- 13906270 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13906270" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-52"></A>
+<P>Heston, W.E., C.D. Larsen, and M.K. Deringer. 1945. 
+Variations in occurrence of pathologic calcification, nephritis, and amyloidosis in mice fed control and modified diets. 
+J. Nat. Cancer Inst. <B>6:</B> 41-47.
+
+<A NAME="ref20-53"></A>
+<P>Hirsch, M.S. 1962. 
+Studies on the response of osteopetrotic bone explants to parathyroid explants <I>in vitro</I>. 
+Bull. Johns Hopkins Hosp. <B>110:</B> 257-264.
+<!-- 13907710 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13907710" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-54"></A>
+<P>Hummel, K.P. 1942. 
+Differences in response of mice of different strains to human pregnancy urine. 
+Endocrinology <B>30:</B> 74-76.
+<!-- MGI:74914 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74914" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-55"></A>
+<P>Hummel, K.P. 1954. 
+Induced ovarian and adrenal tumors. 
+J. Nat. Cancer Inst. <B>15:</B> 711-715.
+<!-- MGI:1306758 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1306758" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-56"></A>
+<P>Hummel, K.P., E. Fekete, and C.C. Little. 1953. 
+Transplantation and ovarian tumors in mice. 
+Anat. Rec. <B>117:</B> 628. (Abstr.)
+
+<A NAME="ref20-57"></A>
+<P>Huseby, R.A., and J.J. Bittner. 1951. 
+Differences in adrenal responsiveness to post-castrational alteration as evidenced by transplanted adrenal tissue. 
+Cancer Res. <B>11:</B> 954-961.
+<!-- 14886953 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14886953" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-58"></A>
+<P>Ingalls, A.M., M.M. Dickie, and G.D. Snell. 1950. 
+Obese, a new mutation in the house mouse. 
+J. Hered. <B>41:</B> 317-318.
+<!-- MGI:61275 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61275" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-59"></A>
+<P>Jett, J.D., H.S. Tullos, J.J. Trentin, and M.E. DeBakey. 1961. 
+Adrenal versus ovarian estrogen in endocrine tumor suppression. 
+Proc. Amer. Ass. Cancer Res. <B>3:</B> 238
+
+<A NAME="ref20-60"></A>
+<P>Jones, E.C., and P.L. Krohn. 1961. 
+The relationships between age, numbers of oocytes and fertility in virgin and multiparous mice. 
+J. Endocrinol. <B>21:</B> 469-495.
+<!-- 13790510 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13790510" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-61"></A>
+<P>Katsh, S. 1953. 
+High insulin tolerance modified by adrenalectomy in the mouse. 
+Anat. Rec. <B>117:</B> 624. (Abstr.)
+
+<A NAME="ref20-62"></A>
+<P>Kirschbaum, A. 1956. 
+Endocrine aspects of experimental neoplasia. 
+Amer. J. Med. <B>21:</B> 659-670.
+<!-- 13362297 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13362297" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-63"></A>
+<P>Kirschbaum, A. 1957. 
+The role of hormones in cancer: laboratory animals. 
+Cancer Res. <B>17:</B> 432-453.
+<!-- 13437308 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13437308" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-64"></A>
+<P>Kirschbaum, A., M.H. Frantz, and W.L. Williams. 1946. 
+Neoplasms of the adrenal cortex in non-castrate mice. 
+Cancer Res. <B>6:</B> 707-711.
+<!-- MGI:83372 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83372" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-65"></A>
+<P>Lane, P.W. 1959. 
+The pituitary-gonad response of genetically obese mice in parabiosis with thin and obese siblings. 
+Endocrinology <B>65:</B> 863-868.
+<!-- 14413843 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14413843" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-66"></A>
+<P>Lane, P.W., and M.M. Dickie. 1954. 
+Fertile, obese male mice. 
+J. Hered. <B>45:</B> 56-58.
+
+<A NAME="ref20-67"></A>
+<P>Lane, P.W., and M.M. Dickie. 1958. 
+The effect of restricted food intake on the life span of genetically obese mice. 
+J. Nutr. <B>64:</B> 549-554.
+<!-- 13549989 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13549989" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-68"></A>
+<P>Lipschutz, A., and H. Cerisola. 1962. 
+Ovarian tumors due to a functional imbalance of the hypophysis. 
+Nature <B>193:</B> 145-147.
+<!-- 14465746 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14465746" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-69"></A>
+<P>Liu, F.T.Y., and C.K. Chai. 1961. 
+Sensitivity to estrogen of uteri of ovarectomized mice in relation to age. 
+Proc. Soc. Exp. Biol. Med. <B>106:</B> 521-522.
+<!-- 13762788 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13762788" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-70"></A>
+<P>Longley, J.B., and E.R. Fisher. 1956. 
+A histochemical basis for changes in renal tubular function in young mice. 
+Quart. J. Microscop. Sci. <B>97:</B> 187-195.
+
+<A NAME="ref20-71"></A>
+<P>Martinez, C., and J.J. Bittner. 1955. 
+Postcastrational adrenal tumors in unilaterally adrenalectomized C3H mice. 
+Cancer Res. <B>15:</B> 612-613.
+<!-- 13261084 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13261084" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-72"></A>
+<P>Martinez, C., and J.M. Smith. 1958. 
+Adrenal changes following goandectomy in mice of different strains. 
+Acta Physiol. Latinoamer. <B>8:</B> 84-90.
+
+<A NAME="ref20-73"></A>
+<P>Mirand, E.A. 1953. 
+The effect of growth hormone on carbohydrate metabolism in the hereditary hypopituitary dwarf mouse. 
+Anat. Rec. <B>117:</B> 620-621. (Abstr.)
+
+<A NAME="ref20-74"></A>
+<P>Moon, H.D., M.E. Simpson, C.H. Ly, and H.M. Evans. 1952. 
+Effect of pituitary growth hormone in mice. 
+Cancer Res. <B>12:</B> 448-450.
+<!-- 14936013 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14936013" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-75"></A>
+<P>M&#252;hlbock, O. 1947. 
+On the susceptibility of different inbred strains of mice for oestrone. 
+Acta Brev. Neer. <B>15:</B> 18-20.
+
+<A NAME="ref20-76"></A>
+<P>M&#252;hlbock, O. 1948. 
+The oestrone-sensitivity of the mammary gland in female mice of various strains. 
+Acta Brev. Neer. <B>16:</B> 22-27.
+
+<A NAME="ref20-77"></A>
+<P>M&#252;hlbock, O., W.J.P.R. van Ebbenhorst Tengbergen, and G. Maurik. 1952. 
+Differences in the gonadotrophic hormone content and the cytology in the anterior lobe of the hypophysis of male mice of various strains. 
+Acta Endocrinol. <B>9:</B> 48-58.
+<!-- MGI:74818 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74818" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-78"></A>
+<P>Nandi, S., and H.A. Bern. 1961. 
+The hormones responsible for lactogenesis in BALB/cCrgl mice. 
+Gen. Comp. Endocrinol. <B>1:</B> 195-210.
+<!-- 14478309 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14478309" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-79"></A>
+<P>Nielsen, E.L. 1953. 
+Studies on hereditary dwarfism in mice. XIV. Effect of thyroxin and growth hormone on growth. 
+Acta Pathol. Microbiol. Scand. <B>32:</B> 316-334.
+
+<A NAME="ref20-80"></A>
+<P>Petersson, B., and B. Hellman. 1962. 
+The pancreatic islet tissue in mice with obesity induced by goldthioglucose. 
+Acta Pathol. Microbiol. Scand. <B>55:</B> 401-406.
+<!-- 14485817 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14485817" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-81"></A>
+<P>Raynaud, J. 1960. 
+Controle hormonal de la glande sous-maxillaire de la souris. 
+Bull. Biol. <B>94:</B> 399-523.
+
+<A NAME="ref20-82"></A>
+<P>Richardson, F.L. 1951. 
+Further studies on the mammary gland development in male mice at nine weeks of age. 
+Anat. Rec. <B>111:</B> 669-693.
+<!-- MGI:74919 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74919" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-83"></A>
+<P>Richardson, F.L. 1953. 
+The mammary gland development in normal and castrate male mice at nine weeks of age. 
+Anat. Rec. <B>117:</B> 449-466.
+<!-- MGI:72032 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72032" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-84"></A>
+<P>Richardson, F.L., and A. Cloudman. 1947. 
+The mammary gland development in male mice at 9 weeks of age. 
+Anat. Rec. <B>97:</B> 223-237.
+
+<A NAME="ref20-85"></A>
+<P>Runner, M.N. 1952. 
+Study of ovarian and pituitary function of the obese mouse, p. 6-7. 
+<I>In</I>: <I>Conference on the Obese Mouse</I>. The Jackson Laboratory, Bar Harbor, Maine.
+
+<A NAME="ref20-86"></A>
+<P>Runner, M.N. 1953. 
+Hereditary differences in pituitary activity in inbred strains of mice. 
+Anat. Rec. <B>117:</B> 547. (Abstr.)
+
+<A NAME="ref20-87"></A>
+<P>Schaible, R., and J.W. Gowen. 1961. 
+A new dwarf mouse. 
+Genetics <B>46:</B> 896. (Abstr.)
+
+<A NAME="ref20-88"></A>
+<P>Shimkin, M.B., and H.G. Grady. 1942. 
+Interstitial cell tumors of testes induced with stilbesterol in mice. 
+Cancer Res. <B>2:</B> 730. (Abstr.)
+
+<A NAME="ref20-89"></A>
+<P>Shimkin, M.B., P.M. Shimkin, and H.B. Andervont. 1963. 
+Effect of estrogens on kidney weight in mice. 
+J. Nat. Cancer Inst. <B>30:</B> 135-141.
+<!-- MGI:83213 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83213" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-90"></A>
+<P>Short, R.V. 1960. 
+The secretion of sex hormones by the adrenal gland, p. 59-84. 
+<I>In</I> F. Clark and J.K. Grant [ed.] <I>The Biosynthesis and Secretion of Adrenocortical Steroids</I>. Cambridge University Press, Cambridge.
+<!-- 14446193 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14446193" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-91"></A>
+<P>Silberberg, M., and R. Silberberg. 1951. 
+Susceptibility to estrogen of breast, vagina and endometrium of various strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>76:</B> 161-164.
+<!-- 14816426 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14816426" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-92"></A>
+<P>Silverstein, E., L. Sokoloff, O. Mickelsen, and G.E. Jay, Jr. 1960<I>a</I>. 
+Thyroid function in various strains of mice: T/S ratio, PBI and thyroid weight. 
+Amer. J. Physiol. <B>199:</B> 203-208.
+<!-- MGI:83835 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83835" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-93"></A>
+<P>Silverstein, E., L. Sokoloff, G.E. Jay, Jr., and O. Mickelsen. 1960<I>b</I>. 
+Thyroid function, osteoarthritis and epiphyseal closure in various strains of mice. 
+Amer. J. Physiol. <B>199:</B> 209-211.
+
+<A NAME="ref20-94"></A>
+<P>Smith, F.W., W.U. Gardner, M.H. Li, and H. Kaplan. 1949. 
+Adrenal medullary tumors (pheochromocytomas) in mice. 
+Cancer Res. <B>9:</B> 193-198.
+
+<A NAME="ref20-95"></A>
+<P>Smith, P.E., and E.C. MacDowell. 1930. 
+An hereditary anterior-pituitary deficiency in the mouse. 
+Anat. Rec. <B>46:</B> 249-257.
+
+<A NAME="ref20-96"></A>
+<P>Solomon, J., and J. Mayer. 1962. 
+Long-term hypoglycemia and regranulation of &#946;-cells following alloxan administration in hereditaryily obese-hyperglycemic mice. 
+Fed. Proc. <B>21:</B> 396. (Abstr.)
+
+<A NAME="ref20-97"></A>
+<P>Staats, J. 1964. 
+Standardized nomenclature for inbred strains of mice, Third listing. 
+Cancer Res. <B>24:</B> 147-168.
+<!-- 14117809 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14117809" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-98"></A>
+<P>Steinetz, B.G., and V.L. Beach. 1963. 
+Hormonal requirements for interpubic ligament formation in hypophysectomized mice. 
+Endocrinology <B>72:</B> 771-776.
+<!-- 13983763 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13983763" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-99"></A>
+<P>Subrahmanyam, K. 1960. 
+Metabolism in the New Zealand strain of obese mice. 
+Biochem. J. <B>76:</B> 548-556.
+<!-- 16748835 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16748835" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-100"></A>
+<P>Swigart, R.H., F.K. Hilton, B. Foster, and M.M. Dickie. 1963. 
+Amylase activity in the submandibular gland of mice: evidence of estrogen stimulation. 
+Anat. Rec. <B>145:</B> 290. (Abstr.)
+
+
+<A NAME="ref20-101"></A>
+<P>Thompson, J.S. 1955. 
+An effect of estrogens on water intake. 
+Can. J. Biochem. Physiol. <B>33:</B> 10-13.
+<!-- 13230943 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13230943" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-102"></A>
+<P>Trentin, J.J. 1950. 
+Vaginal sensitivity to estrogen as related to mammary tumor incidence in mice. 
+Cancer Res. <B>10:</B> 580-583
+<!-- 14772735 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14772735" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-103"></A>
+<P>Varon, H.H., and J.J. Christian. 1963. 
+Effects of adrenal androgens on immature female mice. 
+Endocrinology <B>72:</B> 210-222.
+<!-- 13996354 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13996354" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-104"></A>
+<P>Wegelius, O. 1959. 
+The dwarf mouse &#151; an animal with secondary myxedema. 
+Proc. Soc. Exp. Biol. Med. <B>101:</B> 225-227.
+<!-- 13675193 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13675193" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-105"></A>
+<P>Woolley, G.W. 1950. 
+Effect of hormonal substances on adrenal cortical tumor formation in mice. 
+Cancer Res. <B>10:</B> 250. (Abstr.)
+
+<A NAME="ref20-106"></A>
+<P>Woolley, G.W., and M.M. Dickie. 1947. 
+Genetic and endocrine factors in adrenal cortical tumor formation. 
+Cancer Res. <B>7:</B> 722. (Abstr.)
+
+<A NAME="ref20-107"></A>
+<P>Woolley, G.W., M.M. Dickie, and C.C. Little. 1952. 
+Adrenal tumors and other pathological changes in reciprocal crosses in mice. I. Strain DBA x strain CE and the reciprocal. 
+Cancer Res. <B>12:</B> 142-152,
+<!-- 14896410 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14896410" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-108"></A>
+<P>Woolley, G.W., M.M. Dickie, and C.C. Little. 1953. 
+Adrenal tumors and other pathological changes in reciprocal crosses in mice II. An introduction to results of four reciprocal crosses. 
+Cancer Res. <B>13:</B> 231-245.
+<!-- 13042812 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13042812" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-109"></A>
+<P>Woolley, G.W., and C.C. Little. 1945. 
+The incidence of adrenal cortical carcinoma in gonadectomized male mice of the extreme dilution strain over one year of age. 
+Cancer Res. <B>5:</B> 506-509.
+<!-- MGI:51017 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51017" target="_blank">MGI</A></I>.
+
+<A NAME="ref20-110"></A>
+<P>Woolley, G.W., and C.C. Little. 1946. 
+Prevention of adrenal cortical carcinoma by diethylstilbestrol. 
+Cancer Res. <B>6:</B> 491 (Abstr.)
+<!-- 16578212 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16578212" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref20-111"></A>
+<P>Wragg, L.E., and R.S. Speirs. 1952. 
+Strain and sex differences in response of inbred mice to adrenal cortical hormones. 
+Proc. Soc. Exp. Biol. Med. <B>80:</B> 680-684.
+<!-- MGI:70485 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70485" target="_blank">MGI</A></I>.
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter19.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter21.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

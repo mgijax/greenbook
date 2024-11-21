@@ -1,0 +1,2028 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 17 - Blood and Blood Formation</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, blood formation, hematology, polymorphisms, anemias, inbred mice, hematocrit, erythrocyte, oxygen, hemoglobin">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter16.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter18.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>17</H1>
+<H2><I>Blood and Blood Formation</I></H2>
+<H3>Elizabeth S. Russell and Seldon E. Bernstein</H3>
+
+<P>Healthy adult mice maintain relatively constant numbers of each of the formed elements of the blood. Maintenance of typical blood cell numbers involves 
+constant regulated replenishment from precursor cells in hematopoietic tissues. Evidences of the importance of genetic factors for hematopoietic balance are 
+found in the significant quantitative differences observed between peripheral blood of mice from different inbred strains and in the various hereditary anemias. 
+Genes are also responsible for differences in the chemical structure of the hemoglobin molecules found in erythrocytes of mice from different inbred strains.
+
+<P>In this chapter we attempt, first, to coordinate diverse information on mouse hematology, directing attention to genetic and developmental variations and 
+considering characteristic values and quantitative variations for each of the formed elements in the blood of normal adult mice. Second, we discuss genetically 
+controlled biochemical polymorphisms of adult mouse hemoglobins, and follow this with a description of blood formation in healthy adults, with discussion of 
+stem cells, erythropoietic stimuli, and erythroid homeostatic mechanisms. Third, we describe changes in blood and blood formation during normal development. 
+Fetal erythropoiesis is presented in some detail, followed by a brief summary of the extensive changes in peripheral blood values which occur during the 
+period of rapid postnatal growth.
+
+<P>In the remainder of the chapter we describe the 12 inherited anemias in the mouse. There is much evidence of faulty erythroid differentiation in six of the 
+single-gene induced anemias, of peripheral cell defects in five other anemias, and of an immune mechanism in one case.
+
+<P>The hereditary anemias of the mouse are intrinsically interesting as constitutional diseases and are also very useful tools for analyzing the function of 
+blood-forming tissue. We indicate the manner of inheritance of each anemic condition and describe the peripheral blood and blood-forming tissue of mice of 
+affected genotypes at all stages of life-history which have been investigated. We also summarize critical evidence on the nature of gene action in causation 
+of certain extensively studied anemias. Several of the anemia-producing genes affect viability and have pleiotropic effects in other tissues, which are discussed in 
+<A HREF="chapter29.shtml">Chapter 29</A>.
+
+<P><B>QUANTITATIVE VARIATIONS OF ERYTHROCYTES</B>
+
+<P>From 2 months until late in life there is little variation in the number of circulating erythrocytes in the blood of individual mice or of different mice 
+of the same inbred strain, but significant differences in erythrocyte number, hematocrit level, and hemoglobin content have been recorded between 
+mice of different inbred strains (summary and bibliography, 
+<A HREF="#ref17-46">Heinecke, 1962</A>; 
+<A HREF="#ref17-115">Russell <I>et al.</I>, 1951</A>; 
+<a href="javascript:windowt1701 = window.open('../tables/table17-1.shtml', 'windowt1701', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1701.focus()">Table 17-1</A>).
+
+<P>The genetic constancy of inbred mice is demonstrated by the observation in independent strain surveys, long separated in time, of significantly higher 
+erythrocyte numbers in DBA mice, intermediate numbers in C57BL mice, and significantly lower values in C3H mice (
+<A HREF="#ref17-66">Law and Heston, 1941</A>; 
+<A HREF="#ref17-115">Russell <I>et al.</I>, 1951</A>; 
+<A HREF="#ref17-96">Pujman <I>et al.</I>, 1954</A>; Storer, 1964, personal communication). Observed differences between inbred strains in hemoglobin content and 
+hematocrit levels (ratio of packed red-cell volume to total blood volume) result largely from differences in number of erythrocytes, the mean erythrocyte volume 
+and mean corpuscular volume varying little in healthy adults (
+<a href="javascript:windowt1701 = window.open('../tables/table17-1.shtml', 'windowt1701', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1701.focus()">Table 17-1</A>). 
+Russell (
+<A HREF="#ref17-107">1963</A>) has summarized information on adaptations of hematological methods for use with mice.
+
+<P>Erythrocyte numbers somewhat lower than those in 
+<a href="javascript:windowt1701 = window.open('../tables/table17-1.shtml', 'windowt1701', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1701.focus()">Table 17-1</A> 
+and larger mean cell volumes may be expected in normal mice younger than 2 months of age (
+<A HREF="#ref17-104">Russell, 1949</A>; 
+<A HREF="#ref17-110">Russell and Fondal, 1951</A>), and lower erythrocyte numbers are often found in very old mice, particularly in certain inbred strains (
+<A HREF="#ref17-122">Strong and Francis, 1937</A>; 
+<A HREF="#ref17-33">Goulden and Warren, 1944</A>; 
+<A HREF="#ref17-25">Ewing and Tauber, 1964</A>). Growth of spontaneous or transplanted tumors also frequently causes a drop in circulating erythrocytes, through 
+increased destruction rather than through failure of red cell formation (
+<A HREF="#ref17-20">Davies <I>et al.</I>, 1962</A>; 
+<A HREF="#ref17-67">Lockner <I>et al.</I>, 1963</A>; 
+<A HREF="#ref17-130">Wiadrowski and Metcalf, 1963</A>; 
+<A HREF="#ref17-133">Yonehiro and Aust, 1963</A>). Higher erythrocyte numbers and hematocrit values may be observed in mice kept at higher altitudes (Lushbaugh 
+and Russell, unpublished data) or exposed to lower oxygen tension at normal pressure (
+<A HREF="#ref17-60">Keighley <I>et al.</I>, 1962</A>).
+
+<P>In adult mice at sea level, reticulocytes typically make up 1 to 3 per cent of total erythrocytes (
+<a href="javascript:windowt1701 = window.open('../tables/table17-1.shtml', 'windowt1701', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1701.focus()">Table 17-1</A>), 
+a value which corresponds well with recent calculations of erythrocyte lifespan. Following exposure to erythropoietic stimuli, reticulocyte percentages are 
+elevated in some circumstances to 20 to 50 per cent of circulating red cells. Using C<SUP>14</SUP>-labeled glycine as hemoglobin precursor, von Ehrenstein (
+<A HREF="#ref17-127">1958</A>) observed that labeled erythrocytes had a mean lifespan of 40 to 43 days in TE and C3H mice. Almost identical values were found following 
+incorporation <I>in vivo</I> of P<SUP>32</SUP>-labeled diisopropylfluorophosphate into erythrocytes of (CBA x C57BL)F<SUB>1</SUB> mice (
+<A HREF="#ref17-126">van Putten, 1958</A>). The half-survival time for transfused isologous normal Cr<SUP>51</SUP>-labeled erythrocytes had been estimated at 20 days (
+<A HREF="#ref17-32">Goodman and Smith, 1961</A>) and at 25.6 days (Bernstein, unpublished data).
+
+<P><B>QUANTITATIVE VARIATIONS OF LEUKOCYTES</B>
+
+<P>Total and differential leukocyte counts of mice vary markedly (summary and bibliography, 
+<A HREF="#ref17-45">Heinecke, 1961</A>), being influenced by genetic and environmental factors and methods of handling. Surveys demonstrate significant differences 
+between inbred strains in total leukocyte counts (
+<A HREF="#ref17-34">Gowen and Calhoun, 1943</A>; 
+<A HREF="#ref17-115">Russell <I>et al.</I>, 1951</A>; Table 
+<a href="javascript:windowt1702 = window.open('../tables/table17-2.shtml', 'windowt1702', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1702.focus()">17-2</A>, 
+<a href="javascript:windowt1703 = window.open('../tables/table17-3.shtml', 'windowt1703', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1703.focus()">17-3</A>). 
+A description of all types of mouse leukocytes and of their precursors is given by Dunn (
+<A HREF="#ref17-23">1954</A>).
+
+<P>Almost all of the types of leukocytes which have been observed in human blood are also seen in mouse blood. The proportion of lymphocytes to total 
+leukocytes is much higher in the mouse than in man and it should be noted that basophilic leukocytes are almost never observed in adult mouse blood (
+<A HREF="#ref17-45">Heinecke, 1961</A>). A typical range of total and differential leukocyte counts in mice of six inbred strains differing in resistance to mouse typhoid 
+demonstrated highly significant strain difference in all cell types (
+<A HREF="#ref17-34">Gowen and Calhoun, 1943</A>; 
+<a href="javascript:windowt1703 = window.open('../tables/table17-3.shtml', 'windowt1703', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt1703.focus()">Table 17-3</A>). 
+Statistically significant differences between strains in the percentage of granulocytes were also observed in the survey of 18 inbred strains recorded in 
+<a href="javascript:windowt1702 = window.open('../tables/table17-2.shtml', 'windowt1702', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1702.focus()">Table 17-2</A> (
+<A HREF="#ref17-115">Russell <I>et al.</I>, 1951</A>). Independent direct chamber counts of granulocytes and lymphocytes of mice from seven inbred strains demonstrated 
+significant strain differences in both kinds of cells with particularly high lymphocyte levels in C57BL/6J (mean 8120 lymphocytes/mm<SUP>3</SUP>) and particularly 
+high granulocyte levels in C3H/J (mean 1970 granulocytes/mm<SUP>3</SUP>) (
+<A HREF="#ref17-14">Budds <I>et al.</I>, 1953</A>). In some but not all inbred strains, higher granulocyte counts were observed in females than in males. Mice of one 
+particular inbred strain, SM/J, are characterized by exceedingly low leukocyte counts (mean 2320 WBC/mm<SUP>3</SUP>) and the difference in leukocyte number 
+between these and mice of the LG/Rr strain (mean, 8380 WBC/mm<SUP>3</SUP>) is controlled by a small number of genes (
+<A HREF="#ref17-15">Chai, 1957</A>). Further evidence of the heritability of differences in leukocyte count is the production of two stocks of mice, LCH, with a mean 
+leukocyte count of 17,500 WBC/mm<SUP>3</SUP>, and its counterpart, LCL, with a mean of 3600 WBC/mm<SUP>3</SUP>, by 13 successive generations of selection for high vs. low total leukocyte counts (
+<A HREF="#ref17-128">Weir and Schlager, 1962</A>); the difference in lymphocyte counts was much higher than the difference in granulocytes. Nongenetic factors also 
+influence numbers of white cells. Striking diurnal variations have been reported in total leukocytes, lymphocytes, and eosinophila, all with peak values 
+in the morning, approximately three times the minimal values observed in the evening (
+<A HREF="#ref17-43">Halberg and Visscher, 1950</A>; 
+<A HREF="#ref17-80">Panzenhagen and Speirs, 1953</A>; 
+<A HREF="#ref17-13">Brown and Dougherty, 1956</A>; 
+<A HREF="#ref17-44">Halberg <I>et al.</I>, 1953</A>). Repeated daily bleeding from the tail of mice from five inbred strains increased the lymphocyte count by 50 to 120 
+per cent and altered the differential distribution of cell types (
+<A HREF="#ref17-72">Metcalf and Buffett, 1957</A>). Nembutal anesthesia during blood-letting affected leukocyte values by lowering agranulocyte count in males only and granulocyte counts in both sexes (
+<A HREF="#ref17-14">Budds <I>et al.</I>, 1953</A>).
+
+<P><B>NUMBER OF THROMBOCYTES</B>
+
+<P>Few studies enumerating mouse blood platelets have been reported, but these agree on typical values of 0.7 to 1.2 x 10<SUP>6</SUP> platelets/mm<SUP>3</SUP> 
+of whole blood, with a mean circulating lifespan of approximately 4 days (
+<A HREF="#ref17-81">Petri, 1933</A>; 
+<A HREF="#ref17-55">Jacobson, 1944</A>; Odell and McDonald, 
+<A HREF="#ref17-78">1960</A>, 
+<A HREF="#ref17-79">1961</A>; 
+<A HREF="#ref17-47">Heinecke, 1963</A>). Use of a phase-contrast microscope facilitates counting. The function of these units in blood-clotting is discussed in 
+<A HREF="chapter18.shtml">Chapter 18</A>.
+
+<P><B>QUANTITATIVE PHYSICOCHEMICAL DIFFERENCES IN HEMOGLOBINS</B>
+
+<P>Each of the adult mouse hemoglobins whose structure has been examined has been found to be made up of four globin chains in two unlike pairs. Because 
+of their striking similarities to the &#945;- and &#946;-chains of human hemoglobin, these mouse polypeptide chains are called &#945;-chains and &#946;-chains, or, 
+in the case of certain minor hemoglobin components, &#946;-like chains. Several differing qualities of adult mouse hemoglobins have been found to depend upon 
+action of alleles at two independent genetic loci: 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96020" target="_blank"><I>Hbb</I></A> (probably a complex locus), believed to control structure of &#946;- and &#946;-like chains; and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96014" target="_blank"><I>Hba</I></A>, believed to control structure of &#946;-chains.
+
+<P>The first genetically controlled hemoglobin characteristic reported in mice was a difference in electrophoretic pattern. Several hemoglobins produced a homogeneous 
+pattern, suggesting the presence of a single hemoglobin component, whereas others produced a diffuse pattern, suggesting the presence of two or more hemoglobin components (
+<A HREF="#ref17-97">Ranney and Gluecksohn-Waelsch, 1955</A>). Both of these electrophoretic patterns are widely distributed among inbred strains (
+<A HREF="#ref17-111">Russell and Gerald, 1958</A>; 
+<A HREF="#ref17-89">Popp, 1963<I>b</I></A>; 
+<A HREF="#ref17-48">Heinecke and Wagner, 1964</A>; 
+<a href="javascript:windowt1704 = window.open('../tables/table17-4.shtml', 'windowt1704', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1704.focus()">Table 17-4</A>). 
+Despite complexities to be discussed later, it is convenient to refer to these electrophoretic patterns as caused by single vs. diffuse hemoglobins. 
+Different numbers of bands have been reported in electrophoretic and chromatographic patterns of diffuse hemoglobins (
+<A HREF="#ref17-129">Welling and van Bekkum, 1958</A>; 
+<A HREF="#ref17-103">Rosa <I>et al.</I>, 1958</A>; 
+<A HREF="#ref17-98">Ranney <I>et al.</I>, 1960</A>; 
+<A HREF="#ref17-73">Morton, 1962</A>; 
+<A HREF="#ref17-71">Mehrotra and Cardinali, 1963</A>; 
+<A HREF="#ref17-99">Rhinesmith <I>et al.</I>, 1964</A>; 
+<A HREF="#ref17-102">Riggs, 1965</A>) and even in single hemoglobins (
+<A HREF="#ref17-103">Rosa <I>et al.</I>, 1958</A>; 
+<A HREF="#ref17-99">Rhinesmith <I>et al.</I>, 1964</A>). These differences certainly arise at least in part from differences in experimental conditions. 
+However, the electrophoretic difference observed by Morton (
+<A HREF="#ref17-74">1965</A>) appears to be genetically controlled. A rapid rate of alkali denaturation has been shown for a minor component of CBA hemoglobin, 
+and a normal rate, similar to that of C57BL hemoglobin, for the major component (
+<A HREF="#ref17-129">Welling and van Bekkum, 1958</A>). Studies of fresh and stored hemoglobins from DBA and "Kink" mice showed that the "diffuse hemoglobin from DBA contains several 
+components, at least one of which may undergo aggregation" shown as a heavy peak upon ultracentrifugation, whereas the "single hemoglobin from 'Kink' mice exhibits homogeneity similar to that of human A" (
+<A HREF="#ref17-98">Ranney <I>et al.</I>, 1960</A>). Polymerization of certain mouse hemoglobins to eight-chain double molecules may account for part of the diffuse electrophoretic pattern (
+<A HREF="#ref17-102">Riggs, 1965</A>).
+
+<P>Diffuse hemoglobins are more soluble in buffered salt solutions, over a wider pH and osmolarity range, than are any of the single hemoglobins (
+<A HREF="#ref17-92">Popp and Cosgrove, 1959</A>; 
+<A HREF="#ref17-94">Popp and St. Amand, 1960</A>; 
+<A HREF="#ref17-84">Popp, 1962<I>c</I></A>; 
+<A HREF="#ref17-132">Wolfe <I>et al.</I>, 1963</A>). Associated with the difference in solubility is a difference in crystal formation; the homogeneous hemoglobin of C57BL/6 precipitates 
+from buffered salt solution as large hexagonal crystals, the diffuse hemoglobin of strain 101 as a flocculent amorphous precipitate (
+<A HREF="#ref17-92">Popp and Cosgrove, 1959</A>). Two single hemoglobins, from C57BL/6J and SEC/1Re, "showed a single major hemoglobin peak upon chromatography on Amberlite CG-50 resin columns," whereas 
+four diffuse hemoglobins, from AKR/J, FL/Re, C3H/J, and DBA/2J, "showed a major peak in the same region as the single hemoglobins plus an additional minor component which was approximately 20 per cent of the total hemoglobin" (
+<A HREF="#ref17-52">Hutton, <I>et al.</I>, 1962<I>a</I></A>). All of these qualities of single and diffuse hemoglobins fit well with the concept that there is one stable major hemoglobin in erythrocytes 
+giving a homogeneous electrophoretic pattern, and unequal quantities of two other hemoglobins (at least one of which is somewhat unstable) in erythrocytes giving a diffuse electrophoretic pattern.
+
+<P>Total amino acid compositions have been reported for both &#945;- and &#946;-chains of C57BL/6J (
+<A HREF="#ref17-101">Riggs, 1963</A>) and DBA/2J (
+<A HREF="#ref17-102">Riggs, 1965</A>). Differences in structure of both &#945;- and &#946;-chains of mouse hemoglobins have been identified by two-dimensional chromatography-electrophoresis "fingerprints" (
+<A HREF="#ref17-52">Hutton <I>et al.</I>, 1962<I>a</I></A>; Popp, 
+<A HREF="#ref17-85">1962<I>d</I></A>, 
+<A HREF="#ref17-87">1962<I>f</I></A>; 
+<A HREF="#ref17-93">Popp <I>et al.</I>, 1963</A>) and by counter-current analysis (
+<A HREF="#ref17-100">Rifkin <I>et al.</I>, 1965</A>). The amino acid composition of each of the tryptic peptides of the &#945;-chains of C57BL/Cum, BALB/cJ, and NB/Rl has been reported (
+<A HREF="#ref17-90">Popp, 1965<I>a</I></A>), along with a nearly complete sequence of the entire &#945;-chain of C57BL/Cum (
+<A HREF="#ref17-91">Popp, 1965<I>b</I></A>). The amino acid compositions of tryptic peptides from SEC/1Re-<I>Se</I> are very similar to or identical with those of BALB/cJ (
+<A HREF="#ref17-100">Rifkin <I>et al.</I>, 1965</A>). The amino acid compositions of tryptic peptides of the &#946;-chain of C57BL/6J have also been established (
+<A HREF="#ref17-100">Rifkin <I>et al.</I>, 1965</A>). 
+
+<P>Peptide analysis of hemoglobins from AKR/J and FL/Re mice showed that the two chromatographically separated hemoglobins within a single mouse has the 
+same &#945;-chain but differing non-&#945;-chains (
+<A HREF="#ref17-52">Hutton <I>et al.</I>, 1962<I>a</I></A>). Neither the &#946;-chain of the major AKR/J and FL/Re hemoglobins, nor the &#946;-like chain of their 
+minor hemoglobins, was identical with the &#946;-chain of C57BL/6 hemoglobin. Analysis of this situation is complicated by the tendency of diffuse hemoglobins to polymerize (
+<A HREF="#ref17-102">Riggs, 1965</A>). Popp (
+<A HREF="#ref17-88">1963<I>a</I></A>) has reviewed the experimental methods used in the study of mammalian hemoglobins.
+
+<P>In F<SUB>1</SUB>, F<SUB>2</SUB> and backcross generations from crosses between inbred mice with electrophoretically single and diffuse hemoglobins, the patterns segregated as if controlled by alleles at a single genetic locus called <I>Hb</I> when first discovered (
+<A HREF="#ref17-30">Gluecksohn-Waelsch <I>et al.</I>, 1957</A>; 
+<A HREF="#ref17-29">Gluecksohn-Waelsch, 1960</A>; 
+<A HREF="#ref17-74">Morton, 1965</A>). Later Popp (
+<A HREF="#ref17-91">1965<I>b</I></A>) used the symbol 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96020" target="_blank"><I>Hbb</I></A> to distinguish this locus from that for the &#945;-chain (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96014" target="_blank"><I>Hba</I></A>). The 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96020" target="_blank"><I>Hbb</I></A> locus has been located in the first genetic linkage group near the albino locus (
+<A HREF="#ref17-94">Popp and St. Amand, 1960</A>; Popp, 
+<A HREF="#ref17-82">1962<I>a</I></A>, 
+<A HREF="#ref17-83">1962<I>b</I></A>; 
+<A HREF="#ref17-53">Hutton <I>et al.</I> 1962<I>b</I></A>; 
+<A HREF="#ref17-132">Wolfe <I>et al.</I>, 1963</A>). The linkage tests involved many different sources of the single (<I>Hbb<SUP>s</SUP></I>) and diffuse (<I>Hbb<SUP>d</SUP></I>) hemoglobin 
+electrophoretic types and different methods of identifying segregants. Linkage tests involving double identification of hemoglobin type by electrophoretic pattern and by presence or 
+absence of a particular tryptophan-containing peptide established than an allele controlling the two &#946; and &#946;-like chains of diffuse hemoglobins from ARK/J and FL/Re mice 
+segregated as a unit from the allele for the single &#946;-chain of C57BL/6J hemoglobin (
+<A HREF="#ref17-53">Hutton <I>et al.</I>, 1962<I>b</I></A>). Similar results were obtained in the F<SUB>2</SUB> generation from crosses between NB/Rl and BALB/cJ (
+<A HREF="#ref17-87">Popp, 1962<I>f</I></A>). If the basis for the diffuse hemoglobin electrophoretic pattern is the presence of two unlike hemoglobins, then the allele at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96020" target="_blank"><I>Hbb</I></A> 
+locus carried by AKR/J, FL/Re, and BALB/c mice is compound, probably consisting of two adjacent cistrons, either or both of which may be homologous to the single cistron of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96020" target="_blank"><I>Hbb</I></A> allele in C57BL/6J mice (
+<A HREF="#ref17-29">Gluecksohn-Waelsch, 1960</A>).
+
+<P>Different alleles at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96014" target="_blank"><I>Hba</I></A> 
+locus (formerly called <I>Sol</I>), controlling structure of the &#945;-chain, have been detected through effects on solubility (Popp, 
+<A HREF="#ref17-83">1962<I>b</I></A>, 
+<A HREF="#ref17-84">1962<I>c</I></A>), through differences in fingerprint pattern (
+<A HREF="#ref17-52">Hutton <I>et al.</I>, 1962<I>a</I></A>; 
+<A HREF="#ref17-86">Popp, 1962<I>e</I></A>) or through counter-current analysis (
+<A HREF="#ref17-100">Rifkin <I>et al.</I>, 1965</A>), or by combination of two techniques (
+<A HREF="#ref17-54">Hutton <I>et al.</I>, 1964</A>). The 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96014" target="_blank"><I>Hba</I></A> 
+alleles of many inbred strains have been identified (
+<A HREF="#ref17-89">Popp, 1963<I>b</I></A>; 
+<a href="javascript:windowt1704 = window.open('../tables/table17-4.shtml', 'windowt1704', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt1704.focus()">Table 17-4</A>) 
+and in certain cases the positions of amino acid substitutions have been established (Popp, 
+<A HREF="#ref17-90">1965<I>a</I></A>, 
+<A HREF="#ref17-91">1965<I>b</I></A>; 
+<A HREF="#ref17-100">Rifkin <I>et al.</I>, 1965</A>). In crosses between inbred strains differing in both &#945;-chain and &#946;-chains structures, differences in the two classes 
+of polypeptide chains assort independently (Popp, 
+<A HREF="#ref17-84">1962<I>c</I></A>, 
+<A HREF="#ref17-89">1963<I>b</I></A>; 
+<A HREF="#ref17-53">Hutton <I>et al.</I>, 1962<I>b</I></A>; 
+<A HREF="#ref17-132">Wolfe <I>et al.</I>, 1963</A>). Numerous linkage tests, however, have failed to locate the position of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96014" target="_blank"><I>Hba</I></A> locus on the genetic linkage map (Popp, 
+<A HREF="#ref17-84">1962<I>c</I></A>, 
+<A HREF="#ref17-89">1963<I>b</I></A>; 
+<A HREF="#ref17-54">Hutton <I>et al.</I>, 1964</A>). All of these genetically induced variations in hemoglobin electrophoretic type, solubility, and structure of &#945;- and &#946;-chains 
+represent normal variations; none has been associated in any way with pathological conditions. Thus in the mouse no hemaglobinopathies have been discovered.
+
+<P><B>BLOOD FORMATION IN NORMAL ADULT MICE</B>
+
+<P>Except in conditions of severe hematological stress, bone marrow is the principal postnatal site of erythropoiesis and myelopoiesis in the mouse. Most of the bony 
+cavities contain red marrow throughout life, with 85 to 95 per cent of available marrow space filled with hematopoietic cells (
+<A HREF="#ref17-24">Endicott and Gump, 1947</A>; 
+<A HREF="#ref17-11">Brecher <I>et al.</I>, 1948</A>), and one may easily obtain approximately 5 to 10 million cells from one femur of an adult. Recognition of the differentiating 
+cell types in the marrow of mice presents considerable difficulty, since staining qualities do not correspond well with human marrow cells. An excellent description of 
+classifiable cell types, particularly in the granulocytic series, has been presented by Endicott and Gump (
+<A HREF="#ref17-24">1947</A>), who also gave information on relative numbers of each type (
+<a href="javascript:windowt1705 = window.open('../tables/table17-5.shtml', 'windowt1705', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt1705.focus()">Table 17-5</A>).
+
+<P>It is generally accepted that hematopoiesis starts from undifferentiated stem cells in the marrow or spleen (
+<A HREF="#ref17-65">Lajtha, 1962</A>). However, very small numbers of stem cells may be present in the peripheral blood (
+<A HREF="#ref17-31">Goodman and Hodgson, 1962</A>).
+
+<P>Estimates of the number of such stem cells in different blood-forming tissues of normal mice have been obtained by transplanting known numbers of cells into lethally irradiated mice. 
+The number of colonies of hematopoietic cells which develop in the spleens of recipients appears to be proportional to the number of effective stem cells in the donor tissue (
+<A HREF="#ref17-125">Till and McCulloch, 1961</A>; 
+<A HREF="#ref17-119">Siminovitch <I>et al.</I>, 1963</A>; 
+<A HREF="#ref17-19">Cudkowicz <I>et al.</I>, 1964</A>). Normal marrow contains approximately 10 colony-forming units (CFU) per 10<SUP>5</SUP> cells, and normal spleen approximately one CFU per 10<SUP>5</SUP> cells.
+
+<P>Erythropoiesis may be stimulated in normal mice by treatments which reduce the circulating red-cell mass such as phenylhydrazine-poisoning or bleeding; by exposure to hypoxia with or without reduced air pressure (
+<A HREF="#ref17-36">Gr&#252;neberg, 1939</A>; 
+<A HREF="#ref17-95">Prentice and Mirand, 1957</A>; 
+<A HREF="#ref17-12">Brecher and Stohlman, 1959</A>; 
+<A HREF="#ref17-62">Keighley <I>et al.</I>, 1962</A>); and by administration of the erythropoietic hormone, erythropoietin (
+<A HREF="#ref17-56">Jacobson and Doyle, 1962</A>). In contrast, erythropoiesis may be completely suppressed in mice by increasing the total red-cell mass either by hypertransfusion (
+<A HREF="#ref17-57">Jacobson <I>et al.</I>, 1957</A>) or by hypoxia followed by return to normal oxygen tension (
+<A HREF="#ref17-16">Cotes and Bangham, 1961</A>). Reinitiation of blood formation in polycythemic mice, usually measured by Fe<SUP>59</SUP> uptake, has provided a sensitive assay system 
+in which very small amounts of erythropoietin can be recognized and measured (
+<A HREF="#ref17-16">Cotes and Bangham, 1961</A>; 
+<A HREF="#ref17-42">Gurney <I>et al.</I>, 1961</A>).
+
+<P>Erythropoiesis reinitiated in polycythemic mice by small doses of exogenous erythropoietin (
+<A HREF="#ref17-28">Filmanowicz and Gurney, 1961</A>; 
+<A HREF="#ref17-42">Gurney <I>et al.</I>, 1961</A>) provides some of the best information on the sequence of morphological events in erythroid maturation. On the first and second 
+days after treatment with erythropoietin, spleens of polycythemic mice showed numerous early erythroid cells considered to be proerythroblast(s), oval to round cell(s) 
+of about 20 to 30 &#956; diameter with a large pale nucleus that contained only a sparse amount of fine chromatin. On the second and third days these spleens contained very 
+large numbers of later erythroid cells considered to be normoblast(s), smaller round cells of about 10 to 20 &#956; diameter with a more darkly staining chromatin-clumped 
+nucleus, and a cytoplasm varying in color. Not until days 3 and 4 did reticulocytes appear in the circulation (
+<A HREF="#ref17-28">Filmanowicz and Gurney, 1961</A>). This fits well with isotope-incorporation data which show for normal mice an interval of 3 to 4 days between administration of 
+labeled heme precursors such as glycine and &#948;-aminolevulinic acid and the appearance in the circulating blood of erythrocytes with labeled protoporphyrin (
+<A HREF="#ref17-2">Altman <I>et al.</I>, 1953</A>; 
+<A HREF="#ref17-1">Altman and Russell, 1964</A>). It should be noted, however, that the time interval between administration of Fe<SUP>59</SUP> and near-maximal labeling of erythrocytes is only 24 hours (
+<A HREF="#ref17-41">Gurney <I>et al.</I>, 1962</A>), suggesting that FE<SUP>59</SUP> incorporation occurs largely during late stages in erythroid maturation.
+
+<P><B>BLOOD FORMATION BEFORE BIRTH</B>
+
+<P>The blood-islands of the yolk sac are the only source of red cells in the mouse embryo from the eighth through the 11th day of development (
+<A HREF="#ref17-21">deAberle, 1927</A>). Products of yolk sac hematopoiesis, known as the primitive generation of red blood cells, are very large nucleated cells, (mean cell 
+volume four to five times that of adult erythrocytes) comparable to proerythroblasts and normoblasts in bone marrow (
+<a href="javascript:windowf1701 = window.open('../figures/figure17-1.shtml', 'windowf1701', 'width=800,height=900,resizable=yes,scrollbars=yes'); windowf1701.focus()">Figure 17-1</A>). 
+They are often seen in mitosis in blood of 11- and 12-day fetuses, but at 13 to 14 days their nuclei are pycnotic (
+<a href="javascript:windowf1702 = window.open('../figures/figure17-2.shtml', 'windowf1702', 'width=800,height=900,resizable=yes,scrollbars=yes'); windowf1702.focus()">Figure 17-2</A>). 
+Cells of this primitive generation contain hemoglobin components not found at any later stages (Craig and Russell, 
+<A HREF="#ref17-17">1963</A>, 
+<A HREF="#ref17-18">1964</A>). In C57BL/6J and FL/Re-+/+ fetuses the number of these cells in the blood increases slightly from the 12th to the 15th day of fetal life and diminishes rapidly thereafter (
+<a href="javascript:windowt1706 = window.open('../tables/table17-6.shtml', 'windowt1706', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt1706.focus()">Table 17-6</A>; 
+<A HREF="#ref17-18">Craig and Russell, 1964</A>; 
+<A HREF="#ref17-114">Russell and McFarland, 1965</A>).
+
+<P>From the 12th through the 16th day of fetal life the liver is the only hematopoietic organ and is an important source of new erythrocytes up to birth. It may contain hematopoietic foci even up to 1 week after birth (
+<A HREF="#ref17-21">deAberle, 1927</A>; Gr&#252;neberg, 
+<A HREF="#ref17-38">1942<I>a</I></A>, 
+<A HREF="#ref17-39">1942<I>b</I></A>; 
+<A HREF="#ref17-51">Hertwig, 1956</A>; 
+<A HREF="#ref17-10">Borghese, 1959</A>). Borghese (
+<A HREF="#ref17-10">1959</A>) described hematopoietic cells in the fetal liver, spleen, and bone marrow. During its period of maximum erythropoietic activity the liver contains almost no myeloid precursors, though Borghese (
+<A HREF="#ref17-10">1959</A>) identified very small numbers of myoblasts and neutrophilic and basophilic leukocytes at 15 days. The erythroid precursor cells are of three distinct sizes (
+<a href="javascript:windowf1703 = window.open('../figures/figure17-3.shtml', 'windowf1703', 'width=900,height=300,resizable=yes,scrollbars=yes'); windowf1703.focus()">Figure 17-3</A>) 
+and are quite similar to cell types seen later in bone marrow. Red blood cells produced in the liver are not nucleated (
+<a href="javascript:windowf1702 = window.open('../figures/figure17-2.shtml', 'windowf1702', 'width=800,height=900,resizable=yes,scrollbars=yes'); windowf1702.focus()">Figure 17-2</A>) 
+and are smaller than the primitive nucleated cells (8 &#956; in diameter) (
+<A HREF="#ref17-38">Gr&#252;neberg, 1942<I>a</I></A>) but larger than erythrocytes of the adult (6 &#956; in diameter). Cells of this "intermediate" generation (
+<A HREF="#ref17-38">Gr&#252;neberg, 1942<I>a</I></A>) are released into the circulation in increasing numbers and the total blood count rises rapidly (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>). 
+In the spleen the first regular occurrence of erythropoiesis, plus some myelopoiesis, is on the 15th day of development; later, at 17 days, the spleen becomes the first major site of myelopoiesis (
+<A HREF="#ref17-10">Borghese, 1959</A>). Borghese considered bone-marrow hemopoiesis, which appears first on the 16th day of development, is largely myeloid up to birth.
+
+<P>The thymus has been identified as the first source of lymphocytes and its development described (
+<A HREF="#ref17-4">Auerbach, 1961</A>; 
+<A HREF="#ref17-5">Ball, 1963</A>).
+
+<P><B>NORMAL BLOOD VALUES FROM BIRTH TO TWO MONTHS</B>
+
+<P>The typical erythrocyte number for newborn normal mice ranges from 3.6 to 5.6 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP>, with differences between animal stocks and between observers (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>). 
+Within 1 month this number rises to 6.5 to 8.6 x 10<SUP>6</SUP> cells, while the body weight increases by a factor of 10 and the total blood volume increases 
+nearly as much, so that the circulating red-cell mass has increased 15 to 20 times (
+<A HREF="#ref17-37">Gr&#252;neberg, 1941</A>; 
+<A HREF="#ref17-110">Russell and Fondal, 1951</A>). The mean cell volume of erythrocytes decreases sharply during the same interval from 100 to 110 &#956;<SUP>3</SUP> at birth to 
+48 to 63 &#956;<SUP>3</SUP> at 28 days and continues to drop slightly until stable values for erythrocyte number and mean cell volume appear at the age of 8 to 10 weeks. 
+Typical values for normal mice in various stocks at 0, 14, and 28 days are given in 
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>, 
+where they are compared with abnormal values observed in littermate anemic mice. The change in erythrocyte mean cell volume comes from a combination of two factors. 
+The "intermediate cells" formed in liver hematopoiesis gradually drop out of circulation and are replaced by younger and smaller cells. The size of newly formed 
+erythrocytes also decreases, at least during the first week after birth (
+<A HREF="#ref17-38">Gr&#252;neberg, 1942<I>a</I></A>).
+
+<P><B>HEREDITARY ANEMIAS</B>
+
+<P>Action of mutant alleles at 11 different loci in the mouse are known to produce anemias by altering either the process of hematopoiesis, the nature of the erythrocyte, or both (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>). 
+In addition to brief reviews of published information on each of these anemias, we present original data on those which are under 
+investigation at The Jackson Laboratory.
+
+<P>Effects of mutants at each of these loci can be recognized before birth of individuals of the severely affected genotypes. Particular allelic combinations for 
+four of these loci (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> series, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96974" target="_blank"><I>Sl</I></A> series, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>Hertwig's anemia</I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856844" target="_blank"><I>diminutive</I></A>) lead to macrocytic anemia (suggestive of defective hematopoiesis), which 
+in animals of certain genotypes is sufficiently severe to cause perinatal death. Genes at two loci (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>flexed</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861228" target="_blank"><I>tail-short</I></A>) have effects on hematopoiesis limited to 
+a particular developmental stage. Particular combinations of alleles at three loci (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>jaundice</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>hemolytic anemia</I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>spherocytosis</I></A>) lead to severe hemolytic anemia. 
+Mice of the NZB inbred strain also develop hemolytic anemia but many genes probably contribute to this disease. Mice with sex-linked anemia or microcytic anemia 
+have abnormally shaped erythrocytes. In this chapter we limit discussion to the hematological effects of these gene substitutions, since pleiotropic effects in 
+other tissues and secondary pathological effects are discussed in 
+<A HREF="chapter29.shtml">Chapter 29</A>.
+
+<P><B>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> series anemias</B>
+
+<P>The most extensively investigated mouse hereditary anemias are those caused by action of alleles at the dominant spotting or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> locus of linkage group XVII. 
+Four dominant alleles (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856257" target="_blank"><I>W<SUP>b</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>) with different effects on red-cell number and on pigmentation have been described (
+<A HREF="#ref17-21">deAberle, 1927</A>; Gr&#252;neberg, 
+<A HREF="#ref17-36">1939</A>, 
+<A HREF="#ref17-40">1942<I>c</I></A>; 
+<A HREF="#ref17-27">Fekete <I>et al.</I>, 1941</A>; 
+<A HREF="#ref17-113">Russell <I>et al.</I>, 1957</A>; 
+<A HREF="#ref17-6">Ballantyne <I>et al.</I>, 1961</A>), as well as several remutations not distinguishable in effect from previously described 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> alleles (
+<A HREF="#ref17-123">Strong and Hollander, 1953</A>; 
+<A HREF="#ref17-113">Russell <I>et al.</I>, 1957</A>). Individuals of all genotypes with two dominant alleles (<I>i.e.</I>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>) 
+are sterile and have black eyes and white hair (
+<A HREF="chapter29.shtml">Chapter 29</A>).
+
+<P>Animals with two dominant 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> 
+alleles are characterized by severe macrocytic anemia, with deficient hematopoiesis already apparent at the beginning of fetal liver 
+hematopoiesis, at 12 &#189; days in fetal life (
+<A HREF="#ref17-3">Attfield, 1951</A>; 
+<A HREF="#ref17-110">Russell and Fondal, 1951</A>; 
+<A HREF="#ref17-10">Borghese, 1959</A>). The erythrocyte number is slightly reduced and mean cell volume slightly increased in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/+ mice (
+<A HREF="#ref17-40">Gr&#252;neberg, 1942<I>c</I></A>; 
+<A HREF="#ref17-104">Russell, 1949</A>). Whenever erythrocyte numbers of mice with different 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> 
+genotypes on the same genetically homogeneous background have been compared, the rank order was always the same: 
++/+ = 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/+ = 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>/+ &#062; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/+ &#062; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> &#062; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> &#062; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> = 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A> = 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>. Mice of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856262" target="_blank"><I>W<SUP>j</SUP></I></A> genotypes regularly die within a few days after birth, and some of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice also die during the rapid growth stage between birth and weaning; those surviving to 
+adulthood typically live more that 1 year. On a nonselected heterogeneous genetic background, mean erythrocyte counts were 2.2 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP> for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>, 1.4 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP> for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>, and 0.8 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP> for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> newborn mice (
+<A HREF="#ref17-110">Russell and Fondal, 1951</A>). On specially selected genetic backgrounds, typical mean erythrocyte numbers are higher (1.5 to 1.8 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP> in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> newborn mice), and postnatal survival is considerably longer (mean for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> mice in strain WB/Re, 10 days) with an occasional individual surviving 
+to adulthood (
+<A HREF="#ref17-112">Russell and Lawson, 1959</A>). Two F<SUB>1</SUB> hybrid genetic backgrounds (WB/Re x C57BL/6J and WC/Re x C57BL/6J) have proven particularly favorable for survival 
+and vigor of severely anemic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>) mice and have been adopted as standard for many experiments on physiological, biochemical, and radiological 
+reactions of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> series anemic mice (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>).
+
+<P>In spite of exceedingly low erythrocyte counts in mice of the most severely anemic genotypes, they are afflicted with hypoplastic rather than aplastic anemia. The absolute 
+number of erythrocytes shows the same relative increase from the 16th day of fetal life to birth in severely anemic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>) and normal (+/+) mice (
+<A HREF="#ref17-110">Russell and Fondal, 1951</A>). The proportion of reticulocytes in the blood of adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice (
+<A HREF="#ref17-77">Niece <I>et al.</I>, 1963</A>) and of newborn 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> mice (
+<A HREF="#ref17-21">deAberle, 1927</A>) is higher than that in normal littermates. Fetal liver and newborn marrow of severely anemic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>) mice are hypoplastic (
+<A HREF="#ref17-105">Russell, 1955</A>; 
+<A HREF="#ref17-10">Borghese, 1959</A>), but near-normal marrow cellularity is characteristic of adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice (
+<A HREF="#ref17-117">Russell <I>et al.</I>, 1953</A>).
+
+<P>There is much evidence of an altered timecourse of hematopoiesis in mice of anemic genotypes. In 12-dya normal (+/+) fetal livers, all stages of erythropoiesis were seen, 
+but only early stages (proerythroblasts and basophilic erythroblasts) were seen in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> fetal livers (
+<A HREF="#ref17-10">Borghese, 1959</A>). In adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> bone marrow, the ratio of total erythroid to total myeloid tissue is normal, but the ration 
+of early to late erythroid cells is still abnormally high, suggesting a delay in erythroid maturation (
+<A HREF="#ref17-117">Russell <I>et al.</I>, 1953</A>). When isotopically labeled heme-precursors are injected into +/+ and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> littermates, erythrocytes with 
+labeled protoporphyrin appear in circulating blood of +/+ mice after 3 days but only after more than 10 days in the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice (
+<A HREF="#ref17-1">Altman and Russell, 1964</A>). The great differential radiosensitivity of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice, whose typical LD<SUB>50:30</SUB> is approximately 240 R, 
+has been traced to delay in the regeneration of erythroid tissue (
+<A HREF="#ref17-109">Russell <I>et al.</I>, 1963</A>; 
+<A HREF="chapter22.shtml">Chapter 22</A>). These differences in hematopoiesis may result from deficiency in number or differentiating capacity of erythropoietic stem cells (
+<A HREF="#ref17-69">McCulloch <I>et al.</I>, 1964</A>).
+
+<P>It is possible to cure the anemia of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice completely and permanently by 
+implantation of isologous normal (+/+) blood-forming tissue from adult marrow or 15-day fetal hematopoietic tissue from adult marrow or 15-day fetal hematopoietic livers (
+<A HREF="#ref17-108">Russell <I>et al.</I>, 1959</A>; 
+<A HREF="#ref17-106">Russell, 1960</A>; 
+<A HREF="#ref17-7">Bernstein, 1963</A>). This happens readily without irradiation of the recipient, presumably because of more efficient functioning of the injected cells (
+<A HREF="#ref17-8">Bernstein and Russell, 1959</A>), and host irradiation does not enhance acceptance of histoincompatible fetal cells (
+<A HREF="#ref17-9">Bernstein <I>et al.</I>, 1959</A>; 
+<A HREF="#ref17-7">Bernstein, 1963</A>). This finding demonstrates that the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> 
+series defective hematopoiesis depends entirely upon genotype of the blood-forming tissue and 
+is completely independent of influences from other parts of the body.
+
+<P>Hematopoietic balance of normal (+/+) and anemic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>) 
+mice differs both in the size of circulating red-cell mass maintained under stable 
+conditions and in the nature of response to erythropoietic stimuli. Following polycythemia induced by hypertransfusion, normal and anemic mice show the same increase in 
+red-cell volume, decrease in reticulocytes and temporary cessation of blood formation; the hematocrit level at which new erythrocytes are again released into the circulation 
+(46 to 48 per cent in +/+, 38 to 40 per cent in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>) 
+depends upon the genotype of functioning blood-forming tissue (
+<A HREF="#ref17-77">Niece <I>et al.</I>, 1963</A>). Normal and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> 
+anemic mice respond to lowered oxygen tension by producing more erythrocytes, with 
+proportional increase at least as great in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> as in +/+ mice, but 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> 
+mice are very deficient in response to erythropoietin (
+<A HREF="#ref17-62">Keighley <I>et al.</I>, 1962</A>). A minimal Fe<SUP>59</SUP> uptake response, approximately 1/150th that in 
+plethorized normal mice, was observed when erythropoietin was injected into plethorized 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A> mice (
+<A HREF="#ref17-124">Thompson <I>et al.</I>, 1963</A>; 
+<A HREF="#ref17-61">Keighley <I>et al.</I>, 1966</A>). The regulation of hematopoiesis in anemic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>) 
+mice differs in some critical way, not yet understood, from that in normal (+/+) mice.
+
+<P><B>Steel series anemias</B>
+
+<P>The steel (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96974" target="_blank"><I>Sl</I></A>) locus first described by Sarvella and Russell (
+<A HREF="#ref17-118">1956</A>) is rather mutable, having given rise to a number of alleles. In populations of mice exposed to X-irradiation at Oak Ridge and at Harwell more than 30 
+mutations at this locus have been encountered, and in nonirradiated populations of C57BL/6J and DBA/2J at The Jackson Laboratory no fewer than five mutations have appeared 
+in a 3-year period. Of these perhaps steel (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>) and steel-Dickie (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>) have been most thoroughly investigated hematologically.
+
+<P>Under ordinary laboratory conditions 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A> homozygotes die at about the 15th day of embryonic life according to Sravella and Russell, whereas 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> heterozygotes are as viable as 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> homozygotes. Twenty per cent of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> 
+mice survive for 30 days postpartum, and the mean survival time of these is 79 days on the C57BL/6J background. The percentage 
+weaned and the mean survival time, however, are dependent on genetic background, as evidenced by the fact that on a (C57BL/6J x DBA/2J)F<SUB>1</SUB> background these values 
+are 25 per cent and 113 days, respectively.
+
+<P>All mice carrying two dominant 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96974" target="_blank"><I>Sl</I></A> 
+alleles are black-eyed, white, infertile anemics, with a phenotype very similar to that of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> series anemics. Evidence has 
+accumulated, however, to show that the steel locus, linked with dystrophy (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856026" target="_blank"><I>dy</I></A>), Ames waltzer (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856467" target="_blank"><I>av</I></A>) and pygmy (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856426" target="_blank"><I>pg</I></A>), is located in linkage group IV and 
+is not linked with 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> in linkage group XVII (
+<A HREF="#ref17-131">Wolfe, 1963</A>; 
+<A HREF="#ref17-75">Nash, 1964</A>).
+
+<P>The anemia is observable grossly at 14 days of embryonic life, continues through birth, and is manifest in adults as a severe, persistent, macrocytic anemia in which the 
+cells are larger than normal, but contain a normal volume of hemoglobin per unit cell volume. These and other quantitative hematological characteristics of +/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> genotypes appear in 
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>. 
+There is a decreased number of nucleated cells per femur (5 x 10<SUP>6</SUP> vs. 1 x 10<SUP>7</SUP> for normal mice) but, in contrast with the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> series, the 
+colony-forming capacity of these cells is not diminished and their radiosensitivity as measured by colony-forming capacity after exposure to Co<SUP>60</SUP> radiation 
+<I>in vitro</I> is normal (
+<A HREF="#ref17-70">McCulloch <I>et al.</I>, 1965</A>). Marrow cellularity, however, drops precipitously after exposure to 200 R of X-rays and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> 
+homozygotes have an LD<SUB>50:30</SUB> of less than 200 R (Bernstein, unpublished). Leukocyte levels of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> mice appear normal (mean, 11,600 WBC/mm<SUP>3</SUP>).
+
+<P>
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> 
+erythrocytes labeled with radioactive sodium chromate (Cr<SUP>51</SUP>) or with ferrous citrate (Fe<SUP>59</SUP>) have 
+normal half-survival values (26 days). Iron incorporation studies reveal a normal plasma iron clearance time (18 to 20 minutes) and a mean half-appearance time in 
+erythrocytes (12 to 13 hours) which is not different from that of +/+ siblings. Both relative and absolute reticulocyte counts are unusually high, being 9.1 +/- 1.4 per cent 
+and 350,000 +/- 46,000 per mm<SUP>3</SUP> respectively, suggesting that reticulocytes in these animals have an abnormally long circulation time.
+
+<P>Steel anemias are unresponsive to erythropoietin. Doses up to 5 A units per day (
+<A HREF="#ref17-60">Keighley, 1962</A>) per mouse are ineffective. Repetition of this experiment with 95 A units given in two doses on successive days also failed to elicit a response 
+(Bernstein and Keighley, unpublished). This is several thousand times the amount of erythropoietin which produces a measurable response in nonanemic individuals. Serum from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> 
+mice contains roughly the equivalent of 5 A units of purified erythropoietin per milliliter of serum. The relationship between high concentration 
+of serum erythropoietin and response to lowered oxygen tension is not clear, since these mice are poorly if at all responsive to continuous exposure to anoxia (Bernstein, 
+unpublished data) but show a positive hematopoietic response when subjected to 10 per cent oxygen 8 hours per day for 3 weeks (Keighley, 1965, personal communication). 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> marrow cells transplanted to 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> 
+series anemias cure the anemia of the latter and respond normally to erythropoietin when they are in this environment (Bernstein and Newburger, unpublished data).
+
+<P>Attempts at therapy of this anemia through implantation of normal isologous blood-forming tissues have been uniformly unsuccessful, as have been therapeutic attempts with 
+normal serum and parentally administered cobalamine, folinic acid, folic acid, pyridoxal phosphate, Fe citrate, vitamin E, and ascorbic acid in normal serum, nor do these anemics 
+respond to testosterone. These failures, however, do not rule out the possibility that the steel series anemias are the products of a metabolic defect in some other cells which 
+secondarily affect the rate of erythrocyte production. This position is strengthened by results obtained from the parabiotic union of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> and +/+, a 
+condition under which both parabionts become normal in cell numbers and sizes (Bernstein, unpublished data).
+
+<P><B>Hertwig's anemia</B>
+
+<P>Another inherited macrocytic anemia appeared first in offspring of a heavily irradiated male mouse (
+<A HREF="#ref17-50">Hertwig, 1942</A>). The mutant allele (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>) appears to be completely recessive, and is closely linked to the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> locus in linkage group VIII; stocks 
+developed to maintain this anemia-producing gene usually employ this linkage for identification of affected animals and carriers (
+<A HREF="chapter8.shtml">Chapter 8</A>). Affected individuals are born in the expected proportion (23 per cent observed in F<SUB>2</SUB> generation from crosses between carriers 
+in Hertwig's stock) but are smaller and weaker than normal littermates and not completely viable. Kunze (
+<A HREF="#ref17-64">1954</A>) reported a few cachectic newborn mice with mean 
+erythrocyte counts of 0.9 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP> and viable newborn mice with a mean of 1.6 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP>. Only 4 per cent survived more than 
+1 month and had adult erythrocyte counts of 3 to 5 x 10<SUP>6</SUP> RBC/mm<SUP>3</SUP>.
+
+<P>Somewhat higher values have been observed in the BAN/Re inbred strain segregating for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A> and + (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>). 
+In this stock mean survival time for all 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A> anemics was 212 days and the median survival time was 63 days. Ten of 168 weaned BAN/Re-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A> mice 
+survived more than 500 days (McFarland and Russell, unpublished data). It is clear that inbreeding with forced heterozygosis of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>/+ has in this case resulted in the 
+accumulation of favorable modifying genes (
+<A HREF="chapter2.shtml">Chapter 2</A>).
+
+<P>Faulty hematopoiesis may be recognized in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A> fetuses as early as the 12th of 13th day by a high proportion of proerythroblasts in the fetal liver (
+<A HREF="#ref17-64">Kunze, 1954</A>) and by the 14th day by a reduced proportion of nonnucleated intermediate-generation erythrocytes in the circulating blood (
+<A HREF="#ref17-51">Hertwig, 1956</A>). During the postnatal growth spurt the absolute and relative number of reticulocytes is lower in anemic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>) mice than in their 
+normal littermates, but in adult survivors Kunze (
+<A HREF="#ref17-64">1954</A>) reported increased relative number of reticulocytes. The number of leukocytes also is markedly reduced in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856646" target="_blank"><I>an</I></A> mice during the first month 
+of postnatal life, with values of 1.0 to 2.3 x 10<SUP>3</SUP> WBC/mm<SUP>3</SUP> in anemic mice in contrast to 2.5 to 4.1 x 10<SUP>3</SUP> WBC/mm<SUP>3</SUP> in normal littermates (
+<A HREF="#ref17-64">Kunze, 1954</A>).
+
+<P><B>Transitory siderocytic anemia</B>
+
+<P>An anemia associated with the recessive gene "flexed" (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>) seems 
+to affect chiefly the intermediate generation erythrocytes, which stem largely from fetal liver hematopoiesis (Gr&#252;neberg, 
+<A HREF="#ref17-38">1942<I>a</I></A>, 
+<A HREF="#ref17-39">1942<I>b</I></A>). 
+During the 12th day of development, when blood of normal and flexed (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>) fetuses contains more than 90 per cent of large nucleated red blood cells (
+<a href="javascript:windowt1706 = window.open('../tables/table17-6.shtml', 'windowt1706', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt1706.focus()">Table 17-6</A>), 
+the difference between genotypes is minimal; the nucleated blood cells are completely hemoglobinized in fetuses of both genotypes. On the 13th to 15th 
+days, however, flexed fetuses form somewhat fewer nonnucleated erythrocytes than do comparable normal fetuses (
+<A HREF="#ref17-59">Kamenoff, 1935</A>; 
+<A HREF="#ref17-38">Gr&#252;neberg, 1942<I>a</I></A>; 
+<A HREF="#ref17-114">Russell and McFarland, 1965</A>). Blood cells of the intermediate generation in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> fetuses are extremely abnormal siderocytes, containing little hemoglobin 
+and numerous siderotic granules (identified by Prussian Blue Stain) (
+<A HREF="#ref17-39">Gr&#252;neberg, 1942<I>b</I></A>; 
+<a href="javascript:windowf1704 = window.open('../figures/figure17-4.shtml', 'windowf1704', 'width=800,height=900,resizable=yes,scrollbars=yes'); windowf1704.focus()">Figure 17-4</A>). 
+This defect is maximal at 13 to 14 days but by the 16th day partially hemoglobinized erythrocytes are frequently seen.
+
+<P>Studies of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> mice combining this fetal anemia with 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> series anemia provide new insight into the causation of both conditions (
+<A HREF="#ref17-114">Russell and McFarland, 1965</A>). Concomitant determinations of erythrocyte number and size and proportion of cell types have demonstrated effects of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96677" target="_blank"><I>W</I></A> 
+gene substitutions on erythropoiesis in both primitive and intermediate cell generations in mouse fetuses congenic with inbred strain FL/Re. Blood of normal fetuses (+/+ +/+) contains 
+approximately 3 x 10<SUP>5</SUP> large nucleated erythrocytes per cubic millimeter at 12 to 16 days gestation (
+<a href="javascript:windowt1706 = window.open('../tables/table17-6.shtml', 'windowt1706', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt1706.focus()">Table 17-6</A>). 
+Flexed anemic fetuses (+/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>) 
+have similar numbers of nucleated erythrocytes at 12 days, but significantly fewer at 16 days. Dominant-spotted anemic fetuses (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> +/+) 
+have fewer nucleated erythrocytes at all ages. Normal fetuses show rapid increase in number of smaller well-hemoglobinized erythrocytes (
+<a href="javascript:windowt1706 = window.open('../tables/table17-6.shtml', 'windowt1706', 'width=900,height=1000,resizable=yes,scrollbars=yes'); windowt1706.focus()">Table 17-6</A>), 
+and flexed fetuses produce lesser numbers of abnormal nonnucleated erythrocytes. 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> +/+ fetuses produce very small numbers of well-hemoglobinized nonnucleated erythrocytes. 
+The primary defect in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> +/+ fetuses appears to be in cell formation, that in +/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> fetuses a transitory deficiency of hemoglobinization. Doubly anemic fetuses 
+(
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>) combine both defects and die before birth.
+
+<P>The blood of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> 
+newborn mice contains only 4.64 g of Hb/100 cc, in contrast to 10.26 g/100 cc in normal mice (
+<A HREF="#ref17-38">Gr&#252;neberg, 1942<I>a</I></A>). After birth the blood values of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> mice improve rapidly, so that by 7 days the red-cell number is nearly normal (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>) 
+and the hemoglobin content of blood greatly improved (6.38 g/100 cc, compared with 8.83 g/100 cc in normal mice) (
+<A HREF="#ref17-38">Gr&#252;neberg, 1942<I>a</I></A>). The proportion of siderocytes drops sharply after birth, in exact correspondence to the drop in erythrocyte mean cell volume which accompanies 
+replacement of intermediate generation by definitive generation erythrocytes (
+<A HREF="#ref17-39">Gr&#252;neberg, 1942<I>b</I></A>).
+
+<P>Erythrocyte number and size are normal in adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> mice, although Gr&#252;neberg reported 3 per cent siderocytes in the blood of adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> mice in contrast to none in normals beyond 1 week postnatal (
+<A HREF="#ref17-39">Gr&#252;neberg, 1942<I>b</I></A>).
+
+<P>Margolis and Russell (
+<A HREF="#ref17-68">1965</A>) found high levels of the enzyme &#948;-aminolevulinic dehydratase (ALD) in livers and spleens of FL/Re-+/+ adult mice, but low levels in both FL/Re-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/+ and 
+FL/Re-
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> adults (
+<A HREF="chapter19.shtml">Chapter 19</A>). Following injection of phenylhydrazine to stimulate extramedullary hematopoiesis, the splenic ALD level increased sharply in FL/Re-+/+ mice but little if at all 
+in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/+ mice. In the dehydratase effect 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> is dominant; in all other effects it seems to be recessive. We have no clue as to the relationship of this enzymatic 
+defect to the transitory difficulty of hemoglobinization in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856864" target="_blank"><I>f</I></A> fetuses.
+
+<P><B>Anemia of "diminutive" mice</B>
+
+<P>The recessive mutant gene "diminutive" (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856844" target="_blank"><I>dm</I></A>) affects body size, development of the entire axial skeleton, and erythrocyte formation (
+<A HREF="#ref17-120">Stevens and Mackensen, 1958</A>). At all ages the red blood cells of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856844" target="_blank"><I>dm</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856844" target="_blank"><I>dm</I></A> mice are macrocytic. Newborn mice are severely anemic, having approximately 
+one-third of the normal erythrocyte count (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>), 
+and many die shortly after birth either from anemia or because of small size and complications associated with their skeletal abnormalities. The 
+macrocytic anemia persists throughout life, but is less extreme in surviving adults, which are often fertile.
+
+<P><B>Transitory anemia of "tail-short" mice</B>
+
+<P>Effects of a dominant gene, tail-short (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861228" target="_blank"><I>Ts</I></A>), first recognized in adults through its effect on the tail, have been traced back to reduction of the number of 
+blood-islands in the yolk sac on the eighth day of embryonic life (
+<A HREF="#ref17-22">Deol, 1961</A>). Defects of the skeleton of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861228" target="_blank"><I>Ts</I></A>/+ fetuses are not seen until the 11th day of development. During the 14th to 16th days of development, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861228" target="_blank"><I>Ts</I></A>/+ fetuses have much less blood than their normal littermates, as judged by intensity of hemoglobin coloration in cleared specimens (
+<A HREF="#ref17-22">Deol, 1961</A>). This anemic condition, apparently stemming from deficiency of yolk sac hematopoiesis, is completely corrected before birth. It is highly probable 
+that the effects of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1861228" target="_blank"><I>Ts</I></A> on the skeleton are secondary to the primary transitory anemia of the primitive cell generation.
+
+<P><B>Sex-linked anemia</B>
+
+<P>A sex-linked gene 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A> (
+<A HREF="#ref17-26">Falconer and Isaacson, 1962</A>), causes a mild degree of anemia (erythrocytes 75 per cent of normal number, 
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>; 
+<A HREF="#ref17-35">Grewal, 1962</A>). Both 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A> females and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A>/<I>Y</I> males are completely viable and fertile, though their growth is somewhat impaired. 
+Erythrocytes of anemic individuals show some poikilocytosis and anisocytosis, tending to be thicker that normal (normal mean cell volume, reduced cell diameter). Their 
+resistance to isotonic saline is normal. The percentage of reticulocytes is markedly higher in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A> anemics than in normal mice during the rapid growth 
+phase and slightly higher in adults. Both liver and bone marrow of newborn 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857042" target="_blank"><I>sla</I></A>/<I>Y</I> anemics contained few hematopoietic foci. At all 
+stages the marrow is deficient in erythroid precursors.
+
+<P><B>Jaundice</B>
+
+<P>Neonatal jaundice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>) is inherited as a recessive lethal (
+<A HREF="#ref17-121">Stevens <I>et al.</I>, 1959</A>). Early manifestations appear in utero; later developments give rise to hepatosplenomegaly, cardiac enlargement, microcytic 
+anemia, jaundice, and death.
+
+<P>Affected mice are grossly anemic as early as 14 days postconception but are not jaundiced until several hours after birth. At this time skin, serum, and urine become 
+highly pigmented. Death usually occurs within 24 hours, possibly as a result of bilirubin toxemia, kernicterus, or anoxia.
+
+<P>Hematological studies by Bernstein indicate that 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A> mice have a sever microcytic anemia (
+<a href="javascript:windowt1708 = window.open('../tables/table17-8.shtml', 'windowt1708', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1708.focus()">Table 17-8</A>). 
+The majority of circulating erythrocytes are abnormal in size, shape, and staining capacity (
+<a href="javascript:windowf1705 = window.open('../figures/figure17-5.shtml', 'windowf1705', 'width=800,height=900,resizable=yes,scrollbars=yes'); windowf1705.focus()">Figure 17-5</A>). 
+Target cells, schistocytes, stipple cells, and many immature erythroid and myeloid elements appear in the circulation. The presence of large 
+numbers of nucleated cells (up to 450,000 per mm<SUP>3</SUP>) distort the true extent of the microcythemia and complicate nearly all biochemical procedures.
+
+<P>Erythrocyte lifespan values obtained by transfusing Cr<SUP>51</SUP>-labeled cells between mice with the same and different genotypes gave mean half-survival times (ST/2, 
+corrected for elution) of 25.6 days for adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/+ erythrocytes in either +/+ or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/+ recipients. When Cr<SUP>51</SUP>-tagged erythrocytes from newborn mice were 
+transferred to adult +/+ mice, ST/2 values of 1.6 days and 0.5 days, respectively, were obtained for erythrocytes of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/+ and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A> genotypes. No alterations 
+in ST/2 were observed when 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/+ and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A> 
+mice were used as recipients. These results confirm the hemolytic nature of the disease and suggest the presence 
+of an intercorpuscular defect. Splenectomy does not cure the anemia nor increase viability. Determination of marrow cellularity and colony-forming capability showed that jaundiced 
+anemics have a hyperplastic marrow containing a normal proportion of colony-forming cells.
+
+<P>Jaundice heterozygotes (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/+) 
+have a mild but well-compensated form of the disease, with reduced erythrocyte lifespan (see above). Transfusion of these cells into 
+splenectomized recipients restores ST/2 to normal values. A moderate decrease in the agranulocyte-to-granulocyte ratio, coupled with an elevation in total white count, indicates 
+that nonspecific marrow hyperplasia is a compensatory characteristic of the carrier condition.
+
+<P>Newborn mice homozygous for jaundice have a smaller amount of hemoglobin per cell (15.6 &#956;&#956;g) than do their +/+ siblings (32.9 &#956;&#956;g) and a diminished mean 
+corpuscular hemoglobin concentration (22.5 vs. 39.4 per cent). Hypochromia associated with erythrocyte abnormalities of size and shape are frequently encountered in hemoglobinopathies 
+and in maternal-fetal incompatibility reactions, but paper, starch, and agar electrophoretic analyses and studies of solubility and spectral absorption failed to detect abnormal 
+hemoglobin molecules in these mice. Moreover, standard immunological techniques developed for the mouse failed to present evidence of maternal antibodies responsible for their 
+jaundice and anemia. Additional evidence against the immunological causation of the disease was provided by an analysis of relation between litter size, litter seriation, and 
+proportion of affected siblings. No sensitization was seen since litter size (average 7.2) of successive litters was not diminished, and the proportion of affected siblings in 
+the first litter (22.5 per cent) was not smaller than that found in succeeding litters.
+
+<P>No metabolic defect has yet been detected in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A> or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>/+ erythrocytes, although the analyses have been confounded by presence of large numbers of nucleated 
+and reticulated cells which are extremely difficult to separate from older more differentiated cells.
+
+<P><B>Hemolytic anemia</B>
+
+<P>Hemolytic anemia (gene symbol 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A>), 
+the second hemolytic disease of the newborn to be considered here, is inherited as a simple Mendelian recessive. In most of its 
+manifestations it resembles jaundice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A>), but they are not alleles. 
+All information reported here comes from Bernstein's previously unpublished studies.
+
+<P>The major phenotypic difference between jaundice and hemolytic anemia is in viability. Some homozygous hemolytic anemias (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A>) become adults. Pathologically, 
+developmentally, and hematologically the two conditions are strikingly similar. Spherocytes, schistocytes, target cells, anisocytotic and poikilocytotic erythrocytes, erythroblasts, 
+and numerous myeloid elements are seen in the circulating blood and the total white-cell count is elevated from 10,700 to 45,500 per mm<SUP>3</SUP>. The peripheral blood presents 
+the classic picture of a severe persistent hemolytic disease with marrow hyperplasia and hyperbilirubinemia (
+<a href="javascript:windowt1708 = window.open('../tables/table17-8.shtml', 'windowt1708', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt1708.focus()">Table 17-8</A>).
+
+<P>Affected individuals are grossly identifiable as early as 14 days postconception. They are pale but not jaundiced until several hours after birth. A small percentage die <I>in utero</I>, 
+but the majority come to term, and most die within a week of birth. Viability depends upon genetic background.
+
+<P>A maternal-fetal incompatibility has not been detected nor has a hemoglobinopathy been implicated (Bernstein and Wolfe, unpublished data). Red-cell glucose 6-phosphate 
+dehydrogenase and phosphokinase activities and lactic acid content appear normal (Hutton, Schimke, and Bernstein, unpublished data). Red-cell survival, however, is drastically 
+reduced (ST/2 = 0.55 days vs. 24 days for +/+ littermates). An intracorpuscular defect is implicated by the fact that Cr<SUP>51</SUP>-labeled +/+ red blood cells transfused to 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A> recipients have normal chrome half-survival times.
+
+<P>Heterozygous carriers of hemolytic anemia are afflicted with a mild, almost completely compensated, form of the disease. Circulating erythrocytes of carriers are nearly normal 
+in size and hemoglobin concentration, but their erythrocyte survival time (ST/2) is diminished from 24 to 16 days. Moreover, it is clear from the analyses of total and differential 
+leukocyte counts the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A>/+ 
+heterozygotes show a significant increase over +/+ homozygotes in the number of cells in each of the granulocyte series, but that the total number of 
+lymphocytic elements is unchanged. This finding suggests that compensatory hyperplasia of the marrow involves both erythroid and myeloid elements.
+
+<P><B>Spherocytosis</B>
+
+<P>A third hemolytic disease of the newborn has been reported (
+<A HREF="#ref17-58">Joe <I>et al.</I>, 1962</A>). It is a severe hemolytic anemia with jaundice, microcytosis, and hepatomegaly, and is inherited as an autosomal recessive 
+lethal. Genetic tests implicated a third locus unrelated to 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856378" target="_blank"><I>ja</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856181" target="_blank"><I>ha</I></A>, and Joe <I>et al.</I> (
+<A HREF="#ref17-58">1962</A>) designated the new locus as spherocytosis (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>sph</I></A>).
+
+<P>The circulating blood of homozygous spherocytic (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>sph</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>sph</I></A>) mice contains various abnormal erythroid elements designated as elliptocytes, cells with 
+Howell-Jolly bodies, nucleated red cells, poikilocytotic and polychromatophilic erythrocytes, numerous siderocytes and spherocytes, and huge numbers of reticulocytes. 
+Mean cell diameters of affected red blood cells were small (4.68 vs. 8.69 &#956;) and the mean corpuscular hemoglobin concentration was nearly normal (25.0 vs. 26.9 
+per cent in +/+ littermates).
+
+<P>Afflicted mice were detected at and before birth by pale color, but during acquired a gross yellow coloration. A level of serum bilirubin (5.8 mg per 100 ml) 
+considerably higher that in non-affected sibs (0.54 mg per 100 ml) was found. No 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>sph</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>sph</I></A> individuals survived longer that 24 hours. Attempts to 
+distinguish between carrier (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856377" target="_blank"><I>sph</I></A>/+) 
+and noncarrier (+/+) mice by hematological methods proved fruitless.
+
+<P><B>Microcytosis</B>
+
+<P>Microcytic anemia or microcytosis, inherited as an autosomal recessive (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>), shows certain characteristics not seen in other mouse anemias (
+<A HREF="#ref17-76">Nash <I>et al.</I>, 1964</A>). These include extreme microcytosis, presence of target cells, and almost complete compensation of the anemia in adults 
+through increase in numbers of erythrocytes.
+
+<P>The first anemic animals, observed in a newborn litter in a mixed stock involving C3H/J, C57BL/6J, and DBA/2 ancestors, were readily distinguishable from normal 
+littermates by pale coloration. In two partially inbred stocks segregating for microcytosis one-third to one-half of the anemic offspring die before weaning, usually 
+during the first postnatal week, but surviving anemics develop into fertile adults.
+
+<P>The erythrocyte number of newborn 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A> mice is normal (
+<a href="javascript:windowt1707 = window.open('../tables/table17-7.shtml', 'windowt1707', 'width=1200,height=900,resizable=yes,scrollbars=yes'); windowt1707.focus()">Table 17-7</A>) 
+and their obvious anemia due solely to reduced erythrocyte volume. By the age of 2 weeks, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A> mice have surpassed their 
+normal sibs in red-cell count and by 8 weeks their average count is over 13 million erythrocytes per mm<SUP>3</SUP>, almost 50 per cent higher than that of normal 
+littermates, with the difference between genotypes increasing during the postnatal period of rapid growth so that the mean cell volume of erythrocytes from adult 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A> mice is less than two-thirds that of normal littermates. Smears of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A> erythrocytes show benzidine peroxidase hemoglobin stain 
+restricted to the periphery of the cells. Mean corpuscular hemoglobin is decreased in proportion to the decrease in cell volume, but concentration of hemoglobin 
+per unit volume of packed red cells remains almost normal. These findings suggest that 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A> erythrocytes may be abnormally thin in cross-section. 
+Lifespan of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856400" target="_blank"><I>mk</I></A> 
+erythrocytes has not been reported. Reticulocyte percentages are significantly elevated in microcytic mice (mean 13.2 per cent for 
+adult females, 11.6 per cent for males, in contrast to 3.7 and 3.6 per cent for normal littermates) and methylene-blue-stained smears show the reticulum concentrated 
+near the cell border in a characteristic "Christmas wreath."
+
+<P><B>Other hematological defects</B>
+
+<P>A completely normocytic anemia found in some but not all of Strong's luxoid (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856068" target="_blank"><I>lst</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856068" target="_blank"><I>lst</I></A>) newborn mice has been traced to hemorrhage 
+from lacerations which result rather naturally from action of that gene (
+<A HREF="#ref17-63">Kuharcik and Forsthoefel, 1963</A>). A hemolytic anemia of varying severity has been reported as developing in a high proportion of 
+adult mice of the NZB/Bl inbred strain (
+<A HREF="#ref17-49">Helyer and Howie, 1963</A>). Affected mice showed reticulocytosis, splenomegaly, jaundice, anemia, and elevated antibody titre. The 
+condition, which seems to be a disease of autoimmunity, is discussed in 
+<A HREF="chapter20.shtml">Chapter 20</A>.
+
+<P><B>SUMMARY</B>
+
+<P>In adult mice certain genetically controlled quantitative and qualitative variations of peripheral blood are compatible with health. 
+Information is presented on the range of normal values for each of the formed elements in the blood and significant strain differences 
+are demonstrated in numbers of erythrocytes, granulocytes, and agranulocytes. Hemoglobin polymorphisms characteristic of normal mice are 
+caused by independently inherited differences in hemoglobin &#945;- and &#946;-chain structures. We have presented methods available for 
+classifying hemoglobin phenotypes.
+
+<P>Blood formation is initiated in the marrow or spleen of normal adult mice through stimulation of stem cells and proceeds through a 
+characteristic pattern of differentiation and release of reticulocytes. We have summarized critical experiments which employed mice to 
+increase understanding of the initiation and regulation of hematopoiesis. Before birth, blood formation stems first from blood-islands 
+in the yolk sac and later from the fetal liver. We have described quantitative and qualitative changes of the erythron during prenatal 
+development and in the postnatal period of rapid growth.
+
+<P>We have reviewed published investigations concerning each of the 12 recognized hereditary anemias of the mouse and provided new information 
+on certain of the anemias under investigation at The Jackson Laboratory. The anemias due to single-gene substitutions include four macrocytic 
+anemias, two transitory anemias limited to early developmental stages, four anemias with hemolysis and jaundice, and two with other peripheral cell defects.
+
+<P>The processes of normal and abnormal blood formation in mice and the characteristics of their completed blood cells provide excellent 
+material for the study of gene action in mammals. Many kinds of information are important to such studies, including counts and measurements 
+of the blood cells in normal mice at all stages in their life history; biochemical studies of hemoglobin and of enzymes affecting hematopoiesis; 
+studies of blood formation in the adult and in the fetus; and studies of mouse hereditary anemias.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grant CA 01074 from the National Cancer 
+Institute, in part by Public Health Service Research Grant HD 00254 from the National Institute of Child Health and Human Development, and 
+in part by Contract AT(30-1)-1800 with the U.S. Atomic Energy Commission.
+<HR>
+
+<P><B>LITERATURE CITED</B>
+
+<A NAME="ref17-1"></A>
+<P>Altman, K.I., and E.S. Russell. 1964. 
+Heme synthesis in normal and genetically anemic mice. 
+J. Cell. Comp. Physiol. <B>64:</B> 293-301.
+<!-- 14245446 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14245446" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-2"></A>
+<P>Altman, K.I., E.S. Russell, K. Salomon, and J.K. Scott. 1953. 
+Chemopathology of hemoglobin synthesis in mice with hereditary anemia. 
+Fed. Proc. <B>12:</B> 168.
+
+
+<A NAME="ref17-3"></A>
+<P>Attfield, M. 1951. 
+Inherited macrocytic anaemias in the house mouse. III. Red blood cell diameters. 
+J. Genet. <B>50:</B> 250-263.
+
+
+<A NAME="ref17-4"></A>
+<P>Auerbach, R. 1961. 
+Experimental analysis of the origin of cell types in the development of the mouse thymus. 
+Develop. Biol. <B>3:</B> 336-354.
+<!-- 13685081 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13685081" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-5"></A>
+<P>Ball, W.D. 1963. 
+A quantitative assessment of mouse thymus differentiation. 
+Exp. Cell Res. <B>31:</B> 82-88.
+<!-- 14043852 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14043852" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-6"></A>
+<P>Ballantyne, J., F.G. Bock, L.C. Strong, and W.C. Quevedo, Jr. 1961. 
+Another allele at the <I>W</I> locus of the mouse. 
+J. Hered. <B>52:</B> 200-202.
+<!-- MGI:61287 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61287" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-7"></A>
+<P>Bernstein, S.E. 1963. 
+Problems and potentialities of hematopoietic tissue transplants. 
+Trans. New Engl. Surg. Soc. <B>44:</B> 76-83.
+
+
+<A NAME="ref17-8"></A>
+<P>Bernstein, S.E., and E.S. Russell. 1959. 
+Implantation of normal blood-forming tissue in genetically anemic mice, without X-irradiation of the host. 
+Proc. Soc. Exp. Biol. Med. <B>101:</B> 769-773.
+<!-- 13799838 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13799838" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-9"></A>
+<P>Bernstein, S.E., E.S. Russell, and F.A. Lawson. 1959. 
+Limitations of whole-body irradiation for inducing acceptance of homograftsd in cases involving a genetic defect. 
+Transpl. Bull <B>6(23):</B> 106-108.
+<!-- 13799837 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13799837" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-10"></A>
+<P>Borghese, E. 1959. 
+The present state of research on <I>WW</I> mice. 
+Acta Anat. <B>36:</B> 185-220.
+<!-- 13636729 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13636729" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-11"></A>
+<P>Brecher, G., K.M. Endicott, H. Gump, and H.P. Brawner. 1948. 
+Effects of x-ray on lymphoid and hemopoietic tissues of albino mice. 
+Blood <B>3:</B> 1259-1274.
+
+<A NAME="ref17-12"></A>
+<P>Brecher, G., and F. Stohlman, Jr. 1959. 
+Humoral factors in erythropoiesis, p. 110-132. 
+<I>In</I> L.M. Tocantins [ed.] <I>Progress in Hematology. Vol. 2</I>. Grune & Stratton, New York.
+
+<A NAME="ref17-13"></A>
+<P>Brown, H.E., and T.F. Dougherty. 1956. 
+The diurnal variation of blood leukocytes in normal and adrenalectomized mice. 
+Endocrinology <B>58:</B> 365-375.
+<!-- 13294085 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13294085" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-14"></A>
+<P>Budds, O.C., E.S. Russell, and G.E. Abrams. 1953. 
+Effects of genetics and anesthesia upon granulocyte and agranulocyte levels in seven inbred mouse strains. 
+Proc. Soc. Exp. Biol. Med. <B>84:</B> 176-178.
+<!-- 13120977 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13120977" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-15"></A>
+<P>Chai, C.K. 1957. 
+Leukopenia: an inherited character in mice. 
+Science <B>126:</B> 125.
+<!-- 13442659 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13442659" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-16"></A>
+<P>Cotes, P.M., and D.R. Bangham. 1961. 
+Bio-assay of erythropoietin in mice made polycythaemic by exposure to air at reduced pressure. 
+Nature <B>191:</B> 1065-1067.
+<!-- 13695857 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13695857" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-17"></A>
+<P>Craig, M.L., and E.S. Russell. 1963. 
+Electrophoretic patterns of hemoglobin from fetal mice of different inbred strains. 
+Science <B>142:</B> 398-399.
+<!-- MGI:3028496 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:3028496" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-18"></A>
+<P>Craig, M.L., and E.S. Russell. 1964. 
+A developmental change in hemoglobins correlated with an embryonic red cell population in the mouse. 
+Develop. Biol. <B>10:</B> 191-201.
+<!-- 14217775 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14217775" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-19"></A>
+<P>Cudkowicz, G., A.C. Upton, L.H. Smith, D.G. Gosslee, and W.L. Hughes. 1964. 
+An approach to the characterization of stem cells in mouse bone marrow. 
+Ann. N.Y. Acad. Sci. <B>114:</B> 571-582.
+<!-- 14125998 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14125998" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-20"></A>
+<P>Davies, A.J.S., A. M. Cross, and K. Lapis. 1962. 
+Anaemia associated with the NK/lymphoma in mice. 
+Brit. J. Cancer <B>16:</B> 770-781.
+<!-- 14025389 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14025389" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-21"></A>
+<P>DeAberle, S.B. 1927. 
+A study of the hereditary anemia of mice. 
+Amer. J. Anat. <B>40:</B> 219-247.
+
+<A NAME="ref17-22"></A>
+<P>Deol, M.S. 1961. 
+Genetical studies on the skeleton of the mouse. XXVIII. Tail-short. 
+Proc. Roy. Soc. B <B>155:</B> 78-95.
+<!-- MGI:63157 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63157" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-23"></A>
+<P>Dunn, T.B. 1954. 
+Normal and pathologic anatomy of the reticular tissue in laboratory mice, with a classification and discussion of neoplasms. 
+J. Nat. Cancer Inst. <B>14:</B> 1281-1433.
+<!-- MGI:75341 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75341" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-24"></A>
+<P>Endicott, K.M., and H. Gump. 1947. 
+Hemograms and myelograms of healthy female mice of C-57 brown and CFW strains. 
+Blood (Spec. issue) <B>1:</B> 61-63.
+
+<A NAME="ref17-25"></A>
+<P>Ewing, K.L., and O.E. Tauber. 1964. 
+Hematological changes in aging male C57BL/6Jax mice. 
+J. Gerontol. <B>19:</B> 165-167.
+<!-- 14165666 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14165666" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-26"></A>
+<P>Falconer, D.S., and J.H. Isaacson. 1962. 
+The genetics of sex-linked anaemia in the mouse. 
+Genet. Res. <B>3:</B> 248-250.
+<!-- MGI:48555 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48555" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-27"></A>
+<P>Fekete, E., C.C. Little and A.M. Cloudman. 1941. 
+Some effects of the gene <I>W<SUP>v</SUP></I> (dominant spotting) in mice. 
+Proc. Nat. Acad. Sci. <B>27:</B> 114-117.
+<!-- 16577997 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16577997" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-28"></A>
+<P>Filmanowicz, E., and C.W. Gurney. 1961. 
+Studies on erythropoiesis. XVI. The response to a single dose of erythropoietin in the polycythemic mouse. 
+J. Lab. Clin. Med. <B>57:</B> 65-72.
+<!-- 13699502 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13699502" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-29"></A>
+<P>Gluecksohn-Waelsch, S. 1960. 
+The inheritance of hemoglobin types and other biochemical traits in mammals. 
+J. Cell. Comp. Physiol. <B>56 (Suppl.):</B> 89-101.
+<!-- 13706111 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13706111" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-30"></A>
+<P>Gluecksohn-Waelsch, S., H.M. Ranney, and B.F. Sisken. 1957. 
+The hereditary transmission of hemoglobin differences in mice. 
+J. Clin. Invest. <B>36:</B> 753-756.
+<!-- 13439013 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13439013" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-31"></A>
+<P>Goodman, J.W., and G.S. Hodgson. 1962. 
+Evidence for stem cells in the peripheral blood of mice. 
+Blood <B>19:</B> 702-714.
+<!-- 13900318 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13900318" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-32"></A>
+<P>Goodman, J.W., and L.H. Smith. 1961. 
+Erythrocyte life span in normal mice and in radiation bone marrow chimeras. 
+Amer. J. Physiol. <B>200:</B> 764-770.
+<!-- 13707040 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13707040" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-33"></A>
+<P>Goulden, F., and F.L. Warren. 1944. 
+The hemoglobin content of the blood of mice of the RIII and CBA strains. 
+Cancer Res. <B>4:</B> 421-424.
+
+<A NAME="ref17-34"></A>
+<P>Gowen, J.W., and M.L. Calhoun. 1943. 
+Factors affecting genetic resistance of mice to mouse typhoid. 
+J. Infect. Dis. <B>72:</B> 40-56.
+
+<A NAME="ref17-35"></A>
+<P>Grewal, M.S. 1962. 
+A sex-linked anaemia in the mouse. 
+Genet. Res. <B>3:</B> 238-247.
+
+<A NAME="ref17-36"></A>
+<P>Gr&#252;neberg, H. 1939. 
+Inherited macrocytic anemias in the house mouse. 
+Genetics <B>24:</B> 777-810.
+<!-- 17246952 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17246952" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-37"></A>
+<P>Gr&#252;neberg, H. 1941. 
+The growth of the blood of the suckling mouse. 
+J. Pathol. Bacteriol. <B>52:</B> 323-329.
+
+<A NAME="ref17-38"></A>
+<P>Gr&#252;neberg, H. 1942<I>a</I>. 
+The anaemia of flex-tailed mice (<I>Mus musculus L.</I>). I. Static and dynamic hematology. 
+J. Genet. <B>43:</B> 45-68.
+
+<A NAME="ref17-39"></A>
+<P>Gr&#252;neberg, H. 1942<I>b</I>. 
+The anaemia of flexed-tailed mice (<I>Mus musculus L.</I>). II. Siderocytes. 
+J. Genet. <B>44:</B> 246-271.
+<!-- MGI:63126 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63126" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-40"></A>
+<P>Gr&#252;neberg, H. 1942<I>c</I>. 
+Inherited macrocytic anaemias of the house mouse. II. Dominance relationships. 
+J. Genet. <B>43:</B> 285-293.
+<!-- MGI:63125 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63125" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-41"></A>
+<P>Gurney, C.W., R. Degowin, D. Hofstra, and J. Byron. 1962. 
+Applications of erythropoietin to biological investigation, p. 151-161. 
+<I>In</I> L.O. Jacobson and M. Doyle [ed.] <I>Erythropoiesis</I>. Grune & Stratton, New York.
+
+<A NAME="ref17-42"></A>
+<P>Gurney, C.W., N. Wackman, and E. Filmanowicz. 1961. 
+Studies on erythropoiesis. XVII. Some quantitative aspects of the erythropoietic response to erythropoietin. 
+Blood <B>17:</B> 531-546.
+<!-- 13709877 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13709877" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-43"></A>
+<P>Halberg, F., and M.B. Visscher. 1950. 
+Regular diurnal physiological variation in eosinophila levels in five stocks of mice. 
+Proc. Soc. Exp. Biol. Med. <B>75:</B> 846-847.
+<!-- 14808426 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14808426" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-44"></A>
+<P>Halberg, F., M.B. Visscher, and J.J. Bittner. 1953. 
+Eosinophil rhythm in mice: range of occurrence; effects of illumination, feeding and adrenalectomy. 
+Amer. J. Physiol. <B>174:</B> 109-122.
+<!-- 13065505 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13065505" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-45"></A>
+<P>Heinecke, H. 1961. 
+Das Blutbild der Maus (Eine &#220;bersicht). I. Das normale quantitative und qualitative weisse Blutbild. 
+Z. Versuchstierk. <B>1:</B> 16-37.
+
+<A NAME="ref17-46"></A>
+<P>Heinecke, H. 1962. 
+Das Blutbild der Maus (Eine &#220;bersicht). II. Das normale rote Blutbild. 
+Z. Versuchstierk. <B>1:</B> 141-159.
+
+<A NAME="ref17-47"></A>
+<P>Heinecke, H. 1963. 
+Das Blutbild der Maus. III. Thrombozyten-Normalwerte. 
+Z. Versuchstierk. <B>3:</B> 77-80.
+
+<A NAME="ref17-48"></A>
+<P>Heinecke, H., and M. Wagner. 1964. 
+Zur Frage der H&#228;moglobintypen der Maus. 
+Z. Versuchstierk. <B>5:</B> 88-97.
+
+<A NAME="ref17-49"></A>
+<P>Helyer, B.J., and J.B. Howie. 1963. 
+Spontaneous auto-immune disease in NZB/Bl mice. 
+Brit. J. Haematol. <B>9:</B> 119-131.
+<!-- 13953665 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13953665" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-50"></A>
+<P>Hertwig, P. 1942. 
+Neue Mutationen und Koppelungsgruppen bei der Hausmaus. 
+Z. Indukt. Abstamm. Vererb. <B>80:</B> 200-246.
+<!-- MGI:48746 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48746" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-51"></A>
+<P>Hertwig, P. 1956. 
+Erbliche anemien bei M&#228;usen. 
+Verhandl. Deut. Zool. Ges. Hamburg, p. 185-193.
+
+<A NAME="ref17-52"></A>
+<P>Hutton, J.J., J. Bishop, R. Schweet, and E.S. Russell. 1962<I>a</I>. 
+Hemoglobin inheritance in inbred mouse strains. I. Structural differences. 
+Proc. Nat. Acad. Sci. <B>48:</B> 1505-1523.
+<!-- MGI:48641 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48641" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-53"></A>
+<P>Hutton, J.J., J. Bishop, R. Schweet, and E.S. Russell. 1962<I>b</I>. 
+Hemoglobin inheritance in inbred mouse strains. II. Genetic studies. 
+Proc. Nat. Acad. Sci. <B>48:</B> 1718-1724.
+<!-- MGI:48641 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48641" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-54"></A>
+<P>Hutton, J.J. R.S. Schweet, H.G. Wolfe, and E.S. Russell. 1964. 
+Hemoglobin solubility and &#945;-chain structure in crosses between two inbred mouse strains. 
+Science <B>143:</B> 252-253.
+<!-- 14077550 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14077550" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-55"></A>
+<P>Jacobson, L.O. 1944. 
+The effect of estrogens on the peripheral blood and bone marrow of mice. 
+Endocrinology <B>34:</B> 240-244.
+
+<A NAME="ref17-56"></A>
+<P>Jacobson, L.O., and M. Doyle [ed.] 1962. 
+<I>Erythropoiesis</I>. 
+Grune & Stratton, New York. 339 p.
+
+<A NAME="ref17-57"></A>
+<P>Jacobson, L.O., E. Gldwasser, L.F. Plzak, and W. Fried. 1957. 
+Studies on erythropoiesis. Part IV. Reticulocyte response of hypophysectomized and polycythemic rodents to erythropoietin. 
+Proc. Soc. Exp. Biol. Med. <B>95:</B> 243-249.
+
+<A NAME="ref17-58"></A>
+<P>Joe, M., J.M. Teasdale, and J. R. Miller. 1962. 
+A new mutation (<I>sph</I>) causing neonatal jaundice in the house mouse. 
+Can. J. Genet. Cytol. <B>4:</B> 219-225.
+<!-- MGI:60525 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60525" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-59"></A>
+<P>Kamenoff, R.J. 1935. 
+Effects of the flexed-tailed gene on the development of the house mouse. 
+J. Morphol. <B>58:</B> 117-155.
+<!-- MGI:61299 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61299" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-60"></A>
+<P>Keighley, G. 1962. 
+Experience with assays, units and standards of erythropoietin, p. 17-32. 
+<I>In</I> L.O. Jacobson and M. Doyle [ed.] <I>Erythropoiesis</I>. Grune & Stratton, New York.
+
+<A NAME="ref17-61"></A>
+<P>Keighley, G.H., P. Lowy, E.S. Russell, and M.W. Thompson. 1966. 
+Analysis of erythroid homeostatic mechanisms in normal and genetically anemic mice. 
+Brit J. Haemat. <B>12:</B> 461-477. 
+<!-- 5944493 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->5944493" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-62"></A>
+<P>Keighley, G.H., E.S. Russell, and P. Lowy. 1962. 
+Response of normal and genetically anaemic mice to erythropoietic stimuli. 
+Brit. J. Haematol. <B>8:</B> 429-441.
+
+<A NAME="ref17-63"></A>
+<P>Kuharcik, A.M., and P.F. Forsthoefel. 1963. 
+A study of the anemia in Strong's luxoid mutant. 
+J. Morphol. <B>112:</B> 13-21.
+
+<A NAME="ref17-64"></A>
+<P>Kunze, H. 1954. 
+Die Erythropoese bei einer erblichen An&#228;mie r&#246;mtgenmutierte M&#228;use. 
+Folia Haematol. <B>72:</B> 392-436.
+
+<A NAME="ref17-65"></A>
+<P>Lajtha, L.G. 1962. 
+Stem cell kinetics and erythropoietin, p. 140-150. 
+<I>In</I> L.O. Jacobson and M. Doyle [ed.] <I>Erythropoiesis</I>. Grune & Stratton. New York.
+
+<A NAME="ref17-66"></A>
+<P>Law, L.W., and W.E. Heston. 1941. 
+Total erythrocyte counts as quoted by E. Fekete, p. 93. 
+<I>In</I> G.D. Snell [ed.] <I>Biology of the Laboratory Mouse</I>. Blakiston, Philadelphia.
+
+<A NAME="ref17-67"></A>
+<P>Lockner, D., K. Sletten, and G. de Hevesy. 1963. 
+Studies on cancer anaemia; organ weights, blood values, and iron metabolims in normal and tumor-bearing mice. 
+Brit. J. Cancer <B>17:</B> 238-354.
+<!-- MGI:83214 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83214" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-68"></A>
+<P>Margolis, F.L., and E.S. Russell. 1965. 
+Delta-aminolevulinate dehydratase activity in mice with hereditary anemia. 
+Science <B>150:</B> 496-497.
+<!-- 5891055 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->5891055" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-69"></A>
+<P>McCulloch, E.A., L. Siminovich, and J.E. Till. 1964. 
+Spleen-colony formation in anemic mice of genotype <I>WW<SUP>v</SUP></I>. 
+Science <B>144:</B> 844-846.
+<!-- 14149394 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14149394" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-70"></A>
+<P>McCulloch, E.A., L. Simonovitch, J.E. Till, E.S. Russell, and S.E. Bernstein. 1965. 
+The cellular basis of the genetically determined hemopoietic defect in anemic mice of the genotype <I>Sl</I>/<I>Sl<SUP>d</SUP></I>. 
+Blood. <B>26:</B> 399-410.
+<!-- 5317869 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->5317869" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-71"></A>
+<P>Mehrotra, T.N., and G. Cardinali. 1963. 
+Study of mouse hemoglobins by starch-gel electrophoresis. 
+Fed. Proc. <B>22:</B> 601.
+<!-- 14169795 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14169795" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-72"></A>
+<P>Metcalf, D., and R.F. Buffett. 1957. 
+Lymphocytosis response in mice and its relation to thymus and adrenal. 
+Proc. Soc. Exp. Biol. Med. <B>95:</B> 576-579.
+<!-- 13453512 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13453512" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-73"></A>
+<P>Morton, J.R. 1962. 
+Starch-gel electrophoresis of mouse haemoglobins. 
+Nature <B>194:</B> 383-384.
+<!-- 14476389 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14476389" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-74"></A>
+<P>Morton, J.R. 1965. 
+Mouse News Letter <B>32:</B> 20-21.
+
+<A NAME="ref17-75"></A>
+<P>Nash, D.J. 1964. 
+Mouse News Letter <B>30:</B> 53-54.
+
+<A NAME="ref17-76"></A>
+<P>Nash, D.J., E. Kent, M.M. Dickie, and E.S. Russell. 1964. 
+The inheritance of "mick," a new anemia in the house mouse. 
+Amer. Zool. <B>14:</B> 404-405 (Abstr.)
+
+<A NAME="ref17-77"></A>
+<P>Niece, R.L., E.C. McFarland, and E.S. Russell. 1963. 
+Erythroid homeostasis in normal and genetically anemic mice: reaction to induced polycythemia. 
+Science <B>142:</B> 1468-1469.
+<!-- 14077028 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14077028" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-78"></A>
+<P>Odell, T.T., Jr., and T.P. McDonald. 1960. 
+Peripheral counts and survival of blood platelets of mice. 
+Fed. Proc. <B>19:</B> 63. (Abstr.)
+
+<A NAME="ref17-79"></A>
+<P>Odell, T.T., Jr., and T.P. McDonald. 1961. 
+Lifespan of mouse blood platelets. 
+Proc. Soc. Exp. Biol. Med. <B>106:</B> 107-108.
+<!-- 13730268 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13730268" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-80"></A>
+<P>Panzenhagen, H., and R. Speirs. 1953. 
+Effect of horse serum, adrenal hormones, and histamine on the number of eosinophils in the blood and peritoneal fluid of mice. 
+Blood <B>8:</B> 536-544.
+<!-- 13059039 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13059039" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-81"></A>
+<P>Petri, S. 1953. 
+Morphologie und Zahl der Blutk&#246;rperchen bei 7-ca. 30 g. Schweren normalen weissen laboratoriumsm&#228;usen. 
+Acta Pathol. Microbiol. Scand. <B>10:</B> 159-238.
+
+<A NAME="ref17-82"></A>
+<P>Popp, R.A. 1962<I>a</I>. 
+Studies on the mouse hemoglobin loci. II. Position of the hemoglobin locus with respect to albinism and shaker-1 loci. 
+J. Hered. <B>53:</B> 73-75.
+<!-- MGI:48647 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48647" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-83"></A>
+<P>Popp, R.. 1962<I>b</I>. 
+Studies on the mouse hemoglobin loci. III. Heterogeneity of electrophoretically indistinguishable single-type hemoglobins. 
+J. Hered. <B>53:</B> 75-77.
+<!-- 14487977 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14487977" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-84"></A>
+<P>Popp, R.A. 1962<I>c</I>. 
+Studies on the mouse hemoglobin loci. IV. Independent segregation  of <I>Hb</I> and <I>Sol</I>: effect of the loci on the electrophoretic and solubility properties of hemoglobins. 
+J. Hered. <B>53:</B> 77-80.
+<!-- 14487977 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14487977" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-85"></A>
+<P>Popp, R.A. 1962<I>d</I>. 
+Studies on the mouse hemoglobin loci. V. Differences among tryptic peptides of the &#946;-chain governed by alleles at the <I>Hb</I> locus. 
+J. Hered. <B>53:</B> 142-146.
+<!-- 13972293 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13972293" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-86"></A>
+<P>Popp, R.A. 1962<I>e</I>. 
+Studies on the mouse hemoglobin loci. VI. A third allele, <I>Sol<SUP>3</SUP></I>, at the <I>Sol</I> locus. 
+J. Hered. <B>53:</B> 147-148.
+<!-- MGI:76419 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:76419" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-87"></A>
+<P>Popp, R.A. 1962<I>f</I>. 
+Studies on the mouse hemoglobin loci. VII. Differences among tryptic peptides of the &#945;-chain governed by alleles at the <I>Sol</I> locus. 
+J. Hered. <B>53:</B> 148-151.
+<!-- 13972293 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13972293" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-88"></A>
+<P>Popp, R.A. 1963<I>a</I>. 
+Mammalian hemoglobins, p. 299-322. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+<A NAME="ref17-89"></A>
+<P>Popp, R.A. 1963<I>b</I>. 
+Hemoglobin loci: mice classified for their <I>Hb</I> and <I>Sol</I> alleles. 
+Science <B>140:</B> 893-894.
+<!-- 13972291 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13972291" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-90"></A>
+<P>Popp, R.A. 1965<I>a</I>. 
+The separation and amino acid composition of the tryptic peptides of the &#945;-chain of hemoglobin from C57BL mice. 
+J. Biol. Chem. <B>240:</B> 2863-2867.
+<!-- pmed -->
+
+<A NAME="ref17-91"></A>
+<P>Popp, R.A. 1965<I>b</I>. 
+Hemoglobin variants in mice. 
+Fed. Proc. <B>24:</B> 1252-1257.
+<!-- MGI:61147 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61147" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-92"></A>
+<P>Popp, R.A., and G.E. Cosgrove. 1959. 
+Solubility of hemoglobin as red cell marker in irradiated mouse chimeras. 
+Proc. Soc. Exp. Biol. Med. <B>101:</B> 754-758.
+<!-- 14434170 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14434170" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-93"></A>
+<P>Popp, R.A., D.M. Popp, and B.C. Webb. 1963. 
+Amino acid analyses of tryptic peptides of the &#947;-chain of mouse hemoglobin. 
+Amer. Zool. <B>3:</B> 490. (Abstr.)
+
+<A NAME="ref17-94"></A>
+<P>Popp, R.A., and W. St. Amand. 1960. 
+Studies on the mouse hemoglobin locus. I. Identification of hemoglobin types and linkage of hemoglobin with albinism. 
+J. Hered. <B>51:</B> 141-144.
+<!-- MGI:48650 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48650" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-95"></A>
+<P>Prentice, T.C., and E.A. Mirand. 1957. 
+Effect of acute liver damage plus hypoxia on plasma erythropoietin content. 
+Proc. Soc. Exp. Biol. Med. <B>95:</B> 231-234.
+<!-- 13441693 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13441693" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-96"></A>
+<P>Pujman, V., S. Prokopov&#225;, and R. Reichlova. 1954. 
+Bemerkungen zum Blutbild der Maus. 
+Acta Soc. Zool. Bohemoslov. <B>18:</B> 289-297.
+
+<A NAME="ref17-97"></A>
+<P>Ranney, H.M., and S. Gluecksohn-Waelsch. 1955. 
+Filter-paper electrophoresis of mouse haemoglobin: preliminary note. 
+Ann. Hum. Genet. <B>19:</B> 269-272.
+<!-- 14388533 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14388533" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-98"></A>
+<P>Ranney, H.M., G.M. Smith, and S. Gluecksohn-Waelsch. 1960. 
+Haemoglobin differences in inbred strains of mice. 
+Nature <B>188:</B> 212-214.
+<!-- 13739497 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13739497" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-99"></A>
+<P>Rhinesmith, H.S., H.H. Li, B.L. Millikin, and L.C. Strong. 1964. 
+Mouse hemoglobin. I. Chromatographic analysis. 
+Anal. Biochem. <B>8:</B> 407-414.
+<!-- 14218907 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14218907" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-100"></A>
+<P>Rifkin, D., M.M. Rifkin, and W. Konigsberg. 1965. 
+Amino acid compositions of tryptic peptides of two strains of mouse hemoglobin. 
+Fed. Proc. <B>24:</B> 532. (Abstr.)
+
+<A NAME="ref17-101"></A>
+<P>Riggs, A. 1963. 
+The amino acid composition of some mammalian hemoglobins: mouse, guinea pig and elephant. 
+J. Biol. Chem. <B>238:</B> 2983-2987.
+<!-- 14081913 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14081913" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-102"></A>
+<P>Riggs, A. 1965. 
+Hemoglobin polymerization in mice. 
+Science <B>147:</B> 621-623.
+<!-- 14241412 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14241412" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-103"></A>
+<P>Rosa, G. Schapira, J.C. Dreyfus, J. de Grouchy, G. Math&#233;, and J. Bernard. 1958. 
+Different heterogeneities of mouse haemoglobin according to strains. 
+Nature <B>182:</B> 947-948.
+
+<A NAME="ref17-104"></A>
+<P>Russell, E.S. 1949. 
+Analysis of pleiotropism of the <I>W</I>-locus in the mouse: relationship between the effects of <I>W</I> and 
+<I>W<SUP>v</SUP></I> substitution on hair pigmentation and on erythrocytes. 
+Genetics <B>34:</B> 708-723.
+<!-- MGI:51913 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51913" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-105"></A>
+<P>Russell, E.S. 1955. 
+Review of the pleiotropic effects of <I>W</I>-series genes on growth and differentiation, p. 113-126. 
+<I>In</I> D. Rudnick [ed.] <I>Aspects of Synthesis and Order in Growth</I>. Princeton University Press, Princeton, N.J.
+
+<A NAME="ref17-106"></A>
+<P>Russell, E.S. 1960. 
+Genetic aspects of implantation of blood-forming tissue. 
+Fed. Proc. <B>19:</B> 573-578.
+<!-- 14440296 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14440296" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-107"></A>
+<P>Russell, E.S. 1963. 
+Techniques for the study of anemias in mice, P. 558-564. 
+<I>In</I> W.J.Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. 
+Holden-Day, San Francisco.
+
+<A NAME="ref17-108"></A>
+<P>Russell, E.S., S.E. Bernstein, F.A. Lawson, and L.J. Smith. 1959. 
+Long-continued function of normal blood-forming tissue transplanted into genetically anemic hosts. 
+J. Nat. Cancer Inst. <B>23:</B> 557-566.
+<!-- 14440295 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14440295" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-109"></A>
+<P>Russell, E.S., S.E. Bernstein, E.C. McFarland, and W.R. Modeen. 1963. 
+The cellular basis of differential radiosensitivity of normal and genetically anemic mice. 
+Radiat. Res. <B>20:</B> 677-694.
+<!-- 14102487 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14102487" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-110"></A>
+<P>Russell, E.S., and E.L. Fondal. 1951. 
+Quantitative analysis of the normal and four alternative degrees of an inherited macrocytic anemia in the house mouse. I. Number and size of erythrocytes. 
+Blood <B>6:</B> 892-905.
+<!-- 14869351 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14869351" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-111"></A>
+<P>Russell, E.S., and P.S. Gerald. 1958. 
+Inherited electrophoretic hemoglobin patterns among 20 inbred strains of mice. 
+Science <B>128:</B> 1569-1570.
+<!-- MGI:74929 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74929" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-112"></A>
+<P>Russell, E.S., and F.A. Lawson. 1959. 
+Selection and inbreeding for logevity of a lethal type. 
+J. Hered. <B>50:</B> 19-25.
+<!-- MGI:50992 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50992" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-113"></A>
+<P>Russell, E.S., F.A. Lawson, and G. Schabtach. 1957. 
+Evidence for a new allele at the <I>W</I>-locus of the mouse. 
+J. Hered. <B>48:</B> 119-123.
+<!-- MGI:51911 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51911" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-114"></A>
+<P>Russell, E.S., and E.C. McFarland. 1965. 
+Erythrocyte populations in fetal mice with and without two hereditary anemias. 
+Fed. Proc. <B>24:</B> 240 (Abstr.)
+
+<A NAME="ref17-115"></A>
+<P>Russell, E.S., E.F. Neufeld, and C.T. Higgins. 1951. 
+Comparison of normal blood picture of young adults from 18 inbred strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>78:</B> 761-766.
+<!-- MGI:70612 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70612" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-116"></A>
+<P>Russell, E.S., L.J. Smith, and F.A. Lawson. 1956. 
+Implantation of normal blood-forming tissues in radiated genetically anemic hosts. 
+Science <B>124:</B> 1076-1077.
+<!-- 13380421 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13380421" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-117"></A>
+<P>Russell, E.S., C.M. Snow, L.M. Murray, and J.P. Cormier. 1953. 
+The bone marrow in inherited macrocytic anemia in the house mouse. 
+Acta Haematol. <B>10:</B> 247-259.
+<!-- 13113873 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13113873" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-118"></A>
+<P>Sarvella, P.A., and L.B. Russell. 1956. 
+Steel, a new dominant gene in the house mouse. 
+J. Hered. <B>47:</B> 123-128.
+<!-- MGI:51912 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51912" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-119"></A>
+<P>Siminovitch, L., E.A. McCulloch, and J.E. Till. 1963. 
+The distribution of colony-forming cells among spleen colonies. 
+J. Cell. Comp. Physiol. <B>62:</B> 327-336.
+<!-- 14086156 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14086156" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-120"></A>
+<P>Stevens, L.C., and J.A. Mackensen. 1958. 
+The inheritance and expression of a mutation in the mouse affecting blood formation, the axial skeleton, and body size. 
+J. Hered. <B>49:</B> 153-160.
+<!-- MGI:51002 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51002" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-121"></A>
+<P>Stevens, L.C., J.A. Mackensen, and S.E. Bernstein. 1959. 
+A mutation causing neonatal jaundice in the house mouse. 
+J. Hered. <B>50:</B> 35-39.
+<!-- MGI:48843 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48843" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-122"></A>
+<P>Strong, L.C., and L.D. Francis. 1937. 
+The blood of female mice (breeders) of cancer-susceptible (A) and cancer-resistant (CBA) strains. 
+Arch. Pathol. <B>23:</B> 202-206.
+
+
+<A NAME="ref17-123"></A>
+<P>Strong, L.C., and W.F. Hollander. 1953. 
+Two non-allelic mutants resembling "<I>W</I>" in the house mouse. 
+J. Hered. <B>44:</B> 41-44.
+<!-- MGI:63457 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63457" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-124"></A>
+<P>Thompson, M.W., E.S. Russell, and E.C. McFarland. 1963. 
+Response of polycythemic <I>WW<SUP>v</SUP></I> anemic mice to erythropoietin. 
+Proc. XI Int. Congr. Genet. <B>1:</B> 185-186. (Abstr.)
+
+
+<A NAME="ref17-125"></A>
+<P>Till, J.E., and E.A. McCulloch. 1961. 
+A direct measurement of the radiation sensitivity of normal mouse bone marrow cells. 
+Radiat. Res. <B>14:</B> 213-222.
+<!-- 13776896 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13776896" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-126"></A>
+<P>Van Putten, L.M. 1958. 
+The life span of red cells in the rat and the mouse as determined by labeling with DFP<SUP>32</SUP> in vivo. 
+Blood <B>13:</B> 789-794.
+<!-- 13560578 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13560578" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-127"></A>
+<P>Von Ehrenstein, G. 1958. 
+The life span of the erythrocytes of normal and of tumour-bearing mice as determined by glycine-2-<SUP>14</SUP>C. 
+Acta Physiol. Scand. <B>44:</B> 80-91.
+<!-- 13605809 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13605809" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-128"></A>
+<P>Weir, J.A., and G. Schlager. 1962. 
+Selection for leucocyte count in the house mouse and some physiological effects. 
+Genetics <B>47:</B> 1199-1217.
+<!-- 13999668 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13999668" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-129"></A>
+<P>Welling, W., and D.W. van Bekkum. 1958. 
+Different types of haemoglobin in two strains of mice. 
+Nature <B>182:</B> 946-947.
+<!-- 13590184 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13590184" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref17-130"></A>
+<P>Wiadrowski, M., and D. Metcalf. 1963. 
+Erythrocyte osmotic fragility in AKR mice with lymphoid leukaemia. 
+Nature <B>198:</B> 1103-1104.
+
+<A NAME="ref17-131"></A>
+<P>Wolfe, H.G. 1963. 
+Mouse News Letter <B>29:</B> 40.
+<!-- MGI:48743 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48743" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-132"></A>
+<P>Wolfe, H.G., E.S. Russell, and S.O. Packer. 1963. 
+Hemoglobins in mice; segregation of genetic factors affecting electrophoretic mobility and solubility. 
+J. Hered. <B>54:</B> 107-112.
+<!-- MGI:48662 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48662" target="_blank">MGI</A></I>.
+
+<A NAME="ref17-133"></A>
+<P>Yonehiro, E.G., and J.B. Aust. 1963. 
+Studies on some factors influencing anemia in tumor-bearing animals. 
+J. Amer. Med. Ass. <B>186:</B> 550-553.
+<!-- 14059027 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14059027" target="_blank">PubMed</A>.</I>
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter16.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter18.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

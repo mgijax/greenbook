@@ -1,0 +1,820 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 23 - Responses to Drugs</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, drugs, randombred, pharmaceutical, inbred mice, hybrids, mutant, bioassay, dose-response, genetics">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter22.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter24.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>23</H1>
+<H2><I>Responses to Drugs</I></H2>
+<H3>Hans Meier and John L. Fuller</H3>
+
+<P>Mice of randombred stocks are widely used in the pharmaceutical industry for the testing of drugs. This chapter, however, concentrates on genetic 
+variation in responses to drugs as observed in inbred mice, hybrids, and mutant stocks. Differences of this kind may affect drug assays and, more importantly, 
+shed light on the mechanism of drug action. Some mutant stocks may be useful for assessing drugs for their curative, ameliorative, or prophylactic effects. 
+A survey of this one species illustrates the role of genotype in determining responses to drugs and also exemplifies some of the unsolved problems of pharmacogenetics.
+
+<P><B>GENETICS OF RESPONSES TO DRUGS</B>
+
+<P>The existence of strain differences in response to drugs has been amply documented. The mode of transmission of response patterns has been less investigated 
+and few of the differences observed have been related to a single locus with major effects. The quantitative genetics of pharmacological reactions is necessarily 
+complex because of the multiplicity of possible phenotypes for study (
+<A HREF="#ref23-23">Green and Meier, 1965</A>). One cannot simply assume that the intensity of all observed responses to a particular drug will be determined by the same hereditary makeup.
+
+<P>Most of the human pharmacogenetic literature (
+<A HREF="#ref23-36">Kalow, 1962</A>) concerns single-locus effects on sensitivity related to sex-linked differences in glucose-6-phosphate dehydrogenase (
+<A HREF="#ref23-45">Price-Evans and Clarke, 1961</A>). In contrast, studies of strain differences have predominated in the mouse, though a few single-locus systems have been 
+reported. For example, Dagg <I>et al.</I> (
+<A HREF="#ref23-16">1964</A>) found single-locus control of the rate of metabolism of the pyrimidines, uracil, dihydrouracil, and thymine.
+
+<P>The analysis of the responses of inbred, hybrid, and randombred mice to insulin (
+<A HREF="#ref23-7">Brown, 1961<I>a</I></A>) and to sodium pentobarbitone (
+<A HREF="#ref23-8">Brown, 1961<I>b</I></A>) illustrates the quantitative approach to strain differences. A randombred strain, LAC, was generally less sensitive to insulin 
+than were inbred strains. Hybrids between several of the inbred strains were compared with respect to ED<SUB>50</SUB> and mean slope of the dose-response regression line (
+<a href="javascript:windowt2301 = window.open('../tables/table23-1.shtml', 'windowt2301', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt2301.focus()">Table 23-1</A>). 
+It is apparent from the table that the outcomes of the two crosses, one of them made reciprocally, follow no simple rule. The hybrid may resemble one parent in ED<SUB>50</SUB> 
+and neither in average slope. Similar results were obtained with pentobarbitone sodium (
+<A HREF="#ref23-8">Brown, 1961<I>b</I></A>). Brown states, "The ability to forecast the usefulness of any F<SUB>1</SUB> hybrid for a particular pharmacological assay will depend 
+on prior knowledge of the response of its parents, but the confirmatory experimental results may be disappointing."
+
+<P>When sensitivity in assay can be correlated with other strain characteristics, the factors responsible for variation in pharmacological response may be indicated. 
+There is a significant relationship between average body weight and ED<SUB>50</SUB> for insulin (
+<a href="javascript:windowf2301 = window.open('../figures/figure23-1.shtml', 'windowf2301', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2301.focus()">Figure 23-1<I>A</I></A>), 
+but the correlation between weight and slope is less clear (
+<a href="javascript:windowf2301 = window.open('../figures/figure23-1.shtml', 'windowf2301', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2301.focus()">Figure 23-1<I>B</I></A>).
+
+<P><B>GENETICS AND BIOASSAYS</B>
+
+<P>The choice of animals for bioassay procedures has been widely debated (
+<A HREF="#ref23-4">Becker, 1962</A>). A part of the argument has centered upon the relative merits of inbred mice and their F<SUB>1</SUB> hybrids. There is some evidence that 
+hybrids are phenotypically more uniform than inbreds (
+<A HREF="chapter9.shtml">Chapter 9</A>). Thus, given equal sample size, one should expect greater reproducibility from hybrids. On the other hand, hybrids may possess better 
+homeostatic mechanisms and thus be less affected by the administration of a drug or hormone (
+<A HREF="#ref23-10">Chai, 1960</A>). It is not unlikely that the desiderata of uniformity and sensitivity may be negatively associated. Thus the choice of animals for bioassay is 
+a matter for empirical determination. Likewise one has a choice of statistics for judging the results of a bioassay. Chai (
+<A HREF="#ref23-10">1960</A>) has used &#955; = <I>s</I>/<I>b</I> as a measure of efficiency, where <I>s</I> is the standard deviation within groups and <I>b</I> is the regression 
+coefficient of the dose-response curve. He found no superiority of hybrids over inbreds in a number of hormone assays. Becker (
+<A HREF="#ref23-4">1962</A>) compared drug responses by an <I>F</I>-statistic, related to &#955;, based on analysis of variance.
+
+<P>Apparently, then, there is no general rule for selecting the most sensitive assay animal in advance. Randombred mice are more widely used than either inbreds or hybrids 
+in commercial assay work, where not only the sensitivity but the cost of subjects is important. Careful cost studies might show that the greater uniformity of inbred and 
+F<SUB>1</SUB> hybrid mice would more than compensate for the added expense of their production. Becker and Chai have both suggested that stocks of mice selected on the basis 
+of specific drug sensitivity might be valuable for assay purposes. At least one such strain &#151; a stock of Swiss mice with a high incidence of audiogenic seizures &#151; 
+has proved valuable in testing anticonvulsant and tranquilizing drugs (
+<A HREF="#ref23-54">Swinyard <I>et al.</I>, 1963</A>). The further development of such stocks is a matter of economics. It is almost certain that selection can produce strains with 
+increased or decreased specific drug sensitivities as needed.
+
+<P>It is sometimes argued that heterogeneous mice are more desirable for toxicity testing, since the range of sensitivities provides a better chance of detecting idiosyncratic 
+responses which may be serious. The merit of this point of view is questionable. The occurrence or nonoccurrence of exceptional toxic responses in heterogeneous mice is not 
+conclusive with respect to idiosyncratic toxic responses in man. The advantages of genetic uniformity and the consequently increased reliability of toxicity measurement seem 
+to be greater than the advantages of heterogeneity.
+
+<P><B>VARIATION IN PHARMACOLOGICAL REACTIONS</B>
+
+<P>Variations in pharmacological response have been found using a wide variety of drugs and strains of mice. It seems likely that any broad survey of mouse strains will uncover 
+significant differences. The following sections describe examples of differential responses grouped according to the pharmacological or chemical characteristics of the substances 
+used. Additional cases of variation in response to chemical agents are found in Chapters 
+<A HREF="chapter9.shtml">9</A>, 
+<A HREF="chapter32.shtml">32</A>, and 
+<A HREF="chapter33.shtml">33</A>.
+
+<P><B>Central nervous system stimulants</B>
+
+<P>The need and importance of specifying the strain of mice used in studies on drug effects is emphasized by Weaver and Kerley's (
+<A HREF="#ref23-55">1962</A>) investigations of the response of several strains to <I>d</I>-amphetamine. Confirming the reports of other investigators Weaver and Kerley showed that 
+aggregated mice are more susceptible than isolated mice to the lethal effects of amphetamine.
+
+<P>Mice tested were the Swiss-Webster, C57BL/6, DBA/2 strains and B6D2F<SUB>1</SUB> hybrids. The median lethal dose (LD<SUB>50</SUB>) of amphetamine was different in each. 
+Aggregated Swiss-Webster mice were five- to 10-fold more susceptible than isolated mice, but no evidence for increased lethality was found in aggregated C57BL/6 mice. 
+Piperacetazine (2-acetyl-10-(3-4-beta-hydroxyethyl piperidino) phenothiazine), phenobarbital, and metaglycodol (2-m-chlorophenyl-3-methyl-2,3-butanediol) reduced the lethal 
+effects of amphetamine in aggregated Swiss-Webster mice and not in aggregated B6D2F<SUB>1</SUB> mice. Also, B6D2F<SUB>1</SUB> mice appeared more susceptible than Swiss-Webster 
+mice to metaglycodol, piperacetazine, and the convulsant effects of pentylenetetrazol, but less susceptible to strychnine.
+
+<P><B>Insulin</B>
+
+<P>Chase <I>et al.</I> (
+<A HREF="#ref23-13">1948</A>) first reported a high tolerance of mice to insulin; mice of the KL strain survive about 300 times the dose lethal for LT/Ch mice. Apparently the cause of 
+the difference is the presence of an insulin-destroying enzyme "insulinase" in the livers of KL mice which protects them from extreme hypoglycemia (
+<A HREF="#ref23-5">Beyer, 1955</A>). Quantitative differences in insulin tolerance are also found in other strains (
+<A HREF="#ref23-7">Brown, 1961<I>a</I></A>). Among nine strains tested C57BR/cd was by far the most sensitive (650 milliunits/kg); DBA/2, BALB/c, and A2G were alike in sensitivity 
+(900 milliunits/kg). Sensitivity was measured by the approximate ED<SUB>50</SUB> convulsive responses.
+
+<P>Serum from obese mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>) 
+has greater insulin-like activity than serum from normal littermates, yet the glucose tolerance of obese mice is normal (
+<A HREF="#ref23-38">Mayer <I>et al.</I>, 1953</A>). In contrast, NZO (New Zealand Obese) mice reveal a typical diabetic type of glucose intolerance in about two-thirds of the individuals (
+<A HREF="#ref23-15">Crofford and Davis, 1963</A>). The mice having normal glucose tolerance tests were consistently normal; those that showed a impaired glucose tolerance showed a consistent 
+impairment. The average blood sugar concentration of NZO mice is 22 mg/100 ml higher than that in mice of the control strain. Insulin sensitivity tests revealed them to be four to 
+five times more resistant to insulin-induced convulsions than the controls.
+
+<P><B>Hormones other than insulin</B>
+
+<P>Clear evidence for a genetic basis of hormone response in mice has been presented by Chai (
+<A HREF="#ref23-10">1960</A>) and by others (
+<A HREF="chapter20.shtml">Chapter 20</A>). The response of C57BL/6J, C57BR/cdJ, and their F<SUB>1</SUB> hybrids (B6BRF<SUB>1</SUB>) to androgen (testosterone propionate) was measured by the 
+weights of seminal vesicles in 4-week-old castrated males. There appeared to be no difference in the slope of the three dose-response curves. Results of chorionic gonadotropin 
+assays in 1-month-old females of strains DBA/1J, DBA/2J, and A/J were as follows: the regression of the dose-response curve was largest for BALB/cJ and least in A/J; that of 
+the CAF<SUB>1</SUB> hybrid fell between that of the parental strains, but close to the A. The difference in slope between the two DBA strains, though not large, seemed to show 
+genetic divergence as a consequence of separation for more than 20 generations.
+
+<P>The thyroid provides an additional example of heritable variations in hormonal activity. Iodine metabolism differs between inbred strains of mice and their F<SUB>1</SUB> 
+hybrids as determined by several physiological measures (
+<A HREF="#ref23-9">Chai, 1958</A>; 
+<A HREF="#ref23-3">Amin <I>et al.</I>, 1957</A>).
+
+<P>In the course of the development of an assay for adrenal cortical hormones it was noted that adrenalectomized mice (maintained on salt solution) responded to epinephrine 
+in two different ways, some showing a decrease in eosinophila and others an increase during a period of 3 to 4 hours following subcutaneous injection (
+<A HREF="#ref23-52">Speirs and Meyer, 1949</A>). Those that responded with eosinophilia turned out to have accessory adrenals and could survive after removal of the extra salt. After 
+one dose of epinephrine the eosinopenic response became refractory to ACTH, histamine, etc., but not to 11-oxy-corticosteroids. Thus Speirs (
+<A HREF="#ref23-52">1953</A>) used epinephrine pretreatment to prepare mice as assay subjects for cortisone. It is well known that accessory adrenal cortical tissue is present in many 
+mammals. Although knowledge of presence or absence, incidence, etc. of accessory nodules should be required by those suing animals for experiments involving adrenalectomy, 
+pertinent information is available only for inbred mice and certain of their hybrids (
+<A HREF="#ref23-34">Hummel, 1958</A>; 
+<A HREF="chapter13.shtml">Chapter 13</A>).
+
+<P>The finding that growth rate, protein turnover, and nitrogen requirement are heritable suggests that strains of mice differ in their ability to secrete pituitary growth hormone 
+or in their sensitivity to this hormone (
+<A HREF="#ref23-48">Russell and Bloom, 1956</A>). There is no direct chemical method for the determination of growth hormone, but cardiac glycogen is, within limits, an indicator of growth 
+hormone activity (
+<A HREF="#ref23-48">Russell and Bloom, 1956</A>). At room temperature the cardiac glycogen of food-deprived mice was lowered. Large doses of growth hormone were required to maintain 
+a normal level in fasting mice. At 30&#176;C the cardiac glycogen of A strain mice increases during a 24-hour fast and administration of growth hormone increases the glycogen level 
+still further. At this elevated temperature fasting lowers the cardiac glycogen of the I strain mice, and growth hormone raises the glycogen above the level of fed animals. 
+It was suggested that a fasting stimulus, requiring the mediation of the hypophysis, evokes a greater secretion of growth hormone in A strain mice (
+<A HREF="#ref23-1">Adrouny and Russell, 1956</A>) or that the tissues of these mice are more sensitive to the hormone (
+<A HREF="#ref23-22">Fenton and Duguid, 1962</A>).
+
+<P>The availability of hairless mice has recently given impetus to cosmetological hormone research. Two types of hairless mice, one suitable for study up to the age of 
+about 4 months and the other suitable up to about 2 months of age were used by Homburger <I>et al.</I> (
+<A HREF="#ref23-32">1961</A>). Several materials successfully smoothed the skin by hydration and densification of dermal connective tissue. Among them were the estrogens, estrogen and 
+progesterone, ethisterone, and prenenolone. Testosterone made the skin look rougher. Microscopically, the beneficial effects consisted of densification and hydration of the 
+dermis with widening of its papillase and consequently stretching and flattening of the skin folds. Interestingly, a commercial cream base produced a desirable effect through 
+hydration of epidermal cells. When hormonal ingredients were given in solvents rather than the cream base there was complete absence of epidermal swelling.
+
+<P>Clearly then, this study not only holds considerable promise for assay studies, but also has opened up avenues for more basic investigations in cosmetic research dealing 
+with mechanisms of action rather than simply clinical effectiveness of compounds.
+
+<P><B>Psychotropic drugs</B>
+
+<P>After treatment with iproniazid, high mortality and hepatic injury occurred in AKR mice, whereas at the same dosage there was no evidence of toxicity in C57BL/6 and DBA/2 mice (
+<A HREF="#ref23-47">Rosen, 1951</A>). Mice carrying the dilute genes (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>), 
+such as the P strain and the sublines of DBA (DBA/1 and DBA/2), are both phenylketonuric and subject to the same audiogenic seizures (
+<A HREF="chapter19.shtml">Chapter 19</A>). The alleles <I>d</I> and <I>d<SUP>l</SUP></I> have a depressant effect upon phenylalanine hydroxylase activity; 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> causes 
+about a 50 per cent and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A> 
+about an 85 per cent inhibition (
+<A HREF="#ref23-14">Coleman, 1960</A>). Meier (
+<A HREF="#ref23-39">1963<I>a</I></A>, 
+<A HREF="#ref23-40">1963<I>b</I></A>) reported large differences in iproniazid toxicity between mice of the following genotypes, +/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/+, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>. 
+For example, after treatment with iproniazid phosphate LD<SUB>50</SUB>'s were 1010, 976, and 715 mg per kilogram of body weight, 
+respectively, for the three genotypes. Iproniazid did not prevent convulsions, but enhanced them both in rapidity of onset and severity. In contrast dl-&#945;-ethyl-tryptamine 
+(Monase) prevented the seizures. The cause of the failure of iproniazid is still hypothetical but the possibility exists that it may elevate brain catecholamines rather than 
+serotonin. It may be pertinent that medmain, an antiserotonin compound, has been shown to induce seizures in mice (
+<A HREF="#ref23-56">Woolley, 1959</A>).
+
+<P>Protection against sound-induced convulsions (audiogenic seizures) was obtained in noninbred Swiss mice by various phenothiazine ataractics (
+<A HREF="#ref23-44">Plotnikoff and Green, 1957</A>; Plotnikoff, 
+<A HREF="#ref23-41">1958</A>, 
+<A HREF="#ref23-42">1960</A>), whereas chlorpromazine was entirely inactive in an inbred strain of Swiss mice (
+<A HREF="#ref23-42">Plotnikoff, 1960</A>). Changes in drug resistance were observed during the course of inbreeding (
+<A HREF="#ref23-43">Plotnikoff, 1961</A>). Chlorpromazine exerted diminishing protection from parental to each succeeding generation; a similar trend was observed with other phenothiazines, 
+promazine, perphenazine, prochlorperazine, and trifluoperazine. In contrast, sodium phenobarbital uniformly gave protection against convulsions in all inbred generations tested. 
+The lowered response to protective effects of chlorpromazine in each succeeding generation was very probably the result of selection or to chance fixation of recessives during 
+the inbreeding.
+
+<P>Considerable variation in sensitivity to chlorpromazine has been found among the widely used inbred strains. In one study subjects were adult mice of both sexes from 
+C57BL/6J, DBA/2J, A/HeJ, C3HeB/FeJ, and all their possible hybrids (
+<A HREF="#ref23-33">Huff, 1962</A>). Differential drug sensitivities were revealed by use of tests of activity after administration of chlorpromazine, 1 to 4 mg/kg intraperitoneally. 
+With 4 mg/kg, 90 per cent of strain C57BL/6J mice, but only 7 per cent of strain C3HeB/FeJ were inactive in an open-field test. A/HeJ and DBA/2J mice showed complete depression 
+in 62 per cent and 67 per cent of the individuals, respectively. Results from study of hybrids indicate that a simple genetic mechanism, possibly involving no more than two loci, 
+could be responsible. Weight differences were not correlated with differential suppression of activity nor was the suppression of exploratory 
+activity correlated with appearance of ataxia (
+<A HREF="#ref23-33">Huff, 1962</A>).
+
+<P>A mutant with spastic symptoms (gene symbol 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856363" target="_blank"><I>spa</I></A>) 
+that lends itself for use in assessment of sedative drugs was discovered by Chai (
+<A HREF="#ref23-11">1961</A>). Chai <I>et al.</I> (
+<A HREF="#ref23-12">1962</A>) found that aminooxyacetic acid abolished the symptoms whereas dilution was only moderately effective. Hydroxylamine 
+and trimethadione were totally ineffective.
+
+<P><B>Catecholamines</B>
+
+<P>Few data are available concerning the normal organ content of adrenaline and noradrenaline in mice. Owing to fundamental differences in the techniques of measurement, 
+comparison of the results of different studies is extremely difficult. However, De Schaepdryver and Preziosi's (
+<A HREF="#ref23-18">1959</A>) investigation of the effect of drugs on the adrenaline and noradreneline content of adrenal glands, heart, liver, and spleen of normal adult white inbred mice 
+will be mentioned. In some extracts of heart and spleen no adrenaline could be detected, suggesting that it may not be a regular constituent of these organs in mice and that its 
+occurrence may depend on the presence of chromaffin cell groups irregularly scattered throughout the organism. Resperpine, insulin, nicotine, and histamine (in order of decreasing 
+activity) lower the catecholamine content of the mammalian adrenal gland. After depletion of adrenaline and noradrenaline the time required for restoration of the catecholamines 
+may be remarkably long. The rate of resynthesis apparently depends on the substance used and not on the degree of depletion. Of the two reserpine-like drugs used in this study 
+only the one with sedative action, desmethoxyreserpine, caused complete depletion of noradrenaline in the adrenal gland. The amount of this catecholamine was only transiently 
+lowered after reserpiline, which is supposedly devoid of tranquilizing properties. Sedative does of chlorpromazine, mepazine, perphenazine, and promazine provoked only a slight 
+depression of adrenal catecholamines, as did sedative doses of meprobamate. This implies that sedation can occur without depletion of adrenal noradrenaline. Furthermore, the 
+data presented proof of the preferential depletion of adrenaline and noradrenaline after pharmacological stimulation. Iproniazid, which largely prevents catecholamine depletion 
+after reserpine by blockade of monoamine oxidases, also protected against adrenal gland catechol depletion provoked by other pharmacological agents.
+
+<P>Lack or decreased amounts of catecholamines in adipose tissue from genetically obese mice may be responsible for one of their metabolic defects, decreased lipolysis, since 
+mobilization of free fatty acids from adipose tissue is regulated in part by catecholamines and ACTH. However, although fat depots of normal mice have been measured, there are 
+as yet no measurements for obese mice. Sidman <I>et al.</I> (
+<A HREF="#ref23-51">1962</A>) found that noradrenaline is present in the epididymal white fat and especially in the interscapular brown fat of the mouse. They reported values of 0.05 
+and 0.49 &#956;g per gram of wet tissue, respectively. Adrenaline levels were only about 10 per cent of those obtained for noradrenaline.
+
+<P>Determination of adrenal epinephrine and norepinephrine levels in normal and dilute-lethal (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>) mice disclosed differences with respect 
+to both total amounts and a rate of increase. During the period from birth to 3 weeks of age there is a rapid rise of both amines, but at a greater rate and to higher levels in 
+the mutant. By 21 days dilute-lethal mice have about 25 per cent more epinephrine and over twice as much norepinephrine as do normal mice (
+<A HREF="#ref23-21">Doolittle and Raunch 1965</A>).
+
+<P><B>Antioxidants</B>
+
+<P>Antioxidants have been found to prolong lifespan of mice. The half-survival time of C3H mice was prolonged by 2-mercapto-ethylamine hydrochloride (1 per cent by weight, 
+incorporated into pellets) from 14.5 to 18.3 months, an increase of 26 per cent, while hydroxylamine hydrochloride (1 per cent by weight) produced a slight prolongation, 
+7 per cent. Cysteine hydrochloride (1 per cent by weight) and hydroxylamine hydrochloride (2 per cent by weight) increased the half-survival time of AKR male mice from 
+9.6 to 11.0 and 11.2 months, respectively, an average prolongation of about 15 per cent. Ascorbic acid (2.0 per cent) and 2-mercapto-ethanol (0.5 per cent) had no significant effect (
+<A HREF="#ref23-27">Harman, 1961</A>).
+
+<P>None of the antioxidants studied, 2-mercaptoethylamine hydrochloride (1 per cent by weight), 2,2' diaminodiethyl disulfide (1 per cent by weight), and 
+hydroxylamine hydrochloride (1 and 2 per cent by weight) produced a marked decrease in the tumor incidence of C3H female mice. This latter finding suggests the 
+possibility of prophylactic cancer chemotherapy by this or other anticancer agents. Similarly, encouraging results with reducing agents against Ehrlich's ascites 
+tumor have been reported. In addition to the compounds already mentioned, N-methyl-formamide and potassium arsenate were found to produce tumor inhibition. The use 
+of antioxidants tested the hypothesis that endogenously produced free radicals such as HO&#183; and HO<SUB>2</SUB>&#183;, contribute both to aging (Harman, 
+<A HREF="#ref23-24">1956<I>a</I></A>, 
+<A HREF="#ref23-25">1956<I>b</I></A>, 
+<A HREF="#ref23-26">1957</A>) and to the incidence of spontaneous tumors (
+<A HREF="#ref23-27">Harman, 1961</A>), since reducing substances could act as free radical inhibitors.
+
+<P><B>Purines and pyrimidines</B>
+
+<P>Investigations comparing the susceptibilities of various strains of inbred mice to teratogenic stimuli are numerous (
+<A HREF="chapter14.shtml">Chapter 14</A>). For example, 12-day embryos of two strains, BALB/c and 129, were approximately equally sensitive to 5-fluorouracil (30 to 40 mg/kg). 
+However, strain 129 was more sensitive at all ages to a dose of 20 mg/kg. At this dosage effective teratogenic concentrations of fluorouracil apparently do not 
+reach the BALB/c embryos or, alternatively, these embryos readily inactivate the drug. If the blood concentration is the critical factor, then the resistance 
+of the BALB/c mice may be due to a slow rate of uptake from the peritoneal fluid or to rapid rates of catabolism or excretion.
+
+<P>Purines or pyrimidines apparently influence lipolysis. Dole (
+<A HREF="#ref23-20">1961</A>) found that they (as well as caffeine and pyrophosphate) increased the lipolytic action of epinephrine, adrenocortical-stimulating hormone (ACTH), 
+thyroid-stimulating hormone (TSH), and glucagon. Indeed obese mice treated with a combination of purines, caffeine, and epinephrine gained less weight than untreated controls (Meier, 
+<A HREF="#ref23-39">1963<I>a</I></A>, 
+<A HREF="#ref23-40">1963<I>b</I></A>).
+
+<P><B>Carcinogens</B>
+
+<P>Urethan (ethyl carbamate) has been reported to augment the induction of lymphoid leukemias by X-rays, estrogen, and cholanthrene (
+<A HREF="#ref23-19">Doell and Carnes, 1962</A>). Since urethan alone did not augment the incidence of tumors in low-leukemia strains, it may be classified as a co-leukemogen. 
+The drug has been found not to affect the incidence of leukemia in the high-leukemia strains, AKR and C58. In Swiss albino mice injected at birth or given toxic 
+doses in the drinking water as adults, urethan augmented the leukemia incidence and shortened the latent period. Later it was shown that administration of urethan 
+to newborn C57BL/6 mice induced thymic lymphomas with a high frequency approached only by that following divided doses of whole-body irradiation. Urethan also induces 
+pulmonary tumors in certain strains of mice, among them strain BALB/c. Reciprocal lung grafts from BALB/c and DNA (1 day old) to their F<SUB>1</SUB> hybrids treated 
+with urethan revealed that susceptibility to the carcinogenic action of urethan is determined by the intrinsic properties of the lung graft rather than the host (
+<A HREF="#ref23-49">Shapiro and Kirschbaum, 1951</A>). Young rapidly growing Swiss mice are more sensitive to the tumorigenic effects of urethan than mice just arriving at 
+maturity. It has been suggested that urethan brings about the adenomatous state by acting upon the nucleus of alveolar lining cells (
+<A HREF="#ref23-46">Rogers, 1951</A>).
+
+<P>Considerable progress has been made in the study of the inheritance of spontaneous and induced experimental tumors. It has long been known that the inheritance 
+of susceptibility to lung tumors is controlled by many genes. Tumors appear when the combined effects of genetic and nongenetic factors surpass a physiological threshold (Heston, 
+<A HREF="#ref23-28">1942<I>a</I></A>, 
+<A HREF="#ref23-29">1942<I>b</I></A>). Chemical carcinogens are potent factors which greatly increase the probability of the occurrence of the tumors above that are characteristic 
+of a particular strain when untreated. Agents studied included dibenz (a, h) anthracene. 3-methylcholanthrene, urethan, nitrogen, sulfur mustard (
+<A HREF="#ref23-30">Heston, 1950</A>), and radiation (
+<A HREF="#ref23-37">Lorenz <I>et al.</I>, 1946</A>). High concentration of inhaled oxygen has been found to increase the number of pulmonary tumors in the susceptible strain A mice 
+injected with dibenz (a, h) anthracene over that in mice injected likewise but kept in air (reviewed by 
+<A HREF="#ref23-31">Heston, 1956</A>). Bloom and Falconer (
+<A HREF="#ref23-6">1964</A>) confirmed the multifactorial inheritance of susceptibility to lung-tumor development in mice. However, they clearly demonstrated that about three-fourths 
+of the difference in susceptibility between the C57BL/Fa and A/Fa strains is attributable to a single gene, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1857007" target="_blank"><I>ptr</I></A> (pulmonary tumor resistance). The presence of a single 
+recessive major gene conferring low susceptibility was established in analysis of all possible F<SUB>1</SUB> hybrids between six inbred strains, A/Fa, C57BL/Fa, RIII/Fa, 
+JU/Fa, and KL. Strain C57BL which had the lowest susceptibility behaved differently from the other strains in crosses; it di not give F<SUB>1</SUB>'s with intermediate 
+susceptibilities, but behaved as a "recessive" in all the crosses (
+<A HREF="chapter9.shtml">Chapter 9</A>).
+
+<P><B>Miscellaneous chemicals</B>
+
+<P>Jay (
+<A HREF="#ref23-35">1955</A>) determined the mean sleeping time produced by hexobarbital (125 mg/kg) in 12 inbred strains. Values ranged from 18 minutes in 
+SWR/HeN to over 48 minutes for A/LN. Ambrus <I>et al.</I> (
+<A HREF="#ref23-2">1955</A>) found that Swiss ICR mice are 6.6 times more sensitive to the effects of histamine than C3H/J. Strain and sex differences in response to 
+serotonin (5-HT) were found for a number of strains. For example, a dose of 135 mg/kg of 5-HT creatine sulfate intraperitoneally killed half of the animals in 
+a group of C3H/HeJ in 24 minutes, whereas 98.5 mg/kg killed half of the C57BL/6J in 34 minutes; these animals had been adrenalectomized prior to the treatments (Meier, 
+<A HREF="#ref23-39">1963<I>a</I></A>, 
+<A HREF="#ref23-40">1963<I>b</I></A>). Exposure of mice of several strains to minute amounts of chloroform in the air results in potentially fatal kidney lesions in males 
+but less so in females. Death may follow exposure by as little as 1 hour, but there may be a delay of several weeks. In such cases the lesions are of the same type 
+as those in early death. Greatest susceptibility to chloroform is found in strains C3H, C3Hf, A, HR, and DBA. Male mice of C57BL/6, C57BR/cd, C57L, and ST are resistant 
+to amounts of chloroform that are lethal to the mice of the strains listed above (
+<A HREF="#ref23-17">Deringer <I>et al.</I>, 1953</A>; 
+<A HREF="#ref23-50">Shubik and Ritchie, 1953</A>).
+
+<P><B>SUMMARY</B>
+
+<P>Responses to drugs are in part influenced by hereditary factors. In some of the examples of hereditary determination of reactions to drugs, the differences between 
+strains are probably due to many pairs of genes; others are apparently due to single pairs of genes. The over 200 inbred strains of mice with the large number of known 
+genes and the many mutant stocks provide suitable materials to study the genetic basis for differential drug responses.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grants CA 04691 from the National Cancer Institute 
+and MH 01775 from the National Institute of Mental Health.
+<HR>
+
+<P><B>LITERATURE CITED</B>
+
+<A NAME="ref23-1"></A>
+<P>Adrouny, G.A., and J.A. Russell. 1956. 
+Effects of growth hormone and nutritional status on cardiac glycogen in the rat. 
+Endocrinology <B>59:</B> 241-251.
+<!-- 13356791 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13356791" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-2"></A>
+<P>Ambrus, J.L., P.S. Guth, S. Goldstein, M.E. Goldberg, and J.W.E. Harrison. 1955. 
+Toxicity of histamine and antagonism between histamine and anti-histamines in various strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>88:</B> 457-459.
+<!-- 14371665 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14371665" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-3"></A>
+<P>Amin, A., C.K. Chai, and E.P. Reineke. 1957. 
+Differences in thyroid activity of several strains of mice and their F<SUB>1</SUB> hybrids. 
+Amer. J. Physiol. <B>191:</B> 34-36.
+<!-- 13478679 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13478679" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-4"></A>
+<P>Becker, W.A. 1962. 
+Choice of animals and sensitivity of experiments. 
+Nature <B>193:</B> 1264-1266.
+<!-- 13866394 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13866394" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-5"></A>
+<P>Beyer, R.E. 1955. 
+A study of insulin metabolism in an insulin tolerant strain of mice. 
+Acta Endocrinol. <B>19:</B> 309-332.
+<!-- 13258119 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13258119" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-6"></A>
+<P>Bloom, J.L., and D.S. Falconer. 1964. 
+A gene with major effects on susceptibility to induced lung tumors in mice. 
+J. Nat. Cancer Inst. <B>33:</B> 607-618.
+<!-- MGI:61311 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61311" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-7"></A>
+<P>Brown, A.M. 1961<I>a</I>. 
+The pattern, sensitivity and precision of the response to insulin in randombred, inbred, and hybrid strains of mice. 
+J. Pharm. Pharmacol. <B>13:</B> 670-678.
+<!-- 13873580 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13873580" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-8"></A>
+<P>Brown, A.M. 1961<I>b</I>. 
+Sleeping time responses of mice &#151; randombred, inbred, and F<SUB>1</SUB> hybrids &#151; to pentobarbitone sodium. 
+J. Pharm. Pharmacol. <B>13:</B> 679-687.
+<!-- 13873578 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13873578" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-9"></A>
+<P>Chai, C.K. 1958. 
+Endocrine variation, thyroid function in inbred and F<SUB>1</SUB>-hybrid mice. 
+J. Heredity <B>49:</B> 143-148.
+
+<A NAME="ref23-10"></A>
+<P>Chai, C.K. 1960. 
+Response of inbred and F<SUB>1</SUB> hybrid mice to hormone. 
+Nature <B>185:</B> 514-518.
+
+<A NAME="ref23-11"></A>
+<P>Chai, C.K. 1961. 
+Hereditary spasticity in mice. 
+J. Heredity <B>52:</B> 241-243.
+<!-- MGI:61288 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61288" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-12"></A>
+<P>Chai, C.K., E. Roberts, and R.L. Sidman. 1962. 
+Influence of aminooxyacetic acid, a gamma-aminobutyrate transaminase inhibitor, on hereditary spastic defects in the mouse. 
+Proc. Soc. Exp. Biol. Med. <B>109:</B> 491-495.
+<!-- MGI:61343 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61343" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-13"></A>
+<P>Chase, H.B., M.S. Gunther, J. Miller, and D. Wolffson. 1948. 
+High insulin tolerance in an inbred strain of mice. 
+Science <B>107:</B> 297-299.
+
+<A NAME="ref23-14"></A>
+<P>Coleman, D.L. 1960. 
+Phenylalanine hydroxylase activity in dilute and non-dilute strains of mice. 
+Arch. Biochem. Biophys. <B>91:</B> 300-306.
+<!-- 13694597 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13694597" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-15"></A>
+<P>Crofford, O.B., and C.K. Davis, Jr. 1963. 
+Glucose intolerance, insulin resistance and growth characteristics of New Zealand Obese mice. 
+Fed. Proc. <B>22:</B> 387. (Abstr.)
+
+<A NAME="ref23-16"></A>
+<P>Dagg, C.P., D.L. Coleman, and G.M. Fraser. 1964. 
+A gene affecting the rate of pyrimidine degradation in mice. 
+Genetics <B>49:</B> 979-989.
+<!-- MGI:48773 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48773" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-17"></A>
+<P>Deringer, M.K., T.B. Dunn, and W.E. Heston. 1953. 
+Results of exposure of strain C3H mice to chloroform. 
+Proc. Soc. Exp. Biol. Med. <B>83:</B> 474-479.
+<!-- MGI:50936 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50936" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-18"></A>
+<P>De Schaepdryver, A.F., and P. Preziosi. 1959. 
+Pharmacological depletion of adrenaline and noradrenaline in various organs of mice. 
+Arch. Int. Pharmacodyn. <B>111:</B> 177-221.
+<!-- 13815034 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13815034" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-19"></A>
+<P>Doell, R.G., and W.H. Carnes. 1962. 
+Urethan induction of thymic lymphoma in C57BL mice. 
+Nature <B>194:</B> 588-589.
+<!-- 13886892 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13886892" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-20"></A>
+<P>Dole, V.P. 1961. 
+Effect of nucleic acid metabolites on lipolysis in adipose tissue. 
+J. Biol. Chem. <B>236:</B> 3125-3130.
+
+<A NAME="ref23-21"></A>
+<P>Doolittle, C.H., and H. Rauch. 1965. 
+Epinephrin and norepinephrin levels in dilute-lethal mice. 
+Biochem. Biophys. Res. Commun. <B>18:</B> 43-47.
+<!-- 14265754 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14265754" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-22"></A>
+<P>Fenton, P.F., and T.R. Duguid, Jr. 1962. 
+Growth hormone and cardiac glycogen: influence of environmental and genetic factors. 
+Can. J. Biochem. Physiol. <B>40:</B> 337-341.
+<!-- 13892295 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13892295" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-23"></A>
+<P>Green, E.L., and H. Meier. 1965. 
+Use of laboratory animals for the analysis of genetic influences upon drug toxiciy. 
+Ann. N.Y. Acad. Sci. <B>123:</B> 295-304.
+<!-- 14330601 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14330601" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-24"></A>
+<P>Harman, D. 1956<I>a</I>. 
+Reducing agents as chemotherapeutic agents in cancer. 
+Clin. Res. <B>4:</B> 54-55.
+
+<A NAME="ref23-25"></A>
+<P>Harman, D. 1956<I>b</I>. 
+Aging: a theory based on free radical and radiation chemistry. 
+J. Gerontol. <B>11:</B> 298-300.
+<!-- 13332224 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13332224" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-26"></A>
+<P>Harman, D. 1957. 
+Prolongation of the normal life span by radiation protection chemicals. 
+J. Gerontol. <B>12:</B> 257-263.
+<!-- 13463294 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13463294" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-27"></A>
+<P>Harman, D. 1961. 
+Prolongation of the normal life span and inhibition o spontaneous cancer by antioxidants. 
+J. Gerontol. <B>16:</B> 247-254.
+<!-- MGI:83115 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83115" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-28"></A>
+<P>Heston, W.E. 1942<I>a</I>. 
+Genetic analysis of susceptibility to induced pulmonary tumors in mice. 
+J. Nat. Cancer Inst. <B>3:</B> 69-78.
+
+<A NAME="ref23-29"></A>
+<P>Heston, W.E. 1942<I>b</I>. 
+Inheritance of susceptibility to spontaneous pulmonary tumors in mice. 
+J. Nat. Cancer Inst. <B>3:</B> 79-82.
+<!-- MGI:1306765 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1306765" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-30"></A>
+<P>Heston, W.E. 1950. 
+Carcinogenic action of the mustards. 
+J. Nat. Cancer Inst. <B>11:</B> 415-423.
+<!-- 14795195 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14795195" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-31"></A>
+<P>Heston, W.E. 1956. 
+Effects of genes located in chromosomes III, V, VII, IX, and XIV on the occurrence of pulmonary tumors in the mouse. 
+Cytologia Suppl. p. 219-224.
+
+<A NAME="ref23-32"></A>
+<P>Homburger, F., A. Treger, J.R. Baker, and C.M. Crooker. 1961. 
+The use of hairless mice for study of cosmetics. 
+Proc. Sci. Sec. Toilet Goods Assoc. <B>35:</B> 6-11.
+
+<A NAME="ref23-33"></A>
+<P>Huff, S.D. 1962. 
+A genetically controlled response to the drug chlorpromazine, p. 50. 
+<I>34th Ann. Rep. 1962/63</I>. The Jackson Laboratory, Bar Harbor, Maine.
+
+<A NAME="ref23-34"></A>
+<P>Hummel, K.P. 1958. 
+Accessory adrenal cortical nodules in the mouse. 
+Anat. Rec. <B>132:</B> 281-291.
+<!-- MGI:74912 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74912" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-35"></A>
+<P>Jay, G.E., Jr. 1955. 
+Variation in response of various mouse strains to hexobarbital (Evipal). 
+Proc. Soc. Exp. Biol. Med. <B>90:</B> 378-380.
+<!-- MGI:50962 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50962" target="_blank">MGI</A></I>.
+
+<A NAME="ref23-36"></A>
+<P>Kalow, W. 1962. 
+<I>Pharmacogenetics</I>. 
+Saunders, Philadelphia.
+
+<A NAME="ref23-37"></A>
+<P>Lorenz, E., W.E. Heston, M.K. Deringer, and A.B. Eschenbrenner. 1946. 
+Increase in incidence of lung tumors in strain A mice following long continued irradiation with gamma-rays. 
+J. Nat. Cancer Inst. <B>6:</B> 349-353.
+
+<A NAME="ref23-38"></A>
+<P>Mayer, J., R.E. Russell, M.W. Bates, and M.M. Dickie. 1953. 
+Metabolic, nutritional and endocrine studies of the hereditary obesity-diabetes syndrome of mice and mechanism of its development. 
+Metabolism <B>2:</B> 9-21.
+<!-- 13002079 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13002079" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-39"></A>
+<P>Meier, H. 1963<I>a</I>. 
+<I>Experimental pharmacogenetics</I>. 
+Academic Press, New York, 213 p.
+
+
+<A NAME="ref23-40"></A>
+<P>Meier, H. 1963<I>b</I>. 
+Potentialities for and present status of pharmacological research in genetically controlled mice. 
+Adv. Pharmacol. <B>2:</B> 161-209.
+
+
+<A NAME="ref23-41"></A>
+<P>Plotnikoff, N.P. 1958. 
+Bioassay of potential tranquilizers and sedative agents against audiogenic seizures in mice. 
+Arch. Int. Pharmacodyn. <B>64:</B> 130-135.
+<!-- 13584044 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13584044" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-42"></A>
+<P>Plotnikoff, N.P. 1960. 
+Ataractics and strain differences in audiogenic seizures in mice. 
+Pharmacologia. <B>1:</B> 429-432.
+<!-- 13736383 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13736383" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-43"></A>
+<P>Plotnikoff, N.P. 1961. 
+Drug resistance due to inbreeding. 
+Science <B>134:</B> 1881-1882.
+<!-- 14487231 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14487231" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-44"></A>
+<P>Plotnikoff, N.P., and D. M. Green. 1957. 
+Bioassay of potential ataraxic agents against audiogenic seizures in mice. 
+J. Pharmacol. Exp. Therap. <B>119:</B> 294-298.
+<!-- 13417081 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13417081" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-45"></A>
+<P>Price-Evans, D.A., and C.A. Clarke. 1961. 
+Pharmacogenetics. 
+Brit. Med. Bull. <B>17:</B> 234-240.
+<!-- 13986156 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13986156" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-46"></A>
+<P>Rogers, S. 1951. 
+Age of host and other factors affecting the production with urethan of pulmonary adenomas in mice. 
+J. Exp. Med. <B>93:</B> 427-499.
+<!-- 14832393 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14832393" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-47"></A>
+<P>Rosen, F. 1951. 
+The relationship of certain vitamin deficiencies to the toxicity of iproniazid. 
+Ann. N.Y. Acad. Sci. <B>80:</B> 885-897.
+
+
+<A NAME="ref23-48"></A>
+<P>Russell, J.A., and W. Bloom. 1956. 
+Hormonal control of glycogen in the heart and other tissues of rats. 
+Endocrinology <B>58:</B> 83-94.
+<!-- 13285451 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13285451" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-49"></A>
+<P>Shapiro, J.R. and A. Kirschbaum. 1951. 
+Intrinsic tissue response to induction of pulmonary tumors.
+Cancer Res. <B>11:</B> 644-647.
+<!-- 14859231 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14859231" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-50"></A>
+<P>Shubik, P., and A.C. Ritchie. 1953. 
+Sensitivity of male dba mice to the toxicity of chloroform as a laboratory hazard. 
+Science <B>117:</B> 285.
+<!-- 13048661 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13048661" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-51"></A>
+<P>Sidman, R.L., M. Perkins, and N. Winer. 1962. 
+Noradrenaline and adrenaline content of adipose tissue. 
+Nature <B>193:</B> 36-37.
+<!-- 13912554 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13912554" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-52"></A>
+<P>Speirs, R.S. 1953. 
+Eosinopenic activity of epinephrine in adrenalectomized mice. 
+Amer. J. Physiol. <B>172:</B> 520-526.
+<!-- 13030780 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13030780" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-53"></A>
+<P>Speirs, R.S., and R.K. Meyer. 1949. 
+The effects of stress, adrenal and adrenocorticotrophic hormones on the circulating eosinophils of mice. 
+Endocrinology <B>45:</B> 403-429.
+<!-- 15395323 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15395323" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-54"></A>
+<P>Swinyard, E.A., A.W. Castellion, G.B. Fink, and L.S. Goodman. 1963. 
+Some neurophysiological and neuropharmacological characteristic of audiogenic-seizure-susceptible mice. 
+J. Pharmacol. Exp. Therap. <B>140:</B> 375-384.
+<!-- 13979734 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13979734" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-55"></A>
+<P>Weaver, L.C., and T.L. Kerley. 1962. 
+Strain difference in response of mice to d-amphetamine. 
+J. Pharmacol. Exp. Therap. <B>135:</B> 240-244.
+<!-- 14005395 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14005395" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref23-56"></A>
+<P>Woolley, D.W. 1959. 
+Antimetabolites. 
+Science <B>129:</B> 615-621.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter22.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter24.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

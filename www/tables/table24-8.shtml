@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 24-8</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 24 -->
+
+<CENTER>
+
+<H3>Table 24-8. ANALYSIS OF CR LINES B10.C(41N) AND B10.C(47N) BY THE F<SUB>1</SUB> TEST<SUP><I>a</I></SUP></H3> 
+
+<P><TABLE>
+
+<TR><TD COLSPAN=16><HR></TD></TR>
+
+<TR>
+<TD ALIGN=CENTER COLSPAN=8><I>Test F<SUB>1</SUB>'s</I></TD>
+
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4><I>Simultaneous controls</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER COLSPAN=8><HR></TD>
+
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=4><HR></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Difference</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>Known</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>from</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Unknown</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=2>Fraction</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=2>Fraction</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>parent</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>C57BL/10</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>parent</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=2>dying</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Strain</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=2>dying</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Conclusion</TD>
+</TR>
+
+<TR><TD COLSPAN=16><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>C57BL/10</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>50/50</TD>
+<TD>&nbsp;&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/27</TD>
+<TD>&nbsp;&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>B10.LP</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-3</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10/10</TD>
+<TD>&nbsp;&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.LP</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N) is not <I>H-3</I></TD>
+</TR>
+
+<TR>
+<TD>B10.BY</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N) is <I>H-1</I></TD>
+</TR>
+
+<TR>
+<TD>B10.129(5M)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.129(5M)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N) is <I>H-1</I></TD>
+</TR>
+
+<TR>
+<TD>B10.129(5M)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N) is not <I>H-1</I></TD>
+</TR>
+
+<TR>
+<TD>B10.C(41N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N) is not <I>H-1</I></TD>
+</TR>
+
+<TR>
+<TD>B10.D2</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-2</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(41N)</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N) is not <I>H-2</I></TD>
+</TR>
+
+<TR>
+<TD>B10.LP</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-3</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.LP</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/19</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N) is not <I>H-3</I></TD>
+</TR>
+
+<TR>
+<TD>B10.129(21M)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>H-4</I></TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>10/10</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.129(21M)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT>0/19</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>B10.C(47N) is not <I>H-4</I></TD>
+</TR>
+
+<TR><TD COLSPAN=16><HR></TD></TR>
+
+<TR><TD COLSPAN=16><SUP><I>a</I></SUP>Snell and Bunker (
+<A HREF="#ref24-106">1965</A> and unpublished data). The F<SUB>1</SUB>'s included in this table were run in several separate groups. 
+Strains run as controls with each group always included the susceptible congenic partner, C57BL/10, and usually one or both 
+of the CR strains used as parents in any given cross. All mice were preimmunized with three injections of C57BL/10 thymus 
+and challenged with a C57BL/10 transplantable leukemia.</TD></TR>
+
+</TABLE>
+</CENTER>
+
+<A NAME="ref24-106"></A>
+<P>Snell, G.D., and H.P. Bunker. 1965. 
+Histocompatibility genes of mice. V. Five new histocompatibility loci identified by congenic resistant lines on a C57BL/10 background. 
+Transplantation <B>3:</B> 235-252.
+<!-- MGI:48840 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/wi_url.html'-->searches/accession_report.cgi?id=MGI:48840" target="_blank">MGI</A></I>.
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

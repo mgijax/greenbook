@@ -1,0 +1,1587 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 22 - Acute Responses to Ionizing Radiation</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, ionizing radiation, radiation biology, neutrons, electrons, dosimetry, roentgen, X-ray">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter21.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter23.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>22</H1>
+<H2><I>Acute Responses to Ionizing Radiation</I></H2>
+<H3>John B. Storer</H3>
+
+Ionizing radiation is probably the most extensively studied of all environmental hazards and of the various test organisms used to 
+study responses to radiation, the laboratory mouse has been the most widely utilized. Consequently, there is a voluminous literature 
+on the radiation biology of the mouse that cannot be adequately summarized here. Rather, certain basic principles relating to 
+total-body exposure will be considered. For more detailed and specialized information the reader is referred to a number of review 
+articles and books on the subject, for example, Bloom (
+<A HREF="#ref22-9">1948</A>), Nickson (
+<A HREF="#ref22-79">1952</A>), Hollaender (
+<A HREF="#ref22-51">1954</A>), Bacq and Alexander (
+<A HREF="#ref22-2">1955</A>), Mitchell <I>et al.</I> (
+<A HREF="#ref22-74">1956</A>), Cronkite and Bond (
+<A HREF="#ref22-21">1956</A>), Bond and Robertson (
+<A HREF="#ref22-11">1957</A>), Lushbaugh (
+<A HREF="#ref22-71">1957</A>), <I>Proceedings of the 2nd UN International Conference on Peaceful Uses of Atomic Energy</I> (
+<A HREF="#ref22-109">1958</A>), Lacassagne and Gricouroff (
+<A HREF="#ref22-62">1958</A>), Brues (
+<A HREF="#ref22-18">1959</A>), Mole (
+<A HREF="#ref22-75">1959</A>), Storer and Grahn (
+<A HREF="#ref22-102">1960</A>), Haley and Snider (
+<A HREF="#ref22-47">1962</A>), <I>Report of the UN Scientific Committee on the Effects of Atomic Radiation</I> (1962), Loutit (
+<A HREF="#ref22-70">1962</A>), and Thomson (
+<A HREF="#ref22-107">1962</A>).
+
+<P>The deleterious effects of X-rays were discovered soon after Roentgen's original report on this type of radiation, although it 
+required some years before the potentially harmful long-term effects were fully appreciated. Since the value of X-rays in clinical 
+therapy was quickly apparent, it is natural that early animal experimentation was oriented toward the solution of problems encountered 
+in radiation therapy. Although the older literature contains excellent reports on the effects produced by total-body radiation exposure, 
+this aspect of radiation biology was not greatly emphasized until the atomic age when it became clear that individual human beings and 
+even entire populations might receive such exposures. Since then major emphasis in animal experimentation has been on the effects of 
+total-body exposure and for this reason the following discussion will be confined largely to such effects. Further, because of limitations 
+of space, only acute responses to irradiation will be considered.
+
+<P><B>PHYSICAL CONSIDERATIONS AND DOSAGE MEASUREMENTS</B>
+
+<P>The term <I>ionizing radiation</I> includes all electromagnetic radiations and high energy particles capable of ionizing atoms in 
+matter on being absorbed. Although the types of electromagnetic radiations (X-rays and &#947;-rays) capable of producing ionization 
+are not increasing, advancing technology is providing an increasing range of energies (wavelengths) and both the types and energies 
+of ionizing particles available from accelerators will continue to increase. The distinction between electromagnetic and corpuscular 
+(particulate) radiation is useful for a number of reasons. The electromagnetic radiations (X-rays and &#947;-rays) have been the more 
+thoroughly studied and are the ones most commonly available to biologists. X-ray generators and &#947;-emitting sources such as 
+Co<SUP>60</SUP> or Ce<SUP>137</SUP> are relatively inexpensive and are standard equipment in most hospitals and medical schools. 
+Consequently they are accessible to a majority of biologists. Methods of measuring the radiation output and, in turn, the radiation 
+dose to biological objects have been well standardized. Because of the ease with which these radiations penetrate tissues it is possible 
+to obtain relatively uniform dosage throughout an object the size of a mouse. Corpuscular radiations include all charged particles of 
+sufficient energy to produce ionization. Examples are: electrons and positrons (&#946;-particles), hydrogen nuclei (protons), deuterium 
+nuclei (deuterons), tritium nuclei (tritons), helium nuclei (&#945;-particles), and the "stripped" nuclei of additional light elements. 
+As particle accelerators continue to get bigger and better, the list of available charged particles (atomic nuclei) will increase. Even 
+though some of these ionizing particles (specifically the &#945;- and &#946;-particles) are freely available from the radioactive decay 
+of naturally occurring and artificially produced isotopes, most of them require large and expensive accelerators. Consequently they are 
+far less commonly used than X-rays or &#947;-rays. An additional disadvantage resides in the fact that because of their mass they are 
+relatively poorly penetrating at low energies, and uniform dosage is difficult to achieve. Dosage measurement (dosimetry) is complex and 
+is a specialty in itself, usually lying outside the training and competence of biologists.
+
+<P>For completeness, one additional type of corpuscular radiation should be mentioned, namely, neutrons. These are unlike the previous 
+particles in that they are uncharged and do not produce ionizations directly. Rather they react with atomic nuclei to produce charged 
+corpuscular or electromagnetic radiations which secondarily produce ionizations. For example, they may collide with the hydrogen nucleus 
+(protons) and impart to it sufficient energy to produce ionizations along its path. An example of induced electromagnetic radiation is 
+the capture of a very low energy (thermal) neutron by hydrogen, with the emission of a &#947;-ray [the H<SUP>1</SUP>(n, &#947;)H<SUP>2</SUP> 
+reaction]. Since the radiation dosage from neutrons is a complex function of neutron energy and elemental composition of tissue, dosimetry 
+is extraordinarily complicated and neutron radiation biology is nearly a subspecialty within the field of radiation biology.
+
+<P>In view of the foregoing considerations it is clear why the majority of biologists interested in the response of animals to ionizing radiation 
+have worked with X-ray or &#947;-ray sources.
+
+<P>When tissues are exposed to ionizing radiation, the energy absorbed causes excitation of some of the atoms. In many cases (though not all) 
+the excitational energy is sufficiently high that orbital electrons are ejected (ionization occurs). It follows from this fact that 
+rearrangement of chemical bonds may occur and thus the chemical structure of molecules may be altered. When such derangements occur in 
+molecules of biological importance, impairment of the integrity of structure or function may result. Additionally, the ionization of water, 
+a major constituent of tissue, may lead to the production of highly reactive radicals that can react with biologically important molecules. 
+The surprising fact is not, then, that ionizing radiation can produce profound biological effects, but that so little energy absorption is 
+needed for these effects. Calculations of the percentage of atoms ionized in gram of tissue by a biologically effective dose indicate that 
+an extremely small fraction is affected. Nevertheless, the effects amplify to produce dramatic changes. This, along with the unusual latency 
+for the appearance of effects, make ionizing radiation unique among environmental agents of biological importance. The high penetrating power 
+of X- and &#947; rays the relatively uniform energy of deposition throughout the biological specimen, and the brief exposure times required 
+combine to make these radiations invaluable as tools in biological research.
+
+<P>When radiation is used as a research tool or when its effects are investigated, it is essential to know the amount of energy absorbed during 
+an exposure (the radiation dose). It has been recommended by the International Commission on Radiological Units and Measurements (
+<A HREF="#ref22-53">1956</A>) that all radiation doses be expressed in terms of rads. This basic dose unit corresponds to the amount of radiation which 
+delivers 100 ergs per gram. Despite this recommendation, the unit "roentgen" or "R" is still in widespread use. The reasons for continued use 
+arise from historical considerations and convenience. There is no serious objection to the use of "roentgen" for electromagnetic radiation 
+(X- and &#947;-rays) of moderate energies. Further, since 1 R equals approximately 0.95 rads for commonly used sources, little confusion arises 
+from the concurrent use of both units. In the majority of cases, calibrations are made in terms of roentgens. These may be converted to rads by 
+multiplication by the appropriate factor. Because the two units are related by a constant and because rads are calculated rather than measured 
+units, many investigators see little point in using the recommended rad unit. To relate doses of corpuscular radiations to does of electromagnetic 
+radiation the use of rads is mandatory, however, since corpuscular radiations cannot be measured in terms of roentgens.
+
+<P>A wide variety of methods for measuring X- and &#947;-ray doses are available. These methods include the use of ionization chambers (usually 
+thimble chambers), calorimeters, chemical dosimeters, photographic films, and various glass and plastic products which undergo dose-dependent 
+changes. The nearly universally employed method in biological studies is the use of commercially available ionization chambers. There are 
+certain potential pitfalls associated with all these dosimeters, however, and the experimental biologist is wise to consult a qualified radiation 
+physicist on the proper use of such equipment. In cases where such consultation is not feasible the investigator himself should be familiar with 
+the physical principles on which the method is based as well as the limitations of the specific equipment under unusual exposure conditions such 
+as very low energy radiation, unfiltered beam, <I>etc.</I> The limits of accuracy and in some cases the necessary corrections to be applied 
+should also be known.
+
+<P>Because of the general excellence of dosimetry equipment for the more conventional energies of X- and &#947;-rays, the commonest errors in 
+dosimetry are not the fault of the equipment but arise from the physical arrangements employed in making the radiation exposures. Common errors 
+in measuring radiation dose to biological objects result from: failure to consider the lack of uniformity of an X-ray beam, failure to provide 
+proper filtration of the beam, inadequate source (target) to specimen distance, interspersed shielding, failure to take into account scattered 
+radiation, and temporal variations in the voltage and filament current in the X-ray generator.
+
+<P>In the past, comparisons of results of biological experiments between two or more laboratories have been made difficult or even impossible 
+by the lack of even minimum standardization of exposure methods and dose measurement. To correct this unfortunate situation the International 
+Commission on Radiological Units and Measurements has prepared a report on radiobiological dosimetry. This report, issued as <I>National Bureau 
+of Standards Handbook 88</I>, may be obtained from the Superintendent of Documents, U.S. Government Printing Office, Washington 25, D.C. It is 
+strongly urged that all biologists working with radiation utilize this handbook as a guide for making and for reporting radiation exposures. 
+Good practices are stressed and common errors are pointed out. Adoption of their recommendations would go far in eliminating some of the existing 
+confusion and sources of disagreement concerning the biological effects of radiation.
+
+<P>No mention has been made of the personnel hazard attendant to the use of sources of ionizing radiation. Compliance with state and federal 
+regulations to keep personnel exposure at an irreducible minimum has been assumed.
+
+<P>For a review of physical principles and methods of dosimetry see the chapters by Fano, Marinelli and Taylor, and 
+Franck and Platzman in <I>Radiation Biology</I> edited by Hollaender (
+<A HREF="#ref22-51">1954</A>).
+
+<P><B>ACUTE LETHAL RESPONSE</B>
+
+<P><B>Causes of death</B>
+
+<P>If a group of mice is exposed to 600 to 700 rads of X-rays delivered in a brief period (the exact dose for the response described depends 
+on strain, age, and other variables described below) and observed over several days, one is struck by the apparent lack of any gross evidence 
+of any effect for several days. The animals appear entirely normal. Although progressive weight loss is occurring, the blood count is declining, 
+and various internal tissues are becoming atrophic, no clue to these derangements is given by the external appearance of the mice. About the fifth 
+or sixth day following exposure a few of the mice may begin to appear lethargic with ruffled fur and a generally unkempt appearance. By the eighth 
+day a few of the mice may be dead. Daily mortality increases to a peak between the 10th and 14th day then gradually subsides. After the 20th day 
+deaths are infrequent and the surviving mice show evidence of recovery from their injury. Thirty days after exposure it is impossible to tell an 
+irradiated survivor from a normal mouse by inspection. Because of this characteristic slow timecourse of injury and recovery a longer observation 
+period is used in radiation studies than is commonly used in studies of response to drugs. A 30-day observation period for evaluating the acute 
+lethal response of mice to radiation exposure is widely used.
+
+<P>If the radiation dose is increased to 1,000 to 1,500 rads, a somewhat different pattern of illness and death emerges. With mice from our colony, 
+it is obvious by the third or fourth day that the animals have been severely injured. They show evidence of diarrhea and an accompanying dehydration. 
+Loss of weight is pronounced and the animals tend to sit quietly in the cage. On the fifth day some deaths occur and on the sixth day there is a 
+sharp peak of mortality. Those surviving beyond 6 days may show a secondary mortality peak in the 8- to 12-day period. None survive beyond about 14 days.
+
+<P>As the radiation dose is further increased up to about 10,000 rads there is little, if any, effect on survival time. All the mice die in the 
+5- to 7-day period to produce a curious plateau in the curve relating dose and mean survival time. Other workers have found that this stable death 
+time occurs somewhat earlier than 5 to 7 days and many reports of a 3&#189;-day survival time have been published. We believe the basic phenomenon 
+to be the same but that the exact survival time depends strongly on environmental factors, particularly the intestinal bacterial flora.
+
+<P>With radiation doses higher than about 10,000 rads the survival time again becomes dose-dependent, <I>i.e.</I>, the higher the dose the shorter 
+the mean survival. Signs of neurological damage appear at these very high doses with convulsive seizures a prominent part of the syndrome. With 
+extremely high exposures delivered at high dose rates he survival time decreases to a few hours or less and, in fact, it is possible to kill 
+animals under the beam.
+
+<P>Because of these dose-dependent peaks in mortality and changing clinical signs of injury, it has been suggested that there are various modes 
+of death in mice exposed to total-body irradiation and further that each modality has its own characteristic death time. At least four such modes 
+have been established. Deaths at the lowest doses of radiation, where the peak in mortality occurs at 10 to 14 days, are due primarily to bone 
+marrow injury. The evidence for this is as follows. Death at these dosages can be prevented by shielding a portion of the bone marrow such as 
+that contained in one femur or by inoculating the exposed animals with bone marrow cells. In the dose range between about 1,000 and 2,000 rads 
+the small peak in mortality at 8 or 9 days (in those animals surviving for this period) is apparently due to damage to oral structures (
+<A HREF="#ref22-82">Quastler <I>et al</I>., 1956</A>; 
+<A HREF="#ref22-38">Goepp and Fitch, 1962</A>). Doses of about this magnitude to the head only will reproduce this survival time with adequate evidence 
+of histological injury to the tongue and pharynx to explain the cause of death. The survival time of 5 to 6 days (3&#189; days in some laboratories) 
+at doses up to about 10,000 rads is due to intestinal injury (
+<A HREF="#ref22-83">Quastler <I>et al.</I>, 1951</A>; 
+<A HREF="#ref22-13">Bond <I>et al.</I>, 1950</A>; 
+<A HREF="#ref22-84">Rajewsky, 1955</A>; 
+<A HREF="#ref22-81">Quastler, 1956</A>). These survival times can be produced by irradiation of the abdomen or by irradiation of the exteriorized intestine 
+with the remainder of the animal shielded. The short survival times resulting from massive exposures can be duplicated by irradiation restricted to 
+the head. Direct damage to the brain is responsible for death.
+
+<P>There is a tendency to oversimplify "causes of death" in irradiated mice in view of the identified modalities discussed above. It should not be 
+assumed, for example, that marrow damage alone is responsible for death in the low dose range. It is of major importance but there is a complex 
+interplay of damage to a number of tissues and tissue functions leading to death. Neither should it be assumed that the tissues listed are the only 
+ones damaged by radiation or that these are the only modes of death. There is undoubtedly a hierarchy of causes of death. For example, radiation 
+to the kidneys only or the heart only can also be fatal if the radiation dose is sufficiently high to compromise proper function.
+
+<P>The remarkable effect of environment on survival time, particularly in the gut-death range, deserves further consideration. 
+<a href="javascript:windowf2201 = window.open('../figures/figure22-1.shtml', 'windowf2201', 'width=750,height=550,resizable=yes,scrollbars=yes'); windowf2201.focus()">Figure 22-1</A> 
+shows survival time as a function of dose for mice maintained in three different environments. 
+Maximum survival times were found in germ-free mice (
+<A HREF="#ref22-115">Wilson, 1963</A>). Minimum times were obtained in an early study (
+<A HREF="#ref22-63">Langham <I>et al.</I>, 1956</A>). In this particular investigation a very great range of doses was utilized and the short survival 
+from massive doses (central nervous system death) is illustrated. Later studies (Storer, unpublished data) with mice rigidly controlled in a 
+closed colony but not maintained either germ-free or pathogen-free showed survival times intermediate between the other two studies. There were, 
+of course, strain differences as well as differences in radiation sources in these three investigations. Nevertheless, it is considered highly 
+probable that environmental differences, and specifically differences in bacterial flora, account for the somewhat dissimilar results. As animal 
+stocks and animal-colony management improve it may be anticipated that the survival curve will shift upward toward the line representing the germ-free mice.
+
+<P><B>Median lethal dose</B> (LD<SUB>50:30</SUB>)
+
+<P>The most widely used quantitative estimation of radiation sensitivity of a population of experimental animals is the median lethal dose or 
+LD<SUB>50</SUB>. For reasons discussed earlier, a 30-day observation period is the standard interval used in tabulating mortality and the dose 
+necessary to kill 50 per cent of the animals within this period is called the LD<SUB>50:30</SUB>. In practice, the LD<SUB>50</SUB> is an 
+interpolated value based on the response of subsamples to graded doses of radiation. Justification for this methodology is based on the following. 
+If it were possible to measure precisely the minimum dose necessary to kill each individual mouse, a plot of the frequency with which each dose is 
+lethal would result in a normal curve as shown in 
+<a href="javascript:windowf2202 = window.open('../figures/figure22-2.shtml', 'windowf2202', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2202.focus()">Figure 22-2<I>A</I></A>. 
+Note that in this figure the dose scale is shown in terms of 
+standard deviations from the mean minimal lethal dose for the population. Thus if the mean is 700 R and the standard deviation is 50 R the dose points 
+corresponding to -3, -2, -1, ..., +3 are 550, 600, 650, ..., 850 R. If such measurements could be made in practice, the precision of the assay would be 
+greatly improved, since each mouse would yield a quantitative item of measurement data which could be handled by conventional statistical methods 
+(calculation of mean, variance, standard deviation, etc.). Unfortunately this cannot be done. If a mouse is exposed to a dose of radiation and observed 
+for 30 days it will either survive or die in the interval. If it survive, the minimum lethal dose was not attained. If it dies, the minimum has been 
+reached or exceeded and, if exceeded, there is no way of knowing how much less radiation would have been lethal. If no recovery from radiation injury 
+occurred it would be possible to keep adding small increments of dose until death resulted. But recovery does occur and this method cannot be used. 
+To get around these difficulties, a curve of the cumulative frequency with which graded radiation doses equal or exceed the minimum lethal dose is employed. From 
+<a href="javascript:windowf2202 = window.open('../figures/figure22-2.shtml', 'windowf2202', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2202.focus()">Figure 22-2<I>A</I></A> 
+it is apparent that as the dose increases the minimum lethal dose will be reached or exceeded for more and more animals. 
+The shaded area of the figure indicates the fraction of the total population that will die following a dose which is -1 S.D. from the mean. In our example 
+this dose corresponds to 650 R. <I>Figure 22-2B</I> shows the cumulative frequency of death with increasing dose. Note that at a standard deviation of 
+-1 (indicated by arrows in the figure) the expected percentage of deaths is 15.9. Basically the cumulative frequency curve converts areas under the normal curve (
+<a href="javascript:windowf2202 = window.open('../figures/figure22-2.shtml', 'windowf2202', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2202.focus()">Figure 22-2<I>A</I></A>) 
+to percentages.
+
+<P>
+<a href="javascript:windowf2203 = window.open('../figures/figure22-3.shtml', 'windowf2203', 'width=750,height=750,resizable=yes,scrollbars=yes'); windowf2203.focus()">Figure 22-3</A> 
+shows an experimentally obtained dose-response curve with percentage dead plotted as a function of radiation dose. 
+This method utilizes a quantal "all-or-none" response in that the only biological measurement is whether the mouse lives or dies. The dose necessary 
+to kill 50 per cent of the animals could be estimated very roughly from a graphical plot of the data. This method is occasionally used but is imprecise. 
+A polynominal regression line could be fitted to the data and the LD<SUB>50</SUB> calculated, but the computation is too complex for routine use. 
+Empirical transformations of scale (usually the ordinate), such as angular (arc-sine) transformations, have been used to convert the data to a 
+straight line suitable for a least-squares fit. The most widely used method for fitting these regression lines, however, is based on the probit transformation (
+<A HREF="#ref22-37">Gaddum, 1933</A>; 
+<A HREF="#ref22-8">Bliss, 1938</A>; 
+<A HREF="#ref22-34">Finney, 1947</A>). Basically this method converts cumulative percentage mortality to the corresponding number of standard deviations 
+from the mean associated with the particular cumulative frequency (percentage). Thus at 0 S.D. the minimum lethal dose is exceeded for 50 per cent 
+of the animals. At -1.0 S.D. the minimum is exceeded for 15.9 per cent, and at +1.0 S.D. the corresponding cumulative percentage is 84.1. To avoid 
+the problem of signs, 5 is added to all these standard deviations and the resulting values called <I>probits</I>. Appropriate weighting factors taking 
+into account the number of mice in each dose group and the deviation from 50 per cent mortality are used in the least-squares computation with the 
+transformed variable. (Points close to 50 per cent mortality are properly weighted more heavily than points toward the tails of the distribution.) With 
+this method the median lethal dose, standard error, confidence intervals, etc., are easily computed.
+
+<P>The frequency distribution curves shown in Figures 
+<a href="javascript:windowf2202 = window.open('../figures/figure22-2.shtml', 'windowf2202', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2202.focus()">22-2</A> and 
+<a href="javascript:windowf2203 = window.open('../figures/figure22-3.shtml', 'windowf2203', 'width=750,height=750,resizable=yes,scrollbars=yes'); windowf2203.focus()">22-3</A> 
+are of the same shape as those encountered with a very great variety of toxic agents. Radiation differs from most toxic agents, 
+however, in the very remarkable steepness of the slope of the cumulative curve (
+<a href="javascript:windowf2203 = window.open('../figures/figure22-3.shtml', 'windowf2203', 'width=750,height=750,resizable=yes,scrollbars=yes'); windowf2203.focus()">Figure 22-3</A>) 
+or the narrowness of the distribution (
+<a href="javascript:windowf2202 = window.open('../figures/figure22-2.shtml', 'windowf2202', 'width=900,height=550,resizable=yes,scrollbars=yes'); windowf2202.focus()">Figure 22-2</A>). 
+Usually an increase in dosage of 30 per cent or less (increase from 600 to less than 800 R) will change survival from 
+100 per cent to zero. Because of this fact it makes little difference whether arithmetic or log dose is used in computations. For other toxic agents 
+the distribution is nearly always normal with log dose and the transformation to log dose is required.
+
+<P>One final point of interest concerns the normal distribution of radiation sensitivity in mouse populations. When such a distribution is found in 
+genetically heterogeneous populations, it can be concluded that a portion of the variability is attributable to inherent genetic differences in 
+sensitivity. Such distributions are also seen, however, with inbred strain in which there is a high genetic uniformity. Environmental differences, 
+perhaps extending back to the early life of the mice, probably account for some of this variability. It also seems highly likely that temporal fluctuations 
+in the resistance of an individual animal occur, in view of what is known of the day-to-day fluctuations in other physiological processes. Thus a mouse 
+might fall on the low end of the distribution 1 day (highly sensitive) and shift to the other end of the distribution a few days later. Sacher (
+<A HREF="#ref22-92">1956</A>) has discussed the application of this concept to the question of natural mortality and to radiation-induced mortality.
+
+<P><B>Factors influencing the</B> LD<SUB>50:30</SUB>
+
+<P><B><I>Strain.</I></B> Genetic constitution is one of the major factors influencing radiation resistance in mice. It is well known that there are major 
+strain differences in sensitivity (Grahn, 
+<A HREF="#ref22-39">1958<I>a</I></A>, 
+<A HREF="#ref22-40">1958<I>b</I></A>, 
+<A HREF="#ref22-41">1960</A>; 
+<A HREF="#ref22-42">Grahn and Hamilton, 1957</A>; Kohn and Kallman, 
+<A HREF="#ref22-59">1956</A>, 
+<A HREF="#ref22-60">1957</A>; 
+<A HREF="#ref22-86">Reinhard <I>et al.</I>, 1954</A>; 
+<A HREF="#ref22-97">Stadler and Gowen, 1957</A>; 
+<A HREF="#ref22-35">Fr&#246;l&#233;n <I>et al.</I>, 1961</A>). Differences are found not only in the survival-dose LD<SUB>50</SUB> but also in the length of 
+survival under repeated radiation exposures. For example, Roderick (
+<A HREF="#ref22-89">1963<I>a</I></A>) has determined the survival time of 27 inbred mouse strains under daily exposure to 110 R. An array of mean survival times was 
+obtained with the most resistant strain (129/J) living twice as long as the most sensitive strain (CBA/J). Since the survival times obtained by this method 
+are known to be correlated with the single-dose LD<SUB>50</SUB> (
+<A HREF="#ref22-39">Grahn, 1958<I>a</I></A>), it seems safe to assume that a similar ordering of 
+sensitivity in these strains would have been obtained for LD<SUB>50</SUB> determinations. 
+<a href="javascript:windowt2201 = window.open('../tables/table22-1.shtml', 'windowt2201', 'width=500,height=500,resizable=yes,scrollbars=yes'); windowt2201.focus()">Table 22-1</A> 
+shows the single-dose LD<SUB>50</SUB> values for 10 strains of mice in our laboratory (Storer, unpublished data). It can be seen 
+that there are major differences in these values. Because of these genetically controlled variations in sensitivity, inbred mouse strains provide an ideal 
+experimental tool for determining the nature of radiation resistance. The correlated characteristics so far identified have been discussed by Roderick (
+<A HREF="#ref22-89">1963<I>a</I></A>, 
+<A HREF="#ref22-89a">1963<I>b</I></A>). Generally, those characters considered to be indices of vigor are positively associated with resistance. Thus, radiation resistance 
+may be a nonspecific measure of vigor. Nevertheless, continued study to identify genetically controlled physiological factors responsible for resistance seems worthwhile.
+
+<P>Hybrids are usually more resistant than either parental strain except in those cases in which parental strains of very widely divergent sensitivity are used. 
+In this case the hybrids may fall between two parental strains though closer to the more resistant parent (
+<A HREF="#ref22-35">Fr&#246;l&#233;n <I>et al.</I>, 1961</A>). Single-gene substitutions in an inbred line produce little or no effect on sensitivity unless the 
+gene also produces major physiological disturbances (
+<A HREF="#ref22-29">Doolittle, 1961</A>). For example, the genes for short ear (<I>se</I>) and for obesity (<I>ob</I>) produce detectable shifts in sensitivity 
+(Storer, unpublished data; Roderick, 1963, personal communication) as well as other gross disturbances. Genes such as those responsible for severe anemia 
+produce a drastic shift in sensitivity as might be expected (
+<A HREF="chapter17.shtml">Chapter 17</A>). Bernstein (
+<A HREF="#ref22-5">1962</A>, 
+<A HREF="#ref22-7">1963</A>) has reported an LD<SUB>50</SUB> of about 200 R for congenitally anemic mice which makes these animals at least three times as 
+sensitive as their normal siblings. It appears, then, that given a reasonably normal phenotype, genetic control of resistance probably represents a 
+complex interaction of a large number of gene loci as appears to be the case with other characteristics of vigor.
+
+<P><B><I>Age.</I></B> There are a number of other variables besides genetic constitution that result in differences in radiation resistance. Within a strain, 
+major changes in resistance are found with increasing age. Both Abrams (
+<A HREF="#ref22-1">1951</A>) and Lindop and Rotblat (
+<A HREF="#ref22-67">1959</A>) found higher resistance at birth than at 30 days of age. After minimum resistance at 30 days, resistance increases to a maximum in young 
+adulthood, remains on a plateau for a variable length of time, and then declines in old age (
+<A HREF="#ref22-67">Lindop and Rotblat, 1959</A>; 
+<A HREF="#ref22-93">Sacher, 1957</A>; 
+<A HREF="#ref22-96">Spalding and Trujillo, 1962</A>). There is not complete agreement when the plateau of maximum resistance is attained and the time might well be 
+a function of strain. In general, resistance increases from the time of weaning to about 3 or 4 months of age and misleading results in comparisons of 
+LD<SUB>50</SUB>'s can be obtained if the animals are exposed during this period of rapidly changing resistance. All too often, however, investigations 
+are conducted with mice in this age range. We recommend the routine use of animals at least 3 and preferably 4 months of age.
+
+<P><B><I>Sex.</I></B> The sex of mice has relatively little effect on resistance to single doses of radiation. Males tend to be slightly less resistant 
+than females but many exceptions are found. Frequently there is so little difference in survival that data can be pooled for analysis. When mice are given 
+daily exposures to radiation at levels resulting in mean survival times of 2o to 40 days, however, there is a marked sex difference in survival time with 
+the females dying significantly earlier (
+<A HREF="#ref22-95">Sacher and Grahn, 1964</A>). This difference can be abolished by ovariectomy (
+<A HREF="#ref22-48">Hamilton <I>et al</I>., 1963</A>), so it is clear that the sensitivity is related to endocrine function rather than chromosome complement.
+
+<P><B><I>Environment.</I></B> As might be expected, environmental variables are of extreme importance in influencing LD<SUB>50</SUB> estimations. Radiation 
+doses in this range result in severely damaged mice whose lives hang precariously in balance and relatively minor deleterious environmental factors can result 
+in a lethal outcome.
+
+<P>Diets deficient in essential constituents resulting in malnourished animals produce significantly lowered radiation resistance. The LD<SUB>50</SUB> 
+may differ, however, with changes in standard diets. Storer (unpublished data) was able to show a difference of about 50 rads in the LD<SUB>50</SUB> of 
+mice fed two standard commercially available laboratory mouse foods. No gross evidence of malnutrition was apparent in the more sensitive population but 
+apparently a subclinical deficiency existed.
+
+<P>Seasonal variations in sensitivity have also been noted. Roderick (
+<A HREF="#ref22-89">1963<I>a</I></A>) found that survival under daily exposure was shorter in the summer months than through the rest of the year. He attributed 
+the difference to variations in temperature since his animal rooms were not air-conditioned. Presumably a reversal of this effect (higher sensitivity 
+in the winter) might occur in temperature-controlled quarters if recirculation of air with he attendant hazard of airborne bacterial contamination is 
+practiced in colder weather.
+
+<P>Significant "caging effects" have been reported for mice by Raventos (
+<A HREF="#ref22-85">1955</A>) and for rats by Hahn and Howland (
+<A HREF="#ref22-46">1963</A>). Raventos exposed mice to an approximate LD<SUB>50</SUB> dose and calculated the expected number of cages in which 1, 2, ..., 10 mice should die. 
+The observed results deviated significantly from expected with an excess of cages with low mortality and high mortality. The cage environment, then (presumably 
+the bacterial flora of the cage), contributed significantly to the results. Hahn and Howland tested the effects of crowding on radiation resistance in rats. 
+Group-caged rats were found to be more sensitive than singly caged rats. Caution is therefore required in interpreting minor differences in LD<SUB>50</SUB> values 
+as a result of experimental manipulation unless equal numbers of mice are present in each cage and unless treatments are randomly distributed within cages.
+
+<P>Radiation exposure in the moderate-to-high dose range causes an extreme depression in the immunological competence of mice. For this reason it is obvious that 
+endemic infections in a mouse population may reach epidemic proportions following radiation. Carriers of pathogenic bacteria such as <I>Salmonella typhimurium</I> 
+are virtually worthless for radiation sensitivity studies because of the severe infection that may result after irradiation. Even mice carrying such normally 
+nonpathogenic forms as <I>Pseudomonas aeruginosa</I> are of limited usefulness since an overwhelming bacteremia may occur and confuse the interpretation of the 
+mortality data. Ideally, radiation studies should be performed with pathogen-free mice (with specific listings of forms considered pathogenic), with mice 
+contaminated only with known and specified bacteria such as <I>Escherichia coli</I>, or with germ-free mice. Improvements in methods for raising and maintaining 
+mice may ultimately make animals of these types widely available. Until such time as they come into general use, rigid control and sanitation procedures, 
+which are advisable in any mouse colony, are mandatory in stocks used in radiation experiments.
+
+<P>One final environmental stress commonly encountered is that associated with the shipment of mice from the supplier to the user. It is generally recognized 
+that shipment is stressful and most users allow a reasonably long period of recuperation and acclimatization to the new animal quarters before use. This 
+procedure combined with rigid culling and, if feasible, bacteriological testing prevents misleading results arising from combined shipping and radiation stresses.
+
+<P><B><I>Radiation quality and intensity.</I></B> In the foregoing discussion of variables affecting the LD<SUB>50</SUB> of mice, the quality (type and energy) 
+or intensity (dose rate) of the incident radiation was not discussed. If mice are exposed to the same type and energy of radiation at roughly the same dose rate, 
+then all the factors mentioned can influence the LD<SUB>50</SUB>. Variations in quality or intensity also lead to marked differences in LD<SUB>50</SUB> values. 
+In general, with X- or &#947;-rays, a reduction in dose rate leads to an increased LD<SUB>50</SUB>. Fortunately, in the range of dose rates commonly used (15 or 
+20 rads per minute to several hundred rads per minute) the differences in duration of exposure are not sufficient to cause significant differences in the 
+LD<SUB>50</SUB>. As exposure times are lengthened (dose rate lowered), however, there is a progressive increase in the LD<SUB>50</SUB> until a plateau in 
+LD<SUB>50</SUB> is approximated with exposure times of greater than 12 hours and up to about 36 hours (Brown <I>et al.</I>, 
+<A HREF="#ref22-17">1960</A>, 
+<A HREF="#ref22-16">1962</A>; 
+<A HREF="#ref22-98">Stearner and Tyler, 1963</A>; 
+<A HREF="#ref22-108">Tyler and Stearner, 1964</A>). If the dose rate becomes too low, a lethal dose may not be accumulated in 30 days and the LD<SUB>50:30</SUB> becomes 
+the wrong end point. The mean survival time is commonly used at these very low dose rates. At some point the mice cease to die from the acute deleterious 
+effects of radiation and die instead from the chronic deleterious effects of the earlier phases of the exposure. In other words there is a shortening of natural longevity (
+<A HREF="chapter26.shtml">Chapter 26</A>) which often appears to be nonspecific. Failure to die from acute effects, even though doses well in excess of the usual LD<SUB>50:30</SUB> 
+are accumulated, is presumably due to the intervention of recovery mechanisms which reverse the acute injury at a rate equal to its production. Thus a new 
+quasi-steady state is attained (
+<A HREF="#ref22-91">Sacher, 1955</A>). The shift from the acute to chronic mechanism of death is, of course, not clear-cut but may occur 
+in mice at dose rates of approximately 20 to 40 R per day. It should be noted that the transition apparently does not occur at all in some species (
+<A HREF="#ref22-91">Sacher, 1955</A>).
+
+<P>Fractionation of radiation exposures similarly increases the total dose required for an LD<SUB>50</SUB>. The extent of the increase is a complex function 
+of number of fractions and time between fractions. Additional information on fractionation can be found in articles by Brown <I>et al.</I> (
+<A HREF="#ref22-17">1960</A>, 
+<A HREF="#ref22-16">1962</A>), Tyler and Stearner (
+<A HREF="#ref22-108">1964</A>), Sacher (
+<A HREF="#ref22-94">1958</A>), and Kereiakes <I>et al.</I> (
+<A HREF="#ref22-58">1957</A>).
+
+<P>With more densely ionizing radiations (more ion pairs per unit of path in tissue) such as fission-energy neutrons, the LD<SUB>50</SUB> is less responsive to 
+variations in does rate or, in other words, each increment of dose is more nearly additive with previous increments. For example, Vogel <I>et al.</I> (
+<A HREF="#ref22-112">1957<I>a</I></A>) have shown that the LD<SUB>50</SUB> in mice exposed to fission neutrons was approximately the same when the dose was delivered in 1.5 hours 
+or over a 24-hour period. With &#957;-rays delivered over the same time intervals the LD<SUB>50</SUB> increased from 929 to 1324 R. This lesser rate-dependence for neutrons 
+arises from the fact that recovery is slower in neutron-irradiated mice (Vogel <I>et al.</I>, 
+<A HREF="#ref22-113">1957<I>b</I></A>, 
+<A HREF="#ref22-114">1959</A>; 
+<A HREF="#ref22-100">Storer, 1959</A>).
+
+<P><B><I>Relative biological effectiveness.</I></B>
+
+<P>When mice are exposed to different types and energies of ionizing radiation, the dose required to produce a specified level of biological effect is found to vary. 
+These differences may be found even in those cases in which the dosage to the object is uniformly distributed throughout the tissue and the dose rates are identical. 
+Thus the potency of various radiations (X-rays, neutrons, protons, &#945;-particles, etc.) differs. The characteristic potency for producing a specific biological 
+effect is known as the relative biological effectiveness (RBE) of the radiation. Since RBE is a relative value or ratio, it is obvious that the baseline radiation 
+on which the comparison is based must be specified. The International Commission on Radiological Units and Measurements (
+<A HREF="#ref22-53">1956</A>) and the RBE Committee to the International Commissions on Radiological Protection and on Radiological Units and Measurements (
+<A HREF="#ref22-54">1963</A>) have defined the standard as X-rays producing an average of 100 ion pairs per micron of path or an average linear energy transfer (LRET) of about 
+3 kev per micron. These units (ion pairs per micron and LET) refer to energy absorption in water. As previously explained, when radiations are absorbed some of the 
+energy is dissipated in the ionization of atoms. For each ionizing event a pair of ions is formed, since the ejected electron becomes attached to another atom to 
+produce a second ion of opposite sign. Filtered X-rays of energies in the range of 200 to 250 KVP produce an average of about 100 such ionizations per micron of 
+path through water. Such radiation is said to produce a "specific ionization" (SI) of 100 ion pairs per micron. This older terminology (SI) is no longer in general 
+use since it erroneously implies that all the energy is dissipated in the production of ionizations. The preferred is LET, for which the unit is 1,000 electron volts 
+(kev) per micron of path. This does not specify how the energy is dissipated but refers strictly to energy absorption. On the average, one ion pair is formed for every 
+33 electron volts of energy absorbed. It follows that an SI of 100 ion pairs per micron equals approximately 3 kev per micron, since roughly 3,000 electron volts of 
+energy are absorbed for every 100 ion pairs formed.
+
+<P>To return to the question of baseline radiation it should be pointed out that the choice of the International Commission was probably partly a matter of expediency 
+since much of the early work on RBE used X-rays for a baseline. A strong case can be made for the use of high energy &#947;-rays such as those from Co<SUP>60</SUP> 
+because of the wide availability of this radiation, because the average LET is close to the theoretical minimum, and because for nearly all biological responses radiations 
+in this LET range are minimally effective. In practice most authors now use high energy &#947;-rays as the baseline.
+
+<P>RBE values are calculated by dividing the dose of baseline radiation (X- or &#947;-rays) required to produce a specific level of biological effect by the dose of 
+another radiation required to produce an identical level of effect. Doses of both radiations must be expressed in the same units (preferably rads). Ideally the term 
+RBE should be reserved for those studies in which all other exposure variables are held constant and only the differences in LET studied. In practice this ideal is 
+rarely attained. With animals the size of a mouse there are often gross differences in dose to various tissues and in depth doses. Terms such as "equal effect dose ratio" 
+or "relative potency" might be preferable for these latter types of study, but by usage it appears that the term RBE will continue to be applied except in those cases 
+where there is such a gross difference in variables other than LET that the effect of LET is completely overshadowed.
+
+<P>
+<a href="javascript:windowt2202 = window.open('../tables/table22-2.shtml', 'windowt2202', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowt2202.focus()">Table 22-2</A> 
+summarizes some examples of RBE values for a number of types of radiation for the production of 30-day mortality in mice. It can be seen 
+from this table that the reported RBE values range up to about 4, with the more densely ionizing radiations (high LET) being more effective. It should be pointed out 
+that the LD<SUB>50</SUB> is not a particularly good choice of biological endpoint because of a curious propensity for high LET radiations to cause intestinal death 
+rather than the marrow death typical of the baseline radiation. Although the end point is the same, the mechanism for its production is different. Other test systems 
+in the mouse, however, give roughly comparable RBE values except for the lens of the eye where neutrons are much more effective (RBE of 5 to 10) than X-rays in the 
+production of opacities or cataracts. For reviews of RBE see the chapter by Zirkle in Hollaender (
+<A HREF="#ref22-51">1954</A>) and articles by Bora (
+<A HREF="#ref22-14">1959</A>), Storer <I>et al.</I> (
+<A HREF="#ref22-103">1957</A>), and Cronkite and Bond (
+<A HREF="#ref22-21">1956</A>).
+
+<P>An excellent example of a major effect on the LD<SUB>50</SUB> of differences in the pattern of dose deposition in the presence of roughly equal LET values if provided 
+by the work of Grahn <I>et al.</I> (
+<A HREF="#ref22-43">1956</A>). These investigators found LD<SUB>50</SUB> values in mice of 767 R, 1022 R, and 1633 R (mean tissue dose) with X-rays generated at 250, 100, and 80 KVP, 
+respectively. Exposure to the lower energy X-rays apparently resulted in sufficient heterogeneity of tissue dose that some tissues (marrow) received considerably less than 
+the average dose. This resulted in the increased LD<SUB>50</SUB> values at lower energies.
+
+<P>In summary, physical differences in the radiations employed can result in major differences in biological response due either to inherent differences in rates of loss 
+of energy along the path of the radiation (differences in LET) or to macroscopic variations in energy deposition.
+
+<P><B>Modification of the lethal response</B>
+
+<P><B><I>Pretreatment with chemical agents.</I></B>
+
+<P>It has long been recognized that certain environmental manipulations will decrease the radiation sensitivity of experimental animals. For example, the occlusion of 
+blood vessels by ligation or pressure will increase the resistance of the tissue rendered hypoxic (
+<A HREF="#ref22-57">Jolly, 1924</A>, 
+<A HREF="#ref22-76">Mottram, 1924</A>). Tight taping of the chest to interfere with respiration (
+<A HREF="#ref22-32">Evans <I>et al.</I>, 1942</A>) or severe chilling of newborn animals (
+<A HREF="#ref22-61">Lacassagne, 1942</A>; 
+<A HREF="#ref22-104">Storer and Hempelmann, 1952</A>) lead to increased radioresistance. The idea of using chemical agents to increase resistance, however, is of later origin. 
+Because of the potential practical importance of antiradiation compounds, a considerable effort has been made to identify effective nontoxic agents. The search, however, 
+has not been entirely successful. Patt <I>et al.</I> (
+<A HREF="#ref22-80">1949</A>) seem to have provided the major impetus to this line of research with their report that the amino acid, cysteine, when administered to rats prior 
+to 800 R of X-rays, significantly increased survival. Since that time, literally thousands of agents have been tested and dozens have been reported to offer slight to 
+moderate protection. Among the most effective compounds reported are para-aminopropiophenone (
+<A HREF="#ref22-101">Storer and Coon, 1950</A>), 2-mercaptoethylamine (
+<A HREF="#ref22-3">Bacq and Herve, 1952</A>), S- (2-aminoethyl) isothiouronium (
+<A HREF="#ref22-28">Doherty and Burnett, 1955</A>) and 5-hydroxytryptamine (
+<A HREF="#ref22-44">Gray <I>et al.</I>, 1952</A>). All of these compounds will increase the LD<SUB>50</SUB> of mice by 60 to 80 per cent. Thus if the LD<SUB>50</SUB> for control 
+mice is 600 R, the LD<SUB>50</SUB> in the pretreated animals might be about 1,000 R. A wide array of somewhat less effective compounds is available and these have been 
+tabulated and discussed by Thomson (
+<A HREF="#ref22-107">1962</A>).
+
+<P>The basic difficulty with the use of chemical protectants is that they appear to be effective only at close to toxic levels. This fact, together with the relatively 
+small degree of protection afforded (less than a factor of two), seems to preclude any immediate practical application to human beings.
+
+<P>All these agents apparently exert their "antiradiation" effect by influencing the indirect action of radiation, <I>i.e.</I>, the production of reactive radicals. 
+It is known from radiation chemistry that irradiation of water leads to the production of short-lived highly reactive radicals. If oxygen is present in the water the 
+variety and yield of these radicals is increased. It is further known that the physical exclusion of oxygen from biological test systems increases radiation resistance 
+and the presence of oxygen decreases resistance (the so called "oxygen effect"). It seems reasonable to suppose that any chemical agent that reduces oxygenation in vital 
+tissues by interference with oxygen transport, vasoconstriction, severe hypotension, or any other method, should be radioprotective. This seems to be the case and one 
+class of agents can be so characterized. It is not clear, however, that the thiols (cysteine, glutathione, 2-mercaptoethylamine (MEA), etc.) exert their effect by this 
+mechanism. instead, these agents may acts as radical traps or scavengers. According to this concept the thiols and certain other agents would successfully react with 
+the free radicals to inactivate them and thus protect vital cellular functions. Objections have been raised to this theory as an oversimplification and as inconsistent 
+with certain data. For a discussion of theories of mechanism of action see Thomson (
+<A HREF="#ref22-107">1962</A>). In any event it is likely that chemical agents protect by their effects on the indirect action of radiation and for this reason there may be a 
+theoretical limit to their effectiveness by virtue of their inability to influence the direct action.
+
+<P>As indicated earlier, the agents producing hypoxia and certain of the thiols are the most effective protective agents. A wide variety of pharmacological agents has 
+been tested with generally disappointing results with the exception of 5-hydroxytryptamine (serotonin). Certain sulfur-containing compounds other than thiols are 
+slightly effective but generally do not compare with the thiols. Some amines are also slightly effective. None of these agents has been shown to be of benefit when 
+given after radiation exposure.
+
+<P>Some common pitfalls in evaluating "antiradiation" agents should be pointed out. It is, unfortunately, a common practice to inject a group of mice with an agent 
+and then expose these mice along with a control group to a single normally lethal or near-lethal dose of radiation and tabulate 30-day survival. If survival is significantly 
+increased in the treated group, there is a temptation to assume that the protectant is highly effective in changing sensitivity. Because of the steepness of the slope 
+relating per cent mortality in probits to dose, a minor shift in population sensitivity results in a major improvement in survival at a single-dose level. While there 
+is no objection to the single-dose method as a screening procedure to identify promising agents, the proper method for evaluating effectiveness is to run the entire 
+radiation dose-response curve and compare LD<SUB>50</SUB> values. This consideration takes on additional importance in view of the fact that pretreatment may cause a 
+significant widening of the radiation sensitivity distribution (increased variance). In this case the dose-response curve will be much flatter in the treated group 
+than in the control group and it is possible for the treated group to show a relatively decreased mortality at high doses, no change at the LD<SUB>50</SUB> level, 
+and increased mortality at low doses.
+
+<P>Curiously enough, radioprotective agents are relatively ineffective in protecting against high LET radiations such as neutrons (
+<A HREF="#ref22-114">Vogel <I>et al.</I>, 1959</A>). This ineffectiveness may result from differences in radical production by these radiations.
+
+<P><B><I>Therapeutic procedures.</I></B> Of the various attempts at therapy of radiation illness in mice, the best results so far have been obtained from the inoculation 
+of hematopoietic tissue from normal donors. Under optimal circumstances the LD<SUB>50</SUB> can be increased by about a factor of two by this method. Rekers <I>et al.</I> (
+<A HREF="#ref22-87">1950</A>) appear to have been the first to use this form of therapy using irradiated dogs. Their results, however, were equivocal probably for technical reasons 
+and interest lagged until Jacobson and co-workers (
+<A HREF="#ref22-56">1951</A>) and Lorenz <I>et al.</I> (
+<A HREF="#ref22-69">1951</A>) independently, but working in close association, were able to demonstrate that implanted spleen (which is normally hematopoietic in rodents) or bone 
+marrow cells would increase survival in irradiated mice. Because the results were so striking and because of the fundamental importance and possible practical usefulness 
+of this technique, widespread interest was aroused and many researchers began work on the problem. Initially considerable time and effort were spent in attempts to identify 
+the mechanism by which the effect was mediated. Basically the two conflicting hypotheses were (1) that a humoral substance was acting as a specific stimulus to hematopoietic 
+regeneration or (2) that the intact implanted cells "reseeded" the depleted marrow and proliferated to repopulate the marrow spaces. Proponents of the humeral hypothesis 
+leaned heavily on the observation that xenogenic marrow (for example, from a guinea pig or rabbit) would protect mice. It was argued that foreign cells such as these could 
+not survive and proliferate in the mouse. Considerable effort was therefore expended in unsuccessful attempts to extract the humoral material or to protect with cell-free 
+preparations. Finally Main and Prehn (
+<A HREF="#ref22-72">1955</A>) and Lindsley <I>et al.</I> (
+<A HREF="#ref22-68">1955</A>) proved conclusively that the regenerated marrow was of donor type. In retrospect it should have been realized, perhaps, that xenogenic cells could 
+survive in a heavily irradiated host. As early as 1914 Murphy showed that heteroplastic transplants were feasible by growing mouse tumors in heavily irradiated rats.
+
+<P>The technique of protection by marrow inoculation is beautiful in its simplicity. A suspension of bone marrow (or spleen or fetal liver) cells is made in a suitable 
+isotonic medium and inoculated intravenously or intraperitoneally into irradiated recipients. The number of nucleated cells injected can be estimated by counting cells 
+in a sample of the suspension with a standard hemocytometer chamber. The outcome of the procedure is predictable in terms of the genetic theory of histocompatibility. 
+Autogenic (same animal) or isogenic (same strain) implants are curative with no late sequelae other than those associated with nonspecific life shortening. Allogeneic 
+(different strain and specifically one with dissimilar histocompatibility loci) or xenogenic (different species) transplants will often enable survival for 30 days but 
+serious delayed sequelae result from the grafting procedure. With allogeneic grafts a peculiar "secondary disease" frequently occurs as a result of the implanted cells 
+becoming immune to the cells of the host in which they reside. This immunological conflict results in delayed death of a high proportion of the mice. For example, 
+Davis <I>et al.</I> (
+<A HREF="#ref22-25">1963</A>) reported that 65 per cent of the allogeneically grafted mice died within 20 weeks. Some animals, however, did not succumb and 
+lived about as long as isogeneically grafted mice. It should be noted that during the period of survival of either allogeneic or xenogenic grafts, the host animals have 
+immunological characteristics typical of the donor. Skin grafts, for example, from the donor strain are not rejected. Mice injected with cells from a different species 
+may also show secondary disease but in addition show a high incidence of delayed death associated with marrow failure. In this case the graft was established temporarily 
+to enable short-term survival but subsequently rejected (graft failure) leaving the host vulnerable to death from inadequate hematopoietic function (
+<A HREF="#ref22-27">de Vries and Vos, 1959</A>).
+
+<P>The only other therapeutic procedure that is even moderately effective in raising the LD<SUB>50</SUB> is the administration of antibiotics. It has long been known 
+that heavy irradiation may lead to a generalized bacteremia in experimental animals (see reviews by 
+<A HREF="#ref22-73">Miller, 1956</A>; 
+<A HREF="#ref22-12">Bond <I>et al.</I>, 1954</A>). With the development of broad-spectrum antibiotics it seemed logical to determine whether these agents would influence survival 
+in irradiated mice. Some slight beneficial effect has been reported with a number of antibiotics. Streptomycin is probably the most effective of those tested. Generally 
+the results have been disappointing with the increase in survival significant but not particularly remarkable (
+<A HREF="#ref22-49">Hammond, 1954</A>).
+
+<P><B>OTHER QUANTITATIVE RESPONSES</B>
+
+<P>In the preceding sections considerable space has been devoted to the LD<SUB>50:30</SUB> and to factors which modify it. This was done because the acute lethal response 
+shows a quantitative relationship between dose and incidence of mortality. Also the simplicity of the method makes it the most widely used end point in mammalian radiation 
+biology. There is, of course, a large number of other quantitative responses of mice which can also be used and factors influencing the LD<SUB>50</SUB> will also influence 
+these other responses.
+
+<P>Quantitative relationships between radiation dose and time-dependent changes in the body weight or the weight of various tissues have been established (reviewed by 
+<A HREF="#ref22-103">Storer <I>et al.</I>, 1957</A>). Any tissue showing a loss of cellularity as a result of radiation exposure is a potential candidate for use as a quantitative 
+indicator. Those commonly used include the thymus, spleen, intestine, and testis. For optimum accuracy in results the same factors must be controlled as for the LD<SUB>50</SUB>. 
+Homogeneous populations of relatively young age should be used. These methods offer advantages over the lethal response in that a much wider range of radiation doses can 
+be employed, the waiting period between exposure and measurement is generally shorter, and the end points are less complex in terms of interactions of a great number of effects.
+
+<P>Other measurement data such as peripheral blood cell counts, hematocrits, incidence of mitotic figures, or incidence of mitotic abnormalities in various tissues can also 
+be quantified with radiation dose. These methods are technically more complex and it is often difficult to obtain observations on sufficient numbers of animals to establish 
+a high degree of precision in the estimates.
+
+<P>The magnitudes of various biochemical and physiological responses are also dose-dependent. These are rarely used to evaluate either strain differences in or the experimental 
+modification of radiation sensitivity because of the variety of more easily measured end points available. Histopathological changes are sometimes necessarily used as 
+semiquantitative end points. Such changes, however, require a subjective evaluation or grading by the observer and for this reason are less precise than objective measurement 
+or enumeration data. For measuring dose-dependent late effects the shortening of longevity provides an excellent index in large samples.
+
+<P><B>HISTOPATHOLOGY</B>
+
+<P>A detailed summarization of the massive amount of knowledge of the histopathological effects of radiation exposure is beyond the score of this section. The reader is referred 
+to the monograph by Lacassagne and Gricouroff (
+<A HREF="#ref22-62">1958</A>) and to extensive reviews by Furth and Upton (
+<A HREF="#ref22-36">1953</A>), Lushbaugh (
+<A HREF="#ref22-71">1957</A>), and Bloom and Bloom (
+<A HREF="#ref22-10">1954</A>).
+
+<P>There appears to be general agreement that ionizing radiation is deleterious in its effects on tissue and that the initial reaction is an interference with cell function 
+that may lead to cell death. The sporadic reports of a stimulating effect of radiation on cellular proliferation can be explained as secondary reactions to an initial depression. 
+Tissues and organs vary tremendously in their radiation resistance as judged from histological changes. The causes of this variability are poorly understood. It is likely that 
+there is a greater uniformity of functional impairment than of altered histological appearance. With improved methods of measuring function it has been necessary to revise the 
+concepts of resistance and to classify tissues previously considered radioresistant as relatively sensitive.
+
+<P>The problem of classification of organs in terms of radiation sensitivity is further complicated by the fact that usually not all cell types in the organ are equally sensitive. 
+The resistance of the organ then is limited by the resistance of the most sensitive essential cell type. Thus, if the cells lining the vascular supply are severely damaged, the 
+vessels may become scelrotic and secondarily damage other cell types that were relatively little injured by the direct radiation exposure. Not all tissues show maximal evidence 
+of histological injury at the same time. An ordering of relative sensitivity at 3 days after exposure would be entirely different from an ordering at 10 days, 30 days, or 100 days. 
+Despite these problems, the rule-of-thumb propounded by Bergoni&#233; and Tribondeau in 1906 for predicting tissue sensitivity is still useful. This rule states that (1) the most 
+rapidly proliferating cells, (2) cells retaining a capability for division the longest, and (3) cells that are the least differentiated are the most radiosensitive. Many exceptions, 
+particularly with tumors, have been noted but the rule remains generally valid. Finally, it should be noted that all tissues of mice including bone can be damaged severely if 
+a sufficiently large dose of radiation is delivered and a sufficiently long observation period is employed.
+
+<P>The specific cytological appearance of injury in various tissues is more a function of the cell type than of the injuring agent. Cells and tissues have only a limited number 
+of ways of reacting to injury and radiation elicts a cytological response similar to that seen with many other agents. Thus, radiation produces no unique cytological or 
+histopathological changes and the diagnosis of radiation damage depends on the clinical history or on the over-all changes produced in a number of different tissues. This latter 
+method of diagnosis is far from foolproof, since a number of chemical toxins produce changes so similar to radiation that they are classified as "radiomimetics."
+
+<P>Obvious histological evidence of injury is most easily produced (smallest radiation doses are required) in the hematopoietic cells, the mucosa of the small intestine, lymphoid 
+tissue, and the germinal epithelium of the testes. A few hours after exposure of mice to even sublethal radiation doses the bone marrow cells show striking evidence of cellular 
+destruction. Degenerating cell nuclei and nuclear debris are common. Phagocytosis of damaged cells is seen. In a day or two the cellular debris has been largely cleaned up and a 
+marked loss of cellularity is apparent. The missing cells may be replaced by a gelatinous intercellular substance or by hemorrhage. All cell types are affected although erythrocyte 
+and leukocyte precursors seem the most sensitive. Primitive reticulum cells are resistant. Gradually foci of hematopoiesis reappear and by the 10th to 14th day the marrow may actually 
+seem hyperplastic. A similar sequence occurs in the lymphoid tissue (thymus, splenic follicles, lymph nodes, etc.). There is an initial intense breakdown of cells followed by 
+atrophy of the organs from cell depletion and a gradual recovery.
+
+<P>The events in the testes follow a somewhat slower time-course. Here the cells principally affected are the spermatogonia, some of which are extremely sensitive and may be killed 
+by as little as 5 rads. Initial rhexis and pycnosis occur in these cells but the effect is not striking because of the continued presence of great numbers of normal cells in later 
+stages of maturation. With many of the progenitor cells dead, however, there is little replacement of the later stages as they proceed through their normal course of maturation and 
+differentiation into spermatozoa. Consequently, by 4 weeks the germinal epithelium is largely absent in mice exposed to a few hundred rads and the testis is extremely atrophic. 
+Regeneration even after high doses occurs by proliferation of the few surviving stem cells to repopulate the tubule. Such regeneration does not necessarily occur in all tubules, 
+however, and at long times after exposure completely denuded tubules can be found. The interstitial cells of the testis are not noticeably damaged by even large doses of X-rays (
+<A HREF="#ref22-62">Lacassagne and Gricouroff, 1958</A>).
+
+<P>There is not complete agreement on the sequence of damage in the small intestine. A few hours after a moderate dose of radiation there is considerable cellular debris in the 
+intestinal crypts. Undoubtedly many of the dead cells represent lymphocytes, although germinative mucosal cells may also be injured. The debris persists for several days before 
+being gradually removed. The intestinal villi become shortened with fewer cells covering a villus. This effect presumably results from a prolonged mitotic delay with little or 
+no replacement of cells that normally migrate up the villus and shed from the tip into the intestinal lumen. Concurrent with the shortening of the villus the mucosal cells which 
+are normally columnar become flattened and almost squamous in appearance. With high radiation doses the mucosa may ulcerate and the barrier against bacterial invasion may be broken. 
+Even in the absence of ulceration it is apparent that the functional integrity of the barrier is severely compromised. Gradually mitoses reappear in the base of the crypts and with 
+continued proliferation the normal appearance is restored. The stomach and large intestine respond similarly but are more resistant and higher radiation doses are required to 
+produce severe effects.
+
+<P>The mouse ovary is also extremely sensitive to radiation, particularly in terms of functional damage. The primitive oocytes are especially sensitive and doses of 50 rads or 
+less may destroy many of them. This, of course, results in a reduced reproductive performance with sterility occurring at an earlier age than normally. More mature follicles are 
+relatively resistant and single pregnancies are common after even high doses of radiation. Mice and rats are apparently unique among mammals in their ability to continue through 
+estrus cycles  even though all ova have been destroyed by radiation (
+<A HREF="#ref22-62">Lacassagne and Gricouroff, 1958</A>). They are probably not in hormonal balance, however, and with progressive atrophy and scarring of the ovaries the estrogen levels 
+decrease to a point where secondary sex characteristics are affected. This contrasts with the males where secondary sex characteristics are maintained by continued function 
+of the interstitial cells.
+
+<P>A number of other tissues show significant histological changes after  relatively small doses of radiation, but the changes are generally either much slower in developing 
+or much less spectacular than those seen in the tissues described above. Mitotic arrest following low radiation doses can be detected in most tissues that are normally dividing. 
+Careful cytological evaluation of the mitotic figures at the time they reappear reveals a high incidence of chromosomal aberrations such as broken, lagging, or "sticky" chromosomes. 
+Unequal division of the chromosomal material and an abnormal complement in the daughter cells may result. Presumably these cells may be sterile or may produce multinucleated cells. 
+Replacement of the abnormal cells by proliferation of grossly unaffected cells occurs rapidly, however, and chromosomal abnormalities usually decrease or disappear after a few cell 
+generations to yield apparently normal tissues. Aberrations also are produced in nondividing tissues but their presence is undetected until the tissue is stimulated to divide. For 
+example, a few hundred rads greatly increase the incidence of these abnormalities in liver cells and these abnormalities can be detected by inducing the liver to proliferate in 
+response to partial hepatectomy. Repeated partial hepatectomies result in a loss of aberrations presumably because of the inability of abnormal cells to continue division (
+<A HREF="#ref22-24">Curtis <I>et al.</I>, 1964</A>).
+
+<P>Some tissues such as the kidney are often considered radioresistant because of the lack of evidence of damage in the early period after exposure. This erroneous notion arises 
+because of the slow rate of evolution of kidney damage. Intercapillary glomerulosclerosis is a common late sequela in mice after sublethal radiation exposure. A number of other 
+tissues similarly show damage only after long latent periods.
+
+<P>For detailed descriptions of the histopathological effects the reader is referred to the bibliographies appended in standard texts on pathology or radiation biology.
+
+<P><B>HEMATOLOGY</B>
+
+<P>Changes in the peripheral cell counts following irradiation are largely predictable from the above described histopathological changes in lymphoid and hematopoietic tissues. 
+Significant depression in the lymphocyte count can be demonstrated following very small (20 to 30 rads or less) does of X-rays. Following higher doses the lymphocyte count drops 
+precipitously, reaching a minimum in 36 to 48 hours. The duration of the depression is a function of the dose size with recovery beginning at 10 to 15 days after 300 to 400 rads 
+and nearly normal levels are usually restored by 25 to 30 days.
+
+<P>The granulocytes are slightly more resistant but also show a marked drop after moderate doses. Frequently there is an initial granulocytosis preceding the decline which presumably 
+represents an accelerated release from the marrow. After the first postirradiation day the granulocyte levels decline rapidly to a minimum at about 4 to 5 days. The duration of 
+minimal counts is again dose-dependent with recovery occurring at about the same time as with the lymphocytes.
+
+<P>Probably because of the longer normal survival time of erythrocytes, severe anemia is rarely produced by irradiation. A gradual decline in the hematocrit and red cell count 
+occurs following moderate doses with a minimum reached at 10 to 15 days. Recovery occurs equally gradually and by 30 days the values are usually near normal.
+
+<P>Platelets, like the granulocytes, also may show an initial increase followed by a gradual decline to very low levels. Minimum values occur at 10 to 15 days followed by fairly 
+rapid recovery to near normal levels at 25 to 30 days. It is interesting to note that despite very low platelet levels, mice rarely show the tendency to hemorrhage that is seen 
+in irradiated guinea pigs, dogs, or men.
+
+<P>Different strains of mice are known to differ with respect to: normal peripheral blood cell counts (
+<A HREF="#ref22-90">Russell <I>et al.</I>, 1951</A>); radiation resistance as judged by the LD<SUB>50</SUB> (Grahn 
+<A HREF="#ref22-39">1958<I>a</I></A>, 
+<A HREF="#ref22-40">1958<I>b</I></A>, 
+<A HREF="#ref22-41">1960</A>; 
+<A HREF="#ref22-42">Grahn and Hamilton, 1957</A>; Kohn and Kallman, 
+<A HREF="#ref22-59">1956</A>, 
+<A HREF="#ref22-60">1957</A>; 
+<A HREF="#ref22-86">Reinhard <I>et al.</I>, 1954</A>; 
+<A HREF="#ref22-97">Stadler and Gowen, 1957</A>; 
+<A HREF="#ref22-35">Fr&#246;l&#233;n <I>et al.</I>, 1961</A>) or survival under daily exposure (
+<A HREF="#ref22-89">Roderick 1963<I>a</I></A>); and rate of recovery from radiation injury (
+<A HREF="#ref22-60">Kohn and Kallman, 1957</A>). In view of the fact that the extent of fall of the granulocytes may be prognostic of mortality (
+<A HREF="#ref22-19">Brues and Rietz, 1948</A>; 
+<A HREF="#ref22-22">Cronkite <I>et al.</I>, 1956</A>) or may be an index of radiation sensitivity, it would seem logical to exploit these strain differences to determine whether the 
+initial peripheral count or radiation-induced changes in peripheral counts are correlated either with radiation sensitivity or recovery rate. Curiously, this does not appear to 
+have been done.
+
+<P>Detailed descriptions of hematological effects of ionizing radiation are found in the review by Jacobson <I>et al.</I> (
+<A HREF="#ref22-55">1949</A>), and Cronkite and Brecher (
+<A HREF="#ref22-23">1955</A>).
+
+<P><B>IMMUNE RESPONSE</B>
+
+<P>Exposure to ionizing radiation interferes seriously with the ability of mice to respond immunologically to the administration of various antigenic substances. The 
+precise effects observed are a complex function of type of antigenic stimulus, dose of radiation, and time of exposure. While the literature on the subject is conflicting 
+and sometimes confusing, certain general principles have emerged. The primary response is more sensitive than the secondary response and less than 100 rads may be 
+sufficient for significant depression of the primary response. The initial stages of the reaction leading to antibody formation are more sensitive than the later stages. 
+This conclusion follows from the observation that a greater depression is obtained when radiation is given before antigen than when antigen is given before radiation. All 
+mechanisms of response to antigenic stimuli are depressed in that cellular immunity as well as circulating antibodies are affected.
+
+<P>Because of the depression in immune response it is obvious that heavily irradiated mice are more susceptible to both endogenous and exogenous bacterial and viral 
+infections. This point was discussed briefly previously. Ability to reject incompatible tissue grafts is also impaired. This explains the successful transplantation of 
+incompatible bone marrow. Grafting of other tissues may also result in temporary "takes." Completely alien tumors may grow rapidly in irradiated mice and may even kill 
+the recipients before immune mechanisms recover sufficiently to cause rejection. For these reasons the heavily irradiated mouse is, in a sense, a self-contained, 
+self-operating tissue culture system at leas temporarily. Irradiation, therefore, provides a powerful tool for studies on the nature of the immune process and for 
+studies of tissue and organ transplantation.
+
+<P>Extensive reviews on the subject are provided by Leone (
+<A HREF="#ref22-66">1962</A>), Talmage (
+<A HREF="#ref22-106">1955</A>), and Taliaferro (
+<A HREF="#ref22-105">1957</A>).
+
+<P><B>REPRODUCTION</B>
+
+<P>Basically there are two mechanisms by which ionizing radiation can influence reproductive performance. Transmissible genetic defects (chromosomal derangements 
+or point mutations) may be induced which lead to failure of implantation, early death and resorption of the fetus, or stillbirths. In totally irradiated mice this 
+mechanism is of relatively minor importance compared with the somatic effects on the breeding animals which may markedly reduce the total numbers of viable offspring. 
+The genetic effects are covered in 
+<A HREF="chapter10.shtml">Chapter 10</A> and will not be reviewed here. From a consideration of the histopathological effects on the testis and 
+ovary and the relative ease with which sterility can be induced, particularly in females, it is apparent that direct somatic effects may sharply reduce numbers of 
+offspring during the reproductive life of mice. Males are relatively more resistant than females. Moderate to large doses of radiation may produce a period of 
+sterility by the killing of large numbers of spermatogonia which are the stem cells from which later stages in spermatogenesis are derived. This sterility is only 
+temporary at less than lethal doses and most of the tubules regenerate and spermatozoa are again formed. The sperm count may remain slightly lower than normal 
+since not all tubules regenerate, but apparently there normally a great excess of spermatozoa and a modest depression in numbers does not interfere seriously with 
+the ability to inseminate successfully.
+
+<P>Because of the high sensitivity of primitive ova and because ova are not continuously supplied from germinal cells capable of indefinite proliferation, female 
+mice are easily sterilized with even modest doses of radiation. With 100 rads or less the female may become permanently sterile after bearing one or two litters. 
+(These litters early after radiation can occur presumably because the more mature ova are more resistant than the more primitive ones.) With higher doses the incidence 
+of complete sterility is greatly increased.
+
+<P>Impaired reproductive performance in the female could also occur if disturbances in the endocrine balance or in the ability to provide a suitable uterine environment 
+were induced. While such changes presumably could be induced by high doses of radiation to localized regions, they are not a factor with total-body radiation because 
+the extreme sensitivity of the mouse ovary is limiting. It might be noted that the corpora lutea and the uterine mucosa are relatively resistant structures.
+
+<P><B>SUMMARY</B>
+
+<P>I have attempted to describe briefly the physical basis by which radiation damage is produced. The importance of good practices in dosimetry is stressed. Clinical 
+signs and symptoms of radiation injury and the presumed modes of death from this injury are discussed. I have placed particular emphasis on methods for the quantitative 
+estimation of biological injury and factors which influence the accuracy of the estimation. Variables affecting sensitivity to irradiation are included along with a 
+brief description of the histopathology of radiation injury.
+
+<P>Radiation provides an extremely valuable tool for studies in hematology, immunology, aging, cancerogenesis, and response to stress. Radiation doses are easily 
+quantified and the responses are unusually uniform if extraneous variables are carefully controlled.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Contracts AT(30-1)-2313 and AT(30-1)-3314 with the U.S. Atomic Energy Commission.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref22-1"></A>
+<P>Abrams, H.L. 1951. 
+Influence of age, body weight and sex on susceptibility of mice to the lethal effects of X-radiation. 
+Proc. Soc. Exp. Biol. Med. <B>76:</B> 729-732.
+<!-- 14844327 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14844327" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-2"></A>
+<P>Bacq, Z.M., and P. Alexander. 1955. 
+<I>Fundamentals of Radiobiology</I>. 
+Butterworth, London. 389 p.
+
+
+<A NAME="ref22-3"></A>
+<P>Bacq, Z.M., and A. Herve. 1952. 
+Protection chimique contre le rayonnement X. 
+Bull Acad. Roy. Med. Belg. <B>18:</B> 13-58.
+
+
+<A NAME="ref22-4"></A>
+<P>Bergoni&#233;, J., and L. Tribondeau. 1906. 
+Interpr&#233;tation de quelques r&#233;sultats de la radioth&#233;rapie et essai de fixation d'une technique rationelle. 
+Compt. Rend. Acad. Sci. <B>143:</B> 983-985. Cited by Lacassagne and Gricouroff (
+<A HREF="#ref22-62">1958</A>)
+
+
+<A NAME="ref22-5"></A>
+<P>Bernstein, S.E. 1962. 
+Acute radiosensitivity in mice of differing <I>W</I> genotype. 
+Science <B>137:</B> 428-429.
+<!-- 13868287 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13868287" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-7"></A>
+<P>Bernstein, S.E. 1963. 
+Modification of radiosensitivity of genetically anemic mice by implantation of blood-forming tissue. 
+Radiat. Res. <B>20:</B> 695-702.
+<!-- 14102488 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14102488" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-8"></A>
+<P>Bliss, C.I. 1938. 
+The determination of dosage-mortality curves from small numbers. 
+Quart. J. Pharmacol. <B>11:</B> 192-216.
+
+
+<A NAME="ref22-9"></A>
+<P>Bloom, W. [ed.] 1948. 
+<I>Histopathology of Irradiation from External and Internal Sources. National Nuclear Energy Series IV-221</I>. 
+McGraw-Hill, New York. 808 p.
+
+
+<A NAME="ref22-10"></A>
+<P>Bloom, W., and M.A. Bloom. 1954. 
+Histological changes after irradiation, p. 1091-1144. 
+<I>In</I> A. Hollaender [ed.] <I>Radiation Biology. Volume 1, Part 2</I>. McGraw-Hill, New York.
+
+
+<A NAME="ref22-11"></A>
+<P>Bond, V.P., and J.S. Robertson. 1957. 
+Vertebrate radiobiology (lethal actions and associated effects). 
+Annu. Rev. Nucl. Sci. <B>7:</B> 135-162.
+<!-- 13498670 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13498670" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-12"></A>
+<P>Bond, V.P., M.S. Silverman, and E.P. Cronkite. 1954. 
+Pathogenesis and pathology of post-irradiation infection. 
+Radiat. Res. <B>1:</B> 389-400.
+<!-- 13204555 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13204555" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-13"></A>
+<P>Bond, V.P., M.N. Swift, A.C. Allen, and M.C. Fishler. 1950. 
+Sensitivity of abdomen of rat to X-irradiation. 
+Amer. J. Physiol. <B>161:</B> 323-330.
+<!-- 15425653 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15425653" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-14"></A>
+<P>Bora, K.C. 1959. 
+Factors affecting the relative biological efficiencies of ionizing radiations, p. 279-299. 
+<I>In</I> J.G. Bugher, J. Coursaget, and J.F. Loutit [ed.] <I>Progress in Nuclear Energy. Ser. VI. Biological Sciences. Vol. 2</I> Pergamon Press, New York.
+
+<A NAME="ref22-15"></A>
+<P>Brennan, J.T., P.S. Harris, R.E. Carter, and W.H. Langham. 1954. 
+The biological effectiveness of thermal neutrons on mice. 
+Nucleonics <B>12 (2):</B> 48-56; <B>12 (4):</B> 31-35.
+
+<A NAME="ref22-16"></A>
+<P>Brown, J.A.H., M.J. Corp, and R.H. Mole. 1962. 
+The effect on dose-rate and fractionation on acute mortality in X-irradiated mice. 
+Int. J. Radiat. Biol. <B>5:</B> 329-377.
+
+<A NAME="ref22-17"></A>
+<P>Brown, J.A.H., M.J. Corp,, and D.R. Westgarth. 1960. 
+Effect of dose-rate and fractionation of X-ray dose on acute lethality in mice. 
+Int. J. Radiat. Biol. <B>2:</B> 371-381.
+
+<A NAME="ref22-18"></A>
+<P>Brues, A.M. [ed.] 1959. 
+<I>Low-level Irradiation</I>. 
+American Association for the Advancement of Science, Wasington, D.C. 148 p.
+
+<A NAME="ref22-19"></A>
+<P>Brues, A.M., and L. Rietz. 1948. 
+Acute hematologic radiation response of the guinea-pig as a function of lethality, p. 183-187. 
+<I>In</I> <I>Biological and Medical Divisions Quarterly Report for the Period Aug. to Oct. 1948.</I> ANL-4227 (Argonne National Laboratory, Chicago.)
+
+<A NAME="ref22-20"></A>
+<P>Carter, R.E., V.P. Bond, and P.H. Seymour. 1956. 
+The relative biological effectiveness of fast neutrons in mice. 
+Radiat. Res. <B>4:</B> 413-423.
+<!-- 13323262 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13323262" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-21"></A>
+<P>Cronkite, E.P., and V.P. Bond. 1956. 
+Effects of radiation on mammals. 
+Annu. Rev. Physiol. <B>18:</B> 483-526.
+<!-- 13412059 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13412059" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-22"></A>
+<P>Cronkite, E.P., V.P. Bond, and C.L. Dunham. 1956. 
+<I>Some Effects of Ionizing Radiation on Human Beings</I>. 
+Document TID-5358, U.S. Government Printing Office, Washington, D.C. 106 p.
+
+<A NAME="ref22-23"></A>
+<P>Cronkite, E.P., and G. Brecher. 1955. 
+The protective effect of granulocytes in radiation injury. 
+Ann. N.Y. Acad. Sci. <B>59:</B> 815-833.
+<!-- 13259353 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13259353" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-24"></A>
+<P>Curtis, H.J., J. Tilley, and C. Crowley. 1964. 
+The elimination of chromosome aberrations in liver cells by cell division. 
+Radiat. Res. <B>22:</B> 730-734.
+<!-- 14201880 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14201880" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-25"></A>
+<P>Davis, W.E., Jr., L.C. Cole, W.A. Foley, and V.J. Rosen, Jr. 1963. 
+Leukemia incidence and longevity in radiation-induced homologous mouse chimeras. 
+Radiat. Res. <B>20:</B> 43-52.
+<!-- 14061480 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14061480" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-26"></A>
+<P>Delihas, N., and H.J. Curtis. 1958. 
+The relative biological effectiveness of fission neutrons for the production of acute mortality in mice. 
+Radiat. Res. <B>8:</B> 166-180.
+<!-- 13506044 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13506044" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-27"></A>
+<P>De Vries, M.J., and O. Vos. 1959. 
+Delayed mortality in radiation chimeras: a pathological and hematological study. 
+J. Nat. Cancer Inst. <B>23:</B> 1403-1440.
+
+<A NAME="ref22-28"></A>
+<P>Doherty, D.G., and W.T. Burnett, Jr. 1955. 
+Protective effect of S,&#946;-Aminoethylisothiouronium.Br.Hbr and related compounds against X-radiation in mice. 
+Proc. Soc. Exp. Biol. Med. <B>89:</B> 312-314.
+<!-- 14395303 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14395303" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-29"></A>
+<P>Doolittle, D.P. 1961. 
+The effect of single gene substitutions on resistance to radiation in mice. 
+Genetics <B>46:</B> 1501-1509.
+<!-- 17248076 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17248076" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-30"></A>
+<P>Evans, T.C. 1948. 
+Effects of small daily doses of neutrons on mice. 
+Radiology <B>50:</B> 811-833.
+
+<A NAME="ref22-31"></A>
+<P>Evans, T.C. 1949. 
+The fast neutron hazard. 
+Nucleonics <B>4(3):</B> 2-8.
+
+<A NAME="ref22-32"></A>
+<P>Evans, T.C., J.P. Goodrich, and J.C. Slaughter. 1942. 
+Temperature and radiosensitivity of skin of newborn rats: effects of decreased circulation and breathing during irradiation. 
+Radiology <B>38:</B> 201-206.
+
+<A NAME="ref22-33"></A>
+<P>Evans, T.C., and P.J. Leinfleder. 1953. 
+The relative effectiveness of fast neutrons and X-irradiation in the production of lens damage in mice. 
+Radiat. Res. <B>1:</B> 130. (Abstr.)
+
+<A NAME="ref22-34"></A>
+<P>Finney, D.J. 1947. 
+<I>Probit Analysis</I>. 
+Cambridge University Press, New York. 256 p.
+
+<A NAME="ref22-35"></A>
+<P>Fr&#246;l&#233;n, H., K.G. L&#252;ning, and C. R&#246;nnb&#228;ck. 1961. 
+The effect of X-irradiation on various mouse strains due to their genetic background. I. Lethality after acute irradiation. 
+Radiat. Res. <B>14:</B> 381-393.
+<!-- 13702205 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13702205" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-36"></A>
+<P>Furth, J., and A.C. Upton. 1953. 
+Vertebrate radiobiology: histopathology and carcinogenesis. 
+Annu. Rev. Nucl. Sci. <B>3:</B> 303-338.
+
+<A NAME="ref22-37"></A>
+<P>Gaddum, J.H. 1933. 
+Reports on biological standards. III. Methods of biological assay depending on a quantal response. 
+Spec. Rep. Ser. Med. Res. Counc., London, No. 183. Cited by Finney (
+<A HREF="#ref22-34">1947</A>).
+
+<A NAME="ref22-38"></A>
+<P>Goepp, R., and F. Fitch. 1962. 
+Pathological study of oral radiation death in mice. 
+Radiat. Res. <B>16:</B> 833-845.
+<!-- 13899475 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13899475" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-39"></A>
+<P>Grahn, D. 1958<I>a</I>. 
+The genetic factor in acute and chronic radiation toxicity. 
+Proc. 2nd Int. Conf. Peaceful Uses Atomic Energy (Geneva) <B>22:</B> 394-399.
+
+<A NAME="ref22-40"></A>
+<P>Grahn, D. 1958<I>b</I>. 
+Acute radiation response of mice from a cross between radiosensitive and radioresistant strains. 
+Genetics <B>43:</B> 835-843.
+<!-- 17247799 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247799" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-41"></A>
+<P>Grahn, D. 1960. 
+The genetics of radiation toxicity in animals, p. 181-200. 
+<I>In</I> Caldecott and Snyder [ed.] <I>Radioisotopes in the Biosphere</I>. Center for Continuation Study, The University of Minnesota Press, Minneapolis.
+
+<A NAME="ref22-42"></A>
+<P>Grahn, D., and K.F. Hamilton. 1957. 
+Genetic variation in the acute lethal response of four inbred mouse strains to whole body X-irradiation. 
+Genetics <B>42:</B> 189-198.
+<!-- 17247690 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247690" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-43"></A>
+<P>Grahn, D., G.A. Sacher, and H. Walton, Jr. 1956. 
+Comparative effectiveness of several X-ray qualities for acute lethality in mice and rabbits. 
+Radiat. Res. <B>4:</B> 228-242.
+<!-- 13297973 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13297973" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-44"></A>
+<P>Gray, J.L., J.T. Tew, and H. Jensen. 1952. 
+Protective effect of serotonin and of para-aminopropiophenone against lethal doses of X-radiation. 
+Proc. Soc. Exp. Biol. Med. <B>80:</B> 604-607.
+<!-- 12983357 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->12983357" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-45"></A>
+<P>Hagen, C.W., and R.E. Zirkle. 1950. 
+Comparative biological actions of cyclotron fast neutrons and X rays. I. Lethal action on mice and rabbits. 
+Univ. Chicago Rep. CH-3903.
+
+<A NAME="ref22-46"></A>
+<P>Hahn, E.W., and J.W. Howland. 1963. 
+Modification of irradiation response of female rats by population density. 
+Radiat. Res. <B>19:</B> 676-681.
+<!-- 14062239 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14062239" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-47"></A>
+<P>Haley, T.J., and R.S. Snider. [ed.] 1962. 
+<I>Response of the Nervous System to Ionizing Radiation</I>. 
+Academic Press, New York. 783 p.
+
+<A NAME="ref22-48"></A>
+<P>Hamilton, K.F., G.A. Sacher, and D. Grahn. 1963. 
+A sex difference in mouse survival uder daily gamma irradiation and its modification by gonadectomy. 
+Radiat. Res. <B>18:</B> 12-16.
+<!-- 13952337 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13952337" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-49"></A>
+<P>Hammond, C.W. 1954. 
+The treatment of post-irradiation infection. 
+Radiat. Res. <B>1:</B> 448-458.
+<!-- 13204560 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13204560" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-50"></A>
+<P>Henshaw, P.S., E.F. Riley, and G.E. Stapleton. 1947. 
+Plutonium project: biologic effects of pile irradiations. 
+Radiology <B>49:</B> 349-359.
+
+<A NAME="ref22-51"></A>
+<P>Hollaender, A. [ed.] 1954. 
+<I>Radiation Biology. Vol. I. High Energy Radiation.</I> 
+McGraw-Hill, New York. 1265 p.
+
+<A NAME="ref22-52"></A>
+<P>Hollcroft, J., and E. Lorenz. 1951. 
+The 30-day LD<SUB>5</SUB> of two radiations of different ion density. 
+J. Nat. Cancer Inst. <B>12:</B> 533-544.
+<!-- 14889258 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14889258" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-53"></A>
+<P>International Commission on Radiological Protection and on Radiological Units and Measurements. 1956. 
+<I>National Bureau of Standards Handbook 62</I>.
+U.S. Government Printing Office, Washington, D.C. 48 p.
+
+<A NAME="ref22-54"></A>
+<P>International Commission on Radiological Protection and on Radiological Units and Measurements. 
+<I>Report of the RBE Subcommittee</I>. 1963. 
+Health Phys. <B>9:</B> 357-384.
+
+<A NAME="ref22-55"></A>
+<P>Jacobson, L.O., E.K. Marks, and E. Lorenz. 1949. 
+The hematological effects of ionizing radiations. 
+Radiology <B>52:</B> 371-395.
+
+<A NAME="ref22-56"></A>
+<P>Jacobson, L.O., E.L. Simmons, E.K. Marks, E.O. Gaston, M.J. Robson, and J.H. Eldredge. 1951. 
+Further studies on recovery from radiation injury. 
+J. Lab. Clin. Med. <B>37:</B> 683-697.
+<!-- 14841411 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14841411" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-57"></A>
+<P>Jolly, J. 1924. 
+Actions des rayons X sur les cellules. Modifications de la radiosensibilit&#233; par ligature des connexions vasculaires. 
+Compt. Rend. Soc. Biol. <B>91:</B> 351-354.
+
+<A NAME="ref22-58"></A>
+<P>Kereiakes, J.G., W.H. Parr, and A.T. Krebs. 1957. 
+Fractionated dose effects on survival and organ weights in X-irradiated mice. 
+Amer. J. Physiol. <B>191:</B> 131-134.
+<!-- 13478699 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13478699" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-59"></A>
+<P>Kohn, H.I., and R.F. Kallman. 1956. 
+The influence of strain on acute X-ray lethality in the mouse. I. LD<SUB>50</SUB> and death rate studies. 
+Radiat. Res. <B>6:</B> 329-338.
+<!-- 13370831 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13370831" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-60"></A>
+<P>Kohn, H.I., and R.F. Kallman. 1957. 
+The influence of strain on acute X-ray lethality in the mouse. II. Recovery rate studies. 
+Radiat. Res. <B>6:</B> 329-338.
+<!-- 13408474 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13408474" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-61"></A>
+<P>Lacassagne, A. 1942. 
+Chute de la sensibilit&#233; aux rayons X chez la souris nouveau-n&#233;e en &#233;tat d'asphyxie. 
+Compt. Rend. Acad. Sci. <B>215:</B> 231-232.
+
+<A NAME="ref22-62"></A>
+<P>Lacassagne, A., and G. Gricouroff. 1958. 
+<I>Action of Radiation on Tissues</I>. 
+Grune & Stratton, New York. 199 p.
+
+<A NAME="ref22-63"></A>
+<P>Langham, W.H., K.T. Woodward, S.M. Rothermel, P.S. Harris, C.C. Lushbaugh, and J.B. Storer. 1956. 
+Studies on the effect of rapidly delivered, massive doese of gamma rays on mammals. 
+Radiat. Res. <B>5:</B> 404-432.
+
+<A NAME="ref22-64"></A>
+<P>Lawrence, E.O. 1937. 
+The biological action of neutron rays. 
+Radiology <B>29:</B> 313-322.
+<!-- 16588057 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16588057" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-65"></A>
+<P>Lawrence, J.H., and R. Tennant. 1937. 
+The comparative effects of neutrons and X-rays on the whole body. 
+J. Exp. Med. <B>66:</B> 667-688.
+<!-- 16588107 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16588107" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-66"></A>
+<P>Leone, C.A. [ed.] 1962. 
+<I>Effects of Ionizing Radiations on Immune Processes</I>. 
+Gordon and Breach, New York. 518 p.
+
+<A NAME="ref22-67"></A>
+<P>Lindop, P.J. and J. Rotblat. 1959. 
+Shortening of lifespan of mice as a function of age at irradiation. 
+Gerontologia <B>3:</B> 122-127.
+<!-- 14417190 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14417190" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-68"></A>
+<P>Lindsley, D.L., T.T. Odell, Jr., and F.G. Tousche. 1955. 
+Implantation of functional erythropoietic elements following total-body irradiation. 
+Proc. Soc. Exp. Biol. Med. <B>90:</B> 512-515.
+<!-- 13273497 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13273497" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-69"></A>
+<P>Lorenz, E., D. Uphoff, T.R. Reid, and E. Shelton. 1951. 
+Modification of irradiation injury in mice and guinea pigs by bone marrow injection. 
+J. Nat. Cancer Inst. <B>12:</B> 197-201.
+<!-- 14874130 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14874130" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-70"></A>
+<P>Loutit, J.F. 1962. 
+<I>Irradiation of Mice and Men</I>. 
+The University of Chicago Press, Chicago. 154 p.
+
+<A NAME="ref22-71"></A>
+<P>Lushbaugh, C.C. 1957. 
+Vertebrate radiobiology (the pathology of radiation exposure). 
+Annu. Rev. Nucl. Sci. <B>7:</B> 163-184.
+<!-- 13498671 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13498671" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-72"></A>
+<P>Main, J.M., and R.T. Prehn. 1955. 
+Successful skin homografts after the administration of high dosage X irradiation and homologous bone marrow. 
+J. Nat. Cancer Inst. <B>15:</B> 1023-1030.
+<!-- 13233946 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13233946" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-73"></A>
+<P>Miller, C.P. 1956. 
+The effect of irradiation on natural resistance to infection. 
+Ann. N.Y. Acad. Sci. <B>66:</B> 280-291.
+
+<A NAME="ref22-74"></A>
+<P>Mitchell, J.S., B.E. Holmes, and C.L. Smith [ed.] 1956. 
+<I>Progress in Radiobiology</I>. 
+Charles C. Thomas, Springfield, Ill. 557 p.
+
+<A NAME="ref22-75"></A>
+<P>Mole, R.H. 1959. 
+Some aspects of mammalian radiobiology. 
+Radiat. Res. Suppl. <B>1:</B> 124-148.
+
+<A NAME="ref22-76"></A>
+<P>Mottram, J.C. 1924. 
+On the skin reactions to radiation exposure and their avoidance in therapy; an experimental investigation. 
+Brit J. Radiol. <B>29:</B> 174-180.
+
+<A NAME="ref22-77"></A>
+<P>Murphy, J.B. 1914. 
+Heteroplastic tissue grafting affected through Roentgen-ray lymphoid destruction. 
+J. Amer. Med. Ass. <B>62:</B> 1459. Cited by Murphy (1926).
+
+<A NAME="ref22-78"></A>
+<P>Murphy, J.B. 1926. 
+<I>The Lymphocyte in Resistance to Tissue Grafting, Malignant Disease, and Tuberculous Infection</I>. 
+Monogr. Rockefeller Inst. Med. No. 21. 168 p.
+
+<A NAME="ref22-79"></A>
+<P>Nickson, J.J. [ed.] 1952. 
+<I>Symposium on Radiobiology: The Basic Aspects of Radiation Effects on Living Systems.</I> 
+Wiley, New York. 465 p.
+
+<A NAME="ref22-80"></A>
+<P>Patt, H.M., E.B. Tyree, R.L. Straube, and D.E. Smith. 1949. 
+Cysteine protection against X irradiation. 
+Science <B>110:</B> 213-214.
+
+<A NAME="ref22-81"></A>
+<P>Quastler, H. 1956. 
+The nature of intestinal radiation death. 
+Radiat. Res. <B>4:</B> 303-320.
+<!-- 13310750 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13310750" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-82"></A>
+<P>Quastler, H., M.K. Austin, and M. Miller. 1956. 
+Oral radiation death. 
+Radiat. Res. <B>5:</B> 338-353.
+<!-- 13370834 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13370834" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-83"></A>
+<P>Quastler, H., E.F. Lanzl, M.E. Keller, and S.W. Osborne. 1951. 
+Acute intestinal radiation death. Studies on roentgen death in mice, III.
+Amer. J. Physiol. <B>164:</B> 546-556.
+<!-- 14810963 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14810963" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-84"></A>
+<P>Rajewsky, B. 1955. 
+Radiation death in mammals, p. 81-92. 
+<I>In</I> Z.M. Bacq and P. Alexander [ed.] <I>Radiobiology Symposium 1954 (Liege)</I>. Academic Press, New York.
+
+<A NAME="ref22-85"></A>
+<P>Raventos, A. 1955. 
+A factor influencing the significance of radiation mortality experiments. 
+Brit. J. Radiol. <B>28:</B> 410-414.
+<!-- 13240059 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13240059" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-86"></A>
+<P>Reinhard, M.C., E.A. Morand, H.L. Galtz, and J.G. Hoffman. 1954. 
+Mouse-strain differences in response to radiation. 
+Proc. Soc. Exp. Biol. Med. <B>85:</B> 367-370.
+<!-- 13155600 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13155600" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-87"></A>
+<P>Rekers, P.E., M.P. Coulter, and S.L. Warren. 1950. 
+Effect of transplantation of bone marrow into irradiated animals. 
+Arch. Surg. <B>60:</B> 635-637.
+
+<A NAME="ref22-88"></A>
+<P>Riley, E.F., P.S. Leinfelder, T.C. Evans, and P.B. Rhody. 1955. 
+Relative cataractogenic effectiveness of fast neutron radiation from different sources. 
+Radiat. Res. <B>3:</B> 342.
+
+<A NAME="ref22-89"></A>
+<P>Roderick, T.H. 1963<I>a</I>. 
+The response of twenty-seven inbred strains of mice to daily doses of whole-body X-irradiation. 
+Radiat. Res. <B>20:</B> 631-639.
+<!-- MGI:70477 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70477" target="_blank">MGI</A></I>.
+
+<A NAME="ref22-89a"></A>
+<P>Roderick, T.H. 1963<I>b</I>. 
+Selection for radiation resistance in mice. 
+Genetics <B>48:</B> 205-216.
+<!-- MGI:74924 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74924" target="_blank">MGI</A></I>.
+
+<A NAME="ref22-90"></A>
+<P>Russell, E.S., E.F. Neufeld, and C.T. Higgins. 1951. 
+Comparison of normal blood picture of young adults from 18 inbred strains of mice. 
+Proc. Soc. Exp. Biol. Med. <B>78:</B> 761-766.
+<!-- MGI:70612 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70612" target="_blank">MGI</A></I>.
+
+<A NAME="ref22-91"></A>
+<P>Sacher, G.A. 1955. 
+A comparative analysis of radiation lethality in mammals exposed at constant average intensity for the duration of life. 
+J. Nat. Cancer Inst. <B>15:</B> 1125-1144.
+<!-- 13233955 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13233955" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-92"></A>
+<P>Sacher, G.A. 1956. 
+On the statistical nature of mortality, with especial reference to chonic radiation mortality. 
+Radiology <B>67:</B> 250-257.
+<!-- 13350524 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13350524" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-93"></A>
+<P>Sacher, G.A. 1957. 
+Dependence of acute radiosensitivity on age in adult female mouse. 
+Science <B>125:</B> 1039-1040.
+<!-- 13432754 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13432754" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-94"></A>
+<P>Sacher, G.A. 1958. 
+Reparable and irreparable injury: a survey of the position in experiment and theory, p. 283-313. 
+<I>In</I> W.D. Claus [ed.] <I>Radiation Biology and Medicine</I>. Addison-Wesley, Reading, Mass.
+
+<A NAME="ref22-95"></A>
+<P>Sacher, G.A., and D. Grahn. 1964. 
+Survival of mice under duration-of-life exposure to gamma rays. I. The dosage-survival relation and the lethality function. 
+J. Nat. Cancer Inst. <B>32:</B> 277-321.
+<!-- 14118062 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14118062" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-96"></A>
+<P>Spalding, J.F., and T.T. Trujillo. 1962. 
+Radiosensitivity of mice as a function of age. 
+Radiat. Res. <B>16:</B> 125-129.
+<!-- 13915532 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13915532" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-97"></A>
+<P>Stadler, J., and J.W. Gowen. 1957. 
+Contributions to survival made by body cells of genetically differentiated strains of mice following X-irradiations. 
+Biol. Bull. <B>112:</B> 400-421.
+
+<A NAME="ref22-98"></A>
+<P>Stearner, S.P., and S.A. Tyler. 1963. 
+Radiation mortality in the mouse: model of the kinetics of injury accumulation. I. Protracted doses in the 30-day lethal range.
+Radiat. Res. <B>20:</B> 619-630.
+<!-- 14102481 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14102481" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-99"></A>
+<P>Stone, R.S. 1948. 
+Neutron therapy and specific ionization. 
+Amer. J. Roentgenol. <B>59:</B> 771-785.
+
+<A NAME="ref22-100"></A>
+<P>Storer, J.B. 1959. 
+Rate of recovery from radiation damage and its possible relationship to life shortening in mice. 
+Radiat. Res. <B>10:</B> 180-196.
+<!-- 13645928 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13645928" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-101"></A>
+<P>Storer, J.B., and J.M. Coon. 1950. 
+Protective effect of para-aminopropiophenone against lethal doses of X-radiation. 
+Proc. Soc. Exp. Biol. Med. <B>74:</B> 202-204.
+<!-- 15430434 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15430434" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-102"></A>
+<P>Storer, J.B., and D. Grahn. 1960. 
+Vertebrate radiobiology: late effects. 
+Annu. Rev. Nucl. Sci. <B>10:</B> 561-582.
+
+<A NAME="ref22-103"></A>
+<P>Storer, J.B., P.S. Harris, J.E. Furchner, and W.H. Langham. 1957. 
+The relative biological effectiveness of various ionizing radiations in mammalian systems. 
+Radiat. Res. <B>6:</B> 188-288.
+<!-- 13420343 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13420343" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-104"></A>
+<P>Storer, J.B., and L.H. Hempelmann. 1952. 
+Hypothermia and increased survival rate of infant mice irradiated with X-rays. 
+Amer. J. Physiol. <B>171:</B> 341-348.
+<!-- 13007799 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13007799" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-105"></A>
+<P>Taliaferro, W.M. 1957. 
+Modification of the immune response by radiation and cortisone. 
+Ann. N.Y. Acad. Sci. <B>69:</B> 745-764.
+
+<A NAME="ref22-106"></A>
+<P>Talmage, D.W. 1955. 
+Effect of ionizing radiation on resistance and infection. 
+Annu. Rev. Microbiol. <B>9:</B> 335-346.
+<!-- 13259470 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13259470" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-107"></A>
+<P>Thomson, J.F. 1962. 
+<I>Radiation Protection in Mammals</I>. 
+Reinhold, New York. 212 p.
+
+<A NAME="ref22-108"></A>
+<P>Tyler, S.A., and S.P. Stearner. 1964. 
+Accumulation of acute injury in the mouse subjected to split or fractionated dose of X-radiation or gamma radiation. 
+Radiat. Res. <B>21:</B> 16-25.
+<!-- 14114191 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14114191" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-109"></A>
+<P>United Nations. 1958. 
+<I>Biological Effects of Radiation. Proc. 2nd Int. Conf. Peaceful Uses Atomic Energy (Geneva). Vol 22</I>. 
+United Nations, Geneva. 552 p.
+
+<A NAME="ref22-110"></A>
+<P>Upton, A.C., F.P. Conte, G.S. Hurst, and W.A. Mills. 1955. 
+The relative biological effectiveness of fast neutrons, X-rays, and &#947;-rays for acute lethality in mice. 
+Radiat. Res. <B>3:</B> 355. (Abstr.)
+
+<A NAME="ref22-111"></A>
+<P>Vogel, H.H., Jr., J.W. Clark, and D.L. Jordan. 1954. 
+The relative biological effectiveness of fast neutrons and cobalt<SUP>60</SUP> &#947;-radiation. 
+Radiat. Res. <B>1:</B> 233. (Abstr.)
+
+
+<A NAME="ref22-112"></A>
+<P>Vogel, H.H., Jr., J.W. Clark, and D.L. Jordan. 1957<I>a</I>. 
+Comparative mortality after 24 hour, whole-body, exposures of mice to fission neutrons and cobalt-60 gamma-rays. 
+Radiat. Res. <B>6:</B> 460-468.
+<!-- 13420348 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13420348" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref22-113"></A>
+<P>Vogel, H.H., Jr., J.W. Clark, and D.L. Jordan. 1957<I>b</I>. 
+"Recovery" after fission neutrons: paired equal doses with varying time intervals. 
+Radiat. Res. <B>7:</B> 458-459.
+
+
+<A NAME="ref22-114"></A>
+<P>Vogel, H.H., Jr., D.L. Jordan, and S. Lesher. 1959. 
+Injury and recovery in neutron irradiated animals, p. 221-235. 
+<I>In</I> J. H. Martin [ed.] <I>Radiation Biology, Proc. 2nd Australasian Conf. Radiation Biol.</I> (Melbourne, 1958). Butterworth, London.
+
+
+<A NAME="ref22-115"></A>
+<P>Wilson, N.R. 1963. 
+Survival studies of whole-body X-irradiated germfree (axenic) mice. 
+Radiat. Res. <B>20:</B> 477-483.
+
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter21.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter23.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

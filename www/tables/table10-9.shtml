@@ -1,0 +1,215 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse  - Table 10-9</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 10 -->
+
+<CENTER>
+
+<H3>Table 10-9. MUTATION RATES IN OOCYTES EXPOSED TO SINGLE<BR>ACUTE AND CHRONIC DOSES OF RADIATION</H3>
+
+<P><TABLE>
+
+<TR>
+<TD COLSPAN=17><HR></TD>
+</TR>
+
+<TR>
+<TD>Row</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Type of mutation</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=2>Total dose</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER COLSPAN=2>Dose rate</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Number of<BR>gametes<BR>tested</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Number of<BR>mutants</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Mutation<BR>rate<BR> x 10<SUP>5</SUP></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM>Source</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=17><HR></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=17>(C3H x 101)F<SUB>1</SUB> females X-rayed (250 kvp), mated with test stock males (P-cross):</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>30</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP>Recessive visibles and<BR>lethals at 7 loci</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>0<BR>400<BR>400</TD>
+<TD VALIGN=MIDDLE>R</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>&nbsp;<BR>96<BR>92</TD>
+<TD VALIGN=MIDDLE>R/min</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>47,612<BR>1,729<BR>11,124</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>0<BR>1<BR>15</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>&nbsp;<BR>17.8/locus</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP><I>a</I></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=17>Same as 30 except that F<SUB>1</SUB> females were &#947;-rayed (Cs<SUP>137</SUP>):</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>31</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP>Recessive visibles and<BR>lethals at 7 loci</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>258<BR>400<BR>400</TD>
+<TD VALIGN=TOP>R</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>0.009<BR>0.009<BR>0.8</TD>
+<TD VALIGN=TOP>R/min</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>27,174<BR>37,049<BR>20,827</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>1<BR>2<BR>7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>0.5/locus<BR>0.8/locus<BR>4.8/locus</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP><I>b</I></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=17>Same as 30 except that F<SUB>1</SUB> females were &#947;-rayed (Co<SUP>60</SUP>) and mated with test stock males:</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>32</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP>Recessive visibles and<BR>lethals at 7 loci</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>600</TD>
+<TD VALIGN=TOP>rads</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>0.005</TD>
+<TD VALIGN=TOP>rads/min</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>10,117</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT VALIGN=TOP>1.4/locus</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP><I>c</I></TD>
+</TR>
+
+<TR>
+<TD COLSPAN=17><HR></TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD COLSPAN=16><SUP><I>a</I></SUP>Russell <I>et al.</I> (
+<A HREF="#ref10-53">1960</A>).</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD COLSPAN=16><SUP><I>b</I></SUP>Russell (
+<A HREF="#ref10-46">1963</A>).</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD COLSPAN=16><SUP><I>c</I></SUP>Carter (
+<A HREF="#ref10-5">1958</A>).</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<A NAME="ref10-5"></A>
+<P>Carter, T.C. 1958. 
+Radiation-induced gene mutation in adult female and foetal male mice. 
+Brit J. Radiol. <B>31:</B> 407-411.
+<!-- 13560745 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13560745" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref10-46"></A>
+<P>Russell, W.L. 1963. 
+The effect of radiation dose rate and fractionation on mutation in mice, p. 205-217. 
+<I>In</I> F. Sobels [ed.] <I>Repair from Genetic Radiation Damage</I>. 
+Pergamon Press, New York.
+
+<A NAME="ref10-53"></A>
+<P>Russell, W.L., L.B. Russell, and E.M. Kelly. 1960. 
+Dependence of mutation rate on radiation intensity, p. 311-320. 
+<I>In</I>: <I>Immediate and Low Level Effects of Ionizing Radiations: Conference held in Venice, June, 1959</I>. 
+Int. J. Radiat. Biol. Spec. Suppl.
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

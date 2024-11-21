@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<H2>A User's Guide to <I>Biology of the Laboratory Mouse</I></H2>
+
+<P><B>Introduction</B>
+
+<P>The purpose of this User's Guide is to assist you in using all of the features of the electronic version of <I>Biology of the Laboratory Mouse</I>.
+
+<P><B>Navigation</B>
+
+<P>There are several ways to navigate through this book:
+
+<UL>
+<LI>The Table of Contents</LI>
+<LI>The abbreviated Table of Contents in the left column of most pages</LI>
+<LI>The <B>Previous</B> and <B>Next</B> links at the top and bottom of most pages</LI>
+<LI>Internal links within the body of the text</LI>
+</UL>
+
+<P>The 
+<A HREF="contents.shtml">Table of Contents</A> lists Chapter and subchapter headings. Click on any link in the Table of Contents to go to that section of the text.
+
+<P>See 
+<A HREF="frames/frame1.shtml">Chapter 1</A> for an example of the abbreviated Table of Contents and the <B>Previous</B> and <B>Next</B> links.
+
+<P>Internal links in the body of the text may refer to other sections of the book, including references and footnotes.
+
+<H3>Special Features</H3>
+
+<P><B>References:</B> Citations within the body of the text are linked to the appropriate reference in the <B>References</B> section. 
+Many of the references are also in the body of literature curated by Mouse Genome Informatics. 
+These will have a link to the citation in MGI below the citation in the <B>References</B> section. 
+Clicking the link to MGI will take you to the references detail page at MGI. 
+For example, 
+<A HREF="#ref24-100">Snell, G.D. 1958<I>b</I></A> is also curated at MGI. Clicking the link to MGI lets you search for Genes, Markers and Phenotypes, 
+Marker Mapping Information, or Molecular Probes and Segments in MGI from this reference. This page also links to the citation in PubMed. 
+Other references are not curated at MGI, but are curated in PubMed. For example, 
+<A HREF="#ref24-99">Snell, G.D. 1958<I>a</I></A> is such a citation. Clicking the link to PubMed take you to the page containing the Abstract and several 
+useful search features: click <B>Related Articles</B> to see references that may be more up to date, or <B>Books</B> to see chapters from reference works related to 
+the subject of the reference.
+
+<A NAME="ref24-99"></A>
+<P>Snell, G.D. 1958<I>a</I>. 
+Histocompatibility genes. I. Demonstration of weak histocompatibility differences by immunization and controlled tumor dosage. 
+J. Nat. Cancer Inst. <B>20:</B> 787-824.
+<!-- 13539625 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13539625" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref24-100"></A>
+<P>Snell, G.D. 1958<I>b</I>. 
+Histocompatibility genes of the mouse. II. Production and analysis of isogenic resistant lines. 
+J. Nat. Cancer Inst. <B>21:</B> 843-877.
+<!-- MGI:48657 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/J:117" target="_blank">MGI</A></I>.
+
+<P><B>Genes:</B> All mouse genes and alleles mentioned in the text are linked to MGI pages containing information on those genes, including current nomenclature. 
+The link may be to an allele detail page, such as that for the gene referred to in the text as the albino (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"></I>c</I></A>) locus. 
+
+<P><B>Tables:</B> Clicking a reference to a Table within the text will cause that Table to appear in a new browser window (see, for example, 
+<a href="javascript:windowt71 = window.open('tables/table7-1.shtml', 'windowt71', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowt71.focus()">Table 7-1</A>). 
+All Tables are listed on the 
+<A HREF="frames/frametables.shtml">Tables</A> page.
+
+<P><B>Figures:</B> Clicking a reference to a Figure within the text will cause that Figure to appear in a new browser window (see, for example, 
+<a href="javascript:windowf1301 = window.open('figures/figure13-1.shtml', 'windowf1301', 'width=600,height=800,resizable=yes,scrollbars=yes'); windowf1301.focus()">Figure 13-1</A>). 
+All Figures are listed on the 
+<A HREF="frames/framefigures.shtml">Figures</A> page. In addition, the 
+<A HREF="frames/frameimageindex.shtml">Image Index</A> contains thumbnail images of all figures.
+
+<H3>A Note on Printing</H3>
+
+<P>To print a section of the text of this book from your browser, you will have to navigate to that section using the Table of Contents. 
+Use the abbreviated Table of Contents in the left column to go to the Table of Contents. From there, select the section that you would like to print. 
+When that section appears in your browser window, click the frame containing that section to select it, then use your browser's <B>Print Frame</B> function.
+
+<P>To print a Table or Figure, select the browser window in which it appears and use your browser's <B>Print</B> function.
+
+<H3>Further Assistance</H3>
+
+<P>Please send question and comments to 
+<A HREF="<!--#include file='include/mgihome_url.html'-->support/mgi_inbox.shtml">User Support</A>.
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

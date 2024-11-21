@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Biology of the Laboratory Mouse - Figure 8-3</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER>
+<IMG SRC="../images/8-3a.jpg" WIDTH=721 HEIGHT=1000 Alt="Mouse Map" USEMAP="#8-3a">
+
+<IMG SRC="../images/8-3b.jpg" WIDTH=736 HEIGHT=1000 Alt="Mouse Map" USEMAP="#8-3b">
+
+<MAP NAME="8-3a">
+<AREA SHAPE=rect COORDS="35,225,70,250" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856875" target="_blank"><!-- fr -->
+<AREA SHAPE=rect COORDS="35,250,70,270" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856979" target="_blank"><!-- ol -->
+<AREA SHAPE=rect COORDS="35,335,70,355" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95882" target="_blank"><!-- H1 -->
+<AREA SHAPE=rect COORDS="35,355,70,375" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:96020" target="_blank"><!-- Hbb -->
+<AREA SHAPE=rect COORDS="35,375,70,395" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856716" target="_blank"><!-- sh1 -->
+<AREA SHAPE=rect COORDS="35,415,70,430" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:98880" target="_blank"><!-- c -->
+<AREA SHAPE=rect COORDS="35,430,70,447" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856214" target="_blank"><!-- tp -->
+<AREA SHAPE=rect COORDS="35,447,70,465" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856607" target="_blank"><!-- hf -->
+<AREA SHAPE=rect COORDS="35,540,70,557" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1098729" target="_blank"><!-- H4 -->
+<AREA SHAPE=rect COORDS="35,557,70,575" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856114" target="_blank"><!-- p -->
+<AREA SHAPE=rect COORDS="35,665,70,680" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856132" target="_blank"><!-- qv -->
+<AREA SHAPE=rect COORDS="35,710,70,725" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856840" target="_blank"><!-- da -->
+<AREA SHAPE=rect COORDS="35,760,70,775" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857008" target="_blank"><!-- pu -->
+<AREA SHAPE=rect COORDS="110,245,130,260" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856476" target="_blank"><!-- cw -->
+<AREA SHAPE=rect COORDS="110,395,130,410" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856943" target="_blank"><!-- lu -->
+<AREA SHAPE=rect COORDS="110,435,130,450" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856023" target="_blank"><!-- td -->
+<AREA SHAPE=rect COORDS="110,500,130,520" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857035" target="_blank"><!-- sg -->
+<AREA SHAPE=rect COORDS="110,540,130,557" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856004" target="_blank"><!-- d -->
+<AREA SHAPE=rect COORDS="110,557,130,570" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856150" target="_blank"><!-- se -->
+<AREA SHAPE=rect COORDS="110,570,130,585" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856555" target="_blank"><!-- sv -->
+<AREA SHAPE=rect COORDS="110,605,130,625" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857073" target="_blank"><!-- tk -->
+<AREA SHAPE=rect COORDS="110,670,130,690" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:98821" target="_blank"><!-- Trf -->
+<AREA SHAPE=rect COORDS="110,735,130,755" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856022" target="_blank"><!-- du -->
+<AREA SHAPE=rect COORDS="180,235,210,255" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856998" target="_blank"><!-- pn -->
+<AREA SHAPE=rect COORDS="180,515,210,530" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856148" target="_blank"><!-- s -->
+<AREA SHAPE=rect COORDS="180,680,210,695" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856653" target="_blank"><!-- ag -->
+<AREA SHAPE=rect COORDS="180,695,210,710" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856057" target="_blank"><!-- hr -->
+<AREA SHAPE=rect COORDS="180,725,210,745" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856271" target="_blank"><!-- wl -->
+<AREA SHAPE=rect COORDS="180,745,210,765" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861455" target="_blank"><!-- Ds -->
+<AREA SHAPE=rect COORDS="250,170,280,185" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856373" target="_blank"><!-- r -->
+<AREA SHAPE=rect COORDS="250,265,280,280" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856852" target="_blank"><!-- eb -->
+<AREA SHAPE=rect COORDS="250,310,280,330" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857040" target="_blank"><!-- si -->
+<AREA SHAPE=rect COORDS="250,475,280,490" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856161" target="_blank"><!-- Sl -->
+<AREA SHAPE=rect COORDS="250,570,280,590" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856426" target="_blank"><!-- pg -->
+<AREA SHAPE=rect COORDS="250,640,280,655" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856467" target="_blank"><!-- av -->
+<AREA SHAPE=rect COORDS="250,725,280,745" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856885" target="_blank"><!-- gl -->
+<AREA SHAPE=rect COORDS="250,810,280,830" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856026" target="_blank"><!-- dy -->
+<AREA SHAPE=rect COORDS="325,80,360,110" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856135" target="_blank"><!-- Ra -->
+<AREA SHAPE=rect COORDS="325,110,360,135" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856392" target="_blank"><!-- ls -->
+<AREA SHAPE=rect COORDS="325,270,360,285" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857055" target="_blank"><!-- kr -->
+<AREA SHAPE=rect COORDS="325,285,360,300" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855972" target="_blank"><!-- bp -->
+<AREA SHAPE=rect COORDS="325,300,360,313" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855937" target="_blank"><!-- a -->
+<AREA SHAPE=rect COORDS="325,313,360,330" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855934" target="_blank"><!-- As -->
+<AREA SHAPE=rect COORDS="325,345,360,365" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856222" target="_blank"><!-- un -->
+<AREA SHAPE=rect COORDS="325,385,360,403" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856844" target="_blank"><!-- dm -->
+<AREA SHAPE=rect COORDS="325,403,360,415" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856269" target="_blank"><!-- we -->
+<AREA SHAPE=rect COORDS="325,415,360,427" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856081" target="_blank"><!-- mg -->
+<AREA SHAPE=rect COORDS="325,427,360,443" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856982" target="_blank"><!-- pa -->
+<AREA SHAPE=rect COORDS="325,443,360,453" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857019" target="_blank"><!-- ro -->
+<AREA SHAPE=rect COORDS="325,453,360,470" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95977" target="_blank"><!-- H3 -->
+<AREA SHAPE=rect COORDS="325,483,360,500" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856289" target="_blank"><!-- ld -->
+<AREA SHAPE=rect COORDS="325,675,360,695" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856870" target="_blank"><!-- fi -->
+<AREA SHAPE=rect COORDS="325,755,360,775" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857056" target="_blank"><!-- stb -->
+<AREA SHAPE=rect COORDS="325,890,360,910" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857746" target="_blank"><!-- Sd -->
+<AREA SHAPE=rect COORDS="395,425,435,438" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856629" target="_blank"><!-- Sha -->
+<AREA SHAPE=rect COORDS="395,438,435,455" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861361" target="_blank"><!-- N -->
+<AREA SHAPE=rect COORDS="395,455,435,475" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855990" target="_blank"><!-- Ca -->
+<AREA SHAPE=rect COORDS="395,480,435,496" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856901" target="_blank"><!-- hl -->
+<AREA SHAPE=rect COORDS="395,496,435,515" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861095" target="_blank"><!-- Ht -->
+<AREA SHAPE=rect COORDS="395,555,435,580" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856473" target="_blank"><!-- bt -->
+<AREA SHAPE=rect COORDS="470,230,515,455" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856137" target="_blank"><!-- Re -->
+<AREA SHAPE=rect COORDS="470,305,515,325" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856590" target="_blank"><!-- Al -->
+<AREA SHAPE=rect COORDS="470,340,515,360" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856975" target="_blank"><!-- oe -->
+<AREA SHAPE=rect COORDS="470,400,515,420" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856635" target="_blank"><!-- ti -->
+<AREA SHAPE=rect COORDS="470,435,515,452" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857076" target="_blank"><!-- tn -->
+<AREA SHAPE=rect COORDS="470,452,515,466" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856216" target="_blank"><!-- Tr -->
+<AREA SHAPE=rect COORDS="470,466,515,477" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857088" target="_blank"><!-- vt -->
+<AREA SHAPE=rect COORDS="470,477,515,488" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856108" target="_blank"><!-- nu -->
+<AREA SHAPE=rect COORDS="470,488,515,500" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857036" target="_blank"><!-- sh-2 -->
+<AREA SHAPE=rect COORDS="470,500,515,515" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856842" target="_blank"><!-- df -->
+<AREA SHAPE=rect COORDS="470,740,515,760" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856397" target="_blank"><!-- wa-2 -->
+<AREA SHAPE=rect COORDS="540,295,575,315" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856946" target="_blank"><!-- m -->
+<AREA SHAPE=rect COORDS="540,340,575,360" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861192" target="_blank"><!-- Pt -->
+<AREA SHAPE=rect COORDS="540,385,575,400" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855960" target="_blank"><!-- b -->
+<AREA SHAPE=rect COORDS="540,420,575,440" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857090" target="_blank"><!-- wi -->
+<AREA SHAPE=rect COORDS="540,450,575,465" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857085" target="_blank"><!-- vc -->
+<AREA SHAPE=rect COORDS="540,465,575,480" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856646" target="_blank"><!-- an -->
+<AREA SHAPE=rect COORDS="540,630,575,650" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856990" target="_blank"><!-- pf -->
+<AREA SHAPE=rect COORDS="540,680,575,700" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857089" target="_blank"><!-- wd -->
+<AREA SHAPE=rect COORDS="610,410,650,425" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95950" target="_blank"><!-- Tla -->
+<AREA SHAPE=rect COORDS="610,425,650,438" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95894" target="_blank"><!-- H-2 -->
+<AREA SHAPE=rect COORDS="610,438,650,455" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:88228" target="_blank"><!-- Ss -->
+<AREA SHAPE=rect COORDS="610,485,650,502" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857070" target="_blank"><!-- tf -->
+<AREA SHAPE=rect COORDS="610,502,650,520" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856035" target="_blank"><!-- Fu -->
+<AREA SHAPE=rect COORDS="610,560,650,580" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:105076" target="_blank"><!-- T -->
+<AREA SHAPE=rect COORDS="680,325,720,350" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856888" target="_blank"><!-- gr -->
+<AREA SHAPE=rect COORDS="680,470,720,490" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856228" target="_blank"><!-- v -->
+<AREA SHAPE=rect COORDS="680,640,720,665" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856574" target="_blank"><!-- ji -->
+</MAP></A>
+
+<MAP NAME="8-3b">
+<AREA SHAPE=rect COORDS="40,350,80,370" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856085" target="_blank"><!-- mi -->
+<AREA SHAPE=rect COORDS="40,370,80,395" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857009" target="_blank"><!-- px -->
+<AREA SHAPE=rect COORDS="40,395,80,415" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856388" target="_blank"><!-- wa-1 -->
+<AREA SHAPE=rect COORDS="40,425,80,440" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857063" target="_blank"><!-- tc -->
+<AREA SHAPE=rect COORDS="40,460,80,480" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857337" target="_blank"><!-- Lc -->
+<AREA SHAPE=rect COORDS="40,625,80,640" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856424" target="_blank"><!-- ob -->
+<AREA SHAPE=rect COORDS="110,475,150,495" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856712" target="_blank"><!-- ep -->
+<AREA SHAPE=rect COORDS="110,500,150,515" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856544" target="_blank"><!-- ru -->
+<AREA SHAPE=rect COORDS="185,120,250,140" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857642" target="_blank"><!-- Lp -->
+<AREA SHAPE=rect COORDS="185,165,250,185" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857010" target="_blank"><!-- py -->
+<AREA SHAPE=rect COORDS="185,205,250,225" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856494" target="_blank"><!-- dr -->
+<AREA SHAPE=rect COORDS="185,405,250,422" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856638" target="_blank"><!-- th -->
+<AREA SHAPE=rect COORDS="185,422,250,440" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857878" target="_blank"><!-- Dh -->
+<AREA SHAPE=rect COORDS="185,460,250,480" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856674" target="_blank"><!-- ln -->
+<AREA SHAPE=rect COORDS="185,510,250,530" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856173" target="_blank"><!-- Sp -->
+<AREA SHAPE=rect COORDS="185,710,250,730" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856019" target="_blank"><!-- dt -->
+<AREA SHAPE=rect COORDS="185,855,250,875" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856038" target="_blank"><!-- fz -->
+<AREA SHAPE=rect COORDS="740,235,295,255" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856878" target="_blank"><!-- fs -->
+<AREA SHAPE=rect COORDS="740,285,295,305" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856989" target="_blank"><!-- pe -->
+<AREA SHAPE=rect COORDS="740,330,295,350" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856864" target="_blank"><!-- f -->
+<AREA SHAPE=rect COORDS="740,350,295,370" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:96853" target="_blank"><!-- Lv -->
+<AREA SHAPE=rect COORDS="740,510,295,530" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856705" target="_blank"><!-- ch -->
+<AREA SHAPE=rect COORDS="740,615,295,635" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856275" target="_blank"><!-- Xt -->
+<AREA SHAPE=rect COORDS="740,650,295,665" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856832" target="_blank"><!-- cr -->
+<AREA SHAPE=rect COORDS="740,665,295,680" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855968" target="_blank"><!-- bg -->
+<AREA SHAPE=rect COORDS="740,740,295,755" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857026" target="_blank"><!-- sa -->
+<AREA SHAPE=rect COORDS="330,480,365,497" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861230" target="_blank"><!-- Tw -->
+<AREA SHAPE=rect COORDS="330,497,365,515" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1855959" target="_blank"><!-- ax -->
+<AREA SHAPE=rect COORDS="400,225,440,245" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856947" target="_blank"><!-- ma -->
+<AREA SHAPE=rect COORDS="400,480,440,505" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856230" target="_blank"><!-- Va -->
+<AREA SHAPE=rect COORDS="400,745,440,770" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856014" target="_blank"><!-- de -->
+<AREA SHAPE=rect COORDS="470,210,510,228" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95872" target="_blank"><!-- g -->
+<AREA SHAPE=rect COORDS="470,228,510,245" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856687" target="_blank"><!-- bf -->
+<AREA SHAPE=rect COORDS="470,245,510,260" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856922" target="_blank"><!-- jg -->
+<AREA SHAPE=rect COORDS="470,305,510,322" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856373" target="_blank"><!-- rd -->
+<AREA SHAPE=rect COORDS="470,322,510,340" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856931" target="_blank"><!-- le -->
+<AREA SHAPE=rect COORDS="470,425,510,443" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:96677" target="_blank"><!-- W -->
+<AREA SHAPE=rect COORDS="470,443,510,457" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857106" target="_blank"><!-- Ph -->
+<AREA SHAPE=rect COORDS="470,457,510,475" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856991" target="_blank"><!-- pi -->
+<AREA SHAPE=rect COORDS="470,605,510,625" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:96856" target="_blank"><!-- lx -->
+<AREA SHAPE=rect COORDS="470,645,510,665" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861096" target="_blank"><!-- Hm -->
+<AREA SHAPE=rect COORDS="470,760,510,775" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856398" target="_blank"><!-- rl -->
+<AREA SHAPE=rect COORDS="545,235,580,255" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856029" target="_blank"><!-- So -->
+<AREA SHAPE=rect COORDS="545,585,580,605" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857646" target="_blank"><!-- Os -->
+<AREA SHAPE=rect COORDS="545,605,580,620" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856209" target="_blank"><!-- tg -->
+<AREA SHAPE=rect COORDS="545,620,580,635" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95420" target="_blank"><!-- Es-1 -->
+<AREA SHAPE=rect COORDS="545,715,580,735" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861098" target="_blank"><!-- Hk -->
+<AREA SHAPE=rect COORDS="690,225,730,245" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856679" target="_blank"><!-- Bn -->
+<AREA SHAPE=rect COORDS="690,260,730,280" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857780" target="_blank"><!-- Str -->
+<AREA SHAPE=rect COORDS="690,290,730,310" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857042" target="_blank"><!-- sla -->
+<AREA SHAPE=rect COORDS="690,325,730,340" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1861191" target="_blank"><!-- Gs -->
+<AREA SHAPE=rect COORDS="690,340,730,355" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856197" target="_blank"><!-- Ta -->
+<AREA SHAPE=rect COORDS="690,355,730,372" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856097" target="_blank"><!-- Blo -->
+<AREA SHAPE=rect COORDS="690,372,730,385" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856096" target="_blank"><!-- Mo -->
+<AREA SHAPE=rect COORDS="690,385,730,400" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856101" target="_blank"><!-- To -->
+<AREA SHAPE=rect COORDS="690,530,730,550" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1856065" target="_blank"><!-- jp -->
+<AREA SHAPE=rect COORDS="690,745,730,770" HREF="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1857034" target="_blank"><!-- sf -->
+</MAP></A>
+
+
+<P>Figure 8-3. Linkage map of the mouse.
+
+</CENTER>
+
+
+</BODY>
+</HTML>

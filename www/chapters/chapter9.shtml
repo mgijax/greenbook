@@ -1,0 +1,1346 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 9 - Multiple Factor Inheritance</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, multiple factor inheritance, allele, phenotypic, quantitative charateristic, quantitative trait, heritability">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter8.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter10.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>9</H1>
+<H2><I>Multiple Factor Inheritance</I></H2>
+<H3>Thomas H. Roderick and Gunther Schlager</H3>
+
+<P>Genes may have large effects and be called "major genes," or they may have individually small effects and be 
+called "minor genes." The distinction between major and minor genes is somewhat arbitrary, because the effect of 
+individual allelic differences on the phenotypic variation may range from small to very large. Nevertheless, it 
+is useful to determine whether the genotypic variance of a trait is caused by allelic differences at one or two 
+loci or by allelic differences at several loci. For example, body weight of mice is a characteristic in which the 
+genetic variation is usually due to segregation and assortment of alleles with minor effects at many loci. However, 
+in addition to the genetic causes of normal phenotypic variation, there are mutations with drastic major effects 
+on body weight such as the obese gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856424" target="_blank"><I>ob</I></A>) and the pituitary dwarf gene (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856024" target="_blank"><I>dw</I></A>).
+
+<P>Characteristics are said to show <I>multiple factor inheritance</I> if their genetic variation depends on allelic 
+differences at more than just a few loci. Multiple factor inheritance is usually caused by the action of many "minor genes." Falconer (
+<A HREF="#ref9-25">1963</A>) defined the problem in terms of the character itself rather than in terms of the mode of 
+inheritance. He defined a <I>quantitative character</I> as "any attribute for which individual differences do not 
+divide the individuals into qualitatively distinct classes." In this definition it does not matter whether there 
+are few or many loci concerned with the genetic variation of the trait so long as the segregation of single alleles 
+does not produce discrete phenotypic discontinuity. In general it is convenient to regard the genetic variation as 
+of two types (one or a few loci vs. many loci) and the phenotypic variation as of two types (discrete vs. continuous). 
+All four combinations of genetic with phenotypic variations except that of one or a few loci affecting variation in 
+a discrete trait require analytical methods appropriate for quantitative characters. In this chapter we deal with 
+these other three combinations and chiefly with the combination of many loci affecting the variation in a continuous trait.
+
+<P>Two treatises of Falconer (
+<A HREF="#ref9-23">1960<I>a</I></A>, 
+<A HREF="#ref9-25">1963</A>) explain the details of the methods used in multiple factor inheritance. For further 
+introduction to the subject consult Mather (
+<A HREF="#ref9-55">1949</A>), the Cold Spring Harbor Symposium on Quantitative Biology (
+<A HREF="#ref9-9">1955</A>), Li (
+<A HREF="#ref9-52">1955</A>), Kempthorne (
+<A HREF="#ref9-45">1957</A>), Lerner (
+<A HREF="#ref9-50">1958</A>), and Le Roy (
+<A HREF="#ref9-51">1960</A>). These references give details of the historical development of the field of multiple factor 
+inheritance and of the great contributions of R.A. Fisher, Sewell Wright, and J.B.S. Haldane.
+
+<CENTER>
+<P><B>GENERAL PRINCIPLES</B>
+</CENTER>
+
+<P>Continuously varying traits present many analytical challenges. In this section we shall consider the methods of analyzing 
+quantitative characteristics, physiological mechanisms underlying them, inbreeding depression, heterosis, 
+and subline divergence within inbred strains.
+
+<P><B>Methods</B>
+<P>We assume that the phenotypic variation of a quantitative trait is caused, at least in part, by many allelic differences 
+having small individual effects on the trait. One cannot separate out and study the mode of inheritance of each of the 
+alleles contributing to the phenotypic variation, but one can determine the relative importance of genetic and environmental 
+factors responsible for the phenotypic variation. Although resemblance between relatives indicates some genetic determination 
+of the characteristic, there may also be factors in the environment shared by relatives which cause their resemblance. Maternal 
+effects and cage effects fall in this category. By using appropriate experimental designs and analyses, the genetic and 
+environmental factors can be estimated and the relative importance of each determined. Inbred strains of mice are very 
+useful in these studies.
+
+<P>The terms "genetic determination" and "heritability" are often used interchangeably, but they have different meanings 
+in the following discussion. Genetic determination will mean that portion of the total phenotypic variation attributable 
+to any genetic causes, and heritability, denoted as <I>h<SUP>2</SUP></I>, will mean that portion of the total phenotypic 
+variance attributable to additive genetic effects alone. Heritability can therefore be a part of genetic determination.
+
+<P><B><I>Comparing two strains</I></B>. The degree of genetic determination can be estimated by comparing two inbred strains, 
+their F<SUB>1</SUB>, F<SUB>2</SUB>, and backcross generations. Under the most simplifying assumptions, the phenotypic variance 
+(&#963;<SUB>P</SUB><SUP>2</SUP>) may be considered as the sum of the genetic variance component (&#963;<SUB>G</SUB><SUP>2</SUP>) 
+and the environmental variance component (&#963;<SUB>E</SUB><SUP>2</SUP>): 
+&#963;<SUB>P</SUB><SUP>2</SUP> = &#963;<SUB>G</SUB><SUP>2</SUP> + &#963;<SUB>E</SUB><SUP>2</SUP>. If the parental strains are 
+highly inbred, there will be only environmental and no detectable genetic variance within the two parental strains and the 
+F<SUB>1</SUB> hybrids. In the F<SUB>2</SUB> animals the phenotypic variance will be ascribable only in part to environmental 
+variance. In addition there will be a genetic component of variance due to segregation of alleles and assortment of nonalleles. 
+Therefore, one can estimate genetic determination by subtracting the F<SUB>1</SUB> computed phenotypic variance 
+(<I>V</I><SUB>F<SUB>1</SUB></SUB>, environmental) from the F<SUB>2</SUB> computed phenotypic variance 
+(<I>V</I><SUB>F<SUB>2</SUB></SUB>, genetic and environmental) and dividing by the F<SUB>2</SUB> computed phenotypic variance:
+
+<P>
+<CENTER><TABLE>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><I>V</I><SUB>F<SUB>2</SUB></SUB> - <I>V</I><SUB>F<SUB>1</SUB></SUB>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>(&#963;<SUB>G</SUB><SUP>2</SUP> + &#963;<SUB>E</SUB><SUP>2</SUP>) - &#963;<SUB>E</SUB><SUP>2</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&#963;<SUB>G</SUB><SUP>2</SUP></TD>
+</TR>
+
+<TR>
+<TD>Genetic determination</TD>
+<TD>&nbsp;</TD>
+<TD>=</TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD>=</TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD>=</TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>V</I><SUB>F<SUB>2</SUB></SUB>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>(&#963;<SUB>G</SUB><SUP>2</SUP> + &#963;<SUB>E</SUB><SUP>2</SUP>)</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&#963;<SUB>P</SUB><SUP>2</SUP></TD>
+</TR>
+
+</TABLE></CENTER>
+
+<P>Grahn (
+<A HREF="#ref9-36">1958</A>) used this method in estimating the genetic determination of radiation resistance in mice.
+
+<P>An approximation of the minimum number of loci affecting a character is often of interest. This can be estimated from the equation:
+
+<P>
+<CENTER><TABLE>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>(<I>m</I><SUB>1</SUB> - <I>m</I><SUB>2</SUB>)<SUP>2</SUP></TD>
+</TR>
+
+<TR>
+<TD><I>n</I></TD>
+<TD>&nbsp;</TD>
+<TD>=</TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>8 (<I>V</I><SUB>F<SUB>2</SUB></SUB> - <I>V</I><SUB>F<SUB>1</SUB></SUB>)</TD>
+</TR>
+
+</TABLE></CENTER>
+
+<P>where <I>m</I><SUB>1</SUB> and <I>m</I><SUB>2</SUB> are the means of the parental strains and 
+<I>V</I><SUB>F<SUB>2</SUB></SUB> and <I>V</I><SUB>F<SUB>1</SUB></SUB> are the computed variances of the 
+F<SUB>2</SUB> and F<SUB>1</SUB> generations. This is considered as a minimum estimate because the equation 
+is based on a number of assumptions. Violation of these assumptions will tend to underestimate <I>n</I>. 
+A discussion of these assumptions and the consequences of their nonfulfillment is given by Wright (
+<A HREF="#ref9-80">1952</A>). Estimating the minimum number of loci affecting a quantitative character, Falconer (
+<A HREF="#ref9-23">1960<I>a</I></A>) found that 35 loci affect 6-week body weight of mice.
+
+<P><B><I>Comparing many strains.</I></B> Differences between strains have been found for so many characters that 
+genetic influences on the variation of any character may almost be taken for granted. The relative importance of 
+genetic and environmental factors can be estimated by comparing many strains, the reliability of the estimate 
+increasing as the number of unrelated inbred strains used in the analysis increases. The procedure is to measure 
+the character in several highly inbred strains and to obtain estimates of the between-strain and within-strain 
+variance components by the standard analysis-of-variance techniques. The expected mean square between strains 
+is equal to &#963;<SUB>E</SUB><SUP>2</SUP> + <I>k</I>(1 + <I>F</I>)&#963;<SUB>G</SUB><SUP>2</SUP>, where <I>F</I> 
+is the inbreeding coefficient, &#963;<SUB>E</SUB><SUP>2</SUP> and &#963;<SUB>G</SUB><SUP>2</SUP> are the 
+environmental and genetic components of variance respectively, and <I>k</I> is the number of individuals measured 
+per strain (or the harmonic mean of the numbers in the strains if the sample sizes are not equal). <I>F</I> 
+is effectively equal to 1 in highly inbred strains, so the genetic variance component is doubled. Using strain comparisons, Roderick (
+<A HREF="#ref9-66">1963<I>b</I></A>) estimated the genetic determination of radioresistance of 27 strains of mice to be as high as 53 per cent.
+
+<P><B><I>Comparing inbred and randombred strains.</I></B> The methods above describe how nongenetic variance 
+can be estimated from the phenotypic variance within inbred strains and within their F<SUB>1</SUB> hybrids, and 
+then used to determine the degree of genetic influence on a character by comparing the estimate with the variance 
+of the segregating F<SUB.2</SUB> generation. This method can also be used to estimate the degree of genetic determination 
+of a character in a comparison of inbred and randombred strains. Falconer and Bloom (
+<A HREF="#ref9-26">1962</A>) used six inbred strains and their 15 F<SUB>1</SUB> hybrids to estimate the nongenetic variance 
+in the incidence of induced lung tumors in mice. Using this estimate, they partitioned the variance in two randombred 
+lines (JC and LX) into genetic and environmental components and showed that individual genetic differences account 
+for 82 per cent of the variation of susceptibility in the JC strain and 88 per cent in the LX strain.
+
+<P><B><I>Diallel cross.</I></B> The diallel cross technique is useful for estimating the additive and nonadditive 
+components of the genetic variance, but it has not been extensively used in studies of quantitative traits in mice. 
+Essentially the method involves making all possible crosses between a number of inbred strains and estimating the general 
+combining ability of each line and specific combining ability of each line and specific combining ability of each pair of 
+strains. The average performance of a strain represents the general combining ability, while the deviation in performance 
+from the average combining ability of the two strains is the specific combining ability of a cross. The specific combining 
+ability component is analogous to an interaction term in a two-way analysis of variance and is attributable to the 
+nonadditive genetic variance. Differences in general combining ability are attributable to the additive genetic variance. 
+References to the theory and methods of the diallel cross are given in 
+<A HREF="chapter2.shtml">Chapter 2</A>.
+
+<P>Bruell (
+<A HREF="#ref9-5">1963</A>) used this technique with five inbred strains of mice and the 20 F<SUB>1</SUB> hybrids 
+including the reciprocals to show that the alleles affecting serum cholesterol have additive effects. Eaton <I>et al.</I> (
+<A HREF="#ref9-17">1950</A>) used nine inbred lines of mice and all possible F<SUB>1</SUB> hybrids in an investigation of body weight. Fuller (
+<A HREF="#ref9-32">1964</A>) also used this method for investigating the inheritance of alcohol preference in mice.
+
+<P><B><I>Selection.</I></B> Lerner (
+<A HREF="#ref9-50">1958</A>) has succinctly defined selection as "the nonrandom differential 
+reproduction of genotypes" <I>Natural</I> selection produces a change in gene frequencies through natural causes which can 
+be complex and obscure. The complexities and obscurities are inherent in the nature of fitness, the characteristic upon 
+which natural selection acts. <I>Artificial</I> selection denotes a conscious human effort to bring about a differential 
+propagation of genotypes. "Artificial" does not imply that selection by human choice is not <I>genuine</I> selection. Studies 
+of natural selection in mice have been made principally to observe its effect on a particular mutant introduced into a 
+wild population, as in the study of Anderson <I>et al.</I> (
+<A HREF="#ref9-1">1964</A>) who introduced a <I>t</I> allele into an island population of mice. Artificial selection in mice has 
+been used principally for two purposes: to explore the genetic theory of selection, as in Falconer's (
+<A HREF="#ref9-21">1954<I>b</I></A>) selection for tail length, and to produce a large divergence in a particular trait 
+in order to study the physiological genetics of the trait, as in Wolfe's (
+<A HREF="#ref9-77">1961</A>) selection for blood pH.
+
+<P>Selection can alter the phenotypic mean of a population only if there is some additive genetic variance affecting the trait 
+in question. Because there is no detectable genetic variability within inbred strains, they are unsuitable for a selection experiment. 
+However, genetic heterogeneous foundation populations can be synthesized by crossing two, three, four, or more inbred strains of 
+genetically different origins. The use of inbred strains crossed in a specific way to produce a foundation population for selection 
+has the additional advantage of enabling one to replicate the foundation population at another time and place.
+
+<P>The higher the proportion of additive genetic variance relative to the phenotypic variance (that is, the greater the heritability, 
+<I>h</I><SUP>2</SUP>) the greater will be the gains under selection. Falconer (
+<A HREF="#ref9-25">1963</A>) gave ways of estimating <I>h</I><SUP>2</SUP> prior to selection by using the regression of the means of offspring 
+on the means of parents and by paternal halfsib analysis. Under most conditions, with a reasonably high heritability, selection on the 
+basis of the individual's phenotype is the most economical. Falconer (
+<A HREF="#ref9-23">1960<I>a</I></A>) gave an example of a method of selection based on individual phenotypes. Ten mated pairs per generation 
+are used and selection is made within each of the 10 litters for the two most extreme individuals for the next generation. These 20 
+individuals are then mated at random among themselves, sib matings being avoided. This system is good in that a reasonably small number 
+of mice are used in each generation, and inbreeding is kept reasonably low for several generations. Because it is within-litter selection, 
+this method avoids selecting for environmental variation due to common litter or cage effects, but does not permit selecting for maternal 
+effects under genetic control which may affect the trait.
+
+<P>Not many selection experiments have been attempted in mice for characteristics measured by destroying the animals. Two methods 
+can be used, both necessitating the raising of more mice than when choice of parents for the subsequent generation can be made before 
+mating: (1) One can estimate the genetic value of particular individuals by measuring the characteristic on close relatives of the 
+individual, or (2) one can breed the animals first, save all offspring, measure the parents, and then select the offspring on the basis 
+of the results on the parents. The first method makes it possible to mate assortatively, <I>i.e.</I>, to mate like extremes together to 
+produce a greater selection differential (the value of the difference between the mean of the selected parents and the mean of the 
+generation as a whole from which the selected parents come), but it also has the drawback of being a poorer estimate of the true 
+breeding value of the individuals. The second method has the disadvantage of random mating and therefore a lowered selection differential, 
+but the animal's breeding value is more accurately measured. An example of the second method is given by Roderick (
+<A HREF="#ref9-65">1963<I>a</I></A>).
+
+<P><B>Physiological mechanisms underlying quantitative traits</B>
+
+<P>Sometimes it is possible to gain insight into physiological mechanisms by using the methods of quantitative genetics.
+
+<P><B><I>Strain correlations.</I></B> It is common to find that animals which rank high in one characteristic tend to rank high (or low) 
+in another characteristic. The characteristic then are said to exhibit a positive or negative phenotypic correlation depending on 
+whether the relationship is direct or inverse. Under the simplest assumptions, characteristics may be correlated for two major 
+reasons: (1) because they are both influenced by one or more common factors in the environment, and (2) because they are both 
+influenced by the same genes. The first is an environmental correlation and the second is a genetic correlation. In mice, body 
+weight and disease resistance may be correlated through environmental factors if one mouse is raised in a good environment and 
+another mouse is raised in a poor environment. Or the characteristics may be correlated through genetic factors if it is shown 
+that heavier strains of mice are genetically healthier than lighter strains raised in the same environment. Because there is no 
+detectable genetic variation between animals within an inbred strain, any correlation of characteristics found between animals 
+within a strain must be due to environmental influences. Environmental influences can be any causative factor other than the genetic 
+material itself, such as differences in cytoplasmic factors, prenatal environments, postnatal environments, and daily environmental fluctuations.
+
+<P>If a correlation between traits is found among inbred strains, one must ascertain that this correlation is greater than expected from 
+random samples of mice within a strain to be sure it is to some extent a genetic correlation. If the correlation within strains is zero, 
+as appeared in a study of lifespan and litter size (
+<A HREF="#ref9-67">Roderick and Storer, 1961</A>), then all the correlation between strains must be due to genetic factors. Estimates of the 
+genetic and environmental correlations are methodologically analogous to estimates of genetic and nongenetic determination of variation 
+as described earlier. The correlation analysis is an analysis of covariance in the same way that the genetic determination analysis is 
+an analysis of variance. Environmental and genetic correlations may be present simultaneously, and they need not be equal nor in the same direction.
+
+<P>One word of caution should be mentioned in such analyses. Inbred strains are unusual genetic entities because they are almost 
+completely homozygous and because they have often been subjected to artificial selection during the course of inbreeding. Thus any 
+genetic correlation found from an analysis of two variables among inbred strains should probably be checked in other ways, possibly 
+by a similar analysis of a group of F<SUB>1</SUB> hybrids between the various strains. Also one should be cautioned about estimating 
+genetic correlations based on related sublines of inbred strains. For instance, correlation found among strains C57BL/6J, C57BL/10J, 
+C57L/J, C57BR/cdJ, C3H/HeJ, and C3HeB/FeJ could be due to associations of the traits in the original C57 group and obverse associations 
+in the original C3H group. The characters may be associated because of genetic drift and not because of genetic pleiotropy. In the 
+example given, the degrees of freedom (<I>N</I>-2) for estimating the correlation are zero, based on the number of actual genetically 
+independent derived strains, and not four, based on the number observed.
+
+<P>Significant genetic correlations from studies of independently derived inbred strains do not of themselves give any indication 
+about the physiological mechanism for the correlation. Further exploration is necessary to determine if the association is due to 
+linkage or pleiotropy, although linkage is not a likely cause of significant genetic correlations found among independently derived 
+strains. If the association is due to pleiotropy, one must also explore further to ascertain whether the characteristics are related 
+in a direct cause and effect manner, or whether they are both influenced independently by a third factor acting earlier in development.
+
+<P><B><I>Correlated responses to selection.</I></B> Usually the response to selection will be accompanied by 
+changes in unselected characteristics as well as in the trait directly 
+selected. These associated responses are called correlated responses and the traits are referred to as correlated characters. 
+Correlated characters are those which change because they are truly genetically associated with the trait under selection. The 
+correlation may be caused by the linkage of the genes for the two traits, but is more probably the result of pleiotropy of the 
+many genes affecting both traits. In pleiotropy the association could be either through independent physiological pathways between 
+the genes and the traits, or it could be through a direct causative pathway where one trait is a necessary developmental intermediate 
+between the genes and the other trait. If the genetic variation of the associated trait is dependent on only one or a few loci, it 
+is inappropriate to assume that the trait is a correlated character on the basis of evidence from only one selection experiment. 
+Such traits could be genetically entirely independent of the selected trait and could manifest chance associations in the selected 
+lines because of genetic drift. If it is a quantitative trait and varies gradually with each generation as the selected trait varies 
+with selection, the trait can be assumed to be a true correlated character.
+
+<P>A study of the correlated responses to selection may afford insight into the physiology of the selected characteristic. For example, 
+by examining the physiological differences of animals selected in two ways for disease resistance, one may get some understanding of the 
+natural mechanisms protecting animals against disease. Selection for radiation resistance in mice was undertaken chiefly to study the 
+correlated responses in body weight, litter size, and ability to survive other regimens and doses of radiation (
+<A HREF="#ref9-65">Roderick, 1963<I>a</I></A>). One of the most interesting responses was an apparent susceptibility to a disease in the 
+radiation-sensitive line. The disease was not identified, but it is possible that, through the mechanism of disease susceptibility, 
+the animals have a lowered resistance to irradiation.
+
+<P><B>Inbreeding depression</B>
+
+<P>The phenomenon of inbreeding depression has been witnessed in laboratory mammals for decades as evidenced by the extensive 
+investigations with guinea pigs by Wright (
+<A HREF="#ref9-79">1922</A>). The mean value of characteristics associated with fitness in animals tends to decrease as inbreeding increases. 
+The fitness characters affected by inbreeding in mice include: litter size (
+<A HREF="#ref9-24">Falconer, 1960<I>b</I></A> and earlier), body weight (
+<A HREF="#ref9-23">Falconer, 1960<I>a</I></A>), disease resistance (
+<A HREF="#ref9-73">Weir, 1960<I>a</I></A>), and lifespan (
+<A HREF="#ref9-8">Chai, 1959</A>). For example, Falconer found that the average size of first litters decreased at a rate of 0.56 animals 
+for each 10 per cent increase in the inbreeding coefficient. A decline was also found in lines where selection was practiced for an 
+increase in litter size. The study demonstrated that part of the decline in litter size was due to inbreeding in the litters and 
+part to the inbreeding of the dam. Subsequent work showed a difference between inbred and noninbred dams in preimplantation losses, 
+but ovulation rate measured as number of corpora lutea was not affected by inbreeding (
+<A HREF="#ref9-27">Falconer and Roberts, 1960</A>). McCarthy (
+<A HREF="#ref9-57">1965</A>) studied the physiological basis of heterosis of litter size in a study of four inbred strains and their crosses. 
+He varied the inbreeding of the offspring and kept the dams inbred. The only significant difference in prenatal characteristics 
+between incrosses and outcrosses was a significantly greater number of early postimplantation deaths (moles) in the incrosses. 
+Inbreeding in this case, therefore, reduces litter size by acting through the dam to increase preimplantation loss and by acting 
+through the embryo to increase early postimplantation mortality.
+
+<P>Decrease of litter size does not always result from increase in inbreeding. Falconer (
+<A HREF="#ref9-24">1960<I>b</I></A>) found a few examples where inbreeding did not depress litter size. Weir and Schlager (
+<A HREF="#ref9-76">1962</A>) found no perceptible decrease in litter size in 25 generations of fullsib matings in a study of selection for 
+leukocyte counts. That inbreeding depression is a real phenomenon, however, is emphatically demonstrated by the difficulties associated 
+with the establishment and maintenance of inbred lines. Falconer found that only one line of an original 20 started could be maintained 
+beyond an inbreeding coefficient of 99 per cent; 17 were lost at 76 per cent and two more after 80 per cent. On mathematical grounds Falconer (
+<A HREF="#ref9-23">1960<I>a</I></A>) showed that the changes in gene frequencies during inbreeding are in the direction of increasing the 
+number of recessive alleles being fixed. Generally the most probable cause of inbreeding depression is the fixation of deleterious 
+recessive alleles normally masked and rendered ineffective by dominant alleles in a genetically heterogeneous population. For 
+further discussion see Lerner (
+<A HREF="#ref9-49">1954</A>) and Mather (
+<A HREF="#ref9-56">1955</A>).
+
+<P><B>Heterosis</B>
+
+<P>Heterosis or hybrid vigor is the converse of inbreeding depression and is said to occur when the mean of the character in the F<SUB>1</SUB> 
+falls outside of the range of the means of the two parental strains, lines, or populations. As inbreeding depression is generally considered 
+to be the result of the fixation of harmful recessive alleles, heterosis is considered to be the result of the dominance of favorable 
+alleles not held in common by the two parental populations. All types of genetic interaction may also affect expression of the character 
+in the F<SUB>1</SUB> hybrid. Discussions of the mechanisms of heterosis can be found in the papers of Rendel (
+<A HREF="#ref9-62">1953</A>), Crow (
+<A HREF="#ref9-11">1952</A>), and Dobzhansky (
+<A HREF="#ref9-15">1952</A>), and in the book by Lerner (
+<A HREF="#ref9-49">1954</A>). The mathematical treatment is given by Falconer (
+<A HREF="#ref9-23">1960<I>a</I></A>). Several reviews are available, including a summary of early work by Shull (
+<A HREF="#ref9-69">1952</A>) and a later review by Bowman (
+<A HREF="#ref9-4">1959</A>). The mathematical model extending the techniques of the diallel cross in an analysis of variance are given by Kidwell <I>et al.</I> (
+<A HREF="#ref9-46">1960</A>) who studied heterosis of body weights in rats. Litter size in the mouse is a fitness characteristic that can exhibit heterosis (
+<A HREF="#ref9-63">Roberts, 1960</A>; 
+<A HREF="#ref9-3">Barnett and Coleman, 1960</A>; 
+<A HREF="#ref9-57">McCarthy, 1965</A>).
+
+
+<P><B>Inbred strains and subline differentiation</B>
+
+<P>The inbred lines of mice today so common in biological research have long been thought to be homozygous at almost all of their loci. 
+The genetic theory of inbreeding devised by Wright (
+<A HREF="#ref9-78">1921</A>) showed that animals bred brother to sister for at least 20 generations (the criterion by which geneticists presently 
+define inbred strains of mice) were homozygous at more than 99 per cent of their loci. In addition the descendants of highly inbred animals 
+should all be genetically uniform with respect to the fixed alleles at each locus. In other words the animals are homozygous <I>and</I> 
+as genetically alike as identical twins except for the necessary dimorphism caused by X and Y chromosomes. General observations of mice 
+within strains on size, specific morphology, coat color genes, and behavior support the theory of uniformity of inbred strains. 
+Work on tissue transplantation within strains showed that mice within a single strain were as alike as identical twins at the histocompatibility loci (
+<A HREF="chapter24.shtml">Chapter 24</A>). Mouse biologists have not observed segregation of alleles within inbred strains other than those 
+occurring at such low frequency that they could be considered as new mutations. However, the recent work of Deol <I>et al</I>. (
+<A HREF="#ref9-13">1960</A>) has put the assessment of homozygosity of inbred strains on a firmer and less intuitive footing. In an array of different 
+skeletal variants they looked for parent-offspring correlations within inbred strains which would indicate the presence of genetic variance. They 
+found no evidence for such correlations and concluded that the inbred strains of mice show no phenotypic variation within strains ascribable to an 
+additive genetic component. Therefore, since there is no evidence for other mechanisms, such as balanced lethal systems retaining hidden genetic 
+variation between alleles in these strains, the inbred strains of mice can be considered homozygous. Deol <I>et al</I>. point out that this high 
+percentage of homozygosity in the mouse may not necessarily be possible in all other species, as there is considerable evidence from other studies 
+for retention of heterozygosity far beyond the time predicted on the basis of the breeding systems used. Selection may in some circumstances favor 
+heterozygotes or it may hold back inbreeding by selecting against unfavorable homozygous alleles. The work of Falconer (
+<A HREF="#ref9-24">1960<I>b</I></A>) showed that, even for mice, inbreeding achievements probably did not come easily.
+
+<P>The fact still remains that sublines of established inbred lines, if separated long enough, eventually do develop differences. 
+However, they never seem to lose their similarity (in the 40 years or more that some sublines have existed) to the extent that they are 
+as different as independently derived inbred strains (
+<A HREF="#ref9-67">Roderick and Storer, 1961</A>; 
+<A HREF="#ref9-66">Roderick, 1963<I>b</I></A>). It is the opinion of most authors who have studied the problem that subline differentiation is 
+not the result of fixation of genes which were in heterozygous state at the time of the separation of the sublines, but rather is due 
+to the fixation of different mutations which have occurred in the separate sublines (
+<A HREF="#ref9-12">Deol <I>et al.</I>, 1957</A>; 
+<A HREF="#ref9-6">Carpenter <I>et al.</I>, 1957</A>; 
+<A HREF="#ref9-2">Bailey, 1959</A>; 
+<A HREF="#ref9-47">Kindred, 1963</A>).
+
+<P>Green (
+<A HREF="#ref9-38">1953</A>) presented evidence showing considerable heterogeneity in vertebral characteristics among the sublines of 
+strain C3H. This variation was confirmed in a study by McLaren and Michie (
+<A HREF="#ref9-58">1954</A>, 
+<A HREF="#ref9-59">1955</A>), who pointed out the tremendous effect that different environments have on the vertebral column. Environmental 
+variation probably does not explain the subline differences in Green's work because all except one subline were raised in the same 
+laboratory and examined at approximately the same time. The variation Green found, however, seemed much too great to be explained 
+on the basis of mutation alone. He presented several alternative explanations of which the most likely, we think, is the possible 
+inadvertent genetic contamination from a phenotypically similar mouse at some time in the history of one of the major offshoots of 
+the strain. These sublines had a history of frequent transfers between several investigators and laboratories. Grewel (
+<A HREF="#ref9-40">1962</A>) studied the skeletons of sublines of the C57BL strain and noted divergence in excess of that expected from 
+mutational origin alone. He suggested that residual heterozygosity in the original inbred strain might be a factor. He also 
+considered the possibility that breeding practices in the early history of the line may not have been as uniform as they were 
+later. It is also possible, when sublines are raised in different laboratories, that different environments present different 
+selection forces (both natural selection and subconscious artificial selection) which act on newly arisen mutations to widen the 
+genetic gap between the sublines.
+
+<P>In order to estimate experimentally the rate at which parallel sublines diverge genetically, the most important requirement 
+is to reduce the environmental variations and the possibility of inadvertent genetic contamination as much as possible. Separation 
+and subsequent maintenance of the incipient sublines should be carried on in one laboratory, and there should be a common uniform 
+environment for both sublines, rigid genetic control, and the supervision of one investigator. Most of these requirements were 
+satisfied by the study of Bailey (
+<A HREF="#ref9-2">1959</A>), who estimated that six to nine generations would be required to show significant differences between sublines 
+in particular skeletal traits.
+
+<P>The Committee on Standardized Genetic Nomenclature for Mice (
+<A HREF="#ref9-70">Staats, 1964</A>) recommended that independent inbred sublines from a single inbred line be considered different genetic 
+entities, <I>i.e.</I>, different sublines, (1) when they have been separated for at least eight generations, (2) when the lines are 
+under the care of different investigators, and (3) when any detectable genetic differences between the sublines arise. If subline 
+differentiation is due to residual heterozygosity in the original line alone, "crossing of sublines reduces the coefficient of 
+inbreeding to that of the generation at which the sublines were separated" (
+<A HREF="#ref9-14">Dinsley, 1963</A>). However, with the likelihood of mutation and the problem of genetic contamination, the homozygosity 
+of an F<SUB>1</SUB> between sublines which meet any of these criteria above should remain in doubt.
+
+<P>
+<CENTER><B>INHERITANCE OF SPECIFIC CHARACTERISTICS</B></CENTER>
+
+<P>In this section we present some examples of studies in multiple factor inheritance in the mouse which have particular importance 
+either because the characteristics appear to be important in many fields of biology or because the traits have been used to test or 
+verify the theory of multiple factor inheritance.
+
+<P><B>Physiological characteristics</B>
+
+<P><B><I>Blood pH.</I></B> Selection for differences in the level of blood pH has been successful on two occasions. Weir and Clark (
+<A HREF="#ref9-75">1955</A>) selected for high and low levels of blood pH, and Wolfe (
+<A HREF="#ref9-77">1961</A>) replicated the experiment using the same outbred control stock. In the first experiment various degrees of 
+inbreeding were practices as the breeding systems used included fullsib, halfsib, and "unrelated" (animals less closely related 
+than first cousins) matings in the second and third selected generations. Parents of the first generation were mass-selected from 
+an expanded colony derived from MacArthur's randombred control stock and were mated assortatively. There was an immediate response 
+to selection. The mean pH in the third generation was 7.476 +/- 0.004 in the high line, 7.444 +/- 0.007 in the control (outbred) line, 
+and 7.426 +/- 0.004 in the low line.
+
+<P>Wolfe's replication of the experiment was continued for seven generations with minimal inbreeding for the first five generations 
+and fullsib mating thereafter. Selection by individual merit was practiced, with 11 to 13 single-pair matings used to maintain the 
+selected lines in each generation. Immediate response to selection was again evident with no additional response after the fourth 
+generation. The mean pH in the fourth generation was 7.582 +/- 0.006 in the high line, 7.548 +/- 0.007 in the outbred control line, 
+and 7.513 +/- 0.005 in the low line. Estimates of heritability were 14.0 per cent from the ratio of summed response to summed selection 
+differential, 16.8 per cent from the ratio of the regression coefficients for cumulative response and selection differential, and 14.5 
+per cent from the intraclass correlation of polygamous matings of the outbred stock using the combined sire and dam variances. The 
+immediate response and the early limits in selection in both experiments indicated that few loci determine the variation of blood pH.
+
+<P><B><I>Response to hormone treatments.</I></B> Endocrine systems are essential to the growth of an organism and to maintenance of 
+physiological homeostasis during life. A great portion of the natural variation in response to hormone treatments present in mouse 
+populations can be attributed to a genetic component of variance based on allelic differences at many loci. Further discussion of 
+the genetics of endocrine variation is given in 
+<A HREF="chapter20.shtml">Chapter 20</A>.
+
+<P><B>Morphological characteristics</B>
+
+<P><B><I>Skeletal traits.</I></B> Many studies have been made on the skeleton of the mouse (
+<A HREF="chapter13.shtml">Chapter 13</A>; 
+<A HREF="#ref9-42">Gr&#252;neberg, 1963</A>). Particularly for the axial skeleton consult the studies of Searle (
+<A HREF="#ref9-68">1954</A>), McLaren and Michie (
+<A HREF="#ref9-59">1955</A>), and Green (
+<A HREF="#ref9-39">1962</A>). These and earlier studies of the 
+components of variation of axial skeleton traits show that a large part of the phenotypic variance can be attributed to genetic 
+variation but that the number of gene differences may not be very great. The inheritance of number of thoracic and lumbar 
+vertebrae can best be explained by a model of multiple factor inheritance underlying a threshold characteristic. The environment 
+also has much influence on these traits, since the phenotypic variation within strains is large. Differences exist between colonies 
+of the same substrain maintained in different places. Diet has a strong influence. Very important, too, is a maternal effect which 
+is expressed both as an effect of age of the mother and as an effect of the particular uterine environment of the mother. Environmental 
+differences do exist within litters, but these effects are not attributable to differences between uterine horns, or differences of 
+position and presentation within the uterine horns. The environmental causes of the phenotypic variation of individuals within a 
+single litter have not been ascertained.
+
+<P><B><I>Body weight.</I></B> Gr&#252;neberg (
+<A HREF="#ref9-41">1952</A>) presented a good summary and bibliography of the studies on the inheritance of body weight published up to that time. 
+Body weight is an example of a trait whose phenotypic variation is controlled by a large number of loci although many examples exist where 
+body weight is greatly affected by single loci. There is a maternal effect on weaning weight, but this influence is almost negligible for 
+adult body weight. Heterosis in body weight is often observed in crosses of inbred strains of mice, although some cases have been reported 
+where intermediate body weight was found in hybrids (
+<A HREF="#ref9-29">Franks <I>et al.</I>, 1962</A>; 
+<A HREF="#ref9-57">McCarthy, 1965</A>). The reasons for the presence of heterosis in some cases and its absence in others are not clearly understood.
+
+<P>The most thorough studies on the genetics of body weight are those of Falconer (
+<A HREF="#ref9-22">1955</A>) and his colleagues. Two-way selection for 6-week body weight produced differences between lines 16 times larger than 
+the original genetic standard deviation. The response was gradual with an apparent plateau at about the 20th generation. Many genes appear 
+to affect the variability of the trait. Six-week weight is a complicated combination of the influence of the maternal environment (also 
+genetically controlled) and the animal's own endowment. Selection for 6-week weight produced genetic changes in both components. Selection 
+success in the low line was greater than in the high line; this asymmetry could be attributed to the asymmetrical response of the maternal 
+effect and not to the effect of the individual's own genotype. MacArthur (
+<A HREF="#ref9-54">1949</A> and earlier) found no asymmetry in response 
+to selection for 60-day body weight, but the weights at later ages did not seem to be influenced very much by maternal effects. Fowler (
+<A HREF="#ref9-28">1958</A>) studied the correlated responses of Falconer's selection experiment as well as of another independent 2-way selection 
+by Falconer for 3- to 6-week weight gain. Differences between the two experiments in the correlated responses of proportion of fat and 
+protein and associated water in the carcass could be attributed to the genetic differences in the foundation populations or to the slight 
+difference in the selection criterion. These findings are important because they suggest the possible variety of perhaps independent 
+physiological mechanisms through which selection may alter a single trait.
+
+<P><B><I>Vibrissa number.</I></B> Vibrissa number in the house mouse is a very stable character with rare deviations from the count of 19 
+in normal mice. In a survey of several inbred lines and randombred stocks, Dun and Fraser (
+<A HREF="#ref9-16">1959</A> and earlier) found no variation in the number of postorbital vibrissae and little variation in the other four groups: 
+supra-orbitals, postorals, inter-ramals, and ulnar-carpals. On the other hand, stocks carrying the sex-linked semidominant gene tabby (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>) 
+showed a comparatively wide range of variation in vibrissa number. Dun and Fraser formed a foundation population from crosses 
+of three tabby stocks and two inbred lines. The wild-type mice in this population showed no variation in vibrissa number. Mice were then 
+selected for high and low vibrissa number by a combination of mass selection of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>/+ females and sib-testing of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856197" target="_blank"><I>Ta</I></A>/Y males. 
+A self-continuing mating scheme was initiated in the third generation that produced wild-type mice in each subsequent generation. The 
+results of selection through the 19th generation were given by Fraser and Kindred (
+<A HREF="#ref9-30">1962</A> and earlier). The results are summarized in 
+<a href="javascript:windowt91 = window.open('../tables/table9-1.shtml', 'windowt91', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowt91.focus()">Table 9-1</A>; 
+the values for the vibrissa number in generation 19 are from Fraser and Kindred (
+<A HREF="#ref9-30">1962</A>, Figure 1). This experiment demonstrated that the variability of vibrissa number in the tabby mice is largely genetic, 
+and continued selection for changes in the vibrissa number in the tabby mice brings about concomitant changes in the wild-type mice where 
+variation in number is rare.
+
+<P><B><I>Tail length.</I></B> Falconer (
+<A HREF="#ref9-19">1953</A>) found that a change in tail length was a correlated response to selection for 6-week body weight. He then selected for tail length (
+<A HREF="#ref9-21">Falconer, 1954<I>b</I></A>) to see if the correlated response of 6-week body weight would be that expected from the first experiment 
+on the theory of genetic correlation. The theory is that the response of a correlated character is fully explained by its genetic correlation (
+<I>r</I><SUB>G</SUB>) with the selected trait. If the two estimates of <I>r</I><SUB>G</SUB> proved to be the same, then the responses could be 
+accurately predicted from either experiment and the theory of genetic correlation would be supported. If &#916;G and &#916;G' represent the 
+genetic changes in the selected and correlated characters respectively, &#963;<SUB>G</SUB> and &#963;<SUB>G'</SUB> the respective genetic 
+standard deviations, and <I>r</I><SUB>G</SUB> the genetic correlation, then to estimates of <I>r</I><SUB>G</SUB>, one from each selection 
+experiment, are obtainable from the equation:
+
+<P>
+<CENTER><TABLE>
+
+<TR>
+<TD>&#916;G'</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&#916;G</TD>
+</TR>
+
+<TR>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD>=</TD>
+<TD>&nbsp;</TD>
+<TD><I>r<SUB>G</SUB></TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+</TR>
+
+<TR>
+<TD>&#963;<SUB>G'</SUB></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&#963;<SUB>G</SUB></TD>
+</TR>
+
+</TABLE></CENTER>
+
+<P>where &#963;<SUB>G</SUB> and &#963;<SUB>G'</SUB> must be equated to the measurable parameters <FONT SIZE=+1><I>h</I><SUB>&#963;<SUB>P</SUB></SUB></FONT> and 
+<FONT SIZE=+1><I>h'</I><SUB>&#963;<SUB>P'</SUB></SUB></FONT>, respectively. His estimates of <I>r</I><SUB>G</SUB>, 0.62 and 0.57, were in close agreement, so no 
+evidence against the theory of genetic correlation was found.
+
+<P><B>Behavioral characteristics</B>
+
+<P>Perhaps the greatest reason for the study of multiple factor inheritance is that many of the intrinsically interesting traits of living 
+organisms have multiple factor inheritance. Behavioral characteristics and other components of fitness are intriguing to investigators because 
+their phenotypic variation is so vitally important to the well-being of the individual, the family group, the population, and the species. 
+Examples of quantitative behavioral characteristics are audiogenic seizures and alcohol preference. Other examples of quantitative traits 
+with perhaps a more complex physiology are emotionality and exploratory behavior (Chapters 
+<A HREF="chapter32.shtml">32</A>, 
+<A HREF="chapter33.shtml">33</A>).
+
+<P><B>Fitness characteristics</B>
+
+<P><B><I>Disease resistance.</I></B> A review of the role of inheritance in the immunity of mice and other animals was given by Gowen (
+<A HREF="#ref9-33">1948</A>). There is evidence from earlier papers that some of the resistance to various diseases is controlled by single dominant autosomal genes (
+<A HREF="chapter8.shtml">Chapter 8</A>). However, other studies indicate multifactorial inheritance. Nadel <I>et al.</I> (
+<A HREF="#ref9-60">1955</A>) demonstrated differences between 12 inbred strains, F<SUB>1</SUB> hybrids, F<SUB>2</SUB> hybrids, and backcrosses in survival after 
+experimental infection with <I>Plasmodium berghei</I>. There was evidence of heterosis as the hybrids of the C57BL/6 and C57L parents exhibited the longest 
+mean survival time. Greater variance was found in the F<SUB>2</SUB> and in the backcross animals than in the parents and F<SUB>1</SUB>. Additional evidence 
+indicating that multiple genetic factors were involved came from the backcross data. The study was complicated by the wide range of survival times exhibited 
+by the mice in all series and by the presence of a bimodal curve of time until death.
+
+<P>Gowen (
+<A HREF="#ref9-34">1963</A>) maintained strains of mice at fixed levels of mortality from infection with 200,000 <I>Salmonella typhimurium</I> organisms by 
+inbreeding and selection. The most resistant S strain had 83.9 per cent survival and the most susceptible Ba strain (=BALB/Gw) had 0.2 per cent survival. The 
+observed survival indicated that a number of genes affect different physiological functions responsible for resistance or susceptibility. The survival of 
+hybrids between three resistant and two susceptible strains suggested dominance or partial dominance for some of the genes controlling resistance. Crosses 
+of two highly susceptible strains resulted in hybrids with greater resistances than either parent. Crosses between resistant lines produced 
+hybrids somewhat less resistant.
+
+<P>Gowen and Calhoun (
+<A HREF="#ref9-35">1943</A>) found a positive strain correlation between resistance to <I>Salmonella</I> and total leukocyte count. This finding stimulated Weir and Schlager (
+<A HREF="#ref9-76">1962</A>) to select for total leukocyte count and examine the correlated response of disease resistance. Total leukocyte count responded to 2-way 
+selection for 13 generations, increasing from 9,100 in an outbred line (T strain) to 17,500 in the high line and decreasing to 4,000 in the low line. Selection 
+was continued for seven more generations with no apparent response. The selection was based on family and individual merit of 30-day-old mice and fullsib matings 
+were employed during most of the program. The response was asymmetrical, being more rapid in the high line than the low line. Expected heritability from sire and 
+dam interclass correlations in the T strain was 22.4 +/- 3.4 per cent from the sire component. The realized heritability was 18.7 +/- 1.8 per cent for the first 
+13 generations. In studying the correlated responses the authors found <I>no</I> significant differences between strains in resistance to a dose of 200,000 
+live organisms of <I>S. typhimurium</I>, in the toxic effects of massive doses of heat-killed organisms, or to reinoculation with live organisms after immunization. 
+Therefore differences in <I>Salmonella</I> resistance cannot be explained by differences in total leukocyte count alone.
+
+<P>In a related study Chai (
+<A HREF="#ref9-7">1957</A>) compared the variances of leukocyte counts of F<SUB>1</SUB> and F<SUB>2</SUB> mice from the Small (SM) and Large (LG) strains of mice. 
+He estimated that genetic determination of the character "leukopenia" was approximately 50 per cent.
+
+<P>Heston (
+<A HREF="#ref9-44">1942</A>) compared the F<SUB>1</SUB> and F<SUB>2</SUB> of crosses of strain A and L and estimated that approximately 86 per cent of the total 
+variance of susceptibility to induced pulmonary tumors was due to genetic factors. Falconer and Bloom (
+<A HREF="#ref9-26">1962</A>) also studied the genetics of susceptibility to induced lung tumors in mice. The degree of genetic determination of susceptibility 
+estimated by comparing the variances of six inbred strains and their 15 F<SUB>1</SUB>'s with the variances of two randombred populations was 82 per cent 
+in one randombred line and 88 per cent in the other. The genetic variability was further partitioned into additive and nonadditive components by parent-offspring 
+regression to give heritability estimates of 23 per cent in one line and 49 per cent in the other.
+
+<P><B><I>Litter size.</I></B> The optimal litter size for the greatest fitness both for dam and offspring is difficult to ascertain. If too few animals are born, 
+the species risks extinction. If too many are born, the offspring may get a poor start, the mother's fitness may drop, a longer period between litters may come 
+about, and a reduced number of grandchildren may be born. Falconer (
+<A HREF="#ref9-24">1960<I>b</I></A>) studied the effects of inbreeding and selection on litter size, as mentioned above. In the selection experiment no obvious progress 
+was made until the 15th generation when the high, control, and low lines took their respective predicted positions. Results after 31 generations led him to 
+conclude tentatively that the upward response was due to an increased ovulation rate of the dams and the downward response was due to lowered viability of 
+the embryos. This conclusion is important because it suggests that, although 2-way selection is being applied on one characteristic, the actual physiological 
+mechanisms underlying the characteristic are vastly different in the two lines.
+
+<P><B><I>Sex ratio.</I></B> Genes acing at different times in embryogenesis can influence the X-Y system of sex determination in the mouse. Any number of 
+genes could be involved in the processes of gametogenesis and fertilization which affect the differential survival of X- and Y-bearing sperm. Also genes 
+may influence implantation and prenatal development to bring about differential survival of the sexes. Changes in the frequencies of these alleles will 
+then bring about changes in the sex ratio as recorded by the investigator. Indirect evidence for the existence of genes that modify the sex ratio comes 
+from the differences in sex ratio reported in the literature for different inbred strains (
+<A HREF="#ref9-74">Weir, 1960<I>b</I></A>; 
+<A HREF="#ref9-10">Cook and Vlcek, 1961</A>).
+
+<P>Falconer (
+<A HREF="#ref9-20">1954<I>a</I></A>) attempted to select for differences in sex ratio. After four generations both the high line and the low line had sex ratios 
+of 53 per cent males. Calculations of the maximum amount of genetic variation compatible with the observed data yielded heritability estimates of 6.9 per 
+cent, but this was judged to be too high since there was no evidence for genetic variance in an outbred stock.
+
+<P>Changes of sex ratio have occurred as a correlated response in a selection experiment for high and low levels of blood pH (
+<A HREF="#ref9-74">Weir, 1960<I>b</I></A>). The high-pH line had a sex ratio of 52.8 +/- 1.0 per cent males and the low line had 41.8 +/- 0/9 per cent. The selection 
+for blood pH was repeated by Wolfe (
+<A HREF="#ref9-77">1961</A>) with a correlated response in sex ratio opposite to the direction observed by Weir. The pooled data 
+of eight generations showed that the high line had a sex ratio of 45.7 per cent males and the low line had 52.5 per cent males.
+
+<P><B><I>Radiation resistance.</I></B> Differences between inbred strains in susceptibility to irradiation have been known since Henshaw (
+<A HREF="#ref9-43">1944</A>) compared the resistance of two strains. Extensive studies of the radiation resistance of strains reported by Grahn (
+<A HREF="#ref9-37">1960</A> and earlier), Reinhard <I>et al.</I> (
+<A HREF="#ref9-61">1954</A>), Kohn and Kallman (
+<A HREF="#ref9-48">1957</A> and earlier), Stadler and Gowen (
+<A HREF="#ref9-71">1957</A>), Luchnik (
+<A HREF="#ref9-53">1959</A>), Fr&#246;l&#233;n <I>et al.</I> (
+<A HREF="#ref9-31">1961</A>), Roderick (
+<A HREF="#ref9-66">1963<I>b</I></A>), and Ehling (
+<A HREF="#ref9-18">1964</A>) indicate that strain differences are extremely large but that the various strains do not necessarily bring about their resistance to 
+radiation through precisely the same physiological mechanisms. That at least some of the variation between strains has a multiple factor basis was demonstrated by Roderick (
+<A HREF="#ref9-65">1963<I>a</I></A>), who found that selection for survival under 100 R of X-rays per day was still effective after the eighth generation of selection. 
+The upper and lower limits of selection at eight generations did not exceed the extremes of the inbred strains studied. Vogel <I>et al.</I> (
+<A HREF="#ref9-72">1962</A>) showed that these selected lines were also different in the same direction in their resistance to fission neutron irradiation, where the 
+criterion again was days survival. With strains available differing so greatly in radiation susceptibility, the physiological nature of the natural mechanisms 
+underlying susceptibility can be investigated. Radiation resistance is discussed more fully in 
+<A HREF="chapter22.shtml">Chapter 22</A>.
+
+<P><B><I>Lifespan.</I></B> Chai (
+<A HREF="#ref9-8">1959</A>) reported greater lifespan in a hybrid than in mixed strains and attributed the difference to the reduction of early mortality among the 
+hybrids. Some of the results of E.S. Russell's studies on the difference in lifespan between inbred strains of mice were reported by Roderick and Storer (
+<A HREF="#ref9-67">1961</A>), who found a significant genetic correlation between lifespan and litter size. Roberts (
+<A HREF="#ref9-64">1961</A>) found a significant difference in lifespan of strains selected for 6-week body weight, but observed a negative genetic correlation between 
+lifespan and body weight. The hybrids of a cross between his long- and short-lived strains nearly equalled his long-lived strains. However, the cross exhibited 
+heterosis in reproductive capacity. Probably many genes are involved in the genetic variation of lifespan, although no study has been attempted to estimate the 
+number. Selection of lifespan might be possible by the method of freezing spermatozoa for later use. Or it might be possible by selecting for traits, such as 
+high litter size and low body weight, genetically correlated with lifespan, but measurable in younger animals. It is interesting to note that high litter size 
+and low body weight, although both appeared to be positively genetically correlated with lifespan, are themselves negatively genetically correlated. For a 
+further discussion of lifespan see 
+<A HREF="chapter26.shtml">Chapter 26</A>.
+
+<P><CENTER><B>SUMMARY</B></CENTER>
+
+We have outlined some of the main problems in studying multiple factor inheritance and noted specific studies where mice have been used effectively in solving 
+these problems. The problems discussed are methods for studying multiple factor inheritance, physiological mechanisms underlying quantitative traits, inbreeding 
+depression, heterosis, and subline differentiation. Because of their small size and the availability of a great variety of inbred strains, mice are highly 
+valuable in studies of multiple factor inheritance.
+
+<P>Studies of multiple factor inheritance in mice are too numerous to list here. As an introduction to this large literature we have discussed a few studies 
+including response to hormone treatment, skeletal traits, body weight, vibrissa number, tail length, disease resistance, blood pH, litter size, sex ratio, 
+radiation resistance, and lifespan.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by contracts AT(30-1)-1979 and AT(30-1)-3249 
+with the U.S. Atomic Energy Commission and in part by Public Health Service Research Grant GM 07249 from the 
+National Institute of General Medical Sciences.
+<HR>
+
+<P><CENTER><B>LITERATURE CITED</B></CENTER>
+
+<A NAME="ref9-1"></A>
+<P>Anderson, P.K., L.C. Dunn, and A.B. Beasley. 1964. 
+Introduction of a lethal allele into a feral house mouse population. 
+Amer. Natur. <B>98:</B> 57-64.
+
+
+<A NAME="ref9-2"></A>
+<P>Bailey, D.W. 1959. 
+Rates of subline divergence in highly inbred strains of mice. 
+J. Hered. <B>50:</B> 26-30.
+<!-- MGI:75312 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75312" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-3"></A>
+<P>Barnett, S.A., and E.M. Coleman. 1960. 
+'Heterosis' in F<SUB>1</SUB> mice in a cold environment. 
+Genet. Res. <B>1:</B> 25-30.
+
+
+<A NAME="ref9-4"></A>
+<P>Bowman, J.C. 1959. 
+Selection for heterosis. 
+Anim. Breeding Abstr. <B>27:</B> 261-273.
+
+
+<A NAME="ref9-5"></A>
+<P>Bruell, J.H. 1963. 
+Additive inheritance of serum cholesterol level in mice. 
+Science <B>142:</B> 1664-1666.
+<!-- 14075696 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14075696" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-6"></A>
+<P>Carpenter, J.R., H. Gr&#252;neberg, and E.S. Russell. 1957. 
+Genetical differention involving morphological characters in an inbred strain of mice. II. American branches of the C57BL and C57BR strains. 
+J. Morphol. <B>100:</B> 377-388.
+<!-- MGI:75344 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75344" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-7"></A>
+<P>Chai, C.K. 1957. 
+Leukopenia: an inherited character in mice. 
+Science <B>126:</B> 125.
+<!-- 13442659 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13442659" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-8"></A>
+<P>Chai, C.K. 1959. 
+Life span in inbred and hybrid mice. 
+J. Hered. <B>50:</B> 203-208.
+<!-- MGI:73160 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73160" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-9"></A>
+<P>Cold Spring Harbor Symposium on Quantitative Biology. 1955. 
+<I>Population Genetics: The Nature and Causes of Genetic Variability in Populations</I>. 
+Vol. 20.
+
+
+<A NAME="ref9-10"></A>
+<P>Cook, M.J., and A. Vlcek. 1961. 
+Sex ratio in mice. 
+Nature <B>191:</B> 89.
+
+
+<A NAME="ref9-11"></A>
+<P>Crow, J.F. 1952. 
+Dominance and overdominance, p. 282-297. 
+<I>In</I> J.W. Gowen [ed.] Heterosis. Iowa State College Press, Ames.
+
+
+<A NAME="ref9-12"></A>
+<P>Deol, M.S., H. Gr&#252;neberg, A.G. Searle, and G.M. Truslove. 1957. 
+Genetical differentiation involving morphological characters in an inbred strain of mice. I. A British branch of the C57BL strain. 
+J. Morphol. <B>100:</B> 345-375.
+
+
+<A NAME="ref9-13"></A>
+<P>Deol, M.S., H. Gr&#252;neberg, A.G. Searle and G.M. 1960. 
+How pure are our inbred strains of mice? 
+Genet. Res. <B>1:</B> 50-58.
+<!-- MGI:50935 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50935" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-14"></A>
+<P>Dinsley, M. 1963. 
+Inbreeding and selection, p. 235-259. 
+<I>In</I> W. Lane-Petter [ed.] Animals for research. Academic Press, London and New York.
+
+
+<A NAME="ref9-15"></A>
+<P>Dobzhansky, Th. 1952. 
+Nature and origin of heterosis, p. 218-223. 
+<I>In</I> J. W. Gowen [ed.] Heterosis. Iowa State College Press, Ames.
+
+
+<A NAME="ref9-16"></A>
+<P>Dun, R.B., and A.S. Fraser, 1959. 
+Selection for an invariant character, vibrissa number, in the house mouse. 
+Austral. J. Biol. Sci. <B>12:</B> 506-523.
+<!-- 13541353 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13541353" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-17"></A>
+<P>Eaton, N.E., W.E. Neville, and G.E. Dickerson. 1950. 
+General and specific combining abilities in mouse crosses. 
+J. Anim. Sci. <B>9:</B> 636-637.
+
+
+<A NAME="ref9-18"></A>
+<P>Ehling, U.H. 1964. 
+Strain variation in reproductive capacity and radiation response of female mice. 
+Radiat. Res. <B>23:</B> 603-610.
+<!-- MGI:73153 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73153" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-19"></A>
+<P>Falconer, D.S. 1953. 
+Selection for large and small size in mice. 
+J. Genet. <B>51:</B> 470-501.
+
+
+<A NAME="ref9-20"></A>
+<P>Falconer, D.S. 1954<I>a</I>. 
+Selection for sex ratio in mice and <I>Drosophila</I>. 
+Amer. Natur. <B>88:</B> 385-397.
+
+
+<A NAME="ref9-21"></A>
+<P>Falconer, D.S. 1954<I>b</I>. 
+Validity of the theory of genetic correlation. 
+J. Hered. <B>45:</B> 42-44.
+
+
+<A NAME="ref9-22"></A>
+<P>Falconer, D.S. 1955. 
+Patterns of response in selection experiments with mice. 
+Cold Spring Harbor Symp. Quant. Biol. <B>20:</B> 178-196.
+<!-- 13433562 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13433562" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-23"></A>
+<P>Falconer, D.S. 1960<I>a</I>. 
+<I>Introduction to Quantitative Genetics</I>. 
+Ronald Press, New York. 365 p.
+
+
+<A NAME="ref9-24"></A>
+<P>Falconer, D.S. 1960<I>b</I>. 
+The genetics of litter size in mice. 
+J. Cell Comp. Physiol. 56 (Suppl. 1): 153-167.
+<!-- 13697995 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13697995" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-25"></A>
+<P>Falconer, D.S. 1963. 
+Quantitative inheritance, p. 193-216. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+
+<A NAME="ref9-26"></A>
+<P>Falconer, D.S., and J.L. Bloom. 1962. 
+A genetic study of induced lung-tumours in mice. 
+Brit. J. Cancer <B>16:</B> 665-685.
+<!-- MGI:83211 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83211" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-27"></A>
+<P>Falconer, D.S., and R.C. Roberts. 1960. 
+Effect of inbreeding on ovulation rate and foetal mortality in mice. 
+Genet. Res. <B>1:</B> 422-430.
+
+
+<A NAME="ref9-28"></A>
+<P>Fowler, R.E. 1958. 
+The growth and carcass composition of strains of mice selected for large and small body size. 
+J. Agric. Sci. <B>51:</B> 137-148.
+
+
+<A NAME="ref9-29"></A>
+<P>Franks, E., N.S. Fechheimer, and C. Cohen. 1962. 
+An examination of heterosis in crosses of certain inbred strains of mice. 
+Ohio J. Sci. <B>62:</B> 177-184.
+
+
+<A NAME="ref9-30"></A>
+<P>Fraser, A.S., and B.M. Kindred. 1962. 
+Selection for an invariant character, vibrissae number, in the house mouse. III. Correlated responses. 
+Austral. J. Biol. Sci. <B>15:</B> 188-206.
+
+
+<A NAME="ref9-31"></A>
+<P>Fr&#246;l&#233;n, H., K.G. L&#252;ning, and C. R&#246;nnb&#228;ck. 1961. 
+The effect of X-irradiation on various mouse strains due to their genetic background. I. Lethality after acute irradiation. 
+Radiat. Res. <B>14:</B> 381-393.
+<!-- 13702205 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13702205" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-32"></A>
+<P>Fuller, J.L. 1964. 
+Measurement of alcohol preference in genetic experiments. 
+J. Comp. Physiol. Psych. <B>57:</B> 85-88.
+<!-- MGI:75496 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:75496" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-33"></A>
+<P>Gowen, J.W. 1948. 
+Inheritance of immunity in animals. 
+Annu. Rev. Microbiol. <B>2:</B> 215-254.
+<!-- MGI:73076 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73076" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-34"></A>
+<P>Gowen, J.W. 1963. 
+Genetics of infectious diseases, p. 383-404. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+
+<A NAME="ref9-35"></A>
+<P>Gowen, J.W., and M.L. Calhoun. 1943. 
+Factors affecting genetic resistance of mice to mouse typhoid. 
+J. Infect. Diseases <B>73:</B> 40-56.
+
+
+<A NAME="ref9-36"></A>
+<P>Grahn, D. 1958. 
+The genetic factor in acute and chronic radiation toxicity. 
+Proc. 2nd United Nations Int. Conf. Peaceful Uses of Atomic Energy, Geneva <B>22:</B> 394-399.
+
+
+<A NAME="ref9-37"></A>
+<P>Grahn, D. 1960. 
+Genetic control of physiological processes: the genetics of radiation toxicity in animals, p. 181-200. 
+<I>In</I> R.S. Caldecott and L.A. Snyder [ed.] <I>Radioisotopes in the Biosphere</I>. Center for Continuation Study, Univ. Minnesota, Minneapolis.
+
+
+<A NAME="ref9-38"></A>
+<P>Green, E.L. 1953. 
+A skeletal difference between sublines of the C3H strain of mice. 
+Science <B>117:</B> 81-82.
+<!-- MGI:50948 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50948" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-39"></A>
+<P>Green, E.L. 1962. 
+Quantitative genetics of skeletal variations in the mouse. II. Crosses between four inbred strains (C3H, DBA, C57BL, and BALB/c). 
+Genetics <B>47:</B> 1085-1096.
+<!-- MGI:50949 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50949" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-40"></A>
+<P>Grewel, M.S. 1962. 
+The rate of genetic divergence of sublines in the C57BL strain of mice. 
+Genet. Res. <B>3:</B> 226-237.
+
+
+<A NAME="ref9-41"></A>
+<P>Gr&#252;neberg, H. 1952. 
+<I>The Genetics of the Mouse, 2nd ed.</I> Nijhoff, The Hague. 650 p.
+
+
+<A NAME="ref9-42"></A>
+<P>Gr&#252;neberg, H. 1963. 
+<I>The Pathology of Development; a Study of Inherited Skeletal Disorders in Animals</I>. 
+Wiley, New. 309 p.
+
+
+<A NAME="ref9-43"></A>
+<P>Henshaw, P.S. 1944. 
+Experimental roentgen injury. II. Changes produced with intermediate-range doses and a comparison of the relative susceptibility of different kinds of animals. 
+J. Nat. Cancer Inst. <B>4:</B> 485-501.
+
+
+<A NAME="ref9-44"></A>
+<P>Heston, W.E. 1942. 
+Genetic analysis of susceptibility to induced pulmonary tumors in mice. 
+J. Nat. Cancer Inst. <B>3:</B> 69-78.
+
+
+<A NAME="ref9-45"></A>
+<P>Kempthorne, O. 1957. 
+<I>An Introduction to Genetic Statistics.</I> 
+Wiley, New York. 545 p.
+
+
+<A NAME="ref9-46"></A>
+<P>Kidwell, J.F., H.J. Weeth, W.R. Harvey, L.H. Haverland, C.E. Shelby, and R.T. Clark. 1960. 
+Heterosis in crosses of inbred lines of rats. 
+Genetics <B>45:</B> 225-231.
+
+
+<A NAME="ref9-47"></A>
+<P>Kindred, B. 1963. 
+Skin grafting between sub-lines of inbred strains of mice. 
+Austral. J. Biol. Sci. <B>16:</B> 863-868.
+
+
+<A NAME="ref9-48"></A>
+<P>Kohn, H.I., and R.F. Kallman. 1957. 
+The influence of strain on acute X-ray lethality in the mouse. II. Recovery rate studies. 
+Radiat. Res. <B>6:</B> 329-338.
+<!-- 13408474 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13408474" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-49"></A>
+<P>Lerner, I.M. 1954. 
+<I>Genetic Homeostasis</I>. Wiley, New York. 134 p.
+
+
+<A NAME="ref9-50"></A>
+<P>Lerner, I.M. 1958. 
+<I>The Genetic Basis of Selection</I>. Wiley, New York. 298 p.
+
+
+<A NAME="ref9-51"></A>
+<P>Le Roy, H.L. 1960. 
+<I>Statistische Methoden der Populationsgenetik</I>. 
+Birk&#228;user, Basel und Stuttgart. 397 p.
+
+
+<A NAME="ref9-52"></A>
+<P>Li, C.C. 1955. 
+<I>Population Genetics</I>. 
+University of Chicago Press, Chicago. 366 p.
+
+
+<A NAME="ref9-53"></A>
+<P>Luchnik, N.V. 1959. 
+Radiation injuries and means of affecting them. II. The relationship of the mortality rate of irradiated mice and rats 
+to their strains, sex, weight, dose of irradiation and the distribution of this mortality rate with respect to time. 
+U.S. Dep. Commerce, Office of Technical Service, OTS 59-13409: 97-149.
+
+
+<A NAME="ref9-54"></A>
+<P>MacArthur, J.W. 1949. 
+Selection for small and large body size in the house mouse. 
+Genetics <B>34:</B> 194-209.
+<!-- MGI:50975 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50975" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-55"></A>
+<P>Mather, K. 1949. 
+<I>Biometrical Genetics</I>. 
+Dover Publications, New York. 158 p.
+
+
+<A NAME="ref9-56"></A>
+<P>Mather, K. 1955. 
+The genetical basis of heterosis. 
+Proc. Roy. Soc. B <B>144:</B> 143-150.
+<!-- 13266796 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13266796" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-57"></A>
+<P>McCarthy, J.C. 1965. 
+The effect on litter size of crossing inbred strains of mice. 
+Genetics <B>51:</B> 217-222.
+<!-- 14292150 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14292150" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-58"></A>
+<P>McLaren, A., and D. Michie. 1954. 
+Factors affacting vertebral variation in mice. I. Variation within an inbred strain. 
+J. Embryol. Exp. Morphol. <B>2:</B> 149-160.
+<!-- MGI:50980 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50980" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-59"></A>
+<P>McLaren, A., and D. Michie. 1955. 
+Factors affecting vertebral variation in mice. II. Further evidence on intra-strain variation. 
+J. Embryol. Exp. Morphol. <B>3:</B> 366-375.
+<!-- pmed -->
+
+<A NAME="ref9-60"></A>
+<P>Nadel, E.M., J. Greenberg, G.E. Jay, and G.R. Coatney. 1955. 
+Backcross studies on the genetics of resistance to malaria in mice. 
+Genetics <B>40:</B> 620-626.
+<!-- pmed -->
+
+<A NAME="ref9-61"></A>
+<P>Reinhard, M.C., E.A. Mirand, H.L. Goltz, and J.G. Hoffman. 1954. 
+Mouse-strain differences in response to radiation. 
+Proc. Soc. Exp. Biol. Med. <B>85:</B> 367-370.
+<!-- pmed -->
+
+<A NAME="ref9-62"></A>
+<P>Rendel, J.M. 1953. 
+Heterosis. 
+Amer. Natur. <B>87:</B> 129-138.
+<!-- pmed -->
+
+<A NAME="ref9-63"></A>
+<P>Roberts, R.C. 1960. 
+The effects on litter size of crossing lines of mice inbred without selection. 
+Genet. Res. <B>1:</B> 239-252.
+<!-- pmed -->
+
+<A NAME="ref9-64"></A>
+<P>Roberts, R.C. 1961. 
+The lifetime growth and reproduction of selected strains of mice. 
+Heredity <B>16:</B> 369-381.
+<!-- pmed -->
+
+<A NAME="ref9-65"></A>
+<P>Roderick, T.H. 1963<I>a</I>. 
+Selection for radiation resistance in mice. 
+Genetics <B>48:</B> 205-216.
+<!-- MGI:74924 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:74924" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-66"></A>
+<P>Roderick, T.H. 1963<I>b</I>. 
+The response of twenty-seven inbred strains of mice to daily doses of whole-body X-irradiation. 
+Radiat. Res. <B>20:</B> 631-639.
+<!-- MGI:70477 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:70477" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-67"></A>
+<P>Roderick, T.H., and J.B. Storer. 1961. 
+Correlation between mean litter size and mean life span among 12 inbred strains of mice. 
+Science <B>134:</B> 48-49.
+<!-- MGI:83104 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:83104" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-68"></A>
+<P>Searle, A.G. 1954. 
+Genetical studies on the skeleton of the mouse. XI. The influence of diet on variation within pure lines. 
+J. Genet. <B>52:</B> 413-424.
+<!-- MGI:50996 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:50996" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-69"></A>
+<P>Shull, G.H. 1952. 
+Beginnings of the heterosis concept, p. 14-48. 
+<I>In</I>: J.W. Gowen [ed.] Heterosis. Iowa State College Press, Ames.
+
+
+<A NAME="ref9-70"></A>
+<P>Staats, J. 1964. 
+Standardized nomenclature for inbred strains of mice, Third listing. 
+Cancer Res. <B>24:</B> 147-168.
+<!-- 14117809 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14117809" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-71"></A>
+<P>Stadler, J., and J.W. Gowen. 1957. 
+Contributions to survival made by body cells of genetically differentiated strains of mice following X-irradiations. 
+Biol. Bull. <B>112:</B> 400-421.
+
+
+<A NAME="ref9-72"></A>
+<P>Vogel, H.H., Jr., D.L. Jordan, and T.H. Roderick. 1962. 
+Variation of radiosensitivity to daily neutron exposures in mouse strains selected for survival under X-irradiation. 
+Radiat. Res. <B>16:</B> 577. (Abstr.)
+
+
+<A NAME="ref9-73"></A>
+<P>Weir, J.A. 1960<I>a</I>. 
+Genetics and laboratory animal diseases. 
+Proc. Anim. Care Panel <B>10:</B> 177-188.
+
+
+<A NAME="ref9-74"></A>
+<P>Weir, J.A. 1960<I>b</I>. 
+A sex ratio factor in the house mouse that is transmitted by the male. 
+Genetics <B>45:</B> 1539-1552.
+<!-- MGI:2137634 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2137634" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-75"></A>
+<P>Weir, J.A., and R.D. Clark. 1955. 
+Production of high and low blood-pH lines of mice by selection with inbreeding. 
+J. Hered. <B>46:</B> 125-132.
+<!-- MGI:51013 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:51013" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-76"></A>
+<P>Weir, J.A., and G. Schlager. 1962. 
+Selection for leukocyte count in the house mouse and some physiological effects. 
+Genetics <B>47:</B> 1199-1217.
+<!-- 13999668 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13999668" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-77"></A>
+<P>Wolfe, H.G. 1961. 
+Selection for blood-pH in the house mouse. 
+Genetics <B>46:</B> 55-75.
+<!-- MGI:73124 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73124" target="_blank">MGI</A></I>.
+
+<A NAME="ref9-78"></A>
+<P>Wright, S. 1921. 
+Systems of matings. 
+Genetics <B>6:</B> 111-178.
+<!-- 17245958,17245959,17245960,17245961,17245962 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17245958,17245959,17245960,17245961,17245962" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref9-79"></A>
+<P>Wright, S. 1922. 
+The effects of inbreeding and crossbreeding on guinea pigs. I. Decline in vigor. II. Differentiation among inbred families. 
+U.S. Dep. Agric. Bull. 1090. Washington. 63 p.
+
+
+<A NAME="ref9-80"></A>
+<P>Wright, S. 1952. 
+The genetics of quantitative variability, p. 4-41. 
+<I>In</I> E.C.R. Reeve and C.H. Waddington [ed.] <I>Quantitative genetics</I>. H.M. Stat. Office, London.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter8.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter10.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>

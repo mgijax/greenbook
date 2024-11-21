@@ -1,0 +1,1950 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<title>Chapter 21 - Pigmentation</title>
+	<meta name="generator" content="BBEdit 6.5.2">
+
+<meta Name="KEYWORDS"
+Content="Biology of the Laboratory Mouse, pigmentation, coat color, spotting, albinism, melanocyte, melanoblast, mutant, geneticists">
+
+<meta Name="DESCRIPTION"
+Content="Electronic version of Biology of the Laboratory Mouse edited by Earl L. Green">
+
+<meta Name="AUTHOR"
+Content="Biology of the Laboratory Mouse, adapted for the web by Paul Szauter, Mouse Genome Informatics, The Jackson Laboratory.">
+
+<!--//Biology of the Laboratory Mouse Earl L. Green// -->
+
+</head>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter20.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter22.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<H1>21</H1>
+<H2><I>Pigmentation</I><SUP><A HREF="#note1">1</A></SUP></H2>
+<H3>H. Glenn Wolfe and Douglas L. Coleman</H3>
+
+<P>Much has been written about phenogenesis of pigment in the mouse. Pigmentation of mice with part or major emphasis on genetic aspects is reviewed by Gr&#252;neberg (
+<A HREF="#ref21-35">1952</A>) and Deol (
+<A HREF="#ref21-20">1963</A>), of rodents and carnivores by Little (
+<A HREF="#ref21-46">1958</A>), and of mammals in general by Chase and Mann (
+<A HREF="#ref21-10">1960</A>), Billingham and Silvers (
+<A HREF="#ref21-2">1960</A>), and Silvers (
+<A HREF="#ref21-97">1961</A>).
+
+<P>Methodology in pigment cell research in mammals has been discussed by Silvers (
+<A HREF="#ref21-98">1963</A>). The approaches to the general problem of pigmentation aside from conventional microscopic methods have involved a detailed comparison of the 
+various genetically influenced types of pigment with respect to (1) the actual amount and distribution of the pigment as measured colorimetrically and histologically, 
+(2) the amount of pigment-forming enzymes present, <I>e.g.</I>, tyrosinase as measured enzymatically, and (3) the size, shape, and distribution of the developing pigment 
+granules as seen with the electron microscope. The same techniques have been applied to potentially pigmented tissue or pigmented tissues transplanted to mice of other 
+genotypes or to chick coelom and more recently to skin explants cultured <I>in vitro</I>.
+
+<P>It is rather obvious that pigment differences were studied early because they are conspicuous and are convenient and easy to classify in genetic experiments. At the 
+same time pigment differences in mice or other mammals provide an excellent way to study a single cell type that is more or less autonomous, being little affected by 
+surrounding tissues. Investigators in the field of mammalian genetics will recognize this as a rare attribute.
+
+<P><B>DIFFERENCES IN PIGMENTATION UNDER SINGLE GENE CONTROL</B>
+
+<P>For convenience and as an aid to later discussion, some of the "pigment genes" of the mouse and their principal effects are listed in 
+<a href="javascript:windowt2101 = window.open('../tables/table21-1.shtml', 'windowt2101', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2101.focus()">Table 21-1</A>. 
+We have attempted to classify these genes as to probable site of gene action. For some the experimental evidence is good, whereas for others 
+the classification is based largely on inference from observed effects.
+
+<P>Pigment genes may affect kind or intensity of coat color or affect the distribution of pigment over the integument of the mouse, <I>i.e.</I>, cause white 
+spotting or variegation (mottling). Several affect both color and spotting, <I>e.g.</I>, white (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>) (
+<a href="javascript:windowf2102c = window.open('../figures/figure21-2C.shtml', 'windowf2102c', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102c.focus()">Figure 21-<I>2C</I></A>), 
+and many affect or are affected by other physiological systems (are pleiotropic). Sterility, anemia, choreic behavior, anomalies 
+of the axial skeleton, failure of secondary bone resorption, reduced eye size, megacolon, and lethality are frequently associated with reduced eye and coat color, 
+white spotting, and mottling. The most pronounced of these related effects are mentioned in 
+<a href="javascript:windowt2101 = window.open('../tables/table21-1.shtml', 'windowt2101', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2101.focus()">Table 21-1</A>. 
+The listing of a gene is not intended to mean that its primary effect is on pigment or pigment distribution. For example, restriction of 
+pigment caused by 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>- or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96974" target="_blank"><I>Sl</I></A>-series alleles (Figures 
+<a href="javascript:windowf2102d = window.open('../figures/figure21-2D.shtml', 'windowf2102d', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102d.focus()">21-2<I>D</I></A>, 
+<a href="javascript:windowf2102e = window.open('../figures/figure21-2E.shtml', 'windowf2102e', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102e.focus()">21-2<I>E</I></A>) 
+is generally considered secondary to more fundamental metabolic disturbances (
+<A HREF="chapter17.shtml">Chapter 17</A>). The reader is referred to theoretical discussions of pleiotropism by Goldschmidt (
+<A HREF="#ref21-34">1958</A>), Hadorn (
+<A HREF="#ref21-38">1961</A>), and Gr&#252;neberg (
+<A HREF="#ref21-36">1963</A>).
+
+<P>The inheritance of coat color in mice, including spotting patterns, is not a new concern of geneticists. Indeed albinism (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>) (
+<a href="javascript:windowf2102a = window.open('../figures/figure21-2A.shtml', 'windowf2102a', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102a.focus()">Figure 21-<I>2A</I></A>) 
+in mice was the first to be analyzed in mammals by means of the newly rediscovered principles of Mendel (
+<A HREF="#ref21-17">Cu&#233;not, 1902</A>; 
+<A HREF="#ref21-4">Castle and Allen, 1903</A>). The acquisition and analysis of mutant genes yellow (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>), white bellied agouti (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>), nonagouti (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>), dilute (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>), brown (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>, dominant spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>), pink-eyed dilution (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>), and piebald spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A>) 
+soon followed until today some 70 genes are known affecting color or spotting at about 40 loci (see Figures 
+<a href="javascript:windowf2101 = window.open('../figures/figure21-1.shtml', 'windowf2101', 'width=1000,height=1100,resizable=yes,scrollbars=yes'); windowf2101.focus()">21-1</A>, 
+<a href="javascript:windowf2102 = window.open('../figures/figure21-2.shtml', 'windowf2102', 'width=1000,height=1100,resizable=yes,scrollbars=yes'); windowf2102.focus()">21-2</A> 
+for coat colors of mice). Interesting accounts of early genetic studies of pigmentation in mice may be found in Little (
+<A HREF="#ref21-45">1913</A>) and Wright (
+<A HREF="#ref21-108">1917</A>).
+
+<P><B>PIGMENT CELLS: ORIGIN, LOCATION, AND FUNCTION IN ADULT STRUCTURES</B>
+
+<P>All pigment in the mouse is in the form of granules (or modified granules) produced by a specialized cell, the melanocyte. This pigment may be either of two basic kinds, 
+eumelanin (black or brown) and phaeomelanin (yellow). Melanocytes in a single hair follicle that are producing eumelanin and phaeomelanin (both kinds of pigment may be 
+present within a single melanocyte) are illustrated in 
+<a href="javascript:windowf2103 = window.open('../figures/figure21-3.shtml', 'windowf2103', 'width=900,height=750,resizable=yes,scrollbars=yes'); windowf2103.focus()">Figure 21-3</A>. 
+All prospective pigment cells, or melanoblasts, except those of the retinal pigment epithelium (which come from the outer wall of the optic cup) 
+arise from cells of the neural crest (Rawles, 
+<A HREF="#ref21-69">1940</A>, 
+<A HREF="#ref21-70">1947</A> and reviews by Rawles, 
+<A HREF="#ref21-71">1948</A>, 
+<A HREF="#ref21-72">1953</A>). These melanoblasts migrate mediolaterally from the neural crest during the 8th to 12th day of fetal development to their defined locations, in the 
+usual case to the hair bulb matrix of the receiving hair follicle (Rawles, 
+<A HREF="#ref21-69">1940</A>, 
+<A HREF="#ref21-70">1947</A>). In an undifferentiated state melanoblasts cannot be distinguished by any known criterion from the other embryonic cells in which they are associated. 
+The experimental procedure used by Rawles (
+<A HREF="#ref21-70">1947</A>) to prove the neural crest origin of pigment cells in the mouse was to isolate tissues from various axial levels at timed developmental stages and 
+transplant them to the embryonic coelom of White Leghorn chick hosts. Only those tissues containing presumptive neural crest, either histologically recognizable neural crest 
+or cells migrating from the neural crest, produced melanocytes (
+<A HREF="#ref21-70">Rawles, 1947</A>).
+
+<P>Some investigators have used the silver nitrate staining reaction to chart the migration of melanoblasts in time fetuses of mice (
+<A HREF="#ref21-18">Danneel and Cleffmann, 1954</A>; 
+<A HREF="#ref21-87">Schumann, 1960</A>; 
+<A HREF="#ref21-19">Danneel and Schumann, 1961</A>). However, a serious limitation of the method is that melanoblasts apparently are not stainable upon arrival in a region. Schumann (
+<A HREF="#ref21-87">1960</A>) first detected pigment cells in the dermis near the ear primordium in 13-day fetuses of the C57 strain and in limb buds on day 17. Transplant data by Rawles (
+<A HREF="#ref21-70">1947</A>) dictate dispersal of melanoblasts by day 12 to all regions of the fetus with the possible exception of extremities. This is further corroborated by Mayer and Reams (
+<A HREF="#ref21-55">1962</A>), who traced the migration of melanoblasts into connective tissue of leg musculature by transplants of fetal leg muscle of PET/LSU mice of differing ages to chick coelom. 
+Melanoblasts reach the dorsal surface of the leg by day 12 and migrate via the dermal-epidermal interface into the interior mesoderm by the end of day 14.
+
+<P>Indirect information about early behavior and number of melanoblasts has come from studies of X-ray-induced mosaics by Russell and Major (
+<A HREF="#ref21-82">1957</A>). By extrapolation from the size of mutant color spots in adults developed from fetuses irradiated at 10&#188; days they estimated the modal 
+number of prospective pigment cells to be from 150 to 200 at this stage of development. Melanocytes are not normally found in trunk-skin epidermis except in 
+association with the hair bulb. They are, however, present in the basal layer of the epidermis and dermis of tail, feet, nose, ear, scrotum, genital papilla, 
+and eyelids as well as meninges of the brain, particularly between the olfactory and cerebral hemispheres, in the parathyroid, thymus, and harderian gland, and in the nictitans and choroid (
+<A HREF="#ref21-50">Markert and Silvers, 1956</A>). Melanocytes are also found in ovary and spleen (
+<A HREF="#ref21-2">Billingham and Silvers, 1960</A>) and are nearly ubiquitous in distribution in connective tissue of PET/MCV mice (now extinct), being consistently 
+absent only from the connective tissue of the gut mucosa (
+<A HREF="#ref21-61">Nichols and Reams, 1960</A>). Melanocytes were particularly abundant in connective tissue of lungs, kidney, rib cartilages, gonads, intercostal and extremity muscles, 
+and semicircular canals of PET/MCV mice.
+
+<P>The dendritic or branched melanocytes of neural crest origin function in the epidermis as unicellular melanin-secreting glands (
+<A HREF="#ref21-2">Billingham and Silvers, 1960</A>). Because the function of melanocytes is so intimately connected with the hair follicle the growth and differentiation of hair 
+follicles and hair will be briefly discussed.
+
+<P>Development of the hair follicle is initiated in the mouse embryo in the period extending from about 7 days before birth to 4 or more days after birth (
+<A HREF="#ref21-8">Chase, 1954</A>). Vibrissa follicles develop first, followed by the larger coat hairs, then the smaller ones. The hair follicle forms as a solid cylindrical downgrowth 
+of cells that includes melanoblasts from the basal layer of the epidermis. The stages of hair growth are <I>anagen</I>, growing phase (six substages of 17 days duration); 
+<I>catagen</I>, the transitional phase (2 days duration); and <I>telogen</I>, the resting phase (of variable duration until the next hair cycle) (
+<A HREF="#ref21-23">Dry, 1926</A>; 
+<A HREF="#ref21-12">Chase <I>et al.</I>, 1951</A>). Pigment cells normally first develop melanin during anagen III. Melanization and hair growth are maximal during anagen VI. 
+Melanin granules are deposited, presumably through the end processes of dendritic melanocytes by a kind of cytocrine activity, into the cortical and medullary cells of the growing 
+hair as they are pushed through the outer cone of pigment cells of the hair bulb matrix.
+
+<P>Each new hair passes through the same growth phases and acquires its own complement of melanocytes. The source of melanocytes for succeeding hair generations is 
+not known but it could be from (1) mitotic descendants of melanocytes or reactivated melanocytes, (2) a "papilla reservoir" of melanoblasts or from melanoblasts that 
+migrate into the papilla from dermal tissues, or (3) undifferentiated stem cells in the vicinity of the hair follicle. The hair follicle and its relation to pigment 
+cells is discussed in reviews by Chase (
+<A HREF="#ref21-8">1954</A>, 
+<A HREF="#ref21-9">1958</A>) and Chase and Mann (
+<A HREF="#ref21-10">1960</A>).
+
+<P>The developing hair very early becomes keratinized and may become any one of four principal types making up the coat of the mouse: monotrich, awl, auchene, or zigzag (
+<A HREF="#ref21-23">Dry, 1926</A>; see 
+<A HREF="chapter13.shtml">Chapter 13</A> for anatomy of skin and its derivatives). A number of mutations in the mouse deter development of the hair follicle or alter the normal distribution 
+or proportions of hair types which in turn indirectly affects coat color (
+<A HREF="chapter8.shtml">Chapter 8</A>). The mutant Tabby (<I>Ta</I>) is an example. A good discussion of some hair and pigment mutants, with emphasis on follicle development, 
+may be found in Chase and Mann (
+<A HREF="#ref21-10">1960</A>).
+
+<P>The hair of the mouse is an accurate chronometer of events occurring within the melanocyte and of interaction between the melanocyte and the hair follicle. A history of pigment 
+production by the melanocytes is contained within the hair bulb matrix. Russell (
+<A HREF="#ref21-76">1946</A>, 
+<A HREF="#ref21-77">1948</A>, 
+<A HREF="#ref21-78">1949<I>a</I></A>, 
+<A HREF="#ref21-79">1949<I>b</I></A>) utilized this fact in studies of hair pigment granules and pigment volume in mice of 36 different genotypes. Number, size, shape, clumping, 
+and arrangement of granules within medullary cells and along the hair shaft and type of pigment produced were each found to contribute in an important way to the final coat color expressed (
+<A HREF="#ref21-76">Russell, 1946</A>). Some important generalizations emerging from the study are: (1) The alleles at the agouti locus (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>) 
+control a reversible trigger mechanism causing either yellow or black pigment granules to be deposited in the hair, (2) the principal effect of substituting brown (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>) 
+for black (+) is a qualitative change in pigment from black to brown with some reduction in pigment volume, (3) the alleles at the albino locus (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>) 
+appear to control quantity of pigment only, (4) the dilute allele (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>) 
+causes irregularity of pigment deposition (granular clumping), reduced cortical pigment, and uneven pigment distribution within the cells of the hair, and (5) pink-eyed dilution (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>) 
+affects size of granules and levels of pigmentation. These shred-like granules assume a kind of flocculent clumping and hairs have greatly reduced pigmentation distally (
+<A HREF="#ref21-79">Russell, 1949<I>b</I></A>). A similar clumping of granules gives the "dilute" effect to hairs of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+mice because of decreased light absorption although pigment volume is little affected.
+
+<P>Though the variable attributes of pigment granules in the hair are in many ways interdependent, four key pigmentation characteristics appear to be relatively independent of each other. 
+These are (1) granule color, (2) granule size, (3) degree of pigmentation, and (4) granule clumping (
+<A HREF="#ref21-78">Russell, 1949<I>a</I></A>).
+
+<P>It has become evident from electron microscope studies of melanocytes of the retinal pigment epithelium of the mouse that one may investigate not only the ontogeny and 
+migratory behavior of the melanoblast, but also the ontogeny of pigment granules within the melanocyte (Moyer, 
+<A HREF="#ref21-58">1961</A>, 
+<A HREF="#ref21-59">1963</A>). The fine structure of melanosomes in neural crest-derived melanocytes of the choroid, hair follicles, and iris in the mouse are identical except for 
+size and uniformity to those of the retinal pigment epithelium (
+<A HREF="#ref21-59">Moyer, 1963</A>). Those of the retina are irregular in size and shape and are generally much larger (
+<A HREF="#ref21-51">Markert and Silvers, 1956</A>; 
+<A HREF="#ref21-59">Moyer, 1963</A>). The morphogenesis and fine structure of pigment granules is discussed later in this chapter.
+
+<P><B>TRANSPLANTATION AND RELATED EXPERIMENTS</B>
+
+<P>Autonomy of the pigment cell is inferred from the discrete nature of patches of mutated somatic cells having different hair color persisting through successive hair molts. 
+Experimentally this is demonstrated when the integrity of skin of mice of one color genotype is maintained following transplantation to a histocompatible host of another color 
+genotype, and again when pigment develops from presumptive neural crest that is transplanted to the anterior chamber of the mouse eye, to mouse spleen, or to any suitable 
+environment in another host species, <I>e.g.</I>, chick coelom. Again, autonomy is demonstrated <I>in vitro</I> when melanocytes in the skin of young mice continue to produce 
+melanin after explantation to a suitable culture medium.
+
+<P>In transplants of skin between fetal and newborn mice differing in color genotype the graft develops pigmentation like that of the donor except at the periphery of the graft (
+<A HREF="#ref21-74">Reed and Sanders, 1937</A>; 
+<A HREF="#ref21-73">Reed, 1938</A>). Here the hairs develop a color characteristic of homologous regions of the host except in the case of the agouti locus (to be discussed later). Reed (
+<A HREF="#ref21-73">1938</A>), Reed and Henderson (
+<A HREF="#ref21-73b">1940</A>), and Silvers and Russell (
+<A HREF="#ref21-99">1955</A>) have shown conclusively that melanoblast migration into alien hair follicles accounts for the "pigment spread." The migration involves hair pigment rather 
+than skin pigment and does not occur after follicle differentiation (
+<A HREF="#ref21-73b">Reed and Henderson, 1940</A>; 
+<A HREF="#ref21-7">Chase, 1949</A>). Pigment spread is not observed when transplants of general trunk-skin epidermis are made between adult mice (
+<A HREF="#ref21-1">Billingham and Medawar, 1948</A>). The slight pigment spread that is observed when pigmented ear or tail skin is transplanted to white spotted or albino trunk 
+areas or when nonpigmented ear skin is transplanted to a pigmented trunk area followed by treatment with a skin irritant known to stimulate melanogenesis is attributed to 
+the passive transfer of pigment cells as a consequence of cell movements during wound healing (Silvers, 
+<A HREF="#ref21-91">1956<I>b</I></A>, 
+<A HREF="#ref21-96">1958<I>d</I></A>).
+
+<P>By transplanting fetal or neonatal skin to a neonatal host, it is possible by virtue of the migratory ability of melanoblasts to produce the effect of having melanocytes 
+of a given color genotype function in the hair follicle of another color genotype. This method has been of great value in the study of gene action at the level of the melanocyte 
+and hair follicle, but these studies have been possible only through the existence of the requisite inbred mouse strains, their F<SUB>1</SUB> hybrids, and by appropriate gene 
+substitutions in congenic color stocks of mice of the type developed by E.S. Russell.
+
+<P><B>Agouti locus</B>
+
+<P>The agouti alleles determine phaeomelanin (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855930" target="_blank"><I>A<SUP>vy</SUP></I></A>) or eumelanin (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855939" target="_blank"><I>a<SUP>e</SUP></I></A>), 
+both phaeomelanin and eumelanin in the same hair at different levels (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>, +), 
+or a dorsal pigmentation different from ventral pigmentation (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855942" target="_blank"><I>a<SUP>td</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A>) (
+<a href="javascript:windowt2101 = window.open('../tables/table21-1.shtml', 'windowt2101', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2101.focus()">Table 21-1</A>). 
+There is much overlapping between members of the series, especially as new mutant genes are discovered so that it is difficult to place them in 
+discrete classes. Mice of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> (
+<a href="javascript:windowf2101d = window.open('../figures/figure21-1D.shtml', 'windowf2101d', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2101d.focus()">Figure 21-1<I>D</I></A>), 
+for example, have some yellow hairs in the region of the mammae, ears, and perineum, whereas mice of phenotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855930" target="_blank"><I>A<SUP>vy</SUP></I></A>/- and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855942" target="_blank"><I>a<SUP>td</SUP></I></A>/- show some agouti coloration (
+<A HREF="#ref21-22">Dickie, 1962</A>; 
+<A HREF="#ref21-47">Loosli, 1963</A>). For a description of the agouti pattern of hair the reader is referred to Dry (
+<A HREF="#ref21-24">1928</A>), Kaliss (
+<A HREF="#ref21-39">1942</A>), Russell (
+<A HREF="#ref21-79">1949<I>b</I></A>), and Galbraith (
+<A HREF="#ref21-33">1964</A>).
+
+<P>Phaeomelanin is found only in hair and melanocytes of the hair bulb. Other pigment in yellow-haired phenotypes, for example, that of the eyes, tail, feet, and ear skin, 
+is eumelanin. Vibrissae and monotrichs of agouti mice are no banded. The two kinds of pigment and pattern differences specified by alleles at the agouti locus make it 
+particularly suitable experimental material for the type of study to be determined.
+
+<P>Silvers and Russell (
+<A HREF="#ref21-99">1955</A>) and Silvers (
+<A HREF="#ref21-93">1958<I>a</I></A>, 
+<A HREF="#ref21-94">1958<I>b</I></A>) transplanted ventral or dorsal skin from fetal or newborn mice to the backs of newborn mice differing at the agouti locus (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>, +, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>). 
+Use was also made of genes 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A> 
+in suitable combinations to produce a diluted or all-white donor skin to better visualize the pigmentation potentiality of the invading host melanoblasts. 
+Control experiments and prior experiments of Reed (
+<A HREF="#ref21-73">1938</A>) and Reed and Henderson (
+<A HREF="#ref21-73b">1940</A>) established that hair follicles in the diluted or all-white donor graft could support differentiation and melanogenesis by invasive melanoblasts from the 
+pigmented histocompatible host. Interpretations were based on a microscopic examination of hairs at the periphery of the graft.
+
+<P>In a typical experiment, dorsal skin from a fetal or newborn mouse of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A> 
+(near-white with black eyes) was transplanted to the dorsum of a newborn mouse of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/+ 
+(black). The kind of pigment produced by melanoblasts of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/+ 
+migrating into hair follicles of the donor of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A> 
+was always that dictated by the agouti locus genotype of the donor graft, in this case yellow. The one 
+apparent exception, that of ventral 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A> graft transplanted to the dorsum of a 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/+ 
+host with the subsequent appearance of yellow hairs proved later to be due to the presence of normally occurring yellow hairs of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+mice in the region of the nipple areolae (Silvers, 
+<A HREF="#ref21-93">1958<I>a</I></A>, 
+<A HREF="#ref21-94">1958<I>b</I></A>).
+
+<P>Results of transplantation experiments at the agouti locus are best summarized by a quotation from Silvers (
+<A HREF="#ref21-94">1958<I>b</I></A>): "... the agouti locus genotype of the receiving hair follicle determines whether a melanocyte will produce eumelanin or phaeomelanin. The receiving 
+hair follicle also determines the pattern of pigmentation. ... ventrality and dorsality are not important <I>per se</I>, but together with their genetic constitution present 
+different follicular environments which affect the expression of melanocytes."
+
+<P>The next logical question in the retrograde analysis of gene action at the agouti locus would be: In what way is the cellular environment of the follicle 
+altered to produce a change in the response of the melanocyte? A study of the action of the various agouti alleles in tissue culture by Cleffmann (
+<A HREF="#ref21-13">1963</A>) has furnished some important clues as to how this may be done (discussed later in this chapter).
+
+<P>The compound nature of the agouti locus, suspected by Wallace (
+<A HREF="#ref21-104">1954</A>) has been proved by observing crossing over within the locus (
+<A HREF="#ref21-80">Russell <I>et al.</I>, 1963</A>). The mutation 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855944" target="_blank"><I>a<SUPx</SUP></I></A>, derived from irradiated spermatogonia, is recessive to 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>, + and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A> and dominant to 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>, the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855944" target="_blank"><I>a<SUP>x</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+type being distinguishable from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> by a slightly paler belly (
+<A HREF="#ref21-80">Russell <I>et al.</I>, 1963</A>). The 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855944" target="_blank"><I>a<SUP>x</SUP></I></A> 
+homozygote is lethal. From the balanced lethal mating of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855944" target="_blank"><I>a<SUP>x</SUP></I></A> x 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855944" target="_blank"><I>a<SUP>x</SUP></I></A>, 
+with or without genetic markers on either side, six (out of 2,247) exceptional agouti 
+offspring presumed to be recombinants were recovered. Another pseudoallele (?), agouti suppressor (<I>As</I>), 
+which causes a darkening of the middorsum has been reported (Phillips, 
+<A HREF="#ref21-62">1961</A>, 
+<A HREF="#ref21-63">1963</A>). The existence of dual genetic determiners for dorsal and ventral pigmentation is at once implied but in the absence of additional data it must remain 
+a possibility only. Regional differences in pigmentation can be plausibly explained in terms of physiologically different cell environments (see comments of 
+<A HREF="#ref21-47">Loosli, 1963</A>).
+
+<P><B>Brown, albino, dilute, leaden, and pink-eyed dilution loci</B>
+
+<P>Transplantation experiments, of the type described for the agouti locus or as an adjunct to experiments at the agouti locus, have shown that gene action of each of the brown (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>), albino (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>), dilute (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>), leaden (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>), and pink-eyed dilution (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>) 
+loci is localized within the melanoblast (melanocyte) as opposed to other cells of the hair follicle (
+<A HREF="#ref21-73">Reed, 1938; 
+<A HREF="#ref21-73b">Reed and Henderson, 1940</A>; 
+<A HREF="#ref21-99">Silvers and Russell, 1955</A>; Silvers, 
+<A HREF="#ref21-92">1957</A>, 
+<A HREF="#ref21-93">1958<I>a</I></A>, 
+<A HREF="#ref21-94">1958<I>b</I></A>). Of these the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A> 
+loci appear to alter melanocyte morphology, which may in turn interfere with inoculation of pigment granules into the cells of the growing hair. In mice of genotypes 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> (
+<a href="javascript:windowf2102b = window.open('../figures/figure21-2B.shtml', 'windowf2102b', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102b.focus()">Figure 21-2B</A>) and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>, 
+melanocytes have fewer and finer dendritic processes, and pigment granules are clumped around the nucleus (
+<A HREF="#ref21-50">Markert and Silvers, 1956</A>). This type of pigment cell has been called nucleopetal as opposed to the normal type of pigment cell called nucleofugal (
+<A HREF="#ref21-50">Markert and Silvers, 1956</A>). Because of the clumped nature of granules in the hair and the decrease in light absorption, the coat of such mice 
+appears "dilute" or "leaden." Another mutant, "slate" (a remutation of beige, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855968" target="_blank"><I>bg</I></A>), 
+shows clumping of granules much like 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>, 
+but melanocyte morphology is unaffected (
+<A HREF="#ref21-65">Pierro and Chase, 1963</A>; 
+<A HREF="#ref21-64">Pierro, 1963</A>). This mutant has not been utilized in transplantation experiments.
+
+<P>Gene action within the melanoblast was demonstrated for the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A> 
+loci by transplants of neural crest-containing tissue of genotypes +/+ and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> or +/+ and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A> 
+to the anterior chamber of the eye of albino or pink-eyed dilution hosts (
+<A HREF="#ref21-51">Markert and Silvers, 1959</A>). Each of these environments supports melanoblast differentiation and function. Melanoblasts having a nucleofugal genetic potential 
+differentiate into nucleofugal melanocytes only, whereas melanoblasts having nucleopetal genetic potential differentiate into nucleopetal, nucleofugal, and intermediate forms. 
+The results were interpreted to mean that host environment greatly influences number and size of dendritic extensions of melanocytes within limits established by the genotype. 
+Those melanoblasts differentiating in the spleen had fewer and finer dendrites than did those in the less restrictive environment of the eye. Some 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A> melanocytes in the eye were indistinguishable from nucleofugal melanocytes (
+<A HREF="#ref21-51">Markert and Silvers, 1959</A>).
+
+<P><B>White spotting vs. albinism</B>
+
+<P>White spotting must be considered etiologically distinct from albinism. Whereas amelanotic melanocytes (clear cells) are present in albino hair follicles of mice (
+<a href="javascript:windowf2104 = window.open('../figures/figure21-4.shtml', 'windowf2104', 'width=900,height=750,resizable=yes,scrollbars=yes'); windowf2104.focus()">Figure 21-4</A>), 
+hereditary white spotting is characterized by the absence of these and other pigment cells from the hair follicle (
+<A HREF="#ref21-12">Chase <I>et al.</I>, 1951</A>; Silvers, 
+<A HREF="#ref21-89">1953</A>, 
+<A HREF="#ref21-90">1956<I>a</I></A>, 
+<A HREF="#ref21-95">1958<I>c</I></A>; 
+<A HREF="#ref21-54">Mayer and Maltby, 1964</A>). That the large hyalinated cells found in hair bulbs of albino mice are amelanotic melanocytes is 
+supported by different kinds of experimental evidence. Silvers (
+<A HREF="#ref21-89">1953</A>, 
+<A HREF="#ref21-90">1956<I>a</I></A>) observed in histological sections that clear cells occupied locations comparable to those of melanocytes of 
+lightly pigmented types such as 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+genotypes, or of the nearly nonpigmented 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A> 
+genotype. Melanocytes of black and yellow mice 
+that are depigmented by biotin deficiency or by X-irradiation are similar in morphology to the follicular clear cells of albino (
+<A HREF="#ref21-11">Chase and Rauch, 1950</A>; Quevedo, 
+<A HREF="#ref21-66">1956</A>, 
+<A HREF="#ref21-67">1957</A>). Further, clear cells of albino hair follicles and melanocytes of pigmented types have comparable sensitivity to radiation; 
+both are readily destroyed by X-irradiation of the resting hair follicles.
+
+<P>The most convincing evidence is by Silvers (
+<A HREF="#ref21-95">1958<I>c</I></A>). Isografts of neural crest-free tissue (limb buds of 10- to 10&#189;-day fetuses) and neural crest-containing tissue (somites and neural 
+tube from anterior trunk levels of 10- to 10&#189;-day fetuses or skin plus adhering mesenchyme of limb buds o 12- to 12&#189;-day fetuses) from mice of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> (albino) were implanted in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A> hosts. 
+Comparable F<SUB>1</SUB> hybrid hosts of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/+ received the same two kinds of grafts from 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+(dilute brown) donors. Grafts developing from tissues having no neural crest cells, whether from 
+albino or pigmented donors, lacked clear cells and were characterized by hair matrices of regularly arranged cells of equal size; those containing 
+neural crest cells from albino donors produced hair bulbs with clear cells, while those from potentially pigmented donors produced melanocytes.
+
+<P>Theoretically a mutant gene causing restriction of pigment on the integument (white spotting) may act at any stage from differentiation of the melanoblast 
+from the neural crest to the time of final differentiation of melanoblast to melanocyte within the hair follicle or in the skin. It is generally agreed that 
+melanocytes in white spotted areas are either absent, undifferentiated, or abnormally differentiated. Possible reasons for the absence of melanoblasts from 
+a white spot are enumerated by Billingham and Silvers (
+<A HREF="#ref21-2">1960</A>) and Silvers (
+<A HREF="#ref21-97">1961</A>). These are (1) a neural crest defect, <I>e.g.</I>, as might result from a disturbance of the region of the developing embryo which 
+includes the neural crest and which therefore interferes with the differentiation of its cells, (2) a migratory defect which results in the melanoblast 
+not reaching all or some areas of the embryo, or (3) a failure of potentially pigmented cells to survive in the "spotted environment."
+
+<P>Important alternative to distinguish, which may not be mutually exclusive, are whether gene action is mediated via the cellular environment or resides 
+within the melanoblast. Markert and Silvers (
+<A HREF="#ref21-50">1956</A>) believed, though did not establish, that cellular environment is responsible for failure of melanoblast differentiation at some early 
+stage in development for mutant spotting genes steel (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>), white (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>), dominant spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>), viable dominant spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>), varitint waddler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A>), taupe (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856214" target="_blank"><I>tp</I></A>), piebald spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A>), tortoise (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856101" target="_blank"><I>To</I></A>), flexed (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:95473" target="_blank"><I>f</I></A>), and belted (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A>) (see Figure 21 of 
+<A HREF="#ref21-50">Markert and Silvers, 1956</A>). This was mostly inferred from the nonrandom distribution of melanocytes among different tissues (retina, choroid, 
+hair follicle, ear skin, harderian gland, nictitans) which emphasized the importance of given tissue in supporting melanoblast differentiation. Evidence 
+presented later in this chapter shows that 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank"><I>ls</I></A> (and therefore probably 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A>, 
+which has similar pleiotropic effects) acts through the neural crest. Splotch (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856173" target="_blank"><I>Sp</I></A>) and silver (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98301" target="_blank"><I>si</I></A>) 
+are believed to act within the melanoblast at an early stage of melanoblast differentiation.
+
+<P>All-white mice of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A> 
+have frequently been referred to as having "one large spot" because of the 
+demonstrable absence of melanocytes in skin and hair follicles (Silvers 
+<A HREF="#ref21-89">1953</A>, 
+<A HREF="#ref21-90">1956</A>). Working with alleles at this locus, Markert and Silvers explanted 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856089" target="_blank"><I>mi<SUP>bw</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856089" target="_blank"><I>mi<SUP>bw</SUP></I></A> (black eyed white) 
+embryonic tissue containing neural crest into the anterior chamber of the eye of albino hosts. No pigment cells were ever obtained from these grafts, 
+indicating failure of neural crest differentiation (
+<A HREF="#ref21-49">Markert, 1960</A>). Since control grafts from potentially pigmented neural crest frequently did not produce pigment, results must be interpreted 
+with caution. Any effect of a "spotted environment" would have to be transitory or involve a certain critical period since white spotted areas do not 
+inhibit melanogenesis. This has been shown by transplants of neural crest cells from potentially pigmented donors (
+<A HREF="#ref21-99">Silvers and Russell, 1955</A>) and by pigment spread to white spotted regions (
+<A HREF="#ref21-91">Silvers, 1956<I>b</I></A>).
+
+<P>Mayer and Maltby (
+<A HREF="#ref21-54">1964</A>) reexamined the problem of melanoblast differentiation in white spotted mice having the mutant genes belted (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A>) and lethal spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank"><I>ls</I></A>). 
+They demonstrated, by a series of grafts from different regions of fetal mice to chick coelom, that melanoblasts <I>were present</I> in prospective 
+white spotted areas in the vicinity of hair follicles of 12&#189;-day fetuses in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A> 
+mice. However, no melanoblasts were demonstrated in prospective white spotted areas of presumed 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank"><I>ls</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank"><I>ls</I></A> 
+mice of equivalent age or older. Thus white spotting in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A> 
+mice is due either to a failure of melanoblasts to gain entrance into the developing hair follicles or to a failure to differentiate, whereas white spotting in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank"><I>ls</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856392" target="_blank"><I>ls</I></A> 
+mice represents either a failure to migrate into the dermis of the white areas or failure to differentiate in this region even when 
+transplanted to the suitable environment of the chick coelom. Neural crest disturbance is suspected in lethal spotting (from occurrence of megacolon) and in 
+splotch (from occurrence of cranial and caudal rachischisis).
+
+<P>The presence of amelanotic melanocytes in a "white spot" is suggested in a study by Takeuchi (
+<A HREF="#ref21-103">1964</A>) who observed transfilter pigment spread between 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A> 
+skin and melanoma in tissue culture similar to, but less than, that observed between albino and melanoma 
+under the same conditions. If amelanotic melanocytes are present in skin from mice of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A> 
+they exhibit little if any tyrosinase activity. Tyrosine-2-C<SUP>14</SUP> incorporated <I>in vitro</I> 
+into skin of 5-day-old mice was greatly reduced in all-white 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A> or white spotted regions of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A> genotypes (
+<A HREF="#ref21-107">Wolfe and Coleman, 1964</A>).
+
+<P>The degree of spotting is modified greatly by other genes. Some, such as those affecting 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A> and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+are discussed later in this chapter. Other pigment genes frequently interact in a synergistic manner, as for example patch (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97571" target="_blank"><I>Ph</I></A>) and viable dominant spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>). The double heterozygote 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97571" target="_blank"><I>Ph</I></A>/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856266" target="_blank"><I>W<SUP>v</SUP></I></A>/+ (
+<a href="javascript:windowf2102e = window.open('../figures/figure21-2E.shtml', 'windowf2102e', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102e.focus()">Figure 21-2<I>E</I></A>) 
+usually has pigment restricted to the head (
+<A HREF="#ref21-37">Gr&#252;neberg and Truslove, 1960</A>). A similar restriction of pigment is found in double heterozygotes of 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97571" target="_blank"><I>Ph</I></A> with 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856161" target="_blank"><I>Sl</I></A>, or 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856164" target="_blank"><I>Sl<SUP>d</SUP></I></A> 
+(Wolfe, unpublished data). This suggests a common cause for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>- and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:96974" target="_blank"><I>Sl</I></A>-series 
+mutants, each of which exhibits a triad of effects, <I>i.e.</I>, varying degrees of macrocytic anemia, infertility, and reduced pigmentation (Chapters 
+<A HREF="chapter17.shtml">17</A>, 
+<A HREF="chapter29.shtml">29</A>). Yellow (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>) 
+generally causes reduction in size of white spots when in combination with spotting genes (
+<A HREF="#ref21-28">Dunn <I>et al.</I>, 1937</A>).
+
+<P>Different kinds of white spotting at different loci need not have a common etiology. About 27 mutant alleles at 13 loci exhibiting various degrees 
+of white spotting and diverse pleiotropic effects have been described (see 
+<a href="javascript:windowt2101 = window.open('../tables/table21-1.shtml', 'windowt2101', 'width=1000,height=1000,resizable=yes,scrollbars=yes'); windowt2101.focus()">Table 21-1</A>). 
+Thus spotting genes probably act in varied ways and at different times.
+
+<P><B>BIOSYNTHESIS OF MELANIN</B>
+
+<P>Naturally occurring melanin is a polymer of indole-5,6-quinone which is copolymerized with protein to form melanin granules. The indole-5,6-quinone 
+arises from the multistep oxidation of tyrosine by the enzyme tyrosinase (
+<A HREF="#ref21-44">Lerner and Fitzpatrick, 1960</A>; Mason, 
+<A HREF="#ref21-52">1955</A>, 
+<A HREF="#ref21-53">1959</A>; 
+<A HREF="#ref21-102">Swan, 1963</A>). Whether this enzyme is required in all steps of this reaction is not known. The best evidence suggests that tyrosinase 
+must be involved in the initial conversion of tyrosine to dihydroxyphenylalanine (DOPA) and probably in the conversion of DOPA to dopaquinone, 
+although this reaction and all subsequent reactions in the series can proceed spontaneously but at a slower rate in the absence of tyrosinase. 
+Although tyrosine is generally accepted to be a precursor of eumelanin (black or brown), tryptophan has been suggested as the natural precursor of 
+phaeomelanin (yellow) and considerable effort has been made to demonstrate that neither tyrosine or tyrosinase are directly 
+involved in the production of this pigment (
+<A HREF="#ref21-30">Foster, 1951</A>; 
+<A HREF="#ref21-60">Nachmias, 1959</A>).
+
+<P><B>Methods of enzymatic assay</B>
+
+<P>Assays for tyrosinase activity are complicated both because of the insolubility of the enzyme as it occurs in mouse skin and because of the variety 
+of products which are produced by the enzyme before any true pigment (melanin) is formed. Since the conversion of tyrosine to DOPA is extremely slow, 
+involving a long lag period even in the presence of large amounts of enzyme, many investigators have used DOPA as the preferred substrate in enzyme assays. 
+This reaction proceeds rapidly and the rate can be conveniently assayed manometrically by measuring oxygen uptake or colorimetrically by measuring the 
+formation of dopaquinone, a colored precursor of melanin. These methods have serious limitations (
+<A HREF="#ref21-29">Fitzpatrick and Kukita, 1959</A>) as DOPA is not the natural substrate (
+<A HREF="#ref21-41">Kim and Tchen, 1962</A>) and it is capable of being oxidized by a variety of nonspecific oxidases. Thus, unless pure solutions of tyrosinase 
+are being studied it is difficult to assess how much oxygen is being consumed by spontaneous oxidation of DOPA or by nonspecific oxidases present in 
+the crude tissues. If a colorimetric assay is used instead, the variety of colored products (all absorbing at different wavelengths), formed from DOPA 
+spontaneously and enzymatically, make an assay based on color development alone quite difficult. Some of the same difficulties are involved using 
+tyrosine as substrate, and it seems that in most experiments involving skin slices or tissues from mice a variety of methods using both substrates should be employed.
+
+<P>Fitzpatrick and Kukita (
+<A HREF="#ref21-29">1959</A>) developed a radioautographic assay system which provided a direct measurement of the amount of radioactive tyrosine 
+incorporated into the newly synthesized melanin of melanocytes. Although this method was difficult to quantify, it was a considerable improvement 
+over the previous histochemical technique using DOPA as substrate (
+<A HREF="#ref21-3">Bloch, 1947</A>). This method was modified in subsequent investigations by Coleman (
+<A HREF="#ref21-16">1962</A>) and Kim and Tchen (
+<A HREF="#ref21-41">1962</A>). In both modifications, after incubation with radioactive tyrosine the tissue was dissolved or otherwise treated in order 
+to plate it out on planchets for actual counting of the amount of radioisotope incorporated. These procedures were specific for rate of melanin 
+formation from the natural substrate tyrosine and were extremely quantitative. It should be emphasized that such an assay system is not a direct 
+measurement of the tyrosinase present in the tissue but only of that which is physiologically active under the assay conditions.
+
+<P><B>Effect of genic substitution on tyrosinase activity</B>
+
+<P>Tyrosinase activity and its relationship to the amount and types of melanin found in various coat color mutations in 
+mice has been studied in great detail primarily by geneticists (
+<A HREF="#ref21-84">Russell and Russell, 1948</A>; Foster, 
+<A HREF="#ref21-30">1951</A>, 
+<A HREF="#ref21-31">1959</A>, 
+<A HREF="#ref21-32">1963</A>), although later the problem of gene action in pigment mutants has interested workers in other disciplines (
+<A HREF="#ref21-29">Fitzpatrick and Kukita, 1959</A>; Coleman, 
+<A HREF="#ref21-15">1960</A>, 
+<A HREF="#ref21-16">1962</A>; Moyer 
+<A HREF="#ref21-58">1961</A>, 
+<A HREF="#ref21-59">1963</A>). In general, the results of all these investigations are in good agreement, but in some cases it is hard to make valid comparisons 
+between the work of different investigators because of the varieties of mouse genotypes and the diverse assay systems employed.
+
+<P>Tyrosinase activity in skin was found to vary with age of the mouse (
+<A HREF="#ref21-30">Foster, 1951</A>; 
+<A HREF="#ref21-16">Coleman, 1962</A>), more specifically with the stage of the hair cycle (
+<A HREF="#ref21-29">Fitzpatrick and Kukita, 1959</A>). The latter authors using the radioautographic method and studying the changes in tyrosinase activity during 
+the hair cycle found no detectable tyrosine incorporation until the appearance of pigmented melanocytes in the hair bulb. This occurred about 4 days after 
+the hair was plucked. Tyrosinase activity increased to a maximum between the sixth and 14th days and by the 24th day no activity could be demonstrated. Foster (
+<A HREF="#ref21-30">1951</A>) found that skins of baby mice between the ages of 4 and 9 days had the highest tyrosinase activity. Also skins from mice of this age are 
+particularly amenable for study since they can be pulverized easily in a mortar and pestle after freezing with dry ice. Coleman (
+<A HREF="#ref21-16">1962</A>) established that in mice of at least two strains (C57BL/6J and C57BR/cdJ) the maximum tyrosinase activity (without resorting to plucking) 
+occurred at 5 +/- 0.5 days.
+
+<P><B><I>Albino locus.</I></B> The alleles at the albino (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A>) 
+locus have been studied extensively by the histochemical DOPA oxidase technique (
+<A HREF="#ref21-84">Russell and Russell, 1948</A>). This method demonstrated that the DOPA oxidase activity corresponded in the series of alleles at this locus 
+to what would be expected from visual examination of the genotypes, <I>i.e.</I>, +/+ > 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> > 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A> > 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>. No activity was detected in the albino (
+<a href="javascript:windowf2102a = window.open('../figures/figure21-2A.shtml', 'windowf2102a', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102a.focus()">Figure 21-2<I>A</I></A>). 
+Similar results were obtained by Coleman (
+<A HREF="#ref21-16">1962</A>) using the radioactive assay for tyrosinase. It was of interest that the genotype \
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>/+ was distinguishable from +/+ biochemically, 
+whereas no visual differences can be observed. In every case, mice heterozygous for the alleles at this locus had intermediate and predictable activities 
+when compared with the homozygous genotypes.
+
+<P>The allele himalayan (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855979" target="_blank"><I>c<SUP>h</SUP></I></A>) 
+was of particular interest in these studies since the tyrosinase in the skins from mice homozygous for this allele (
+<a href="javascript:windowf2102g = window.open('../figures/figure21-2G.shtml', 'windowf2102g', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102g.focus()">Figure 21-1<I>G</I></A>) 
+was heat labile. This thermolability of the tyrosinase suggests that this allele and thus, by inference, all alleles at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A> 
+locus control the structure and not the quantity of the enzyme produced. Further evidence (Coleman, unpublished data) comes from an electrophoretic study of 
+tyrosinases isolated from the skins of mice carrying various alleles at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A> locus. 
+Whereas the tyrosinase from wild-type mice (+/+) produced two distinct tyrosinase bands on electrophoresis, similar preparations from chinchilla mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>) (
+<a href="javascript:windowf2101c = window.open('../figures/figure21-1C.shtml', 'windowf2101c', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2101c.focus()">Figure 21-1<I>C</I></A>) 
+produced only one band, which was faster moving than either of the two wild-type tyrosinases. Again when enzyme from himalayan 
+mice was similarly studied, two tyrosinases were produced, the fastest-moving of which corresponded to the fastest-moving wild-type component. The slower-moving 
+component from the himalayan mice was however much slower moving than its counterpart from wild-type mice.
+
+<P><B><I>Brown locus.</I></B>
+
+<P>The action of genic substitution at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A> 
+locus on tyrosinase activity in mice has been studied by several investigators (
+<A HREF="#ref21-84">Russell and Russell, 1948</A>; Foster, 
+<A HREF="#ref21-30">1951</A>, 
+<A HREF="#ref21-31">1959</A>; 
+<A HREF="#ref21-29">Fitzpatrick and Kukita, 1959</A>; 
+<A HREF="#ref21-16">Coleman, 1962</A>). All these investigations established that the brown mice (
+<a href="javascript:windowf2101f = window.open('../figures/figure21-1F.shtml', 'windowf2101f', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2101f.focus()">Figure 21-1F</A>) 
+surprisingly had equally as much tyrosinase as black mice (
+<a href="javascript:windowf2101d = window.open('../figures/figure21-1D.shtml', 'windowf2101d', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2101d.focus()">Figure 21-1D</A>). 
+In fact in most studies it appeared the brown mice actually had twice the amount of tyrosinase. Numerous explanations have been 
+advanced to explain this apparently anomalous result. Foster (
+<A HREF="#ref21-31">1959</A>) suggested that under conditions <I>in vivo</I> the substrate, tyrosine, is limiting, a situation which is not 
+the case <I>in vitro</I>. Fitzpatrick and Kukita (
+<A HREF="#ref21-29">1959</A>) thought that the brown granules developed more slowly and at the time of assay, being not so fully developed, 
+retained more active tyrosinase sites on their surface. Coleman (
+<A HREF="#ref21-16">1962</A>) showed that limitation of substrate <I>in vivo</I> is not involved, since injecting trace amounts of 
+tyrosine-C<SUP>14</SUP> into baby mice and letting the incubation run <I>in vivo</I> gave identical results to those seen <I>in vitro</I>. 
+Also the time course of development of black and brown granules appeared to be the same (see earlier section) in both genotypes of mice. The wild-type allele 
+in these studies was seen to be dominant and no heterozygous effect could be noticed in these enzyme assays. The gene appears to have a marked effect on the 
+size and shape of the pigment granules as well as influencing tyrosinase activity. This suggests that the primary function of this gene is the production of 
+the basic matrix of the granule which provides binding sites for structural tyrosinase as controlled by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A> locus.
+
+<P><B><I>Agouti locus.</I></B>
+
+<P>The series of alleles at the agouti locus is responsible for the presence or absence of yellow banding in hair (see 
+<a href="javascript:windowf2101b = window.open('../figures/figure21-1B.shtml', 'windowf2101b', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2101b.focus()">Figure 21-1<I>B</I></A> 
+for typical agouti pattern). The control exerted by this locus is sensitive enough to change the type of pigment from 
+eumelanin to phaeomelanin within the space of one or two medullary cells. Much confusion has developed concerning the mode of action of this locus on pigmentation. Foster (
+<A HREF="#ref21-30">1951</A>) found that oxygen uptake in pulverized yellow (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>) 
+skin was greatly stimulated when tryptophan was substituted for tyrosine as substrate. Concurrent with this was a production 
+of a yellow pigment rather than the abnormal black pigment formed by these genetically yellow skins from tyrosine. Little tyrosinase activity was seen in these preparations, and when nonagouti (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>) skin was mixed with yellow (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>) 
+skin an actual inhibition of the tyrosinase activity normally present in the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+skin was seen. These data suggested that tryptophan was the precursor of yellow pigment and that the yellow pigment was produced 
+in spite of the residual tyrosinase activity present because of the tyrosinase inhibitor found in yellow skin (see also 
+<A HREF="#ref21-60">Nachmias 1959</A>). Similarly Fitzpatrick and Kukita (
+<A HREF="#ref21-29">1959</A>), although demonstrating the incorporation of tyrosine-C<SUP>14</SUP> <I>in vitro</I> into pigment, suggested that tyrosine was 
+not really the natural precursor because this pigment formed <I>in vitro</I> from tyrosine was black rather than the expected yellow. Coleman (
+<A HREF="#ref21-16">1962</A>) showed that tryptophan injected into baby mice was not incorporated into yellow, black, or brown pigment <I>in vivo</I>, 
+whereas tyrosine-C<SUP>14</SUP> was incorporated into all types of pigment, although at a somewhat reduced rate in yellow mice when compared with their nonagouti (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>) 
+black or brown counterparts. Skin slices also failed to incorporate tyrosine-C<SUP>14</SUP> at abut one-third the normal rate 
+seen for nonagouti mice. These observations strongly suggest that tyrosine, not tryptophan, is the natural precursor to both eumelanin and phaeomelanin. 
+The reduced rate at which tyrosine was incorporated into phaeomelanin suggests that the normal sequence of events leading to eumelanin formation is 
+interrupted or diverted by the presence of the yellow allele, possibly resulting in a smaller polymer with the changed physical properties.
+
+<P>An inhibitor, as observed by Foster (
+<A HREF="#ref21-30">1951</A>), is implicated in this interruption of melanogenesis. Tissue culture studies have demonstrated that all hair melanocytes in skin explants 
+from mice homozygous for the + allele at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus when grown <I>in vitro</I> produce black pigment regardless of whether the skin came from nonagouti (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>), yellow (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>), 
+or agouti (+/+) mice (
+<A HREF="#ref21-13">Cleffman, 1963</A>). On addition of sulfhydryl (SH) compounds such as reduced glutathione to the medium, all skin explants could be made to produce 
+yellow pigment which was indistinguishable from naturally occurring yellow pigment. Although all genotypes could be made to produce yellow pigment <I>in vitro</I>, 
+the maximum concentration of SH required to change the developing pigment from black to yellow varied from genotype to genotype. Thus 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> melanocytes required less SH to produce yellow pigment than did 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+melanocytes. The amount required to produce 
+this change, once established, remained constant throughout the growth period <I>in vitro</I>. In contrast skins from mice homozygous for the agouti alleles (+/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855936" target="_blank"><I>A<SUP>w</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A>) 
+exhibited a rhythmic cyclic requirement in the amount of SH required to keep the pigment yellow. Thus during the first 
+days of growth <I>in vitro</I> (period when black tips of hair are being made) a high level of SH was required equal to that seen in 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> 
+mice. During the period when yellow pigment would be produced less SH was required and after this the requirement 
+increased again as the cells attempted to synthesize black pigment.
+
+<P><B><I>Pink-eyed dilution locus.</I></B>
+
+<P>Mice homozygous for pink-eyed dilution (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>), 
+have markedly reduced pigmentation in the hair and eyes (
+<a href="javascript:windowf2101h = window.open('../figures/figure21-1H.shtml', 'windowf2101h', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2101h.focus()">Figure 21-1<I>H</I></A>). 
+This gene reduces the activity of tyrosinase as measured by incorporation studies (
+<A HREF="#ref21-29">Fitzpatrick and Kukita, 1959</A>; 
+<A HREF="#ref21-16">Coleman, 1962</A>) and histochemical studies (
+<A HREF="#ref21-84">Russell and Russell, 1948</A>). In contrast Foster (
+<A HREF="#ref21-31">1959</A>, 
+<A HREF="#ref21-32">1963</A>), using the manometric method with both tyrosine and DOPA as substrates, found that this allele greatly enhanced the enzyme activity over 
+that seen in wild-type (+/+) mice. This increased oxygen uptake does not measure the amount of pigment formed as do the other methods and may represent nonspecific 
+tyrosine or DOPA oxidases which are not involved in pigment formation per se but which in fact compete for substrates and thus prevent normal pigment synthesis. 
+Studies on the fine structure (see later section) suggest that pink-eye prevents the normal cross-linking seen between parallel fibers within pigment granules. 
+Just how this will correlate with the biochemical action is at present unknown.
+
+<P><B><I>Other loci.</I></B>
+
+<P>Other genes affecting pigmentation, such as ruby-eye (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2181763" target="_blank"><I>ru</I></A>), leaden (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>) and dilute (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>), 
+have also been studied with respect to tyrosinase activity. Briefly, mice homozygous for ruby-eye (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2181763" target="_blank"><I>ru</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2181763" target="_blank"><I>ru</I></A>) 
+have slightly decreased tyrosinase activity. This may be related to the delay in development of the granule as seen morphologically. Leaden mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>) 
+have normal tyrosinase activities as do dilute mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>). 
+Both these genes have the effect of diluting visible pigmentation by causing an abnormal clumping of a normal number of granules.
+
+<P><B>Effect of pigment genes on other enzymes</B>
+
+<P>Although the dilute locus has no direct effect on tyrosinase it has been shown to reduce the activity of phenylalanine hydroxylase, which converts phenylalanine to tyrosine (
+<A HREF="#ref21-16">Coleman, 1960</A>). In mice homozygous for the dilute allele (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>) 
+the phenylalanine hydroxylase activity is reduced 30 to 50 per cent when compared with congenic nondilute (+/+) mice. The activity of this 
+enzyme is reduced still further (85 per cent) in mice homozygous for the dilute lethal allele (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>). This decrease is not caused by an enzyme deficiency but instead by abnormal production of an inhibitor of phenylalanine 
+hydroxylase associated with the microsomal fraction of liver homogenates. Neither the inhibitor nor the enzyme is present in newborn mice (
+<A HREF="#ref21-68">Rauch and Yost, 1963</A>) but both develop in the first 3 weeks of postnatal life in both dilute and nondilute genotypes. However, in normal 
+mice (+/+) the production of the inhibitor stops between the second and third week and the amount of inhibitor decreases to adult levels. This disappearance in 
+inhibitor permits an increase in the effective concentration <I>in vivo</I> of phenylalanine hydroxylase. In dilute mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>) or dilute lethal mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>) 
+the inhibitor concentrations remain high, preventing normal phenylalanine hydroxylase activity <I>in vivo</I> in these dilute genotypes.
+
+<P>This inhibition of phenylalanine hydroxylase activity would be expected to decrease tyrosine levels in adult mice, and thus lack of 
+substrate for the tyrosinase reaction could cause the diluted pigmentation. However, this is not the case, since Russell (
+<A HREF="#ref21-77">1948</A>) established that dilute hairs contain as many pigment granules as do nondilute. Instead the dilution in pigment is related to the clumping 
+of the individual granules. These clumps originate in the follicular melanocytes which are morphologically abnormal in that they lack dendritic processes. 
+The transplantation experiments of Markert and Silvers (
+<A HREF="#ref21-50">1956</A>) indicate that melanocytic differentiation in dilute genotypes begins as early as the ninth day of gestation, prior to the development 
+of either phenylalanine hydroxylase or the inhibitor. This would not necessarily rule out an abnormal concentration of phenylalanine or of its metabolites 
+at some critical period of development as the cause of this abnormal pigmentation. In fact, Wilde (
+<A HREF="#ref21-105">1955</A>) has shown that phenylalanine plays an important role in the differentiation of neural crest derivatives including melanocytes.
+
+<P>Dilute mice, although not actually lacking in phenylalanine hydroxylase, do exhibit some symptoms of the human condition phenylketonuria. Dilute (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>) 
+mice are subject to audiogenic seizures, whereas dilute lethal mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856005" target="_blank"><I>d<SUP>l</SUP></I></A>) 
+have spontaneous convulsive seizures. Both dilute genotypes produce and excrete abnormal amounts of 
+phenylketones and phenylacetic acid which could be toxic to the central nervous system. Kelton and Rauch (
+<A HREF="#ref21-40">1962</A>) have demonstrated myelin degeneration in dilute lethal mice, a condition often seen in human phenylketonurics. Thus we see striking 
+phenotypical similarities between human phenylketonuria and dilution in mice even though the genetic defect is quite different.
+
+<P>For the effects of the agouti locus, particularly the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856798" target="_blank"><I>A<SUP>y</SUP></I></A> 
+allele on mouse metabolism, the reader is referred to Chapters 
+<A HREF="chapter5.shtml">5</A>, 
+<A HREF="chapter19.shtml">19</A>, and 
+<A HREF="chapter26.shtml">26</A>.
+
+<P><B>ULTRASTRUCTURE OF PIGMENT GRANULES</B>
+
+<P>The fine structure of the developing pigment granule in the mouse eye has been studied extensively by Moyer (
+<A HREF="#ref21-56">1959</A>, 
+<A HREF="#ref21-57">1960</A>, 
+<A HREF="#ref21-58">1961</A>, 
+<A HREF="#ref21-59">1963</A>). Electron microscopy has revealed that melanogenesis progresses in a definite sequence which can be interrupted or mediated by the action of genes (
+<A HREF="#ref21-88">Seiji <I>et al.</I>, 1963</A>; Moyer, 
+<A HREF="#ref21-58">1961</A>, 
+<A HREF="#ref21-59">1963</A>). The same general pattern of development of the melanosome was observed for all genotypes studied. In the earliest stage (stage 1), 
+thin unit fibers aggregate to form compound fibers within a membranous boundary. The shape of the melanosome develops as these fibers cross-link and 
+become oriented parallel to each other (stage 2). When this orientation is complete, melanin is deposited on this matrix at definite sites along these fibers 
+(stage 3). As this deposition continues the details of the matrix are obscured by the electron-dense melanin (stage 4). This last stage represents the typical 
+mature melanin granule as seen through the light microscope.
+
+<P>Closer examination revealed that the compound fibers within the melanosome (stage 2) show a primary or first-order periodicity of approximately 65 to 85 &#197;. 
+This measurement varies slightly with the genotype. As the melanin is deposited at discrete sites along these fibers, a second-order periodicity is conferred 
+on the fiber which is controlled by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> locus.
+
+<P><B>Genetic variation in retinal melanosomes</B>
+
+<P>Of the six genetic loci studied by Moyer, only the albino (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A>), brown (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A>), and pink-eyed dilution (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>) 
+loci were found to affect 
+the fine structure of the developing melanosome. The dilute (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>) and leaden (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A>) 
+loci although not altering the fine structure or tyrosinase activity of the melanosome do affect the clumping of granules. Although these two 
+genes closely mimic each other in most respects, no clumping of retinal melanosomes was observed in mice homozygous for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856674" target="_blank"><I>ln</I></A> 
+whereas clumping was seen for dilute (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A>) 
+homozygotes. Similarly the dilute locus affects phenylalanine hydroxylase whereas leaden does not, suggesting that these two loci effect 
+their action by different means. The gene ruby-eye (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2181763" target="_blank"><I>ru</I></A>) 
+was also without effect on the size, shape, or fine structure of the melanosome, but instead seemed to delay the onset of pigmentation.
+
+<P>Mice homozygous for the recessive allele brown (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>) 
+when compared with the black (+/+) mice revealed differences in size, shape, and fine structure of the melanin granule. The melanin 
+in mature brown granules as seen with the electron microscope was flocculent, coarsely granular, and often the underlying matrix could still be distinguished. 
+In contrast, the melanin of black granules was finely granular and completely obscured the underlying matrix in mature granules. The shape of the brown 
+granules usually was oval to spherical, whereas black granules varied from long rods to spheres but most were oval or rod-shaped. Brown granules were in 
+general smaller but considerable variation was seen in these retinal preparations. In stage-3 granules, when melanin was just beginning to be deposited, 
+second-order periodicity was observed which in black granules was in the order of 200 &#197; whereas in brown granules it was only 113 &#197;. The first-order 
+periodicity seen in all granules remained unchanged. This second-order periodicity was interpreted to represent the active state of the enzyme tyrosinase. 
+Thus the shorter distance between sites in brown granules would predict increased tyrosinase activity in brown tissues compared with those from black. 
+This indeed is the case (see earlier section).
+
+<P>The albino (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A>) 
+locus affects the amount of melanin within the granule as well as the size and shape of the granule. Biochemical evidence suggests 
+that it controls the structure of the enzyme tyrosinase. In albino mice (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855976" target="_blank"><I>c</I></A>) 
+the initial sequence of melanosome development is unaltered but no pigment is ever deposited on the thickened (stage-2) fibers, suggesting 
+nonfunctional tyrosinase. Since there is no melanization of these fibers no second order periodicity was observed so no judgment could be made regarding 
+whether the nonfunctional tyrosinase was present on these fibers. In mice homozygous for the alleles which do allow pigmentation (+/+, 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A>, and 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855979" target="_blank"><I>c<SUP>h</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855979" target="_blank"><I>c<SUP>h</SUP></I></A>) 
+normal second-order periodicity was seen and its magnitude was related only to the allele present at the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus. In all cases the resulting mature granules were normal with respect to size and number. However, in mice homozygous for the allele extreme dilution (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855978" target="_blank"><I>c<SUP>e</SUP></I></A>) 
+the granules were smaller in size and fewer in number.
+
+<P>A study of melanosomes from pink-eyed dilution homozygotes (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>) 
+revealed that early in development the fibers of melanosomes do not become arranged in the orderly parallel fashion. Also much less cross-linking 
+is seen. This leads to a mature granule smaller in size and extremely irregular in shape. Although the lack of orientation of the fiber matrix makes it difficult 
+to assess the granularity of the melanin deposited, occasional melanosomes are found in which at least part of the matrix is fairly well oriented. A study of 
+melanin in these areas shows that the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A> 
+locus does not affect the granularity of the melanin as determined by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus nor is the second-order periodicity altered from what would be predicted.
+
+<P><B>COLOR MOSAICISM</B>
+
+<P>Aside from nongenetic changes in coat color, a coat having phenotypically distinct pigment areas or variegated (mottled) coat is indicative of 
+(1) genetic change within a genome, (2) chimerism from polar body retention or fusion of zygotes, or (3) activity of a chromosome, part of a chromosome, or 
+gene alternating with that of its homologue in given parts of the integument. The possible genetic causes of mosaicism in mice are reviewed by Gr&#252;neberg (
+<A HREF="#ref21-35">1952</A>), and Russell (
+<A HREF="#ref21-81">1964</A>), in mammals by Robinson (
+<A HREF="#ref21-75">1957</A>), and in somatic cells of mammals by Klein (
+<A HREF="#ref21-42">1963</A>). Color mosaics are theorized by Robinson (
+<A HREF="#ref21-75">1957</A>) to be a result of (1) somatic gene mutation, (2) gross chromosome change, or (3) cellular dynamics. Gross chromosome 
+changes include nondisjunction, deletion, inversion, duplication, and trisomy; cellular dynamics include somatic crossing over, somatic 
+reduction, and redistribution of chromosomes. Mosaics may be somatic, somatic-gonadal, or gonadal type but are most often somatic. Robinson (
+<A HREF="#ref21-75">1957</A>) could find 32 cases of color mosaic mice reported in the literature. Of these, 10 were known to involve the gonad.
+
+<P>Wolfe (
+<A HREF="#ref21-106">1963</A>) described an unusual type of mosaic mouse. An apparent allele of pink-eyed dilution spontaneously reverts with relatively high 
+frequency (0.2 to 0.3 per cent in homozygotes) to wild type. Mosaic mice varied from those having a few dark hairs at only one place on the body to 
+heavily mottled animals, the latter usually somatic-gonadal type. Eye color in mottled mice ranged from pink eye to full color, 
+and often showed bilateral asymmetry. Russell and Major (
+<A HREF="#ref21-82a">1956</A>) reported a similar type of mosaicism involving the mutant gene pearl (
+<I>pe</I>), which is unstable on strain 101 background but stable on C3H background.
+
+<P>Mice having wild-type patches of pigmented hairs are often observed in color mutants. Schaible and Gowen (
+<A HREF="#ref21-86">1960</A>) for example reported an incidence of mosaics of 6 per cent for heterozygotes of white (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>), 
+10 per cent for heterozygotes of Ames dominant spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856256" target="_blank"><I>W<SUP>a</SUP></I></A>), 
+and 96 per cent for heterozygotes of varitint-waddler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A>) 
+mice in their colony. These ordinarily involve somatic tissue only.
+
+<P>Color mosaicism has been induced by chemical mutagens (Strong, 
+<A HREF="#ref21-100">1947</A>, 
+<A HREF="#ref21-101">1948</A>) and radiation (
+<A HREF="#ref21-82">Russell and Major, 1957</A>; 
+<A HREF="#ref21-85">Schaible, 1963</A>). Russell and Major (
+<A HREF="#ref21-82">1957</A>) X-irradiated 10&#188; day fetuses of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855960" target="_blank"><I>b</I></A>/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A>/+ + 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856004" target="_blank"><I>d</I></A> 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856150" target="_blank"><I>se</I></A>/+ + 
+from the cross C57BL x NB with 100 or 150 R. Controls consisted of irradiated fetuses of C57BL x C57BL matings, 
+which were homozygous wild-type for the four color loci under study, and non-irradiated offspring of both types of mating. After correcting for mosaic animals 
+observed in the three types of controls, the frequency of expression of recessive at one or another of the four coat color loci was calculated to be 10.1 per cent 
+for the 100 R group (235 mice irradiated). Spots were randomly distributed and a single mutational event was postulated in each instance. None had mosaic eyes. 
+The most conservative explanation is somatic mutation or deletion at the loci studied (
+<A HREF="#ref21-82">Russell and Major, 1957</A>). The spotting observed in progeny of C57BL x NB matings differed from the small white spots which were always midventral 
+and which were found only in irradiated fetuses of C57BL x C57BL matings. The significant increase in midventral spotting was interpreted to mean that irradiation 
+killed some of the prospective pigment cells. Schaible (
+<A HREF="#ref21-85">1963</A>) X-rayed mouse embryos of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856088" target="_blank"><I>Mi<SUP>wh</SUP></I></A>/+ 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856473" target="_blank"><I>bt</I></A>/+ 
+ranging in age from &#189; to 11&#189; days in 1-day increments. There was a significant increase in number of mosaics in 2&#189;- and 10&#189;-day stages.
+
+<P>One type of mosaicism can be explained on the basis of the X-chromosome inactivation hypothesis (
+<A HREF="#ref21-48">Lyon, 1961</A>). According to this hypothesis only one X chromosome or part of the X chromosome (
+<A HREF="#ref21-80">Russell, 1963</A>) is active in any one somatic cell. Inactivation is random, occurs early in embryonic development, and give rise to clones 
+of cells in alternate states of genic activity. Thus females heterozygous for X chromosome-linked pigment genes (see 
+<a href="javascript:windowf2102g = window.open('../figures/figure21-2G.shtml', 'windowf2102g', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102g.focus()">Figure 21-2<I>G</I></A>) 
+or for pigment genes located in autosomal segments translocated to the X chromosome (see 
+<a href="javascript:windowf2102h = window.open('../figures/figure21-2H.shtml', 'windowf2102h', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102h.focus()">Figure 21-2<I>H</I></A>) 
+exhibit varied degrees of mosaicism. Eight different translocations to the X chromosome have been reported to date. 
+Seven of these have been translocations of linkage group I and the other involves linkage group VIII (
+<A HREF="#ref21-80">Russell, 1963</A>). Details concerning chromosome structure and behavior of X-chromosome inactivation mosaics can be found in Chapters 
+<A HREF="chapter7.shtml">7</A> and 
+<A HREF="chapter15.shtml">15</A>. The mechanism appears to be the same as that for sex-linked semidominant genes (usually lethal in the homozygote). 
+In these, for example tortoise (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856101" target="_blank"><I>To</I></A>) (
+<a href="javascript:windowf2102g = window.open('../figures/figure21-2G.shtml', 'windowf2102g', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102g.focus()">Figure 21-2<I>G</I></A>), 
+the heterozygous female has alternate patches of black and yellow hairs (
+<A HREF="#ref21-21">Dickie, 1954</A>), the particular color presumably depending on which X chromosome is active in a given part of the integument.
+
+<P>A type of variegation that resembles the X-chromosome inactivation mosaic but which is not X-linked is varitint-waddler (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856230" target="_blank"><I>Va</I></A>, 
+linkage group XVI). The coat of varitint-waddler mice of genotype 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A>/
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1855937" target="_blank"><I>a</I></A> (
+<a href="javascript:windowf2102f = window.open('../figures/figure21-2F.shtml', 'windowf2102f', 'width=500,height=400,resizable=yes,scrollbars=yes'); windowf2102f.focus()">Figure 21-2<I>F</I></A>) 
+has alternate areas of black, dilute (grey), and white (
+<A HREF="#ref21-14">Cloudman and Bunker, 1945</A>). The cause of this mosaicism is not known.
+
+<P><B>QUANTITATIVE INHERITANCE</B>
+
+<P>In addition to named pigment genes there are many individually unidentified genes that modify or have slight effects on color or spotting. 
+One has only to witness the expression of a given "spotting gene" on different inbred strain backgrounds to be convinced of this. The most 
+thoroughly studied of the so-called modifying genes are the "<I>k</I> complex" and the "<I>m(W)</I> complex," affecting pattern and amount of white in piebald spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A>) and dominant spotting (
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856232" target="_blank"><I>W</I></A>) 
+respectively, investigated extensively by L.C. Dunn and his associates (Dunn, 
+<A HREF="#ref21-25">1937</A>, 
+<A HREF="#ref21-26">1942</A>; 
+<A HREF="#ref21-27">Dunn and Charles, 1937</A>; 
+<A HREF="#ref21-28">Dunn <I>et al.</I>, 1937</A>; 
+<A HREF="#ref21-6">Charles, 1938</A>). An excellent account of their work is given by Gr&#252;neberg (
+<A HREF="#ref21-35">1952</A>). The modifying genes, some of which in the "k complex" are spotting genes in their own right, have small cumulative 
+effects on amount of white and appear to exhibit a threshold effect. Divergent sublines obtained by selection and homozygous for 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1856148" target="_blank"><I>s</I></A> 
+were nearly all-white but with black eyes or nearly full-colored at the other extreme.
+
+<P>Essentially the same phenomenon has been observed during selection for increased amounts of white hair starting from a heterogeneous 
+stock of nearly full-colored mice in experiments initiated in 1931 by Goodale, discontinued, then begun again by Kyle. Approximately two-thirds 
+of the coat of mice of the selected population is white and some individuals reached the phenotypic limit of black-eyed white in 
+the eighth generation of continued selection (
+<A HREF="#ref21-43">Kyle and Goodale, 1963</A>).
+
+<P>Though studies of genetic modifiers and of polygenic nature of small variations in coat color have added to our understanding of pigmentation, 
+the great progress made in the genetics and physiology of mammalian pigmentation is directly attributable to the occurrence of different kinds of 
+coat color mutations in mice and to their general availability in inbred strains. Thus gene action may be studied in a single 
+cell type that is nearly autonomous. Also as Russell (
+<A HREF="#ref21-76">1946</A>) pointed out the path between primary gene action and character must be relatively short in pigment formation.
+
+<P><B>SUMMARY</B>
+
+<P>Most of what is known of genetic and physiological control of pigmentation in mammals has come from studies of named pigment genes in the mouse. 
+With a variety of techniques the biochemistry and morphogenesis of a single cell type, the pigment cell, and its unique product, melanin, have been studied.
+
+<P>The source of all pigment in mice is a specialized pigment cell, the melanocyte. Two basic types of melanin are elaborated, eumelanin (black or brown) 
+and phaeomelanin (yellow). Melanin forms as granules and remains within the melanocyte or is incorporated into developing hair cells. Melanocytes have two 
+embryonic origins, the neural crest and wall of the optic cup. Melanocytes differentiating from neural crest (dendritic type) usually become associated with 
+skin and hair follicle and less frequently with connective tissue of a great variety of organs. Melanocytes differentiating from the optic cup (nondendritic 
+type) are found only in the retinal epithelium.
+
+<P>It has been possible with many color mutants to distinguish between two alternative modes of gene action by transplantation of embryonic tissue or 
+undifferentiated skin to hosts of unlike color genotype, <I>i.e.</I>, whether the site of gene action is within, or outside, the melanoblast. The production 
+of phaeomelanin in hair follicles is dependent on follicular environment of the melanocytes under the control of agouti-series alleles. Gene action at other 
+loci studied resides within the melanoblast and fine-structure analysis of some of these have revealed differences in periodicity of synthetic sites of 
+melanin or organization of the protein matrix in the developing melanocyte (melanosome). It is more difficult to trace the pathway between primary gene 
+product and effect in those color mutants whose phenotype is a function of cells surrounding the melanocyte. Melanocytes of hair follicles that normally 
+produce eumelanin when cultured <I>in vitro</I> can experimentally be made to produce phaeomelanin on addition of sulfhydryl compounds to the culture medium. 
+The type of pigment produced <I>in situ</I> is associated with mitotic rate in the hair bulb. These findings have contributed significantly to our understanding 
+of, but do not yet define gene action at, the agouti locus.
+
+<P>It is generally agreed that melanocytes in white spotted areas of mutant mice are either absent, undifferentiated, or abnormally differentiated. Since genes 
+causing white spotting may act at any stage from differentiation of melanoblasts from neural crest, through migration, to their differentiation into melanocytes 
+at defined sites, the problem becomes one of placing time of gene action and of assessing relative importance of melanoblast and melanoblast-environment. In 
+some types of white spotting, neural crest disturbance probably interferes with the differentiation of melanoblasts from crest cells or the migration of melanoblasts. 
+There is experimental evidence for the presence of amelanotic melanocytes in white spotted areas of some mutants and equal evidence for their absence in white 
+spotted areas of other mutants. In one belted mutant melanocytes have been demonstrated by tissue transplants in the vicinity of hair follicles in prospective 
+white areas of fetal skin. Either the melanoblasts fail to survive and differentiate or are unable to gain entrance into developing hair follicles.
+
+<P>Variegated spotting (mottling) is related in some cases to an active state of one X chromosome (or part of the X chromosome) and to inactivity of its 
+homologue in given parts of the integument. Thus a female mouse heterozygous for a pigment gene located on the X chromosome may show at least two alternative types of pigment.
+
+<P>Biochemical studies suggest that the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A> 
+locus controls the structure of tyrosine and that the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus alters the amount of tyrosinase deposited on the fibers in a pigment granule. In the process the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus must also alter the shape of the mature granule. Possibly subunits of the protein controlled by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus make up the parallel fibers seen in early melanosomes and bind the product of the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98880" target="_blank"><I>c</I></A> 
+locus (tyrosinase) in a certain fixed ratio. Since brown skins have more tyrosinase activity than black skins and approximately the same number of granules, 
+it appears that the protein produced by the 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:98881" target="_blank"><I>b</I></A> 
+locus, as well as providing a structural framework for the attachment of the tyrosinase molecules, also influences the activity of these molecules, 
+and this in turn must alter the final molecular structure of the melanin synthesized. The 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:97454" target="_blank"><I>p</I></A> 
+locus appears to control the protein which provides the cross-linkages seen in the early melanosomes. This cross-linkage is basic to the structure of the 
+final granule and probably influences tyrosinase activity in many ways.
+
+<HR>
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The writing of this chapter was supported in part by Public Health Service Research Grants CA 01074 and CA 05873 from the 
+National Cancer Institute, by Contract AT(30-1)-1800 from the U.S. Atomic Energy Commission, and by Grant E-76 from the American Cancer Society.
+<HR>
+
+<CENTER>
+<P><B>LITERATURE CITED</B>
+</CENTER>
+
+<A NAME="ref21-1"></A>
+<P>Billingham, R.E., and P.B. Medawar. 1948. 
+Pigment spread and cell heredity in guinea pigs' skin. 
+Heredity <B>2:</B> 29-47.
+
+
+<A NAME="ref21-2"></A>
+<P>Billingham, R.E., and W.K. Silvers. 1960. 
+The melanocytes of mammals. 
+Quart Rev. Biol. <B>35:</B> 1-40.
+<!-- MGI:63159 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:63159" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-3"></A>
+<P>Bloch, B. 1947. 
+Das Pigment. 
+Handbuch der Haut- und Geschlechtskrankheiten <B>1 (1):</B> 434-541.
+
+
+<A NAME="ref21-4"></A>
+<P>Castle, W.E., and G.M. Allen. 1903. 
+The heredity of albinism. 
+Proc. Amer. Acad. Arts Sci. <B>38:</B> 603-622.
+
+
+<A NAME="ref21-5"></A>
+<P>Cattanach, B.M. 1961. 
+A chemically-induced variegated-type position effect in the mouse. 
+Z. Vererb. <B>92:</B> 165-182.
+<!-- 13877379 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13877379" target="_blank">PubMed</A>.</I>
+
+
+<A NAME="ref21-6"></A>
+<P>Charles, D.R. 1938. 
+Studies on spotting patterns. IV. Pattern variation and its developmental significance. 
+Genetics <B>23:</B> 523-547.
+<!-- 17246899 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17246899" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-7"></A>
+<P>Chase, H.B. 1949. 
+Greying of hair. I. Effects produced by single doses of X-rays on mice. 
+J. Morphol. <B>84:</B> 57-80.
+
+
+<A NAME="ref21-8"></A>
+<P>Chase, H.B. 1954. 
+Growth of the hair. 
+Physiol. Rev. <B>34:</B> 113-126.
+
+
+<A NAME="ref21-9"></A>
+<P>Chase, H.B. 1958. 
+The behavior of pigment cells and epithelial cells in the hair follicle, p. 229-237. 
+<I>In</I> W. Montagna and R.A. Ellis [ed.] <I>The Biology of Hair Growth</I>. Academic Press, New York.
+
+
+<A NAME="ref21-10"></A>
+<P>Chase, H.B., and S.J. Mann. 1960. 
+Phenogenetic aspects of some hair and pigment mutants. 
+J. Cell. Comp. Physiol. <B>56:</B> 103-111.
+<!-- 13692544 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13692544" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-11"></A>
+<P>Chase, H.B., and H. Rauch. 1950. 
+Greying of hair. II. Response of individual hairs in mice to variations in X-radiation. 
+J. Morphol. <B>87:</B> 381-391.
+
+
+<A NAME="ref21-12"></A>
+<P>Chase, H.B., H. Rauch, and V.W. Smith. 1951. 
+Critical stages of hair development and pigmentation in the mouse. 
+Physiol. Zool. <B>24:</B> 1-10.
+<!-- 14807718 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14807718" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-13"></A>
+<P>Cleffman, G. 1963. 
+Agouti pigment cells <I>in situ</I> and <I>in vitro</I>. 
+Ann. N.Y. Acad. Sci. <B>100:</B> 749-760.
+
+
+<A NAME="ref21-14"></A>
+<P>Cloudman, A.M., and L.E. Bunker. 1945. 
+The varitint-waddler mouse. A dominant mutation in <I>Mus musculus</I>.
+J. Hered. <B>36:</B> 259-263.
+<!-- MGI:61341 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61341" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-15"></A>
+<P>Coleman, D.L. 1960. 
+Phenylalanine hydroxylase activity in dilute and non-dilute strains of mice. 
+Arch. Biochem. Biophys. <B>91:</B> 300-306.
+<!-- 13694597 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13694597" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-16"></A>
+<P>Coleman, D.L. 1962. 
+Effect of genic substitution on the incorporation of tyrosine into the melanin of mouse skin. 
+Arch. Biochem. Biophys. <B>96:</B> 562-568.
+<!-- MGI:60423 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60423" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-17"></A>
+<P>Cu&#233;not, L. 1902. 
+La loi de Mendel et l'h&#233;r&#233;dit&#233; de la pigmentation chez la souris. 
+Arch. Zool. Exp. G&#233;n., 3e S&#233;r. <B>10:</B> 27-30.
+
+
+<A NAME="ref21-18"></A>
+<P>Danneel, R., and G. Cleffman. 1954. 
+Die Einwnaderung per Pigmentzellen in die Haut und die Haare bei Nagetieren. 
+Biol. Zentrabl. <B>73:</B> 414-428.
+
+
+<A NAME="ref21-19"></A>
+<P>Danneel, R., and H. Schumann. 1961. 
+&#220;ber die Entstehung und Vererbung des Blesse bei M&#228;usen. 
+Z. Vererb. <B>92:</B> 69-73.
+
+
+<A NAME="ref21-20"></A>
+<P>Deol, M.S. 1963. 
+Inheritance of coat color in laboratory rodents, p. 177-196. 
+<I>In</I> Lane-Petter [ed.] <I>Animals for Research. Principles of Breeding and Management</I>. Academic Press, London.
+
+
+<A NAME="ref21-21"></A>
+<P>Dickie, M.M. 1954. 
+The tortoise shell house mouse. 
+J. Hered. <B>45:</B> 158-159.
+<!-- MGI:72704 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:72704" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-22"></A>
+<P>Dickie, M.M. 1962. 
+A new viable yellow mutation in the house mouse. 
+J. Hered. <B>53:</B> 84-88.
+<!-- MGI:61289 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61289" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-23"></A>
+<P>Dry, F.W. 1926. 
+The coat of the mouse (<I>Mus musculus</I>). 
+J. Genet. <B>16:</B> 287-340.
+
+
+<A NAME="ref21-24"></A>
+<P>Dry, F.W. 1928. 
+The agouti coloration of the mouse (<I>Mus musculus</I>) and the rat (<I>Mus norvegicus</I>). 
+J. Genet. <B>20:</B> 131-144.
+<!-- MGI:1202343 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:1202343" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-25"></A>
+<P>Dunn, L.C. 1937. 
+Studies on spotting patterns. II. Genetic analysis of variegated spotting in the house mouse. 
+Genetics <B>22:</B> 43-64.
+<!-- MGI:61169 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61169" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-26"></A>
+<P>Dunn, L.C. 1942. 
+Studies of spotting patterns. V. Further analysis of minor spotting genes in the house mouse. 
+Genetics <B>27:</B> 258-267.
+<!-- 17247039 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247039" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-27"></A>
+<P>Dunn, L.C., and D.R. Charles. 1937. 
+Studies on spotting patterns. I. Analysis of quantitative variations in the pied spotting of the house mouse. 
+Genetics <B>22:</B> 14-42.
+<!-- MGI:61166 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61166" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-28"></A>
+<P>Dunn, L.C., E.C. MacDowell, and G.A. Lebedeff. 1937. 
+Studies on spotting patterns. III. Interaction between genes affecting white spotting and those affecting color in the house mouse. 
+Genetics <B>22:</B> 307-318.
+<!-- MGI:61168 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61168" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-29"></A>
+<P>Fitzpatrick, T.B., and A. Kukita. 1959. 
+Tyrosinase activity in vertebrate melanocytes, p. 489-524. 
+<I>In</I> M. Gordon [ed.] <I>Pigment Cell Biology. Proc. Fourth Conf. Biol. Normal and Atypical Pigment Cell Growth</I>. Academic Press, New York.
+
+
+<A NAME="ref21-30"></A>
+<P>Foster, M. 1951. 
+Enzymatic studies of pigment-forming abilities in mouse skin. 
+J. Exp. Zool. <B>117:</B> 211-246.
+
+
+<A NAME="ref21-31"></A>
+<P>Foster, M. 1959. 
+Physiological studies of melanogenesis, p. 301-314. 
+<I>In</I> M. Gordon [ed.] <I>Pigment Cell Biology. Proc. Fourth Conf. Biol. Normal and Atypical Pigment Cell Growth</I>. Academic Press, New York.
+
+
+<A NAME="ref21-32"></A>
+<P>Foster, M. 1963. 
+Discussion of paper, tactics in pigment-cell research, p. 336-343. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+
+<A NAME="ref21-33"></A>
+<P>Galbraith, D.B. 1964. 
+The agouti pattern of the mouse: a quantitative and experimental study. 
+J. Exp. Zool. <B>155:</B> 71-89.
+<!-- 14118842 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14118842" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-34"></A>
+<P>Goldschmidt, R.B. 1958. 
+<I>Theoretical Genetics</I>, p. 393-400. 
+University of California Press, Berkeley.
+
+
+<A NAME="ref21-35"></A>
+<P>Gr&#252;neberg, H. 1952. 
+<I>The Genetics of the Mouse</I>. 
+Nijhoff, The Hague. 300 p.
+
+
+<A NAME="ref21-36"></A>
+<P>Gr&#252;neberg, H. 1963. 
+<I>The Pathology of Development</I>, p. 2-4, 17. Wiley, New York.
+
+
+<A NAME="ref21-37"></A>
+<P>Gr&#252;neberg, H., and G.M. Truslove. 1960. 
+Two closely linked genes in the mouse. 
+Genet. Res. <B>1:</B> 69-90.
+<!-- MGI:48639 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:48639" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-38"></A>
+<P>Hadorn, E. 1961. 
+<I>Developmental Genetics and Lethal Factors</I>, p. 50, 182-271, 259-270. 
+Wiley, New York.
+
+
+<A NAME="ref21-39"></A>
+<P>Kaliss, N. 1942. 
+The morphogenesis of pigment in the hair follicles of the house mouse. 
+J. Morphol. <B>70:</B> 209-218.
+
+
+<A NAME="ref21-40"></A>
+<P>Kelton, D.E., and H. Rauch. 1962. 
+Myelination and myelin degeneration in the central nervous system of dilute-lethal mice. 
+Exp. Neurol. <B>6:</B> 252-262.
+<!-- 14031850 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14031850" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-41"></A>
+<P>Kim, K., and T.T. Tchen. 1962. 
+Tyrosinase of the goldfish <I>Carassius auratus</I> L. I. Radio-assay and properties of the enzyme. 
+Biochim. Biophys. Acta <B>59:</B> 569-576.
+<!-- 14455967 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14455967" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-42"></A>
+<P>Klein, G. 1963. 
+Genetics of somatic cells, p. 407-468. 
+<I>In</I> W.J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+<A NAME="ref21-43"></A>
+<P>Kyle, W.H., and H.D. Goodale. 1963. 
+Selection progress toward and absolute limit for amount of white hair on mice. p. 154-155. 
+<I>In</I> S.J. Geerts [ed.] <I>Proc. XI Int. Congr. Genet. Vol. 1</I>. Pergamon Press, New York. (Abstr.)
+
+<A NAME="ref21-44"></A>
+<P>Lerner, A.B., and T.B. Fitzpatrick. 1950. 
+Biochemistry of melanin formation. 
+Physiol. Rev. <B>30:</B> 91-126.
+<!-- 15403662 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->15403662" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-45"></A>
+<P>Little, C.C. 1913. 
+<I>Experimental Studies of the Inheritance of Color in Mice</I>. 
+Publ. Carnegie Inst. No. <B>179:</B> 13-102.
+
+<A NAME="ref21-46"></A>
+<P>Little, C.C. 1958. 
+Coat color genes in rodents and carnivores. 
+Quart. Rev. Biol. <B>33:</B> 103-137.
+<!-- 13568021 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13568021" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-47"></A>
+<P>Loosli, R. 1963. 
+Tanoid &#151; a new agouti mutant in the house mouse. 
+J. Hered. <B>54:</B> 26-29.
+<!-- MGI:61291 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61291" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-48"></A>
+<P>Lyon, M.F. 1961. 
+Gene action in the X-chromosome of the mouse (<I>Mus musculus</I> L.). 
+Nature <B>190:</B> 372-373.
+<!-- MGI:71836 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:71836" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-49"></A>
+<P>Markert, C.L. 1960. 
+Biochemical embryology and genetics. 
+Nat. Cancer Inst. Monogr. <B>2:</B> 3-12.
+<!-- MGI:64771 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:64771" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-50"></A>
+<P>Markert, C.L., and W.K. Silvers. 1956. 
+The effects of genotype and haiur environment on melanoblast differentiation in the house mouse. 
+Genetics <B>41:</B> 429-450.
+<!-- MGI:61184 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61184" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-51"></A>
+<P>Markert, C.L., and W.K. Silvers. 1959. 
+Effects of genotype and cellular environment on melanocyte morphology, p. 241-248. 
+<I>In</I> M. Gordon [ed.] <I>Pigment Cell Biology. Proc. Fourth Conf. Biol. Normal and Atypical Pigment Cell Growth</I>. Academic Press, New York.
+
+
+<A NAME="ref21-52"></A>
+<P>Mason, H.S. 1955. 
+Comparative biochemistry of the phenolase complex. 
+Adv. Enzymol. <B>16:</B> 105-184.
+<!-- 14376212 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14376212" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-53"></A>
+<P>Mason, H.S. 1959. 
+Structure of melanins, p. 563-582. 
+<I>In</I> M. Gordon [ed.] <I>Pigment Cell Biology. Proc. Fourth Conf. Biol. of Normal and Atypical Pigment Cell Growth</I>. Academic Press, New York.
+
+
+<A NAME="ref21-54"></A>
+<P>Mayer, T.C., and E.L. Maltby. 1964. 
+An experimental investigation of pattern development in lethal spotting and belted mouse embryos. 
+Develop. Biol. <B>9:</B> 269-286.
+<!-- MGI:60945 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:60945" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-55"></A>
+<P>Mayer, T.C., and W.M. Reams, Jr. 1962. 
+An experimental analysis and description of the melanocytes in the leg musculature of the PET strain of mice. 
+Anat. Rec. <B>142:</B> 431-441.
+<!-- 14471719 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14471719" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-56"></A>
+<P>Moyer, F.H. 1959. 
+The fine structure of the developing melanin granule. 
+Anat. Rec. <B>134:</B> 612. (Abstr.)
+
+
+<A NAME="ref21-57"></A>
+<P>Moyer, F.H. 1960. 
+Some effect of pigment mutations on the fine structure of mouse melanin granules. 
+Anat. Rec. <B>138:</B> 372 (Abstr.)
+
+
+<A NAME="ref21-58"></A>
+<P>Moyer, F.H. 1961. 
+Electron microscope studies on the origin, development, and genetic control of melanin granules in the mouse eye, p. 469-486. 
+<I>In</I> G.K. Smelser [ed.] <I>The Structure of the Eye</I>. Academic Press, New York.
+
+
+<A NAME="ref21-59"></A>
+<P>Moyer, F.H. 1963. 
+Genetic effects on melanosome fine structure and ontogeny in normal and malignant cells. 
+Ann. N.Y. Acad. Sci. <B>100:</B> 584-606.
+
+
+<A NAME="ref21-60"></A>
+<P>Nachmias, V.T. 1959. 
+Tryptophan oxidation by yellow mouse skin. 
+Proc. Soc. Exp. Biol. Med. <B>101:</B> 247-250.
+<!-- 13675200 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13675200" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-61"></A>
+<P>Nichols, S.E., Jr., and W.M. Reams, Jr. 1960. 
+The occurrence and morphogenesis of melanocytes in the connective tissues of the PET/MCV mouse strain. 
+J. Embryol. Exp. Morphol. <B>8:</B> 24-32.
+<!-- 14426921 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14426921" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-62"></A>
+<P>Phillips, R.J.S. 1961. 
+Mouse News Letter <B>24:</B> 34.
+
+
+<A NAME="ref21-63"></A>
+<P>Phillips, R.J.S. 1963. 
+Mouse News Letter <B>29:</B> 37-38.
+
+
+<A NAME="ref21-64"></A>
+<P>Pierro, L.J. 1963. 
+Pigment granule formation in slate, a coat color mutant in the mouse. 
+Anat. Rec. <B>146:</B> 365-372.
+<!-- 14058799 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14058799" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-65"></A>
+<P>Pierro, L.J., and H.B. Chase. 1963. 
+Slate &#151; a new coat color mutant in the mouse. 
+J. Hered. <B>54:</B> 46-50.
+<!-- MGI:73117 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:73117" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-66"></A>
+<P>Quevedo, W.C., Jr. 1956. 
+Effect of biotin deficiency on follicular melanocytes of mice. 
+Proc. Soc. Exp. Biol. Med. <B>93:</B> 260-263.
+<!-- 13379481 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13379481" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-67"></A>
+<P>Quevedo, W.C., Jr. 1957. 
+Loss of clear cells in the hair follicles of X-irradiated albino mice. 
+Anat. Rec. <B>127:</B> 725-734.
+
+
+<A NAME="ref21-68"></A>
+<P>Rauch, H., and M.T. Yost. 1963. 
+Phenylalanine metabolism in dilute-lethal mice. 
+Genetics <B>48:</B> 1487-1495.
+<!-- 14083045 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->14083045" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-69"></A>
+<P>Rawles, M.E. 1940. 
+The development of melanophores from embryonic mouse tissues grown in the coelom of chick embryos. 
+Proc. Nat. Acad. Sci. <B>26:</B> 673-680.
+<!-- 16588410 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->16588410" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-70"></A>
+<P>Rawles, M.E. 1947. 
+Origin of pigment cells from the neural crest in the mouse embryo. 
+Physiol. Zool. <B>20:</B> 248-266.
+
+
+<A NAME="ref21-71"></A>
+<P>Rawles, M.E. 1948. 
+Origin of melanophores and their role in development of color patterns in invertibrates. 
+Physiol. Rev. <B>28:</B> 383-408.
+
+
+<A NAME="ref21-72"></A>
+<P>Rawles, M.E. 1953. 
+Origin of the mammalian pigment cell and its role in the pigmentation of hair, p. 1-15. 
+<I>In</I> M. Gordon [ed.] <I>Pigment Cell Growth</I>. Academic Press, New York.
+
+
+<A NAME="ref21-73"></A>
+<P>Reed, S.C. 1938. 
+Determination of hair pigments. III. Proof that expression of the black-and-tan gene is dependent upon tissue organization. 
+J. Exp. Zool. <B>79:</B> 337-346.
+
+
+<A NAME="ref21-73b"></A>
+<P>Reed, S.C., and J.M. Henderson. 1940. 
+Pigment cell migration in mouse epidermis.  
+J. Exp. Zool. <B>85:</B> 409-418.
+
+
+<A NAME="ref21-74"></A>
+<P>Reed, S.C., and G. Sanders. 1937. 
+Time of determination of hair pigments in the mouse. 
+Growth <B>1:</B> 194-200.
+
+
+<A NAME="ref21-75"></A>
+<P>Robinson, R. 1957. 
+Mosaicism in mammals. 
+Genetica <B>29:</B> 120-145.
+<!-- 13548508 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13548508" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-76"></A>
+<P>Russell, E.S. 1946. 
+A quantitative histological study of the pigment found in the coat-color of the house mouse. I. Variable attributes of the pigment granules. 
+Genetics <B>31:</B> 327-346.
+<!-- 17247200 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247200" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-77"></A>
+<P>Russell, E.S. 1948. 
+A quantitative histological study of the pigment found in the coat-color of the house mouse. II. Estimates of the total volume of pigment. 
+Genetics <B>33:</B> 228-236.
+<!-- 17247280 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247280" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-78"></A>
+<P>Russell, E.S. 1949<I>a</I>. 
+A quantitative histological study of the pigment found in the coat-color mutants of the house mouse. III. Interdependence among the variable granule attributes. 
+Genetics <B>34:</B> 133-145.
+<!-- 17247307 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247307" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-79"></A>
+<P>Russell, E.S. 1949<I>b</I>. 
+A quantitative histological study of the pigment found in the coat-color mutants of the house mouse. IV. The nature of the effects of genic substitution in five major allelic series. 
+Genetics <B>34:</B> 146-166.
+<!-- MGI:61172 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61172" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-80"></A>
+<P>Russell, L.B. 1963. 
+Mammalian X-chromosome action: inactivation limited in spread and in region of origin. 
+Science <B>140:</B> 976-978.
+<!-- 13975649 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13975649" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-81"></A>
+<P>Russell, L.B. 1964. 
+Genetic and functional mosaicism in the mouse, p. 153-181. 
+<I>In</I> M. Locke [ed.] <I>The Role of Chromosomes in Development. 23rd Symp. Soc. for the Study of Development and Growth</I>.
+
+
+<A NAME="ref21-82a"></A>
+<P>Russell, L.B., and M.H. Major. 1956. 
+A high rate of somatic reversion in the mouse. 
+Genetics <B>41:</B> 658 (Abstract).
+
+
+<A NAME="ref21-82"></A>
+<P>Russell, L.B., and M.H. Major. 1957. 
+Radiation-induced presumed somatic mutations in the house mouse. 
+Genetics <B>42:</B> 161-175.
+<!-- 17247687 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247687" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-83"></A>
+<P>Russell, L.B., M.N.C. McDaniel, and F.N. Woodiel. 1963. 
+Crossing-over within the <I>a</I> "locus" of the mouse. 
+Genetics <B>48:</B> 907. (Abstr.)
+
+
+<A NAME="ref21-84"></A>
+<P>Russell, L.B., and W.L. Russell. 1948. 
+A study of the physiological genetics of coat color in the mouse by means of the dopa reaction in frozen sections of skin. 
+Genetics <B>33:</B> 237-262.
+<!-- 17247281 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->17247281" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-85"></A>
+<P>Schaible, R.H. 1963. 
+Developmental genetics of spotting patterns in the mouse. Ph.D. Thesis. 
+Iowa State University, Ames.
+<!-- MGI:76425 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:76425" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-86"></A>
+<P>Schaible, R.H., and J.W. Gowen. 1960. 
+Delimitation of coat pigment areas in mosaic and piebald mice. 
+Genetics <B>45:</B> 1010. (Abstr.)
+
+
+<A NAME="ref21-87"></A>
+<P>Schuman, H. 1960. 
+Die Entstehung der Scheckung bei M&#228;usen mit weisser Blesse. 
+Develop. Biol. <B>2:</B> 501-515.
+
+
+<A NAME="ref21-88"></A>
+<P>Seiji, J., K. Simao, M.S.C. Birbeck, and T.B. Fitzpatrick. 1963. 
+Subcellular localization of melanin biosynthesis. Ann. N.Y. Acad. Sci. <B>100:</B> 497-533.
+
+
+<A NAME="ref21-89"></A>
+<P>Silvers, W.K. 1953. 
+Histological distinction between hair follicles of albino and spotted genotypes of the mouse. 
+Genetics <B>38:</B> 691-692.
+
+
+<A NAME="ref21-90"></A>
+<P>Silvers, W.K. 1956<I>a</I>. 
+Pigment cells: occurrence in hair follicles. 
+J. Morphol. <B>99:</B> 41-56.
+<!-- MGI:61301 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61301" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-91"></A>
+<P>Silvers, W.K. 1956<I>b</I>. 
+Pigment cell migration following transplantation. 
+J. Exp. Zool. <B>132:</B> 539-550.
+
+
+<A NAME="ref21-92"></A>
+<P>Silvers, W.K. 1957. 
+Melanoblast differentiation secured from different mouse genotypes after transplantation to adult mouse spleen or chick embryo coelom. 
+J. Exp. Zool. <B>135:</B> 221-238.
+<!-- 13481295 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13481295" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-93"></A>
+<P>Silvers, W.K. 1958<I>a</I>. 
+An experimental approach to action of genes at the agouti locus in the mouse. II. Transplants of newborn <I>aa</I> ventral skin to 
+<I>a<SUP>t</SUP>a</I>, <I>A<SUP>w</SUP>a</I>, and <I>aa</I> hosts. J. Exp. Zool. <B>137:</B> 181-188.
+<!-- 13563790 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13563790" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-94"></A>
+<P>Silvers, W.K. 1958<I>b</I>. An experimental approach to action of genes at the agouti locus in the mouse. III. Transplants of newborn 
+<I>A<SUP>w</SUP></I>-, <I>A</I>-, and <I>a<SUP>t</SUP></I> skin to <I>A<SUP>y</SUP></I>-, <I>A<SUP>w</SUP></I>-, <I>A</I>-, and <I>aa</I> hosts. 
+J. Exp. Zool. <B>137:</B> 189-196.
+<!-- MGI:61226 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61226" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-95"></A>
+<P>Silvers, W.K. 1958<I>c</I>. 
+Origin and identity of clear cells found in hair bulbs of albino mice. 
+Anat. Rec. <B>130:</B> 135-144.
+<!-- MGI:78486 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:78486" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-96"></A>
+<P>Silvers, W.K. 1958<I>d</I>. 
+Pigment spread in mouse skin. 
+J. Exp. Zool. <B>139:</B> 443-457.
+
+
+<A NAME="ref21-97"></A>
+<P>Silvers, W.K. 1961. 
+Genes and the pigment cells of mammals. 
+Science <B>134:</B> 368-373.
+
+
+<A NAME="ref21-98"></A>
+<P>Silvers, W.K. 1963. 
+Tactics in pigment cell research, p. 323-343. 
+<I>In</I> W. J. Burdette [ed.] <I>Methodology in Mammalian Genetics</I>. Holden-Day, San Francisco.
+
+
+<A NAME="ref21-99"></A>
+<P>Silvers, W.K., and E.S. Russell. 1955. 
+An experimental approach to action of genes at the agouti locus in the mouse. 
+J. Exp. Zool. <B>130:</B> 199-220.
+
+
+<A NAME="ref21-100"></A>
+<P>Strong, L.C. 1947. 
+The induction of germinal mutations by chemical means. 
+Amer. Natur. <B>81:</B> 50-59.
+
+
+<A NAME="ref21-101"></A>
+<P>Strong, L.C. 1948. 
+The induction of melanotic tumors and pigmented hair, p. 358-367. 
+<I>In</I> R.W. Miner and M. Gordon [ed.] <I>The Biology of Melanomas</I>. Spec. Pub. N.Y. Acad. Sci. Vol. 4, New York.
+
+
+<A NAME="ref21-102"></A>
+<P>Swan, G.A. 1963. 
+Chemical structure of melanins. 
+Ann. N.Y. Acad. Sci. <B>100:</B> 1005-1019.
+<!-- 13979608 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13979608" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-103"></A>
+<P>Takeuchi, T. 1964. 
+Pigment spread from mouse melanoma into albino skin. 
+Amer. Zool. <B>4:</B> 322-323.
+
+
+<A NAME="ref21-104"></A>
+<P>Wallace, M.E. 1954. 
+A mutation or a crossover in the house mouse? 
+Heredity <B>8:</B> 89-105.
+
+
+<A NAME="ref21-105"></A>
+<P>Wilde, C.E., Jr. 1955. 
+The role of phenylalanine in the differentiation of neural crest cells. 
+Ann. N.Y. Acad. Sci <B>60:</B> 1015-1025.
+<!-- 13249290 -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/ncbi_abstract_url.html'-->13249290" target="_blank">PubMed</A>.</I>
+
+<A NAME="ref21-106"></A>
+<P>Wolfe, H.G. 1963. 
+Two unusual mutations affecting pigmentation in the mouse, p. 251. 
+<I>In</I> S.J. Geerts [ed.] <I>Proc. XI Int. Congr. Genet. Vol. 1</I>. Pergamon Press, New York. (Abstr.)
+<!-- MGI:2676633 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:2676633" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-107"></A>
+<P>Wolfe, H.G., and D.L. Coleman. 1964. 
+Mi-spotted, a mutation in the mouse. 
+Genet. Res. <B>5:</B> 432-440.
+<!-- MGI:61160 pmed -->
+<BR><I>See also 
+<A HREF="<!--#include file='include/fewi_url.html'-->accession/MGI:61160" target="_blank">MGI</A></I>.
+
+<A NAME="ref21-108"></A>
+<P>Wright, S. 1917. 
+Color inheritance in mammals. II. The mouse. 
+J. Hered. <B>8:</B> 373-378.
+
+
+<CENTER>
+<TABLE>
+<TR>
+<TD><A HREF="chapter20.shtml">Previous</A></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="chapter22.shtml">Next</A></TD>
+</TR>
+</TABLE>
+</CENTER>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+
+</body>
+</html>
